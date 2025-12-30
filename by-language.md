@@ -155,6 +155,8 @@
 
 ## Go 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [zrepl/zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution
 - [mautrix/signal](https://github.com/mautrix/signal) - A Matrix-Signal puppeting bridge
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
 - [element-hq/lk-jwt-service](https://github.com/element-hq/lk-jwt-service) - Minimal service to issue LiveKit JWTs for MatrixRTC
@@ -325,6 +327,7 @@
 
 ## HTML 
 
+- [permissionlesstech/georelays](https://github.com/permissionlesstech/georelays) - a collection of nostr relays and their estimated locations
 - [matrix-org/matrix-spec](https://github.com/matrix-org/matrix-spec) - The Matrix protocol specification
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [grafana/xk6-dashboard](https://github.com/grafana/xk6-dashboard) - A k6 extension that makes k6 metrics available on a web-based dashboard.
@@ -347,6 +350,7 @@
 
 ## Java 
 
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [ConfigHubPub/Database-Manager](https://github.com/ConfigHubPub/Database-Manager) - Manage ConfigHub database migration to the latest version
 - [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
@@ -359,6 +363,8 @@
 
 ## JavaScript 
 
+- [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
+- [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
 - [rabbitmq/rabbitmq-website](https://github.com/rabbitmq/rabbitmq-website) - RabbitMQ website
 - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -397,6 +403,7 @@
 
 ## Kotlin 
 
+- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 - [twofas/2fas-pass-android](https://github.com/twofas/2fas-pass-android) - Source code for 2FAS Pass Android app
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
@@ -579,6 +586,7 @@
 
 ## PHP 
 
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [facebook/open-graph-protocol](https://github.com/facebook/open-graph-protocol) - 
@@ -596,6 +604,11 @@
 
 ## Python 
 
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [niedakh/pqdm](https://github.com/niedakh/pqdm) - Comfortable parallel TQDM using concurrent.futures
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
+- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to u
 - [uber-research/CRISP](https://github.com/uber-research/CRISP) - 
@@ -681,6 +694,12 @@
 
 ## Rust 
 
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
+- [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+- [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [alloy-rs/alloy](https://github.com/alloy-rs/alloy) - Transports, Middleware, and Networks for the Alloy project
 - [matrix-org/vodozemac](https://github.com/matrix-org/vodozemac) - An implementation of Olm and Megolm in pure Rust.
 - [matrix-org/matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust
 - [rumpelsepp/mnotify](https://github.com/rumpelsepp/mnotify) - A matrix cli client
@@ -833,12 +852,14 @@
 
 ## Swift 
 
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [olvid-io/olvid-ios](https://github.com/olvid-io/olvid-ios) - Olvid client application for iOS
 - [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) - Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk.
 - [threema-ch/threema-ios](https://github.com/threema-ch/threema-ios) - Threema App for iOS.
 
 ## TypeScript 
 
+- [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) - A glossy Matrix collaboration client for desktop.
 - [element-hq/aurora](https://github.com/element-hq/aurora) - matrix-rust-sdk + WASM = EXW/D?
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app

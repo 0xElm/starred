@@ -337,6 +337,9 @@
 
 ## Haskell 
 
+- [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
+- [jeffwheeler/Recipes](https://github.com/jeffwheeler/Recipes) - Parse and play with recipes written in a simple DSL, using Haskell
+- [jeffwheeler/hsparql](https://github.com/jeffwheeler/hsparql) - hsparql includes a DSL to easily create queries, as well as methods to submit those queries to a SPARQL server, returning the results as simple Haskell data structures.
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [hadolint/language-docker](https://github.com/hadolint/language-docker) - Haskell Dockerfile parser, pretty-printer and EDSL
@@ -363,6 +366,16 @@
 
 ## JavaScript 
 
+- [chhoumann/Templater_Templates](https://github.com/chhoumann/Templater_Templates) - My templates for the Templater Obsidian.md plugin.
+- [chhoumann/DemoVault](https://github.com/chhoumann/DemoVault) - Demo vault for Obsidian stuff by Christian.
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [conventional-changelog/releaser-tools](https://github.com/conventional-changelog/releaser-tools) - Create a GitHub/GitLab/etc. release using a project's commit messages and metadata.
+- [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) - A commitizen adapter for the angular preset of https://github.com/conventional-changelog/conventional-changelog
+- [commitizen/conventional-commit-types](https://github.com/commitizen/conventional-commit-types) - List of conventional commit types.
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+- [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
 - [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
 - [rabbitmq/rabbitmq-website](https://github.com/rabbitmq/rabbitmq-website) - RabbitMQ website
@@ -411,6 +424,7 @@
 
 ## Lua 
 
+- [chhoumann/dotfiles](https://github.com/chhoumann/dotfiles) - Christian's dotfiles.
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
 - [element-hq/jitsi-helm](https://github.com/element-hq/jitsi-helm) - Helm chart for HA Jitsi-meet
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
@@ -555,6 +569,8 @@
 
 ## Others 
 
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+- [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [alpinenetworks/.github](https://github.com/alpinenetworks/.github) - 
 - [Y-Digital/semantic-modeling-tools](https://github.com/Y-Digital/semantic-modeling-tools) - An opinionated list of practical tools for Conceptual Modeling and Linked Data
 - [zupo/awesome-pytest-speedup](https://github.com/zupo/awesome-pytest-speedup) - A collection of tips, tricks and links to help you speed up your pytest suite.
@@ -594,16 +610,35 @@
 
 ## PLpgSQL 
 
+- [gerdemb/beanpost](https://github.com/gerdemb/beanpost) - An experiment in using PostgreSQL for accounting
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 
 ## Perl 
 
+- [beancount/ledger2beancount](https://github.com/beancount/ledger2beancount) - Ledger to Beancount text-based converter
 - [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)
 - [timebug/lua-resty-redis-ratelimit](https://github.com/timebug/lua-resty-redis-ratelimit) - Limit the request processing rate between multiple NGINX instances backed by Redis
 
 ## Python 
 
+- [beancount/beanlabs](https://github.com/beancount/beanlabs) - Experimental Beancount projects and prototypes
+- [beancount/beanquery](https://github.com/beancount/beanquery) - A customizable lightweight SQL query tool that works on tabular data, including Beancount.
+- [beancount/beangulp](https://github.com/beancount/beangulp) - Importers framework for Beancount
+- [beancount/beancount2ledger](https://github.com/beancount/beancount2ledger) - A converter from Beancount to equivalent Ledger syntax.
+- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
+- [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
+- [beancount/smart_importer](https://github.com/beancount/smart_importer) - Augment Beancount importers with machine learning functionality.
+- [beancount/beanprice](https://github.com/beancount/beanprice) - Daily price quotes fetching library for plain-text accounting
+- [LaunchPlatform/beanhub-extract](https://github.com/LaunchPlatform/beanhub-extract) - The simple library for extracting all kind of bank account transaction export files, mostly for beanhub-import to ingest and generate transactions
+- [glasserc/ledger-to-beancount](https://github.com/glasserc/ledger-to-beancount) - Another Ledger to Beancount converter
+- [jbms/finance-dl](https://github.com/jbms/finance-dl) - Tools for automatically downloading/scraping personal financial data.
+- [jbms/beancount-import](https://github.com/jbms/beancount-import) - Web UI for semi-automatically importing external data into beancount
+- [andreasgerstmayr/fava-portfolio-returns](https://github.com/andreasgerstmayr/fava-portfolio-returns) - fava-portfolio-returns shows portfolio returns in Fava
+- [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
+- [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [niedakh/pqdm](https://github.com/niedakh/pqdm) - Comfortable parallel TQDM using concurrent.futures
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
@@ -694,6 +729,7 @@
 
 ## Rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
@@ -810,6 +846,7 @@
 
 ## SCSS 
 
+- [semver/semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
 - [StefMa/hugo-fresh](https://github.com/StefMa/hugo-fresh) - Hugo Fresh Theme
 
 ## Scala 
@@ -818,6 +855,8 @@
 
 ## Shell 
 
+- [chhoumann/claude-hooks](https://github.com/chhoumann/claude-hooks) - 
+- [chhoumann/claude-code-monitoring](https://github.com/chhoumann/claude-code-monitoring) - Local monitoring solution for Claude Code usage metrics with Prometheus and Grafana
 - [element-hq/tailscale-k8s](https://github.com/element-hq/tailscale-k8s) - 
 - [mdegat01/addon-loki](https://github.com/mdegat01/addon-loki) - Loki for Home Assistant
 - [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail) - Promtail for Home Assistant
@@ -859,6 +898,18 @@
 
 ## TypeScript 
 
+- [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
+- [chhoumann/bunnai](https://github.com/chhoumann/bunnai) - cli to inject ai-generated commit messages into lazygit
+- [chhoumann/auralite](https://github.com/chhoumann/auralite) - AI assistant for Obsidian. Create notes by voice, transcribe speech, and write with AI. Seamlessly integrates with your vault to enhance note-taking and knowledge management.
+- [chhoumann/PodNotes](https://github.com/chhoumann/PodNotes) - PodNotes is a plugin for Obsidian that helps the user write notes on podcasts.
+- [chhoumann/grokking-algorithms](https://github.com/chhoumann/grokking-algorithms) - 
+- [chhoumann/claude-github-triage](https://github.com/chhoumann/claude-github-triage) - 
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+- [andreasgerstmayr/fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards) - Custom Dashboards for Beancount in Fava
+- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
+- [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
+- [eva-design/eva](https://github.com/eva-design/eva) - :dizzy:Customizable Design System easily adaptable to your Brand.
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) - A glossy Matrix collaboration client for desktop.
 - [element-hq/aurora](https://github.com/element-hq/aurora) - matrix-rust-sdk + WASM = EXW/D?

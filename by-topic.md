@@ -183,6 +183,7 @@
 
 ## ai 
 
+- [chhoumann/bunnai](https://github.com/chhoumann/bunnai) - cli to inject ai-generated commit messages into lazygit
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [b0o/whispertool](https://github.com/b0o/whispertool) - 🗣️ voice recording and transcription tool built on whisper.cpp
@@ -210,6 +211,7 @@
 
 ## android 
 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
@@ -340,6 +342,7 @@
 
 ## cli 
 
+- [chhoumann/bunnai](https://github.com/chhoumann/bunnai) - cli to inject ai-generated commit messages into lazygit
 - [rumpelsepp/mnotify](https://github.com/rumpelsepp/mnotify) - A matrix cli client
 - [rabbitmq/rabbitmqadmin-ng](https://github.com/rabbitmq/rabbitmqadmin-ng) - A command line tool for RabbitMQ that uses the HTTP API
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -631,6 +634,7 @@
 
 ## generative-ai 
 
+- [chhoumann/auralite](https://github.com/chhoumann/auralite) - AI assistant for Obsidian. Create notes by voice, transcribe speech, and write with AI. Seamlessly integrates with your vault to enhance note-taking and knowledge management.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 
@@ -1030,6 +1034,7 @@
 
 ## linux 
 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [cyphar/libpathrs](https://github.com/cyphar/libpathrs) - C-friendly API to make path resolution safer on Linux.
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [b0o/whispertool](https://github.com/b0o/whispertool) - 🗣️ voice recording and transcription tool built on whisper.cpp
@@ -1201,6 +1206,7 @@
 
 ## obsidian 
 
+- [chhoumann/auralite](https://github.com/chhoumann/auralite) - AI assistant for Obsidian. Create notes by voice, transcribe speech, and write with AI. Seamlessly integrates with your vault to enhance note-taking and knowledge management.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [chhoumann/PodNotes](https://github.com/chhoumann/PodNotes) - PodNotes is a plugin for Obsidian that helps the user write notes on podcasts.
 
@@ -1211,6 +1217,7 @@
 
 ## obsidian-plugin 
 
+- [chhoumann/auralite](https://github.com/chhoumann/auralite) - AI assistant for Obsidian. Create notes by voice, transcribe speech, and write with AI. Seamlessly integrates with your vault to enhance note-taking and knowledge management.
 - [chhoumann/PodNotes](https://github.com/chhoumann/PodNotes) - PodNotes is a plugin for Obsidian that helps the user write notes on podcasts.
 
 ## open-source 
@@ -1228,6 +1235,11 @@
 
 ## others 
 
+- [beancount/beanlabs](https://github.com/beancount/beanlabs) - Experimental Beancount projects and prototypes
+- [beancount/beanquery](https://github.com/beancount/beanquery) - A customizable lightweight SQL query tool that works on tabular data, including Beancount.
+- [beancount/beangulp](https://github.com/beancount/beangulp) - Importers framework for Beancount
+- [beancount/beancount2ledger](https://github.com/beancount/beancount2ledger) - A converter from Beancount to equivalent Ledger syntax.
+- [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
 - [chhoumann/claude-hooks](https://github.com/chhoumann/claude-hooks) - 
 - [chhoumann/Templater_Templates](https://github.com/chhoumann/Templater_Templates) - My templates for the Templater Obsidian.md plugin.
 - [chhoumann/grokking-algorithms](https://github.com/chhoumann/grokking-algorithms) - 

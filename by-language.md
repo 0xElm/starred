@@ -622,6 +622,7 @@
 
 ## Python 
 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [beancount/beanlabs](https://github.com/beancount/beanlabs) - Experimental Beancount projects and prototypes
 - [beancount/beanquery](https://github.com/beancount/beanquery) - A customizable lightweight SQL query tool that works on tabular data, including Beancount.
 - [beancount/beangulp](https://github.com/beancount/beangulp) - Importers framework for Beancount

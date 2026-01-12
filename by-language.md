@@ -520,7 +520,7 @@
 - [Michael-C-Buckley/nix-microvm](https://github.com/Michael-C-Buckley/nix-microvm) - Testing flake for microvm.nix instances
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
-- [numinit/flack](https://github.com/numinit/flack) - Write web applications using your favorite reproducible configuration language.
+- [numinit/flack](https://github.com/numinit/flack) - A web router backed by the Nix Rust API, inspired by Flask, Rack, Express, and Sinatra
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [DeterminateSystems/nix-to-kubernetes](https://github.com/DeterminateSystems/nix-to-kubernetes) - An example of deploying Nix-built Docker images to Kubernetes
 - [DeterminateSystems/nixos-vault-service](https://github.com/DeterminateSystems/nixos-vault-service) - 
@@ -586,8 +586,9 @@
 
 ## Others 
 
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [joeduffy/system-prompts](https://github.com/joeduffy/system-prompts) - A collection of interesting system prompts
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Claude Skills for Obsidian
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian
 - [team-telnyx/openapi](https://github.com/team-telnyx/openapi) - OpenAPI specification for the Telnyx API
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification

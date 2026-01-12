@@ -175,6 +175,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [vagrant](#vagrant)
+- [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
 - [vpn](#vpn)
@@ -618,7 +619,7 @@
 
 ## express 
 
-- [numinit/flack](https://github.com/numinit/flack) - Write web applications using your favorite reproducible configuration language.
+- [numinit/flack](https://github.com/numinit/flack) - A web router backed by the Nix Rust API, inspired by Flask, Rack, Express, and Sinatra
 
 ## facebook 
 
@@ -667,6 +668,7 @@
 
 ## git 
 
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
@@ -1258,6 +1260,7 @@
 
 ## obsidian 
 
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian
 - [chhoumann/auralite](https://github.com/chhoumann/auralite) - AI assistant for Obsidian. Create notes by voice, transcribe speech, and write with AI. Seamlessly integrates with your vault to enhance note-taking and knowledge management.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [chhoumann/PodNotes](https://github.com/chhoumann/PodNotes) - PodNotes is a plugin for Obsidian that helps the user write notes on podcasts.
@@ -1291,7 +1294,6 @@
 
 - [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [joeduffy/system-prompts](https://github.com/joeduffy/system-prompts) - A collection of interesting system prompts
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Claude Skills for Obsidian
 - [Tmonster/db-benchmark](https://github.com/Tmonster/db-benchmark) - reproducible benchmark of database-like ops
 - [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 - [aws-samples/s3-fast-list](https://github.com/aws-samples/s3-fast-list) - Concurrently list Amazon S3 bucket
@@ -2166,6 +2168,12 @@
 ## vagrant 
 
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
+
+## video 
+
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
+- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
+- [pion/rtp](https://github.com/pion/rtp) - A Go implementation of RTP
 
 ## vim 
 

@@ -16,6 +16,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -159,8 +160,14 @@
 - [elm/core](https://github.com/elm/core) - Elm's core libraries
 - [evancz/guide.elm-lang.org](https://github.com/evancz/guide.elm-lang.org) - My book introducing you to Elm!
 
+## Fluent 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+
 ## Go 
 
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [meshery/meshkit](https://github.com/meshery/meshkit) - Common microservices framework for Meshery components
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [team-telnyx/telnyx-go](https://github.com/team-telnyx/telnyx-go) - Go SDK for the Telnyx API
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
@@ -335,6 +342,7 @@
 
 ## HTML 
 
+- [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
 - [openstreetmap/help-website](https://github.com/openstreetmap/help-website) - help-website static site built with hugo from OQSA export
 - [permissionlesstech/georelays](https://github.com/permissionlesstech/georelays) - a collection of nostr relays and their estimated locations
 - [matrix-org/matrix-spec](https://github.com/matrix-org/matrix-spec) - The Matrix protocol specification
@@ -376,6 +384,9 @@
 
 ## JavaScript 
 
+- [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
+- [meshery/meshery.io](https://github.com/meshery/meshery.io) - Website for Meshery
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [openstreetmap/dns](https://github.com/openstreetmap/dns) - OpenStreetMap DNS
@@ -411,7 +422,6 @@
 - [One-com/teepee](https://github.com/One-com/teepee) - Generic HTTP client
 - [One-com/node-httperrors](https://github.com/One-com/node-httperrors) - Handy JavaScript Error classes representing the standard HTTP errors. Easily extensible and subclassable.
 - [One-com/one-validation](https://github.com/One-com/one-validation) - Regexp based validation collection for common internet validation tasks
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -769,6 +779,7 @@
 
 ## Rust 
 
+- [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [proxmox/proxmox-rs](https://github.com/proxmox/proxmox-rs) - Proxmox Common Rust Crates
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [aws-samples/s3-fast-list](https://github.com/aws-samples/s3-fast-list) - Concurrently list Amazon S3 bucket
@@ -944,7 +955,7 @@
 ## TypeScript 
 
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for LLMs - masks PII before upstream or routes to local LLM. OpenAI API compatible.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for LLMs - masks PII and secrets before upstream or routes to local LLM. OpenAI API compatible.
 - [marcj/bitcoin.ts](https://github.com/marcj/bitcoin.ts) - Typescript implementation of a Cryptocurrency inspired by the Bitcoin blockchain.
 - [marcj/clangd-mcp-server](https://github.com/marcj/clangd-mcp-server) - Experimental implementation of a MCP for Claude Code that lets it connect to a language server like clangd.
 - [team-telnyx/telnyx-rtc-sipjs](https://github.com/team-telnyx/telnyx-rtc-sipjs) - Telnyx JavaScript library for building WebRTC apps with SIP.js

@@ -16,7 +16,6 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
-- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -159,10 +158,6 @@
 
 - [elm/core](https://github.com/elm/core) - Elm's core libraries
 - [evancz/guide.elm-lang.org](https://github.com/evancz/guide.elm-lang.org) - My book introducing you to Elm!
-
-## Fluent 
-
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 ## Go 
 
@@ -422,6 +417,7 @@
 - [One-com/teepee](https://github.com/One-com/teepee) - Generic HTTP client
 - [One-com/node-httperrors](https://github.com/One-com/node-httperrors) - Handy JavaScript Error classes representing the standard HTTP errors. Easily extensible and subclassable.
 - [One-com/one-validation](https://github.com/One-com/one-validation) - Regexp based validation collection for common internet validation tasks
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -779,6 +775,7 @@
 
 ## Rust 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [proxmox/proxmox-rs](https://github.com/proxmox/proxmox-rs) - Proxmox Common Rust Crates
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.

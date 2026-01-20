@@ -17,6 +17,7 @@
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -161,9 +162,11 @@
 
 ## Go 
 
+- [layer5io/getnighthawk](https://github.com/layer5io/getnighthawk) - Putting Nighthawk into the hands of many
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [meshery/meshkit](https://github.com/meshery/meshkit) - Common microservices framework for Meshery components
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [team-telnyx/telnyx-go](https://github.com/team-telnyx/telnyx-go) - Go SDK for the Telnyx API
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
@@ -336,6 +339,10 @@
 - [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 
+## Go Template 
+
+- [neticdk/k8s-oaas-observability](https://github.com/neticdk/k8s-oaas-observability) - Observability (logs, metrics, and traces) stack for Kubernetes.
+
 ## HTML 
 
 - [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
@@ -382,7 +389,6 @@
 
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [meshery/meshery.io](https://github.com/meshery/meshery.io) - Website for Meshery
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [openstreetmap/dns](https://github.com/openstreetmap/dns) - OpenStreetMap DNS
@@ -507,6 +513,7 @@
 
 ## Makefile 
 
+- [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance) - Standardizing Cloud Native Value Measurement
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [lukebakken/rabbitmq](https://github.com/lukebakken/rabbitmq) - RabbitMQ Q&A and code samples
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
@@ -931,7 +938,6 @@
 ## Smarty 
 
 - [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) - 
-- [neticdk/k8s-oaas-observability](https://github.com/neticdk/k8s-oaas-observability) - Observability (logs, metrics, and traces) stack for Kubernetes.
 
 ## Starlark 
 
@@ -963,7 +969,7 @@
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [radarlabs/airport-map-demo](https://github.com/radarlabs/airport-map-demo) - Demo for drawing arcs with Radar maps
 - [radarlabs/react-native-radar](https://github.com/radarlabs/react-native-radar) - React Native module for Radar, the leading geofencing and location tracking platform
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [stripe/stripe-node](https://github.com/stripe/stripe-node) - Node.js library for the Stripe API.
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
 - [chhoumann/bunnai](https://github.com/chhoumann/bunnai) - cli to inject ai-generated commit messages into lazygit

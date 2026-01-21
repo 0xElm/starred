@@ -62,6 +62,7 @@
 
 ## C 
 
+- [DavidVentura/ebpf.party](https://github.com/DavidVentura/ebpf.party) - Code for ebpf.party
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -958,8 +959,9 @@
 
 ## TypeScript 
 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for LLMs - masks PII and secrets before upstream or routes to local LLM. OpenAI API compatible.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for OpenAI and Anthropic - masks PII and secrets before they reach the API, or routes to local LLM.
 - [marcj/bitcoin.ts](https://github.com/marcj/bitcoin.ts) - Typescript implementation of a Cryptocurrency inspired by the Bitcoin blockchain.
 - [marcj/clangd-mcp-server](https://github.com/marcj/clangd-mcp-server) - Experimental implementation of a MCP for Claude Code that lets it connect to a language server like clangd.
 - [team-telnyx/telnyx-rtc-sipjs](https://github.com/team-telnyx/telnyx-rtc-sipjs) - Telnyx JavaScript library for building WebRTC apps with SIP.js

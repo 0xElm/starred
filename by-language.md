@@ -392,6 +392,7 @@
 
 ## JavaScript 
 
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [percona/pmm-ui-tests](https://github.com/percona/pmm-ui-tests) - PMM UI end-to-end tests
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [meshery/meshery.io](https://github.com/meshery/meshery.io) - Website for Meshery
@@ -667,6 +668,7 @@
 
 ## Python 
 
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Open Source Semantic Layer & Knowledge Engineering Framework
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [barrust/pyspellchecker](https://github.com/barrust/pyspellchecker) - Pure Python Spell Checking http://pyspellchecker.readthedocs.io/en/latest/
@@ -823,7 +825,7 @@
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
-- [Distracted-E421/nixos-cursor](https://github.com/Distracted-E421/nixos-cursor) - A modern, flexible implementation of a more Nix native Cursor IDE experience
+- [Distracted-E421/nixos-cursor](https://github.com/Distracted-E421/nixos-cursor) - A modern, flexible implementation Cursor IDE for NixOS, with the addition of "inline" dialog, security, chat data management, and more.
 - [514-labs/moosestack](https://github.com/514-labs/moosestack) - The developer framework for building analytics into your app on top of ClickHouse, Redpanda and other high-performance analytical infrastructure
 - [DeterminateSystems/riff](https://github.com/DeterminateSystems/riff) - Riff automatically provides external dependencies for Rust projects, with support for other languages coming soon.
 - [DeterminateSystems/bootspec-secureboot](https://github.com/DeterminateSystems/bootspec-secureboot) - 

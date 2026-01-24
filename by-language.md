@@ -397,7 +397,7 @@
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [meshery/meshery.io](https://github.com/meshery/meshery.io) - Website for Meshery
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
-- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [openstreetmap/dns](https://github.com/openstreetmap/dns) - OpenStreetMap DNS
 - [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema) - 🆔🏷 The presets and other tagging data used by the iD editor
 - [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
@@ -1005,7 +1005,7 @@
 - [immich-app/data.immich.app](https://github.com/immich-app/data.immich.app) - Graphs and charts for Immich data
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Composable framework to build (advanced) applications with flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Composable framework to build advanced applications with flexibility and stability.
 - [DeterminateSystems/flakehub-mirror](https://github.com/DeterminateSystems/flakehub-mirror) - 
 - [DeterminateSystems/ui](https://github.com/DeterminateSystems/ui) - Determinate Systems' design system
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.

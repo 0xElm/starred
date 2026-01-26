@@ -560,6 +560,7 @@
 
 ## devops 
 
+- [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
@@ -623,9 +624,9 @@
 
 ## documentation 
 
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [rabbitmq/rabbitmq-website](https://github.com/rabbitmq/rabbitmq-website) - RabbitMQ website
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [NixOS/nix-book](https://github.com/NixOS/nix-book) - Nix documentation – centralized community online learning resource for Nix
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -784,6 +785,7 @@
 
 ## golang 
 
+- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [meshery/meshkit](https://github.com/meshery/meshkit) - Common microservices framework for Meshery components
@@ -943,6 +945,8 @@
 
 ## haskell 
 
+- [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell
+- [dmjio/envy](https://github.com/dmjio/envy) - :angry: Environmentally friendly environment variables
 - [tweag/sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark.
 - [tweag/pup](https://github.com/tweag/pup) - Bidirectional grammar combinators
 - [IntersectMBO/ouroboros-network](https://github.com/IntersectMBO/ouroboros-network) - Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
@@ -1225,6 +1229,7 @@
 
 ## markdown 
 
+- [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
@@ -1298,6 +1303,7 @@
 
 ## neovim 
 
+- [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) - Diagrams as code in Neovim.
 - [NotAShelf/direnv.nvim](https://github.com/NotAShelf/direnv.nvim) - Lua implementation of direnv.vim for automatic .envrc handling & syntax.
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
@@ -1390,11 +1396,34 @@
 
 ## others 
 
+- [whispem/mini-kvstore-go](https://github.com/whispem/mini-kvstore-go) - Key-value store in Go with segmented logs, compaction, bloom filters & HTTP API
+- [whispem/minikv](https://github.com/whispem/minikv) - A production-ready distributed key-value store with Raft consensus.
+- [w3c/webauthn](https://github.com/w3c/webauthn) - Web Authentication: An API for accessing Public Key Credentials
+- [tweag/attoparsec](https://github.com/tweag/attoparsec) - A fast Haskell library for parsing ByteStrings
+- [tweag/nix-unit-testing](https://github.com/tweag/nix-unit-testing) - A showcase of different unit testing frameworks for Nix.
+- [tweag/nixos-specialisation-dual-boot](https://github.com/tweag/nixos-specialisation-dual-boot) - 
+- [tweag/std](https://github.com/tweag/std) - The Nix Flakes framework for perfectionists with deadlines [maintainer=@blaggacao]
+- [tweag/ponyrep](https://github.com/tweag/ponyrep) - Generate daily activity reports of any GitHub project
+- [tweag/pythonix](https://github.com/tweag/pythonix) - Eval nix code from python
+- [tweag/bazel-workshop](https://github.com/tweag/bazel-workshop) - Bazel Introduciton Workshop using C++ and Rust
+- [tweag/epcb](https://github.com/tweag/epcb) - Nix RFC draft on evaluation purity and caching builtins
+- [tweag/python-nix-flake-template](https://github.com/tweag/python-nix-flake-template) - Bootstrap a reproducible yet flexible Python development environment using Nix
+- [tweag/kernmantle](https://github.com/tweag/kernmantle) - Braiding extensible effects together in a pipeline/workflow of tasks
+- [nixcon/NixConContent](https://github.com/nixcon/NixConContent) - A collection of all the content from NixCon Paris 2022 and beyond
+- [tweag/nixpkgs-graph-explorer](https://github.com/tweag/nixpkgs-graph-explorer) - Explore the nixpkgs dependency graph
+- [tweag/formik-apollo](https://github.com/tweag/formik-apollo) - A little bit of for using Formik with Apollo
+- [tweag/haddock](https://github.com/tweag/haddock) - Haskell Documentation Tool
+- [tweag/nix-marp](https://github.com/tweag/nix-marp) - Run Marp tools via Nix
+- [tweag/distributed-closure](https://github.com/tweag/distributed-closure) - Serializable closures for distributed programming.
+- [tweag/haskell-stack-nix-example](https://github.com/tweag/haskell-stack-nix-example) - Examples of valid and invalid Stack + Nix integration
+- [tweag/ssh-participation](https://github.com/tweag/ssh-participation) - An ssh server that creates new users on-the-fly, great for letting users participate in a demo
+- [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
+- [tweag/python-nix](https://github.com/tweag/python-nix) - Python-Nix FFI library using the new C API
+- [tweag/funflow](https://github.com/tweag/funflow) - Functional workflows
 - [tweag/inputs](https://github.com/tweag/inputs) - Utilities for building forms with React
 - [tweag/nixpkgs-graph](https://github.com/tweag/nixpkgs-graph) - Generate a graph from nixpkgs
 - [tweag/screener](https://github.com/tweag/screener) - Tool that takes screenshots of a website over a number of devices
 - [tweag/clodl](https://github.com/tweag/clodl) - Turn dynamically linked ELF binaries and libraries into self-contained closures.
-- [tweag/treefmt-1](https://github.com/tweag/treefmt-1) - one CLI to format your repo
 - [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
 - [buildbarn/bb-deployments](https://github.com/buildbarn/bb-deployments) - Example deployments of Buildbarn on various platforms
 - [tweag/bb-deployments](https://github.com/tweag/bb-deployments) - Example deployments of Buildbarn on various platforms
@@ -1947,6 +1976,7 @@
 
 ## python 
 
+- [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [CycloneDX/cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) - CycloneDX Software Bill of Materials (SBOM) generator for Python projects and environments
@@ -2080,6 +2110,8 @@
 
 ## rust 
 
+- [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - rebuild only changed crates in CI with crate2nix and nix
+- [cargo2nix/cargo2nix](https://github.com/cargo2nix/cargo2nix) - Granular builds of Rust projects for Nix
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [CycloneDX/cyclonedx-rust-cargo](https://github.com/CycloneDX/cyclonedx-rust-cargo) - Creates CycloneDX Software Bill of Materials (SBOM) from Rust (Cargo) projects
@@ -2302,6 +2334,8 @@
 
 ## testing 
 
+- [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
+- [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.

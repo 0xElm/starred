@@ -7,7 +7,9 @@
 
 - [Awk](#awk)
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CodeQL](#codeql)
@@ -29,6 +31,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [MoonScript](#moonscript)
+- [NCL](#ncl)
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -37,6 +40,7 @@
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
+- [PureScript](#purescript)
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
@@ -51,6 +55,7 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [XSLT](#xslt)
 - [Zig](#zig)
 - [reStructuredText](#restructuredtext)
 
@@ -93,8 +98,13 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [signalapp/Signal-Pods](https://github.com/signalapp/Signal-Pods) - Pods dependency tracker for Signal-iOS
 
+## C# # 
+
+- [CycloneDX/cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli) - CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions.
+
 ## C++ 
 
+- [tweag/pythonix](https://github.com/tweag/pythonix) - Eval nix code from python
 - [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [radarlabs/node-ip2location](https://github.com/radarlabs/node-ip2location) - Node.js addon module for IP2Location
@@ -111,6 +121,10 @@
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [threema-ch/better-sqlcipher](https://github.com/threema-ch/better-sqlcipher) - A fork of better-sqlite3 with support for sqlcipher
+
+## CMake 
+
+- [dorranh/clickhouse-sql](https://github.com/dorranh/clickhouse-sql) - Python bindings to the ClickHouse native SQL parser
 
 ## CSS 
 
@@ -157,6 +171,13 @@
 
 ## Go 
 
+- [whispem/mini-kvstore-go](https://github.com/whispem/mini-kvstore-go) - Key-value store in Go with segmented logs, compaction, bloom filters & HTTP API
+- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
+- [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
+- [CycloneDX/sbom-utility](https://github.com/CycloneDX/sbom-utility) - Utility that provides an API platform for validating, querying and managing BOM data
+- [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is a Kubernetes distribution for confidential computing, securing entire clusters on untrusted infrastructure.  Constellation is in maintenance mode. New development continues in Contras
+- [edgelesssys/contrast](https://github.com/edgelesssys/contrast) - Deploy and manage confidential containers on Kubernetes
+- [tweag/credential-helper](https://github.com/tweag/credential-helper) - A credential-helper framework and agent for Bazel and similar tools implementing the credential-helper spec.
 - [prometheus-community/prometheus-playground](https://github.com/prometheus-community/prometheus-playground) - Turnkey sandbox projects demonstrating a wide variety of Prometheus use cases
 - [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter) - Prometheus exporter that mines /proc to report on selected processes
 - [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) - Exporter for systemd unit metrics
@@ -348,6 +369,9 @@
 
 ## HTML 
 
+- [w3c/webauthn](https://github.com/w3c/webauthn) - Web Authentication: An API for accessing Public Key Credentials
+- [tweag/haddock](https://github.com/tweag/haddock) - Haskell Documentation Tool
+- [CycloneDX/cyclonedx-web-tool](https://github.com/CycloneDX/cyclonedx-web-tool) - A web based tool for working with CycloneDX BOMs
 - [percona/postgresql-docs](https://github.com/percona/postgresql-docs) - Percona Distribution for PostgreSQL
 - [percona/pgsm-docs](https://github.com/percona/pgsm-docs) - pg_stat_monitor for PostgreSQL
 - [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
@@ -362,6 +386,19 @@
 
 ## Haskell 
 
+- [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell
+- [tweag/attoparsec](https://github.com/tweag/attoparsec) - A fast Haskell library for parsing ByteStrings
+- [dmjio/envy](https://github.com/dmjio/envy) - :angry: Environmentally friendly environment variables
+- [tweag/kernmantle](https://github.com/tweag/kernmantle) - Braiding extensible effects together in a pipeline/workflow of tasks
+- [tweag/distributed-closure](https://github.com/tweag/distributed-closure) - Serializable closures for distributed programming.
+- [tweag/funflow](https://github.com/tweag/funflow) - Functional workflows
+- [tweag/timestats](https://github.com/tweag/timestats) - A library to profile time in a Haskell program
+- [tweag/sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark.
+- [tweag/pup](https://github.com/tweag/pup) - Bidirectional grammar combinators
+- [IntersectMBO/ouroboros-network](https://github.com/IntersectMBO/ouroboros-network) - Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
+- [tweag/webauthn](https://github.com/tweag/webauthn) - A library for parsing and validating webauthn/fido2 credentials
+- [tweag/foliage](https://github.com/tweag/foliage) - 🌿 Foliage is a tool to create custom Haskell package repositories, in a fully reproducible way.
+- [IntersectMBO/cardano-ledger](https://github.com/IntersectMBO/cardano-ledger) - The ledger implementation and specifications of the Cardano blockchain.
 - [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
 - [jeffwheeler/Recipes](https://github.com/jeffwheeler/Recipes) - Parse and play with recipes written in a simple DSL, using Haskell
 - [jeffwheeler/hsparql](https://github.com/jeffwheeler/hsparql) - hsparql includes a DSL to easily create queries, as well as methods to submit those queries to a SPARQL server, returning the results as simple Haskell data structures.
@@ -392,6 +429,7 @@
 
 ## JavaScript 
 
+- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [percona/pmm-ui-tests](https://github.com/percona/pmm-ui-tests) - PMM UI end-to-end tests
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
@@ -440,6 +478,7 @@
 
 ## Jsonnet 
 
+- [buildbarn/bb-deployments](https://github.com/buildbarn/bb-deployments) - Example deployments of Buildbarn on various platforms
 - [grafana/tns](https://github.com/grafana/tns) - Observability Demo App
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins
@@ -460,6 +499,7 @@
 
 ## Lua 
 
+- [dorranh/dotfiles](https://github.com/dorranh/dotfiles) - My dotfiles and related configuration. Use at your own risk.
 - [chhoumann/dotfiles](https://github.com/chhoumann/dotfiles) - Christian's dotfiles.
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
 - [element-hq/jitsi-helm](https://github.com/element-hq/jitsi-helm) - Helm chart for HA Jitsi-meet
@@ -529,21 +569,38 @@
 
 ## Markdown 
 
+- [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 
 ## MoonScript 
 
 - [luarocks/luarocks-site](https://github.com/luarocks/luarocks-site) - LuaRocks website and module host
 
+## NCL 
+
+- [tweag/nickel-kubernetes](https://github.com/tweag/nickel-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Nickel
+
 ## Nix 
 
+- [tweag/nixos-specialisation-dual-boot](https://github.com/tweag/nixos-specialisation-dual-boot) - 
+- [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
+- [tweag/std](https://github.com/tweag/std) - The Nix Flakes framework for perfectionists with deadlines [maintainer=@blaggacao]
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
+- [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - rebuild only changed crates in CI with crate2nix and nix
+- [cargo2nix/cargo2nix](https://github.com/cargo2nix/cargo2nix) - Granular builds of Rust projects for Nix
+- [tweag/python-nix-flake-template](https://github.com/tweag/python-nix-flake-template) - Bootstrap a reproducible yet flexible Python development environment using Nix
+- [tweag/nix-marp](https://github.com/tweag/nix-marp) - Run Marp tools via Nix
+- [tweag/haskell-stack-nix-example](https://github.com/tweag/haskell-stack-nix-example) - Examples of valid and invalid Stack + Nix integration
+- [tweag/ssh-participation](https://github.com/tweag/ssh-participation) - An ssh server that creates new users on-the-fly, great for letting users participate in a demo
+- [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
+- [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
+- [tweag/nixdoc](https://github.com/tweag/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@tazjin,@ryantm]
 - [nix-community/naersk](https://github.com/nix-community/naersk) - Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly.
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [Michael-C-Buckley/nix-microvm](https://github.com/Michael-C-Buckley/nix-microvm) - Testing flake for microvm.nix instances
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [numinit/flack](https://github.com/numinit/flack) - A web router backed by the Nix Rust API, inspired by Flask, Rack, Express, and Sinatra
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [DeterminateSystems/nix-to-kubernetes](https://github.com/DeterminateSystems/nix-to-kubernetes) - An example of deploying Nix-built Docker images to Kubernetes
 - [DeterminateSystems/nixos-vault-service](https://github.com/DeterminateSystems/nixos-vault-service) - 
 - [DeterminateSystems/flake-templates](https://github.com/DeterminateSystems/flake-templates) - Flake templates for Determinate Nix
@@ -608,6 +665,9 @@
 
 ## Others 
 
+- [tweag/epcb](https://github.com/tweag/epcb) - Nix RFC draft on evaluation purity and caching builtins
+- [CycloneDX/bom-examples](https://github.com/CycloneDX/bom-examples) - A repository with examples of CycloneDX BOMs (SBOM, SaaSBOM, OBOM, VEX, etc)
+- [tweag/project](https://github.com/tweag/project) - Use this template when creating a new project.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [joeduffy/system-prompts](https://github.com/joeduffy/system-prompts) - A collection of interesting system prompts
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian
@@ -666,8 +726,24 @@
 - [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)
 - [timebug/lua-resty-redis-ratelimit](https://github.com/timebug/lua-resty-redis-ratelimit) - Limit the request processing rate between multiple NGINX instances backed by Redis
 
+## PureScript 
+
+- [tweag/screener](https://github.com/tweag/screener) - Tool that takes screenshots of a website over a number of devices
+
 ## Python 
 
+- [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
+- [tweag/nix-unit-testing](https://github.com/tweag/nix-unit-testing) - A showcase of different unit testing frameworks for Nix.
+- [tweag/nixpkgs-graph-explorer](https://github.com/tweag/nixpkgs-graph-explorer) - Explore the nixpkgs dependency graph
+- [tweag/python-nix](https://github.com/tweag/python-nix) - Python-Nix FFI library using the new C API
+- [tweag/nixpkgs-graph](https://github.com/tweag/nixpkgs-graph) - Generate a graph from nixpkgs
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+- [tweag/nixplorer](https://github.com/tweag/nixplorer) - An experimental explorer for Nix software dependency graphs
+- [CycloneDX/cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) - CycloneDX Software Bill of Materials (SBOM) generator for Python projects and environments
+- [tweag/pytest-e2e-automation](https://github.com/tweag/pytest-e2e-automation) - 
+- [NixOS/nix-security-tracker](https://github.com/NixOS/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
+- [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
 - [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Open Source Semantic Layer & Knowledge Engineering Framework
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
@@ -793,6 +869,18 @@
 
 ## Rust 
 
+- [whispem/minikv](https://github.com/whispem/minikv) - A production-ready distributed key-value store with Raft consensus.
+- [tweag/ponyrep](https://github.com/tweag/ponyrep) - Generate daily activity reports of any GitHub project
+- [nixcon/NixConContent](https://github.com/nixcon/NixConContent) - A collection of all the content from NixCon Paris 2022 and beyond
+- [tweag/remote-execution-nix](https://github.com/tweag/remote-execution-nix) - nix to bazel-re proxy
+- [tweag/nix-remote-rust](https://github.com/tweag/nix-remote-rust) - 
+- [tweag/nixtract](https://github.com/tweag/nixtract) - A CLI tool to extract the graph of derivations from a Nix flake.
+- [CycloneDX/cyclonedx-rust-cargo](https://github.com/CycloneDX/cyclonedx-rust-cargo) - Creates CycloneDX Software Bill of Materials (SBOM) from Rust (Cargo) projects
+- [tweag/genealogos](https://github.com/tweag/genealogos) - Genealogos, a Nix sbom generator
+- [stepancheg/rust-log-ndc](https://github.com/stepancheg/rust-log-ndc) - log crate extension with NDC-like functionality
+- [stepancheg/rust-tls-api](https://github.com/stepancheg/rust-tls-api) - TLS API for Rust, and API implementations over native-tls and openssl in separate crates
+- [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
+- [tweag/topiary](https://github.com/tweag/topiary) - 
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
@@ -926,6 +1014,8 @@
 
 ## Shell 
 
+- [tweag/agentic-coding-handbook](https://github.com/tweag/agentic-coding-handbook) - 
+- [tweag/run-nix-shell](https://github.com/tweag/run-nix-shell) - GitHub action for executing scripts via nix-shell.
 - [chhoumann/claude-hooks](https://github.com/chhoumann/claude-hooks) - 
 - [chhoumann/claude-code-monitoring](https://github.com/chhoumann/claude-code-monitoring) - Local monitoring solution for Claude Code usage metrics with Prometheus and Grafana
 - [element-hq/tailscale-k8s](https://github.com/element-hq/tailscale-k8s) - 
@@ -948,6 +1038,12 @@
 
 ## Starlark 
 
+- [tweag/bazel-workshop](https://github.com/tweag/bazel-workshop) - Bazel Introduciton Workshop using C++ and Rust
+- [tweag/clodl](https://github.com/tweag/clodl) - Turn dynamically linked ELF binaries and libraries into self-contained closures.
+- [tweag/bb-deployments](https://github.com/tweag/bb-deployments) - Example deployments of Buildbarn on various platforms
+- [tweag/nix_bazel_codelab](https://github.com/tweag/nix_bazel_codelab) - Nix+Bazel Codelab
+- [tweag/buck2.nix](https://github.com/tweag/buck2.nix) - Buck2 rules for Nix
+- [tweag/rules_nixpkgs](https://github.com/tweag/rules_nixpkgs) - Rules for importing Nixpkgs packages into Bazel.
 - [immich-app/immich-charts](https://github.com/immich-app/immich-charts) - Helm chart implementation of Immich
 
 ## Svelte 
@@ -965,6 +1061,9 @@
 
 ## TypeScript 
 
+- [tweag/formik-apollo](https://github.com/tweag/formik-apollo) - A little bit of for using Formik with Apollo
+- [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
+- [tweag/inputs](https://github.com/tweag/inputs) - Utilities for building forms with React
 - [percona/pmm-qa](https://github.com/percona/pmm-qa) - PMM Quality Assurance
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -1061,6 +1160,10 @@
 
 - [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## XSLT 
+
+- [CycloneDX/specification](https://github.com/CycloneDX/specification) - OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction. SBOM, SaaSBOM, HBOM, AI/ML-BOM, CBOM, OBOM, MBOM, VDR, and V
 
 ## Zig 
 

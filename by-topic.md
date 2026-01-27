@@ -1450,7 +1450,7 @@
 - [tweag/pytest-e2e-automation](https://github.com/tweag/pytest-e2e-automation) - 
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [tweag/project](https://github.com/tweag/project) - Use this template when creating a new project.
-- [tweag/topiary](https://github.com/tweag/topiary) - 
+- [topiary/topiary](https://github.com/topiary/topiary) - 
 - [percona/postgresql-docs](https://github.com/percona/postgresql-docs) - Percona Distribution for PostgreSQL
 - [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) - Exporter for systemd unit metrics
 - [prometheus-community/promql-langserver](https://github.com/prometheus-community/promql-langserver) - PromQL language server
@@ -1647,7 +1647,7 @@
 - [markqvist/LXMF](https://github.com/markqvist/LXMF) - A universal, distributed and secure messaging protocol for Reticulum
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [spdk/spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit
-- [bellhyve/zelta](https://github.com/bellhyve/zelta) - ZFS tools used for data migration and backup management
+- [bell-tower/zelta](https://github.com/bell-tower/zelta) - ZFS tools used for data migration and backup management
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [nrk/redis-lua](https://github.com/nrk/redis-lua) - A Lua client library for the redis key value storage system.
 - [haproxytechblog/haproxy-lua-samples](https://github.com/haproxytechblog/haproxy-lua-samples) - Sample code demonstrating how to extend HAProxy using Lua.
@@ -2110,7 +2110,7 @@
 
 ## rust 
 
-- [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - rebuild only changed crates in CI with crate2nix and nix
+- [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - crate2nix builds your cargo-based rust project crate-by-crate with nix
 - [cargo2nix/cargo2nix](https://github.com/cargo2nix/cargo2nix) - Granular builds of Rust projects for Nix
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]

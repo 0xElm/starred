@@ -61,7 +61,7 @@
 
 ## Awk 
 
-- [bellhyve/zelta](https://github.com/bellhyve/zelta) - ZFS tools used for data migration and backup management
+- [bell-tower/zelta](https://github.com/bell-tower/zelta) - ZFS tools used for data migration and backup management
 
 ## C 
 
@@ -499,6 +499,7 @@
 
 ## Lua 
 
+- [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) - Diagrams as code in Neovim.
 - [dorranh/dotfiles](https://github.com/dorranh/dotfiles) - My dotfiles and related configuration. Use at your own risk.
 - [chhoumann/dotfiles](https://github.com/chhoumann/dotfiles) - Christian's dotfiles.
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
@@ -880,7 +881,7 @@
 - [stepancheg/rust-log-ndc](https://github.com/stepancheg/rust-log-ndc) - log crate extension with NDC-like functionality
 - [stepancheg/rust-tls-api](https://github.com/stepancheg/rust-tls-api) - TLS API for Rust, and API implementations over native-tls and openssl in separate crates
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
-- [tweag/topiary](https://github.com/tweag/topiary) - 
+- [topiary/topiary](https://github.com/topiary/topiary) - 
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.

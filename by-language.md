@@ -186,7 +186,7 @@
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool
 - [layer5io/getnighthawk](https://github.com/layer5io/getnighthawk) - Putting Nighthawk into the hands of many
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [meshery/meshkit](https://github.com/meshery/meshkit) - Common microservices framework for Meshery components
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -434,7 +434,7 @@
 - [percona/pmm-ui-tests](https://github.com/percona/pmm-ui-tests) - PMM UI end-to-end tests
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [meshery/meshery.io](https://github.com/meshery/meshery.io) - Website for Meshery
-- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [openstreetmap/dns](https://github.com/openstreetmap/dns) - OpenStreetMap DNS
 - [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema) - 🆔🏷 The presets and other tagging data used by the iD editor
@@ -507,7 +507,7 @@
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [nvim-telescope/telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim) - Live grep with args
 - [NotAShelf/direnv.nvim](https://github.com/NotAShelf/direnv.nvim) - Lua implementation of direnv.vim for automatic .envrc handling & syntax.
-- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
 - [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
 - [nrk/redis-lua](https://github.com/nrk/redis-lua) - A Lua client library for the redis key value storage system.
@@ -587,7 +587,7 @@
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [tweag/std](https://github.com/tweag/std) - The Nix Flakes framework for perfectionists with deadlines [maintainer=@blaggacao]
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
-- [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - rebuild only changed crates in CI with crate2nix and nix
+- [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - crate2nix builds your cargo-based rust project crate-by-crate with nix
 - [cargo2nix/cargo2nix](https://github.com/cargo2nix/cargo2nix) - Granular builds of Rust projects for Nix
 - [tweag/python-nix-flake-template](https://github.com/tweag/python-nix-flake-template) - Bootstrap a reproducible yet flexible Python development environment using Nix
 - [tweag/nix-marp](https://github.com/tweag/nix-marp) - Run Marp tools via Nix
@@ -721,6 +721,9 @@
 
 ## Perl 
 
+- [jimsalterjrs/mysqlbak](https://github.com/jimsalterjrs/mysqlbak) - CLI tool to dump all mysql dbs on a local or remote host to one gzipped file per database.
+- [jimsalterjrs/wg-admin](https://github.com/jimsalterjrs/wg-admin) - Simple CLI utilities to manage a WireGuard server
+- [jimsalterjrs/network-testing](https://github.com/jimsalterjrs/network-testing) - This is a small collection of GPLv3-licensed tools to assist an intrepid researcher in testing the performance of networks, wired or wireless.
 - [percona/pg_stat_monitor](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring Tool for PostgreSQL
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
 - [beancount/ledger2beancount](https://github.com/beancount/ledger2beancount) - Ledger to Beancount text-based converter
@@ -733,6 +736,8 @@
 
 ## Python 
 
+- [jimsalterjrs/ioztat](https://github.com/jimsalterjrs/ioztat) - ioztat is a storage load analysis tool for OpenZFS. It provides iostat-like statistics at an individual dataset/zvol level.
+- [achillean/shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [tweag/nix-unit-testing](https://github.com/tweag/nix-unit-testing) - A showcase of different unit testing frameworks for Nix.
 - [tweag/nixpkgs-graph-explorer](https://github.com/tweag/nixpkgs-graph-explorer) - Explore the nixpkgs dependency graph

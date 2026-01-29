@@ -201,7 +201,7 @@
 
 ## ai 
 
-- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Open Source Semantic Layer & Knowledge Engineering Framework
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [chhoumann/bunnai](https://github.com/chhoumann/bunnai) - cli to inject ai-generated commit messages into lazygit
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
@@ -212,7 +212,7 @@
 
 ## ai-agents 
 
-- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Open Source Semantic Layer & Knowledge Engineering Framework
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
 
 ## analytics 
@@ -363,6 +363,7 @@
 
 ## chatgpt 
 
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 
@@ -481,7 +482,7 @@
 
 ## data-engineering 
 
-- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Open Source Semantic Layer & Knowledge Engineering Framework
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 
 ## data-science 
@@ -707,7 +708,7 @@
 
 ## generative-ai 
 
-- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Open Source Semantic Layer & Knowledge Engineering Framework
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [chhoumann/auralite](https://github.com/chhoumann/auralite) - AI assistant for Obsidian. Create notes by voice, transcribe speech, and write with AI. Seamlessly integrates with your vault to enhance note-taking and knowledge management.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
@@ -1182,8 +1183,8 @@
 ## llm 
 
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Open Source Semantic Layer & Knowledge Engineering Framework
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for OpenAI and Anthropic - masks PII and secrets before they reach the API, or routes to local LLM.
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1387,7 +1388,7 @@
 
 ## openai 
 
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for OpenAI and Anthropic - masks PII and secrets before they reach the API, or routes to local LLM.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -1396,6 +1397,7 @@
 
 ## others 
 
+- [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
 - [jimsalterjrs/mysqlbak](https://github.com/jimsalterjrs/mysqlbak) - CLI tool to dump all mysql dbs on a local or remote host to one gzipped file per database.
 - [jimsalterjrs/wg-admin](https://github.com/jimsalterjrs/wg-admin) - Simple CLI utilities to manage a WireGuard server
 - [jimsalterjrs/network-testing](https://github.com/jimsalterjrs/network-testing) - This is a small collection of GPLv3-licensed tools to assist an intrepid researcher in testing the performance of networks, wired or wireless.
@@ -1439,7 +1441,7 @@
 - [tweag/timestats](https://github.com/tweag/timestats) - A library to profile time in a Haskell program
 - [tweag/agentic-coding-handbook](https://github.com/tweag/agentic-coding-handbook) - 
 - [tweag/buck2.nix](https://github.com/tweag/buck2.nix) - Buck2 rules for Nix
-- [tweag/nickel-kubernetes](https://github.com/tweag/nickel-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Nickel
+- [nickel-lang/nickel-kubernetes](https://github.com/nickel-lang/nickel-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Nickel
 - [tweag/run-nix-shell](https://github.com/tweag/run-nix-shell) - GitHub action for executing scripts via nix-shell.
 - [dorranh/dotfiles](https://github.com/dorranh/dotfiles) - My dotfiles and related configuration. Use at your own risk.
 - [tweag/nixplorer](https://github.com/tweag/nixplorer) - An experimental explorer for Nix software dependency graphs
@@ -1963,7 +1965,7 @@
 
 ## privacy 
 
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for OpenAI and Anthropic - masks PII and secrets before they reach the API, or routes to local LLM.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -2044,7 +2046,7 @@
 
 ## rag 
 
-- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Open Source Semantic Layer & Knowledge Engineering Framework
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## rails 
@@ -2188,6 +2190,7 @@
 
 - [NixOS/nix-security-tracker](https://github.com/NixOS/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [latacora/replik8s](https://github.com/latacora/replik8s) - A modern open-source Kubernetes auditing and investigation tool

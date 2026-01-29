@@ -579,10 +579,11 @@
 
 ## NCL 
 
-- [tweag/nickel-kubernetes](https://github.com/tweag/nickel-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Nickel
+- [nickel-lang/nickel-kubernetes](https://github.com/nickel-lang/nickel-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Nickel
 
 ## Nix 
 
+- [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
 - [tweag/nixos-specialisation-dual-boot](https://github.com/tweag/nixos-specialisation-dual-boot) - 
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [tweag/std](https://github.com/tweag/std) - The Nix Flakes framework for perfectionists with deadlines [maintainer=@blaggacao]
@@ -750,7 +751,7 @@
 - [tweag/pytest-e2e-automation](https://github.com/tweag/pytest-e2e-automation) - 
 - [NixOS/nix-security-tracker](https://github.com/NixOS/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
-- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Open Source Semantic Layer & Knowledge Engineering Framework
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [barrust/pyspellchecker](https://github.com/barrust/pyspellchecker) - Pure Python Spell Checking http://pyspellchecker.readthedocs.io/en/latest/
@@ -777,7 +778,7 @@
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [niedakh/pqdm](https://github.com/niedakh/pqdm) - Comfortable parallel TQDM using concurrent.futures
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
@@ -1074,7 +1075,7 @@
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for OpenAI and Anthropic - masks PII and secrets before they reach the API, or routes to local LLM.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
 - [marcj/bitcoin.ts](https://github.com/marcj/bitcoin.ts) - Typescript implementation of a Cryptocurrency inspired by the Bitcoin blockchain.
 - [marcj/clangd-mcp-server](https://github.com/marcj/clangd-mcp-server) - Experimental implementation of a MCP for Claude Code that lets it connect to a language server like clangd.
 - [team-telnyx/telnyx-rtc-sipjs](https://github.com/team-telnyx/telnyx-rtc-sipjs) - Telnyx JavaScript library for building WebRTC apps with SIP.js

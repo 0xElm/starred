@@ -270,7 +270,7 @@
 - [kelseyhightower/kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
 - [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
 - [chainguard-dev/incert](https://github.com/chainguard-dev/incert) - Add CA certificates into containers
-- [chainguard-dev/go-oidctest](https://github.com/chainguard-dev/go-oidctest) - Library for creating fake OIDC providers in tests
+- [chainguard-sandbox/go-oidctest](https://github.com/chainguard-sandbox/go-oidctest) - Library for creating fake OIDC providers in tests
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool

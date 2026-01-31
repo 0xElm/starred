@@ -21,6 +21,7 @@
 - [azure](#azure)
 - [backend](#backend)
 - [bash](#bash)
+- [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bot](#bot)
 - [c](#c)
@@ -46,6 +47,7 @@
 - [data](#data)
 - [data-engineering](#data-engineering)
 - [data-science](#data-science)
+- [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
@@ -270,7 +272,7 @@
 
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs.
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 
 ## automation 
 
@@ -333,8 +335,13 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
+## bitcoin 
+
+- [merkletreejs/merkletreejs](https://github.com/merkletreejs/merkletreejs) - 🌱 Construct Merkle Trees and verify proofs in JavaScript. By @miguelmota
+
 ## blockchain 
 
+- [merkletreejs/merkletreejs](https://github.com/merkletreejs/merkletreejs) - 🌱 Construct Merkle Trees and verify proofs in JavaScript. By @miguelmota
 - [IntersectMBO/ouroboros-network](https://github.com/IntersectMBO/ouroboros-network) - Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
 - [IntersectMBO/cardano-ledger](https://github.com/IntersectMBO/cardano-ledger) - The ledger implementation and specifications of the Cardano blockchain.
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
@@ -355,6 +362,7 @@
 
 ## c-plus-plus 
 
+- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 
 ## chatbot 
@@ -379,6 +387,9 @@
 
 ## cli 
 
+- [share-secrets-safely/cli](https://github.com/share-secrets-safely/cli) - share secrets within teams to avoid plain-text secrets from day one
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [chhoumann/bunnai](https://github.com/chhoumann/bunnai) - cli to inject ai-generated commit messages into lazygit
@@ -415,6 +426,7 @@
 
 ## code-quality 
 
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 
 ## command-line 
@@ -465,7 +477,7 @@
 
 ## cybersecurity 
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 
@@ -491,6 +503,10 @@
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 
+## data-structures 
+
+- [ethereumjs/merkle-patricia-tree](https://github.com/ethereumjs/merkle-patricia-tree) - Project is in active development and has been moved to the EthereumJS VM monorepo.
+
 ## data-visualization 
 
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -498,6 +514,7 @@
 
 ## database 
 
+- [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
@@ -657,6 +674,8 @@
 
 ## ethereum 
 
+- [ethereumjs/merkle-patricia-tree](https://github.com/ethereumjs/merkle-patricia-tree) - Project is in active development and has been moved to the EthereumJS VM monorepo.
+- [merkletreejs/merkletreejs](https://github.com/merkletreejs/merkletreejs) - 🌱 Construct Merkle Trees and verify proofs in JavaScript. By @miguelmota
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
@@ -711,10 +730,11 @@
 - [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [chhoumann/auralite](https://github.com/chhoumann/auralite) - AI assistant for Obsidian. Create notes by voice, transcribe speech, and write with AI. Seamlessly integrates with your vault to enhance note-taking and knowledge management.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 
 ## git 
 
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -740,6 +760,10 @@
 
 ## go 
 
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
+- [prometheus/haproxy_exporter](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
+- [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter) - Prometheus exporter that mines /proc to report on selected processes
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
@@ -786,6 +810,9 @@
 
 ## golang 
 
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
+- [flyingmutant/rapid](https://github.com/flyingmutant/rapid) - Rapid is a modern Go property-based testing library
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -1036,6 +1063,7 @@
 
 ## javascript 
 
+- [merkletreejs/merkletreejs](https://github.com/merkletreejs/merkletreejs) - 🌱 Construct Merkle Trees and verify proofs in JavaScript. By @miguelmota
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
@@ -1164,6 +1192,7 @@
 
 ## linux 
 
+- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [cyphar/libpathrs](https://github.com/cyphar/libpathrs) - C-friendly API to make path resolution safer on Linux.
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
@@ -1188,7 +1217,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
@@ -1199,6 +1228,7 @@
 
 ## lua 
 
+- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [kingluo/lua-resty-ffi](https://github.com/kingluo/lua-resty-ffi) - lua-resty-ffi provides an efficient and generic API to do hybrid programming in openresty/envoy with mainstream languages (Go, Python, Java, Rust, Nodejs, etc.).
 - [lunarmodules/busted](https://github.com/lunarmodules/busted) - Elegant Lua unit testing.
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
@@ -1214,6 +1244,7 @@
 
 ## machine-learning 
 
+- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [CycloneDX/specification](https://github.com/CycloneDX/specification) - OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction. SBOM, SaaSBOM, HBOM, AI/ML-BOM, CBOM, OBOM, MBOM, VDR, and V
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
@@ -1290,6 +1321,7 @@
 
 ## mysql 
 
+- [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -1348,6 +1380,7 @@
 
 ## nodejs 
 
+- [merkletreejs/merkletreejs](https://github.com/merkletreejs/merkletreejs) - 🌱 Construct Merkle Trees and verify proofs in JavaScript. By @miguelmota
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -1397,6 +1430,22 @@
 
 ## others 
 
+- [onsi/gomega](https://github.com/onsi/gomega) - Ginkgo's Preferred Matcher Library
+- [OpenZeppelin/merkle-tree](https://github.com/OpenZeppelin/merkle-tree) - A JavaScript library to generate merkle trees and merkle proofs.
+- [EliahKagan/Dijkstra](https://github.com/EliahKagan/Dijkstra) - Visualizing Dijkstra's algorithm with various priority queues
+- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
+- [the-lean-crate/cargo-diet](https://github.com/the-lean-crate/cargo-diet) - A cargo-companion to become a 'lean crate' (a member of The Lean Crate Initiative)
+- [the-lean-crate/criner](https://github.com/the-lean-crate/criner) - A tool to mine crates.io and produce static websites
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
+- [dovecot/doveadm-http-cli](https://github.com/dovecot/doveadm-http-cli) - Python CLI client for Dovecot doveadm HTTP api
+- [dovecot/k8s-sysreport](https://github.com/dovecot/k8s-sysreport) - Tool for producing sysreports from Kubernetes environments
+- [dovecot/tools](https://github.com/dovecot/tools) - Dovecot tools
+- [dovecot/pigeonhole](https://github.com/dovecot/pigeonhole) - Pigeonhole project: Sieve support for Dovecot.
+- [dovecot/imaptest](https://github.com/dovecot/imaptest) - IMAP server tester
+- [dovecot/docker](https://github.com/dovecot/docker) - Docker image sources for Dovecot
+- [dovecot/core](https://github.com/dovecot/core) - Dovecot mail server
+- [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
+- [haskell/fgl](https://github.com/haskell/fgl) - A Functional Graph Library for Haskell
 - [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
 - [jimsalterjrs/mysqlbak](https://github.com/jimsalterjrs/mysqlbak) - CLI tool to dump all mysql dbs on a local or remote host to one gzipped file per database.
 - [jimsalterjrs/wg-admin](https://github.com/jimsalterjrs/wg-admin) - Simple CLI utilities to manage a WireGuard server
@@ -1924,7 +1973,7 @@
 
 ## penetration-testing 
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 
 ## pentesting 
@@ -1983,6 +2032,7 @@
 
 ## python 
 
+- [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -2117,6 +2167,8 @@
 
 ## rust 
 
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
+- [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - crate2nix builds your cargo-based rust project crate-by-crate with nix
 - [cargo2nix/cargo2nix](https://github.com/cargo2nix/cargo2nix) - Granular builds of Rust projects for Nix
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
@@ -2188,6 +2240,7 @@
 
 ## security 
 
+- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [NixOS/nix-security-tracker](https://github.com/NixOS/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
@@ -2218,6 +2271,7 @@
 
 ## self-hosted 
 
+- [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [kashw2/bitbucket-runner-nix](https://github.com/kashw2/bitbucket-runner-nix) - A flake for deploying Bitbucket Runners on NixOS
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -2256,6 +2310,7 @@
 
 ## solidity 
 
+- [merkletreejs/merkletreejs](https://github.com/merkletreejs/merkletreejs) - 🌱 Construct Merkle Trees and verify proofs in JavaScript. By @miguelmota
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini
@@ -2270,6 +2325,7 @@
 
 ## sql 
 
+- [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
@@ -2342,6 +2398,9 @@
 
 ## testing 
 
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
+- [flyingmutant/rapid](https://github.com/flyingmutant/rapid) - Rapid is a modern Go property-based testing library
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
@@ -2481,6 +2540,7 @@
 
 ## windows 
 
+- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 

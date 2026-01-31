@@ -386,6 +386,7 @@
 
 ## Haskell 
 
+- [haskell/fgl](https://github.com/haskell/fgl) - A Functional Graph Library for Haskell
 - [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell
 - [tweag/attoparsec](https://github.com/tweag/attoparsec) - A fast Haskell library for parsing ByteStrings
 - [dmjio/envy](https://github.com/dmjio/envy) - :angry: Environmentally friendly environment variables
@@ -667,6 +668,7 @@
 
 ## Others 
 
+- [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [tweag/epcb](https://github.com/tweag/epcb) - Nix RFC draft on evaluation purity and caching builtins
 - [CycloneDX/bom-examples](https://github.com/CycloneDX/bom-examples) - A repository with examples of CycloneDX BOMs (SBOM, SaaSBOM, OBOM, VEX, etc)
 - [tweag/project](https://github.com/tweag/project) - Use this template when creating a new project.

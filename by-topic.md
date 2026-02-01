@@ -331,6 +331,7 @@
 
 ## bash 
 
+- [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -371,7 +372,7 @@
 
 ## chatgpt 
 
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 
@@ -439,6 +440,7 @@
 
 ## compiler 
 
+- [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
@@ -464,6 +466,7 @@
 
 ## cryptography 
 
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [matrix-org/vodozemac](https://github.com/matrix-org/vodozemac) - An implementation of Olm and Megolm in pure Rust.
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [pyca/pyopenssl](https://github.com/pyca/pyopenssl) - A Python wrapper around the OpenSSL library
@@ -1192,6 +1195,7 @@
 
 ## linux 
 
+- [linux-credentials/credentialsd](https://github.com/linux-credentials/credentialsd) - Proposal for a Linux credential management xdg portal D-Bus specification, including webauthn/passkey support
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [cyphar/libpathrs](https://github.com/cyphar/libpathrs) - C-friendly API to make path resolution safer on Linux.
@@ -1213,7 +1217,7 @@
 
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1421,7 +1425,7 @@
 
 ## openai 
 
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -1430,6 +1434,16 @@
 
 ## others 
 
+- [rust-lang/cargo-bisect-rustc](https://github.com/rust-lang/cargo-bisect-rustc) - Bisects rustc, either nightlies or CI artifacts
+- [rust-lang/triagebot](https://github.com/rust-lang/triagebot) - Automation/tooling for Rust spaces
+- [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
+- [rust-openssl/rust-openssl](https://github.com/rust-openssl/rust-openssl) - OpenSSL bindings for Rust
+- [aws-samples/s3-fast-list](https://github.com/aws-samples/s3-fast-list) - Concurrently list Amazon S3 bucket
+- [basecamp/bc3-api](https://github.com/basecamp/bc3-api) - API documentation for Basecamp 4
+- [ZeroLeaks/zeroleaks](https://github.com/ZeroLeaks/zeroleaks) - AI Security Scanner - Test your AI systems for prompt injection and extraction vulnerabilities
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
+- [altera-al/project-sid](https://github.com/altera-al/project-sid) - 
 - [onsi/gomega](https://github.com/onsi/gomega) - Ginkgo's Preferred Matcher Library
 - [OpenZeppelin/merkle-tree](https://github.com/OpenZeppelin/merkle-tree) - A JavaScript library to generate merkle trees and merkle proofs.
 - [EliahKagan/Dijkstra](https://github.com/EliahKagan/Dijkstra) - Visualizing Dijkstra's algorithm with various priority queues
@@ -1523,7 +1537,6 @@
 - [joeduffy/system-prompts](https://github.com/joeduffy/system-prompts) - A collection of interesting system prompts
 - [Tmonster/db-benchmark](https://github.com/Tmonster/db-benchmark) - reproducible benchmark of database-like ops
 - [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
-- [aws-samples/s3-fast-list](https://github.com/aws-samples/s3-fast-list) - Concurrently list Amazon S3 bucket
 - [marcj/bitcoin.ts](https://github.com/marcj/bitcoin.ts) - Typescript implementation of a Cryptocurrency inspired by the Bitcoin blockchain.
 - [marcj/clangd-mcp-server](https://github.com/marcj/clangd-mcp-server) - Experimental implementation of a MCP for Claude Code that lets it connect to a language server like clangd.
 - [team-telnyx/telnyx-rtc-sipjs](https://github.com/team-telnyx/telnyx-rtc-sipjs) - Telnyx JavaScript library for building WebRTC apps with SIP.js
@@ -2014,7 +2027,7 @@
 
 ## privacy 
 
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -2158,6 +2171,8 @@
 
 ## ruby 
 
+- [rack/rack](https://github.com/rack/rack) - A modular Ruby web server interface.
+- [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap
 - [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen) - Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms
 - [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken) - Test Kitchen driver/provisioner for lightning faster Chef Infra cookbook testing with Docker
@@ -2167,6 +2182,8 @@
 
 ## rust 
 
+- [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
+- [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - crate2nix builds your cargo-based rust project crate-by-crate with nix
@@ -2243,7 +2260,7 @@
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [NixOS/nix-security-tracker](https://github.com/NixOS/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [latacora/replik8s](https://github.com/latacora/replik8s) - A modern open-source Kubernetes auditing and investigation tool
@@ -2297,6 +2314,7 @@
 
 ## shell 
 
+- [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -2510,6 +2528,7 @@
 
 ## web 
 
+- [rack/rack](https://github.com/rack/rack) - A modular Ruby web server interface.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.

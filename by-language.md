@@ -65,6 +65,10 @@
 
 ## C 
 
+- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
+- [dovecot/pigeonhole](https://github.com/dovecot/pigeonhole) - Pigeonhole project: Sieve support for Dovecot.
+- [dovecot/imaptest](https://github.com/dovecot/imaptest) - IMAP server tester
+- [dovecot/core](https://github.com/dovecot/core) - Dovecot mail server
 - [DavidVentura/ebpf.party](https://github.com/DavidVentura/ebpf.party) - Code for ebpf.party
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
@@ -100,6 +104,7 @@
 
 ## C# # 
 
+- [EliahKagan/Dijkstra](https://github.com/EliahKagan/Dijkstra) - Visualizing Dijkstra's algorithm with various priority queues
 - [CycloneDX/cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli) - CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions.
 
 ## C++ 
@@ -152,6 +157,7 @@
 
 ## Dockerfile 
 
+- [dovecot/docker](https://github.com/dovecot/docker) - Docker image sources for Dovecot
 - [Arkaniad/docker-supervisord](https://github.com/Arkaniad/docker-supervisord) - 
 - [lukebakken/docker-rabbitmq-cluster](https://github.com/lukebakken/docker-rabbitmq-cluster) - https://github.com/pardahlman/docker-rabbitmq-cluster
 - [immich-app/base-images](https://github.com/immich-app/base-images) - Base images for Immich containers
@@ -171,6 +177,12 @@
 
 ## Go 
 
+- [onsi/gomega](https://github.com/onsi/gomega) - Ginkgo's Preferred Matcher Library
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
+- [flyingmutant/rapid](https://github.com/flyingmutant/rapid) - Rapid is a modern Go property-based testing library
+- [prometheus/haproxy_exporter](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
+- [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [whispem/mini-kvstore-go](https://github.com/whispem/mini-kvstore-go) - Key-value store in Go with segmented logs, compaction, bloom filters & HTTP API
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
@@ -724,6 +736,7 @@
 
 ## Perl 
 
+- [dovecot/tools](https://github.com/dovecot/tools) - Dovecot tools
 - [jimsalterjrs/mysqlbak](https://github.com/jimsalterjrs/mysqlbak) - CLI tool to dump all mysql dbs on a local or remote host to one gzipped file per database.
 - [jimsalterjrs/wg-admin](https://github.com/jimsalterjrs/wg-admin) - Simple CLI utilities to manage a WireGuard server
 - [jimsalterjrs/network-testing](https://github.com/jimsalterjrs/network-testing) - This is a small collection of GPLv3-licensed tools to assist an intrepid researcher in testing the performance of networks, wired or wireless.
@@ -739,6 +752,9 @@
 
 ## Python 
 
+- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
+- [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
+- [dovecot/doveadm-http-cli](https://github.com/dovecot/doveadm-http-cli) - Python CLI client for Dovecot doveadm HTTP api
 - [jimsalterjrs/ioztat](https://github.com/jimsalterjrs/ioztat) - ioztat is a storage load analysis tool for OpenZFS. It provides iostat-like statistics at an individual dataset/zvol level.
 - [achillean/shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
@@ -807,7 +823,7 @@
 - [markqvist/LXMF](https://github.com/markqvist/LXMF) - A universal, distributed and secure messaging protocol for Reticulum
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [olvid-io/Olvid-Bot-Documentation](https://github.com/olvid-io/Olvid-Bot-Documentation) - 
 - [olvid-io/Olvid-Bot-Python-Client](https://github.com/olvid-io/Olvid-Bot-Python-Client) - 
@@ -878,6 +894,13 @@
 
 ## Rust 
 
+- [the-lean-crate/cargo-diet](https://github.com/the-lean-crate/cargo-diet) - A cargo-companion to become a 'lean crate' (a member of The Lean Crate Initiative)
+- [the-lean-crate/criner](https://github.com/the-lean-crate/criner) - A tool to mine crates.io and produce static websites
+- [share-secrets-safely/cli](https://github.com/share-secrets-safely/cli) - share secrets within teams to avoid plain-text secrets from day one
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
+- [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [whispem/minikv](https://github.com/whispem/minikv) - A production-ready distributed key-value store with Raft consensus.
 - [tweag/ponyrep](https://github.com/tweag/ponyrep) - Generate daily activity reports of any GitHub project
 - [nixcon/NixConContent](https://github.com/nixcon/NixConContent) - A collection of all the content from NixCon Paris 2022 and beyond
@@ -1023,6 +1046,7 @@
 
 ## Shell 
 
+- [dovecot/k8s-sysreport](https://github.com/dovecot/k8s-sysreport) - Tool for producing sysreports from Kubernetes environments
 - [tweag/agentic-coding-handbook](https://github.com/tweag/agentic-coding-handbook) - 
 - [tweag/run-nix-shell](https://github.com/tweag/run-nix-shell) - GitHub action for executing scripts via nix-shell.
 - [chhoumann/claude-hooks](https://github.com/chhoumann/claude-hooks) - 
@@ -1070,6 +1094,9 @@
 
 ## TypeScript 
 
+- [ethereumjs/merkle-patricia-tree](https://github.com/ethereumjs/merkle-patricia-tree) - Project is in active development and has been moved to the EthereumJS VM monorepo.
+- [OpenZeppelin/merkle-tree](https://github.com/OpenZeppelin/merkle-tree) - A JavaScript library to generate merkle trees and merkle proofs.
+- [merkletreejs/merkletreejs](https://github.com/merkletreejs/merkletreejs) - 🌱 Construct Merkle Trees and verify proofs in JavaScript. By @miguelmota
 - [tweag/formik-apollo](https://github.com/tweag/formik-apollo) - A little bit of for using Formik with Apollo
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [tweag/inputs](https://github.com/tweag/inputs) - Utilities for building forms with React
@@ -1077,7 +1104,7 @@
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
 - [marcj/bitcoin.ts](https://github.com/marcj/bitcoin.ts) - Typescript implementation of a Cryptocurrency inspired by the Bitcoin blockchain.
 - [marcj/clangd-mcp-server](https://github.com/marcj/clangd-mcp-server) - Experimental implementation of a MCP for Claude Code that lets it connect to a language server like clangd.
 - [team-telnyx/telnyx-rtc-sipjs](https://github.com/team-telnyx/telnyx-rtc-sipjs) - Telnyx JavaScript library for building WebRTC apps with SIP.js

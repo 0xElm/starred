@@ -65,6 +65,8 @@
 
 ## C 
 
+- [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [dovecot/pigeonhole](https://github.com/dovecot/pigeonhole) - Pigeonhole project: Sieve support for Dovecot.
 - [dovecot/imaptest](https://github.com/dovecot/imaptest) - IMAP server tester
@@ -381,6 +383,7 @@
 
 ## HTML 
 
+- [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [w3c/webauthn](https://github.com/w3c/webauthn) - Web Authentication: An API for accessing Public Key Credentials
 - [tweag/haddock](https://github.com/tweag/haddock) - Haskell Documentation Tool
 - [CycloneDX/cyclonedx-web-tool](https://github.com/CycloneDX/cyclonedx-web-tool) - A web based tool for working with CycloneDX BOMs
@@ -680,6 +683,8 @@
 
 ## Others 
 
+- [basecamp/bc3-api](https://github.com/basecamp/bc3-api) - API documentation for Basecamp 4
+- [altera-al/project-sid](https://github.com/altera-al/project-sid) - 
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [tweag/epcb](https://github.com/tweag/epcb) - Nix RFC draft on evaluation purity and caching builtins
 - [CycloneDX/bom-examples](https://github.com/CycloneDX/bom-examples) - A repository with examples of CycloneDX BOMs (SBOM, SaaSBOM, OBOM, VEX, etc)
@@ -872,6 +877,7 @@
 
 ## Ruby 
 
+- [rack/rack](https://github.com/rack/rack) - A modular Ruby web server interface.
 - [openstreetmap/prometheus-exporters](https://github.com/openstreetmap/prometheus-exporters) - prometheus-exporters used by OpenStreetMap Operations team for monitoring the project's infrastructure
 - [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap
 - [openstreetmap/chef](https://github.com/openstreetmap/chef) - Chef configuration management repo for configuring & maintaining the OpenStreetMap servers.
@@ -894,6 +900,13 @@
 
 ## Rust 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [rust-lang/cargo-bisect-rustc](https://github.com/rust-lang/cargo-bisect-rustc) - Bisects rustc, either nightlies or CI artifacts
+- [rust-lang/triagebot](https://github.com/rust-lang/triagebot) - Automation/tooling for Rust spaces
+- [rust-openssl/rust-openssl](https://github.com/rust-openssl/rust-openssl) - OpenSSL bindings for Rust
+- [aws-samples/s3-fast-list](https://github.com/aws-samples/s3-fast-list) - Concurrently list Amazon S3 bucket
+- [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
+- [linux-credentials/credentialsd](https://github.com/linux-credentials/credentialsd) - Proposal for a Linux credential management xdg portal D-Bus specification, including webauthn/passkey support
 - [the-lean-crate/cargo-diet](https://github.com/the-lean-crate/cargo-diet) - A cargo-companion to become a 'lean crate' (a member of The Lean Crate Initiative)
 - [the-lean-crate/criner](https://github.com/the-lean-crate/criner) - A tool to mine crates.io and produce static websites
 - [share-secrets-safely/cli](https://github.com/share-secrets-safely/cli) - share secrets within teams to avoid plain-text secrets from day one
@@ -918,7 +931,6 @@
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [proxmox/proxmox-rs](https://github.com/proxmox/proxmox-rs) - Proxmox Common Rust Crates
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [aws-samples/s3-fast-list](https://github.com/aws-samples/s3-fast-list) - Concurrently list Amazon S3 bucket
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -1046,6 +1058,7 @@
 
 ## Shell 
 
+- [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [dovecot/k8s-sysreport](https://github.com/dovecot/k8s-sysreport) - Tool for producing sysreports from Kubernetes environments
 - [tweag/agentic-coding-handbook](https://github.com/tweag/agentic-coding-handbook) - 
 - [tweag/run-nix-shell](https://github.com/tweag/run-nix-shell) - GitHub action for executing scripts via nix-shell.
@@ -1094,6 +1107,9 @@
 
 ## TypeScript 
 
+- [ZeroLeaks/zeroleaks](https://github.com/ZeroLeaks/zeroleaks) - AI Security Scanner - Test your AI systems for prompt injection and extraction vulnerabilities
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
 - [ethereumjs/merkle-patricia-tree](https://github.com/ethereumjs/merkle-patricia-tree) - Project is in active development and has been moved to the EthereumJS VM monorepo.
 - [OpenZeppelin/merkle-tree](https://github.com/OpenZeppelin/merkle-tree) - A JavaScript library to generate merkle trees and merkle proofs.
 - [merkletreejs/merkletreejs](https://github.com/merkletreejs/merkletreejs) - 🌱 Construct Merkle Trees and verify proofs in JavaScript. By @miguelmota

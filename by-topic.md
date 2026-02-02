@@ -103,6 +103,7 @@
 - [json](#json)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
+- [language](#language)
 - [laravel](#laravel)
 - [latex](#latex)
 - [learning](#learning)
@@ -203,7 +204,6 @@
 
 ## ai 
 
-- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [chhoumann/bunnai](https://github.com/chhoumann/bunnai) - cli to inject ai-generated commit messages into lazygit
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
@@ -440,6 +440,7 @@
 
 ## compiler 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -497,7 +498,6 @@
 
 ## data-engineering 
 
-- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 
 ## data-science 
@@ -565,6 +565,7 @@
 
 ## developer-tools 
 
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -1172,6 +1173,10 @@
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [element-hq/ess-helm](https://github.com/element-hq/ess-helm) - Element Server Suite Community Edition
 
+## language 
+
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
 ## laravel 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -1216,7 +1221,6 @@
 ## llm 
 
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
@@ -1419,6 +1423,7 @@
 
 ## open-source 
 
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
@@ -2182,6 +2187,7 @@
 
 ## rust 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker

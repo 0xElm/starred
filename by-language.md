@@ -67,6 +67,7 @@
 
 ## C 
 
+- [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
@@ -183,6 +184,11 @@
 
 ## Go 
 
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster
+- [briandowns/sky-island](https://github.com/briandowns/sky-island) - FaaS platform for running raw Go functions.
+- [briandowns/simple-httpd](https://github.com/briandowns/simple-httpd) - Drop-in replacement for Python SimpleHTTPServer. Provides TLS via Let's Encrypt over HTTP2, and auto generated self-signed certificates.
+- [rancher/backup-restore-operator](https://github.com/rancher/backup-restore-operator) - 
+- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -962,6 +968,7 @@
 
 ## Rust 
 
+- [lance0/xfr](https://github.com/lance0/xfr) - A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust.
 - [devinvs/fuzzydate](https://github.com/devinvs/fuzzydate) - A flexible date parser written in rust
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 - [psteinroe/postgres-stream](https://github.com/psteinroe/postgres-stream) - Reliable event streaming from Postgres
@@ -1150,6 +1157,7 @@
 
 ## Shell 
 
+- [rossella/vagrant](https://github.com/rossella/vagrant) - my vagrant configuration
 - [hlissner/zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
@@ -1201,6 +1209,8 @@
 
 ## TypeScript 
 
+- [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [voideditor/void](https://github.com/voideditor/void) - 

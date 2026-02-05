@@ -213,6 +213,7 @@
 
 ## ai 
 
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
@@ -227,6 +228,7 @@
 
 ## ai-agents 
 
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
@@ -385,6 +387,7 @@
 
 ## c 
 
+- [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -400,6 +403,7 @@
 
 ## chatgpt 
 
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
@@ -418,6 +422,7 @@
 
 ## cli 
 
+- [lance0/xfr](https://github.com/lance0/xfr) - A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -666,6 +671,7 @@
 
 ## docker 
 
+- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [prometheus-community/prometheus-playground](https://github.com/prometheus-community/prometheus-playground) - Turnkey sandbox projects demonstrating a wide variety of Prometheus use cases
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -837,6 +843,7 @@
 
 ## go 
 
+- [briandowns/sky-island](https://github.com/briandowns/sky-island) - FaaS platform for running raw Go functions.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian in the terminal. Open, search, create, update, move, delete and print notes!
@@ -890,6 +897,8 @@
 
 ## golang 
 
+- [briandowns/sky-island](https://github.com/briandowns/sky-island) - FaaS platform for running raw Go functions.
+- [briandowns/simple-httpd](https://github.com/briandowns/simple-httpd) - Drop-in replacement for Python SimpleHTTPServer. Provides TLS via Let's Encrypt over HTTP2, and auto generated self-signed certificates.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian in the terminal. Open, search, create, update, move, delete and print notes!
@@ -1092,6 +1101,7 @@
 
 ## http 
 
+- [briandowns/simple-httpd](https://github.com/briandowns/simple-httpd) - Drop-in replacement for Python SimpleHTTPServer. Provides TLS via Let's Encrypt over HTTP2, and auto generated self-signed certificates.
 - [soypat/lneto](https://github.com/soypat/lneto) - Userspace networking library. HTTP/TCP/IP/Ethernet/RMII/MDIO/UDP/NTP/DHCP/DNS blabla. Runs on 20kB of RAM
 - [rabbitmq/rabbitmqadmin-ng](https://github.com/rabbitmq/rabbitmqadmin-ng) - A command line tool for RabbitMQ that uses the HTTP API
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
@@ -1211,6 +1221,9 @@
 
 ## kubernetes 
 
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster
+- [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
+- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is a Kubernetes distribution for confidential computing, securing entire clusters on untrusted infrastructure.  Constellation is in maintenance mode. New development continues in Contras
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [meshery/meshery.io](https://github.com/meshery/meshery.io) - Website for Meshery
@@ -1291,6 +1304,7 @@
 
 ## linux 
 
+- [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
 - [linux-credentials/credentialsd](https://github.com/linux-credentials/credentialsd) - Proposal for a Linux credential management xdg portal D-Bus specification, including webauthn/passkey support
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -1433,6 +1447,7 @@
 
 ## monitoring 
 
+- [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
@@ -1603,6 +1618,7 @@
 
 ## openai 
 
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -1619,6 +1635,8 @@
 
 ## others 
 
+- [rossella/vagrant](https://github.com/rossella/vagrant) - my vagrant configuration
+- [rancher/backup-restore-operator](https://github.com/rancher/backup-restore-operator) - 
 - [devinvs/fuzzydate](https://github.com/devinvs/fuzzydate) - A flexible date parser written in rust
 - [hasansujon786/nvim-navbuddy](https://github.com/hasansujon786/nvim-navbuddy) - A simple popup display that provides breadcrumbs feature using LSP server
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
@@ -2413,6 +2431,7 @@
 
 ## rust 
 
+- [lance0/xfr](https://github.com/lance0/xfr) - A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust.
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [jackyzha0/miniraft](https://github.com/jackyzha0/miniraft) - 🚣‍♀️ &lt;1kloc, well-documented Raft consensus algorithm implementation
@@ -2560,6 +2579,7 @@
 
 ## serverless 
 
+- [briandowns/sky-island](https://github.com/briandowns/sky-island) - FaaS platform for running raw Go functions.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -2704,6 +2724,8 @@
 
 ## tui 
 
+- [lance0/xfr](https://github.com/lance0/xfr) - A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust.
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [oppiliappan/dijo](https://github.com/oppiliappan/dijo) - scriptable, curses-based, digital habit tracker
@@ -2720,6 +2742,7 @@
 
 ## typescript 
 
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [ayakovlenko/typescriptlings](https://github.com/ayakovlenko/typescriptlings) - Small exercises to get you used to reading and writing TypeScript code!

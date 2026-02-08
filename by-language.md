@@ -17,6 +17,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
+- [Erlang](#erlang)
 - [Go](#go)
 - [Go Template](#go-template)
 - [HTML](#html)
@@ -67,6 +68,11 @@
 
 ## C 
 
+- [iproute2/iproute2](https://github.com/iproute2/iproute2) - Iproute2 Source Code Mirror - This is a publish-only repository. Please follow README.devel procedure for any changes.
+- [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
+- [nicolasff/webdis](https://github.com/nicolasff/webdis) - A Redis HTTP interface with JSON output
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
@@ -114,6 +120,9 @@
 
 ## C++ 
 
+- [moxie0/tortunnel](https://github.com/moxie0/tortunnel) - A partial Onion Proxy implementation that's designed to build single-hop circuits through Tor exit nodes
+- [moxie0/sslsniff](https://github.com/moxie0/sslsniff) - A tool for automated MITM attacks on SSL connections.
+- [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [mfontanini/libtins](https://github.com/mfontanini/libtins) - High-level, multiplatform C++ network packet sniffing and crafting library.
 - [tweag/pythonix](https://github.com/tweag/pythonix) - Eval nix code from python
 - [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
@@ -157,6 +166,7 @@
 
 ## Dart 
 
+- [tekartik/sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin
 - [team-telnyx/flutter-voice-sdk](https://github.com/team-telnyx/flutter-voice-sdk) - Telnyx Flutter WebRTC SDK - Enable real-time communication with WebRTC and Telnyx
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -175,6 +185,7 @@
 
 ## Elixir 
 
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [the-nix-way/nix-flake-dev-environments](https://github.com/the-nix-way/nix-flake-dev-environments) - Nix flake examples for real-world development environments [maintainer=@lucperkins]
 
 ## Elm 
@@ -182,8 +193,16 @@
 - [elm/core](https://github.com/elm/core) - Elm's core libraries
 - [evancz/guide.elm-lang.org](https://github.com/evancz/guide.elm-lang.org) - My book introducing you to Elm!
 
+## Erlang 
+
+- [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability
+
 ## Go 
 
+- [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
+- [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) - Bruteforcing from various scanner output - Automatically attempts default creds on found services.
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster
 - [briandowns/sky-island](https://github.com/briandowns/sky-island) - FaaS platform for running raw Go functions.
 - [briandowns/simple-httpd](https://github.com/briandowns/simple-httpd) - Drop-in replacement for Python SimpleHTTPServer. Provides TLS via Let's Encrypt over HTTP2, and auto generated self-signed certificates.
@@ -425,6 +444,7 @@
 
 ## Haskell 
 
+- [informatikr/hedis](https://github.com/informatikr/hedis) - A Redis client library for Haskell.
 - [haskell/fgl](https://github.com/haskell/fgl) - A Functional Graph Library for Haskell
 - [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell
 - [tweag/attoparsec](https://github.com/tweag/attoparsec) - A fast Haskell library for parsing ByteStrings
@@ -455,6 +475,11 @@
 
 ## Java 
 
+- [moxie0/Orweb](https://github.com/moxie0/Orweb) - Proxy-capable and Privacy-aware Web Browser for use with Orbot's localhost 8118 proxy, or any HTTP proxy server.
+- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java.
+- [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
+- [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
+- [moxie0/dropwizard](https://github.com/moxie0/dropwizard) - A damn simple library for building production-ready RESTful web services.
 - [radarlabs/flutter-radar](https://github.com/radarlabs/flutter-radar) - Flutter package for Radar, the leading geofencing and location tracking platform
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [ConfigHubPub/Database-Manager](https://github.com/ConfigHubPub/Database-Manager) - Manage ConfigHub database migration to the latest version
@@ -469,6 +494,8 @@
 
 ## JavaScript 
 
+- [moxie0/Convergence](https://github.com/moxie0/Convergence) - An agile, distributed, and secure alternative to the Certificate Authority system.
+- [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [tmcw/big](https://github.com/tmcw/big) - presentations for busy messy hackers
 - [ashlinchak/mdanki](https://github.com/ashlinchak/mdanki) - Markdown to Anki converter
@@ -637,6 +664,7 @@
 
 ## Makefile 
 
+- [nalgeon/sqlean.js](https://github.com/nalgeon/sqlean.js) - Browser-based SQLite with extensions
 - [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance) - Standardizing Cloud Native Value Measurement
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [lukebakken/rabbitmq](https://github.com/lukebakken/rabbitmq) - RabbitMQ Q&A and code samples
@@ -743,6 +771,9 @@
 
 ## Others 
 
+- [FasterXML/jackson](https://github.com/FasterXML/jackson) - Main Portal page for the Jackson project
+- [erikgrinaker/readings](https://github.com/erikgrinaker/readings) - Interesting readings and talks on computer science
+- [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [RustBeginners/awesome-rust-mentors](https://github.com/RustBeginners/awesome-rust-mentors) - A list of rust lang mentors tagged by topics of interest
 - [modern-email/defects](https://github.com/modern-email/defects) - Collection of real-world email defects
@@ -805,6 +836,8 @@
 
 ## Perl 
 
+- [mrash/fwknop](https://github.com/mrash/fwknop) - Single Packet Authorization &gt; Port Knocking
+- [edolstra/nix-serve](https://github.com/edolstra/nix-serve) - A standalone Nix binary cache server
 - [dovecot/tools](https://github.com/dovecot/tools) - Dovecot tools
 - [jimsalterjrs/mysqlbak](https://github.com/jimsalterjrs/mysqlbak) - CLI tool to dump all mysql dbs on a local or remote host to one gzipped file per database.
 - [jimsalterjrs/wg-admin](https://github.com/jimsalterjrs/wg-admin) - Simple CLI utilities to manage a WireGuard server
@@ -821,6 +854,22 @@
 
 ## Python 
 
+- [moxie0/knockknock](https://github.com/moxie0/knockknock) - A simple, secure, and stealthy port knocking implementation that does not use libpcap or bind to a socket interface.
+- [moxie0/TACKpy](https://github.com/moxie0/TACKpy) - A tool (and library) for TACKs
+- [moxie0/chapcrack](https://github.com/moxie0/chapcrack) - 
+- [moxie0/sslstrip](https://github.com/moxie0/sslstrip) - A tool for exploiting Moxie Marlinspike's SSL "stripping" attack.
+- [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
+- [robinhood/thorn](https://github.com/robinhood/thorn) - Easy Webhooks for Python
+- [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
+- [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
+- [rixx/git-backdate](https://github.com/rixx/git-backdate) - Backdate a commit or range of commit to a date or range of dates.
+- [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
+- [fullzer4/pybenchx](https://github.com/fullzer4/pybenchx) - Microbenchmarks that mean it
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 - [zipnn/zipnn](https://github.com/zipnn/zipnn) - A Lossless Compression Library for AI pipelines
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
@@ -968,6 +1017,15 @@
 
 ## Rust 
 
+- [bee-san/Ares](https://github.com/bee-san/Ares) - Automated decoding of encrypted text without knowing the key or ciphers used
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+- [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
+- [MAIF/yozefu](https://github.com/MAIF/yozefu) - An interactive terminal user interface (TUI) application for exploring data of a kafka cluster.
+- [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
+- [seppo0010/rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust.
+- [comprakt/comprakt](https://github.com/comprakt/comprakt) - A MiniJava compiler written in Rust.
+- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project
+- [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92)
 - [lance0/xfr](https://github.com/lance0/xfr) - A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust.
 - [devinvs/fuzzydate](https://github.com/devinvs/fuzzydate) - A flexible date parser written in rust
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
@@ -1157,6 +1215,7 @@
 
 ## Shell 
 
+- [GrapheneOS/ns1.grapheneos.org](https://github.com/GrapheneOS/ns1.grapheneos.org) - Authoritative DNS servers
 - [rossella/vagrant](https://github.com/rossella/vagrant) - my vagrant configuration
 - [hlissner/zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -1209,6 +1268,8 @@
 
 ## TypeScript 
 
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian

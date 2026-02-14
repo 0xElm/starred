@@ -70,6 +70,7 @@
 
 ## C 
 
+- [trilogy-libraries/trilogy](https://github.com/trilogy-libraries/trilogy) - Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding.
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
@@ -213,6 +214,10 @@
 
 ## Go 
 
+- [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
+- [Shopify/argo-cd-1](https://github.com/Shopify/argo-cd-1) - Declarative Continuous Deployment for Kubernetes
+- [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
+- [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
@@ -531,6 +536,9 @@
 
 ## Java 
 
+- [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data
+- [MarquezProject/marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 - [uber/simple-store](https://github.com/uber/simple-store) - Simple yet performant asynchronous file storage for Android
@@ -844,6 +852,7 @@
 
 ## Others 
 
+- [M64GitHub/tiger-style](https://github.com/M64GitHub/tiger-style) - TigerStyle skill - Tigerbeetle style code for your coding agent
 - [iovisor/bpf-docs](https://github.com/iovisor/bpf-docs) - Presentations and docs
 - [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs
 - [mgramin/database-as-code](https://github.com/mgramin/database-as-code) - Treat your database as Code
@@ -940,6 +949,11 @@
 
 ## Python 
 
+- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+- [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+- [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
+- [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
 - [lilydjwg/pssh](https://github.com/lilydjwg/pssh) - Parallel SSH Tools
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [carderne/signal-export](https://github.com/carderne/signal-export) - Export your Signal chats to markdown files with attachments
@@ -1088,6 +1102,16 @@
 
 ## Ruby 
 
+- [Shopify/git-chain](https://github.com/Shopify/git-chain) - Tool to rebase multiple Git branches based on the previous one.
+- [Shopify/app_profiler](https://github.com/Shopify/app_profiler) - Collect performance profiles for your Rails application.
+- [Shopify/schmooze](https://github.com/Shopify/schmooze) - Schmooze lets Ruby and Node.js work together intimately.
+- [Shopify/minitest-distributed](https://github.com/Shopify/minitest-distributed) - minitest-distributed is a plugin for minitest for executing tests on a distributed set of unreliable workers.
+- [Shopify/semian](https://github.com/Shopify/semian) - :monkey: Resiliency toolkit for Ruby for failing fast
+- [ruby/ruby-bench](https://github.com/ruby/ruby-bench) - Set of benchmarks for the Ruby programming language
+- [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination
+- [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations.
+- [Shopify/ci-queue](https://github.com/Shopify/ci-queue) - Distribute tests over many workers using a queue
+- [Shopify/roast](https://github.com/Shopify/roast) - Structured AI workflows made easy
 - [rack/rack](https://github.com/rack/rack) - A modular Ruby web server interface.
 - [openstreetmap/prometheus-exporters](https://github.com/openstreetmap/prometheus-exporters) - prometheus-exporters used by OpenStreetMap Operations team for monitoring the project's infrastructure
 - [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap
@@ -1111,6 +1135,10 @@
 
 ## Rust 
 
+- [openapi-generators/openapi-test-server](https://github.com/openapi-generators/openapi-test-server) - 
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
+- [Fokko/Daft](https://github.com/Fokko/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [oxidecomputer/crucible](https://github.com/oxidecomputer/crucible) - A storage service.
@@ -1368,6 +1396,7 @@
 
 ## Swift 
 
+- [Shopify/tophat](https://github.com/Shopify/tophat) - Easily install and test mobile applications with a single click.
 - [radarlabs/deliverytracker](https://github.com/radarlabs/deliverytracker) - Illustrative delivery tracker tutorial using Radar trip tracking
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [olvid-io/olvid-ios](https://github.com/olvid-io/olvid-ios) - Olvid client application for iOS
@@ -1376,6 +1405,12 @@
 
 ## TypeScript 
 
+- [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
+- [Shopify/restyle](https://github.com/Shopify/restyle) - A type-enforced system for building UI components in React Native with TypeScript.
+- [Shopify/ruby-environments](https://github.com/Shopify/ruby-environments) - 
+- [taskforcesh/nandu](https://github.com/taskforcesh/nandu) - NPM open registry
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
+- [linear/linear](https://github.com/linear/linear) - Tools, SDK's and plugins for Linear
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [supabase-community/pg-gateway](https://github.com/supabase-community/pg-gateway) - Postgres wire protocol for the server-side
@@ -1408,7 +1443,7 @@
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [ayakovlenko/typescriptlings](https://github.com/ayakovlenko/typescriptlings) - Small exercises to get you used to reading and writing TypeScript code!
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [getnao/nao](https://github.com/getnao/nao) - 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
 - [remorses/critique](https://github.com/remorses/critique) - TUI for reviewing git changes

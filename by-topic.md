@@ -1158,7 +1158,6 @@
 - [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [CycloneDX/sbom-utility](https://github.com/CycloneDX/sbom-utility) - Utility that provides an API platform for validating, querying and managing BOM data
-- [CycloneDX/cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli) - CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions.
 - [CycloneDX/cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) - CycloneDX Software Bill of Materials (SBOM) generator for Python projects and environments
 - [percona/pg_stat_monitor](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring Tool for PostgreSQL
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
@@ -2111,6 +2110,7 @@
 - [tweag/nixtract](https://github.com/tweag/nixtract) - A CLI tool to extract the graph of derivations from a Nix flake.
 - [CycloneDX/cyclonedx-web-tool](https://github.com/CycloneDX/cyclonedx-web-tool) - A web based tool for working with CycloneDX BOMs
 - [CycloneDX/bom-examples](https://github.com/CycloneDX/bom-examples) - A repository with examples of CycloneDX BOMs (SBOM, SaaSBOM, OBOM, VEX, etc)
+- [CycloneDX/cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli) - CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions.
 - [tweag/genealogos](https://github.com/tweag/genealogos) - Genealogos, a Nix sbom generator
 - [edgelesssys/contrast](https://github.com/edgelesssys/contrast) - Deploy and manage confidential containers on Kubernetes
 - [tweag/webauthn](https://github.com/tweag/webauthn) - A library for parsing and validating webauthn/fido2 credentials
@@ -2306,7 +2306,7 @@
 - [ABDELLAH-Hallou/tree2fs](https://github.com/ABDELLAH-Hallou/tree2fs) - Convert tree-formatted text into filesystem structures.
 - [talengu/tao-of-tmux](https://github.com/talengu/tao-of-tmux) - Spin-off book for tmuxp's documentation of "The Tao of Tmux"
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
 - [em-winterschon/ansible-freebsd-zfs](https://github.com/em-winterschon/ansible-freebsd-zfs) - Ansible role. FreeBSD. Configure ZFS.
 - [dpeckett/aptify](https://github.com/dpeckett/aptify) - Probably the quickest, and easiest, way to create a Debian APT repository from a set of deb files.
 - [psy0rz/alpinebox](https://github.com/psy0rz/alpinebox) - Alpine linux on ZFS root filesystem with ZFSBootMenu
@@ -2843,6 +2843,7 @@
 
 ## rust 
 
+- [proxmox/proxmox-datacenter-manager](https://github.com/proxmox/proxmox-datacenter-manager) - Read-Only Mirror of the Proxmox Datacenter Manager project.
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale

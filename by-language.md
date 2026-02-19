@@ -59,6 +59,7 @@
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -76,6 +77,7 @@
 
 ## C 
 
+- [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
 - [lizrice/libbpfgo-beginners](https://github.com/lizrice/libbpfgo-beginners) - Basic eBPF examples in Golang using libbpfgo
 - [lizrice/lb-from-scratch](https://github.com/lizrice/lb-from-scratch) - A very basic eBPF Load Balancer in a few lines of C
 - [lizrice/learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O'Reilly - out now! Here's where you'll find a VM config for the examples, and more
@@ -227,6 +229,8 @@
 
 ## Go 
 
+- [fkautz/serve](https://github.com/fkautz/serve) - A very simple static HTTP server
+- [in-toto/witness](https://github.com/in-toto/witness) - Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.
 - [antithesishq/hive](https://github.com/antithesishq/hive) - Ethereum end-to-end test harness -- runnable in Antithesis
 - [antithesishq/otel-datagen](https://github.com/antithesishq/otel-datagen) - A tiny Go tool to generate fake OTel data, with optional adversarial data generation
 - [lizrice/strace-from-scratch](https://github.com/lizrice/strace-from-scratch) - As seen at Gophercon 2017
@@ -652,6 +656,7 @@
 
 ## Jinja 
 
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [jsuereth/o11y-by-design](https://github.com/jsuereth/o11y-by-design) - Example code for KubeCon Observability by Design talk.
 - [ANXS/postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 
@@ -878,6 +883,7 @@
 
 ## Objective-C 
 
+- [radarlabs/react-native-radar](https://github.com/radarlabs/react-native-radar) - React Native module for Radar, the leading geofencing and location tracking platform
 - [olvid-io/AppAuth-iOS-for-Olvid](https://github.com/olvid-io/AppAuth-iOS-for-Olvid) - iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 
 ## Open Policy Agent 
@@ -890,6 +896,8 @@
 
 ## Others 
 
+- [Langsom-com/.github](https://github.com/Langsom-com/.github) - 
+- [Boligforeningsweb/.github](https://github.com/Boligforeningsweb/.github) - Public profile on github for langsom.com
 - [M64GitHub/tiger-style](https://github.com/M64GitHub/tiger-style) - TigerStyle skill - Tigerbeetle style code for your coding agent
 - [iovisor/bpf-docs](https://github.com/iovisor/bpf-docs) - Presentations and docs
 - [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs
@@ -916,7 +924,7 @@
 - [tweag/project](https://github.com/tweag/project) - Use this template when creating a new project.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [joeduffy/system-prompts](https://github.com/joeduffy/system-prompts) - A collection of interesting system prompts
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 - [team-telnyx/openapi](https://github.com/team-telnyx/openapi) - OpenAPI specification for the Telnyx API
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
@@ -951,6 +959,7 @@
 
 ## PHP 
 
+- [Boligforeningsweb/dansk-tech](https://github.com/Boligforeningsweb/dansk-tech) - 
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -987,6 +996,11 @@
 
 ## Python 
 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+- [Hundter/MitID-BrowserClient](https://github.com/Hundter/MitID-BrowserClient) - Unofficial python implementation of the MitID javascript browser client
+- [kiliantscherny/nordpy](https://github.com/kiliantscherny/nordpy) - 
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+- [safe-agentic-framework/safe-mcp](https://github.com/safe-agentic-framework/safe-mcp) - SAFE-MCP is a comprehensive security framework for documenting and mitigating threats in the AI Agent ecosystem.
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
 - [elastic/curator](https://github.com/elastic/curator) - Curator: Tending your Elasticsearch indices
 - [elastic/security-docs](https://github.com/elastic/security-docs) - Elastic Security Documentation
@@ -1072,7 +1086,7 @@
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [niedakh/pqdm](https://github.com/niedakh/pqdm) - Comfortable parallel TQDM using concurrent.futures
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
-- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
+- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to u
@@ -1182,6 +1196,12 @@
 
 ## Rust 
 
+- [tobilg/polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
+- [kennytm/qrcode-rust](https://github.com/kennytm/qrcode-rust) - QR code encoder in Rust.
+- [houseme/qrcode-rs](https://github.com/houseme/qrcode-rs) - QR code encoder in Rust，Generate QR Code matrices and images in RAW, PNG and SVG formats.
+- [houseme/sensitive-rs](https://github.com/houseme/sensitive-rs) - Sensitive-rs is a Rust library for finding, validating, filtering, and replacing sensitive words. It provides efficient algorithms to handle sensitive words, suitable for various application scenarios
+- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
+- [boltffi/boltffi](https://github.com/boltffi/boltffi) - A high-performance multi-language bindings generator for Rust, up to 1,000x faster than UniFFI. Ship Rust libraries that feels native to Swift, Kotlin, and more
 - [mnowzari/alembic](https://github.com/mnowzari/alembic) - A Rust crate that lets you log once, send anywhere.
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
 - [proxmox/proxmox-datacenter-manager](https://github.com/proxmox/proxmox-datacenter-manager) - Read-Only Mirror of the Proxmox Datacenter Manager project.
@@ -1404,6 +1424,7 @@
 
 ## Shell 
 
+- [safe-agentic-framework/safe-agentic-use-cases](https://github.com/safe-agentic-framework/safe-agentic-use-cases) - A community-driven repository of industry and use-case analyses for agentic systems. Documents how ai agents can fail, and how those failures map to SAFE-MCP attack techniques.
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files
 - [ereslibre/homeops](https://github.com/ereslibre/homeops) - Gitops for some home automation workloads
 - [GrapheneOS/ns1.grapheneos.org](https://github.com/GrapheneOS/ns1.grapheneos.org) - Authoritative DNS servers
@@ -1457,6 +1478,10 @@
 - [olvid-io/olvid-ios](https://github.com/olvid-io/olvid-ios) - Olvid client application for iOS
 - [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) - Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk.
 - [threema-ch/threema-ios](https://github.com/threema-ch/threema-ios) - Threema App for iOS.
+
+## TeX 
+
+- [joeduffy/foundations-of-llms](https://github.com/joeduffy/foundations-of-llms) - 
 
 ## TypeScript 
 
@@ -1529,7 +1554,6 @@
 - [team-telnyx/webrtc](https://github.com/team-telnyx/webrtc) - SDK for Telnyx's WebRTC platform
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [radarlabs/airport-map-demo](https://github.com/radarlabs/airport-map-demo) - Demo for drawing arcs with Radar maps
-- [radarlabs/react-native-radar](https://github.com/radarlabs/react-native-radar) - React Native module for Radar, the leading geofencing and location tracking platform
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [stripe/stripe-node](https://github.com/stripe/stripe-node) - Node.js library for the Stripe API.
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 

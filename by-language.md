@@ -326,7 +326,6 @@
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [meshery/meshkit](https://github.com/meshery/meshkit) - Common microservices framework for Meshery components
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [team-telnyx/telnyx-go](https://github.com/team-telnyx/telnyx-go) - Go SDK for the Telnyx API
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
@@ -519,6 +518,7 @@
 - [percona/postgresql-docs](https://github.com/percona/postgresql-docs) - Percona Distribution for PostgreSQL
 - [percona/pgsm-docs](https://github.com/percona/pgsm-docs) - pg_stat_monitor for PostgreSQL
 - [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [openstreetmap/help-website](https://github.com/openstreetmap/help-website) - help-website static site built with hugo from OQSA export
 - [permissionlesstech/georelays](https://github.com/permissionlesstech/georelays) - a collection of nostr relays and their estimated locations
 - [matrix-org/matrix-spec](https://github.com/matrix-org/matrix-spec) - The Matrix protocol specification
@@ -1493,6 +1493,7 @@
 
 ## TypeScript 
 
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data

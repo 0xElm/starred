@@ -1493,6 +1493,7 @@
 
 ## latex 
 
+- [selimacerbas/markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim) - Live Markdown preview for Neovim with Mermaid diagrams, LaTeX math (KaTeX), scroll sync, and syntax highlighting. Pure Lua, zero npm dependencies.
 - [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
 
 ## learning 
@@ -1555,7 +1556,7 @@
 
 - [nvim-neotest/neotest-python](https://github.com/nvim-neotest/neotest-python) - 
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
-- [selimacerbas/markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim) - Live Markdown preview for Neovim with first-class Mermaid diagram support. Pure Lua, zero dependencies.
+- [selimacerbas/markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim) - Live Markdown preview for Neovim with Mermaid diagrams, LaTeX math (KaTeX), scroll sync, and syntax highlighting. Pure Lua, zero npm dependencies.
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim.
@@ -1614,7 +1615,7 @@
 
 ## markdown 
 
-- [selimacerbas/markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim) - Live Markdown preview for Neovim with first-class Mermaid diagram support. Pure Lua, zero dependencies.
+- [selimacerbas/markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim) - Live Markdown preview for Neovim with Mermaid diagrams, LaTeX math (KaTeX), scroll sync, and syntax highlighting. Pure Lua, zero npm dependencies.
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
@@ -1733,7 +1734,7 @@
 - [nvim-neotest/neotest-python](https://github.com/nvim-neotest/neotest-python) - 
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
-- [selimacerbas/markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim) - Live Markdown preview for Neovim with first-class Mermaid diagram support. Pure Lua, zero dependencies.
+- [selimacerbas/markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim) - Live Markdown preview for Neovim with Mermaid diagrams, LaTeX math (KaTeX), scroll sync, and syntax highlighting. Pure Lua, zero npm dependencies.
 - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim.
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
@@ -2317,7 +2318,7 @@
 - [alyraffauf/nixcfg](https://github.com/alyraffauf/nixcfg) - Multi-host NixOS, Darwin, and home-manager configurations with Nix.
 - [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
 - [Dasharo/open-source-firmware-validation](https://github.com/Dasharo/open-source-firmware-validation) - OSFV infrastructure with automated tests and scripts for managing test results
-- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - This project lets you use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk provides a high-level API that feels simil
+- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk pro
 - [envoyproxy/nighthawk](https://github.com/envoyproxy/nighthawk) - L7 (HTTP/HTTPS/HTTP2/HTTP3) performance characterization tool
 - [envoyproxy/envoy-perf](https://github.com/envoyproxy/envoy-perf) - Envoy performance testing
 - [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.

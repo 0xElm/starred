@@ -209,6 +209,7 @@
 - [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
 - [webapp](#webapp)
@@ -245,6 +246,7 @@
 
 ## ai-agents 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
@@ -530,6 +532,7 @@
 
 ## code-quality 
 
+- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 
@@ -537,7 +540,6 @@
 
 - [go-perf/go-perftuner](https://github.com/go-perf/go-perftuner) - Helper tool for manual Go code optimization.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -558,6 +560,7 @@
 
 ## continuous-integration 
 
+- [nyrkio/nyrkio](https://github.com/nyrkio/nyrkio) - Nyrkiö is an open source platform for detecting performance changes in a Continuous Performance Engineering workflow
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 
@@ -719,6 +722,7 @@
 
 ## developer-tools 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [fullzer4/pybenchx](https://github.com/fullzer4/pybenchx) - Microbenchmarks that mean it
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -767,6 +771,7 @@
 
 ## docker 
 
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
@@ -814,6 +819,7 @@
 
 ## documentation 
 
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [open-telemetry/weaver](https://github.com/open-telemetry/weaver) - OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
@@ -923,6 +929,7 @@
 
 ## git 
 
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [alexandear/import-gitlab-commits](https://github.com/alexandear/import-gitlab-commits) - Import commits from a private GitLab repository in an anonymized way.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -1030,6 +1037,7 @@
 
 ## golang 
 
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) - Use a custom domain in your Go import path
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
@@ -1041,7 +1049,6 @@
 - [go-perf/awesome-go-perf](https://github.com/go-perf/awesome-go-perf) - A curated list of Awesome Go performance libraries and tools
 - [matryer/vice](https://github.com/matryer/vice) - Go channels at horizontal scale (powered by message queues)
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [briandowns/sky-island](https://github.com/briandowns/sky-island) - FaaS platform for running raw Go functions.
 - [briandowns/simple-httpd](https://github.com/briandowns/simple-httpd) - Drop-in replacement for Python SimpleHTTPServer. Provides TLS via Let's Encrypt over HTTP2, and auto generated self-signed certificates.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
@@ -1615,6 +1622,7 @@
 
 ## markdown 
 
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [selimacerbas/markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim) - Live Markdown preview for Neovim with Mermaid diagrams, LaTeX math (KaTeX), scroll sync, and syntax highlighting. Pure Lua, zero npm dependencies.
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
@@ -2883,6 +2891,8 @@
 
 ## rust 
 
+- [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [tobilg/polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
 - [houseme/qrcode-rs](https://github.com/houseme/qrcode-rs) - QR code encoder in Rust，Generate QR Code matrices and images in RAW, PNG and SVG formats.
 - [houseme/sensitive-rs](https://github.com/houseme/sensitive-rs) - Sensitive-rs is a Rust library for finding, validating, filtering, and replacing sensitive words. It provides efficient algorithms to handle sensitive words, suitable for various application scenarios
@@ -3311,6 +3321,7 @@
 
 ## ui 
 
+- [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim.
 - [meshery/meshery.io](https://github.com/meshery/meshery.io) - Website for Meshery
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -3335,6 +3346,7 @@
 
 ## vim 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
@@ -3378,6 +3390,10 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
+
+## vuejs 
+
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 
 ## web 
 

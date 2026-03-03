@@ -77,6 +77,7 @@
 
 ## C 
 
+- [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
 - [lizrice/libbpfgo-beginners](https://github.com/lizrice/libbpfgo-beginners) - Basic eBPF examples in Golang using libbpfgo
 - [lizrice/lb-from-scratch](https://github.com/lizrice/lb-from-scratch) - A very basic eBPF Load Balancer in a few lines of C
@@ -229,6 +230,19 @@
 
 ## Go 
 
+- [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner) - Dynamically deploy Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is provisioned from simple local filesystem storage.
+- [openebs/velero-plugin](https://github.com/openebs/velero-plugin) - Velero plugin for backup/restore of OpenEBS cStor volumes
+- [openebs/zfs-localpv](https://github.com/openebs/zfs-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is integrated with a backend ZFS data storage stack.
+- [openshift/lvm-operator](https://github.com/openshift/lvm-operator) - The LVM Operator deploys and manages LVM storage on OpenShift clusters
+- [kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter) - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint.
+- [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
+- [ceph/go-ceph](https://github.com/ceph/go-ceph) - Go bindings for Ceph :octopus: :octopus: :octopus:
+- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
+- [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries
+- [abh/geodns](https://github.com/abh/geodns) - DNS server with per-client targeted responses
+- [stoolap/stoolap-go](https://github.com/stoolap/stoolap-go) - NewSQL That Starts Simple. High-performance SQL database with MVCC, columnar indexes, and HTAP capabilities. Pure Go and zero dependencies.
+- [element-hq/dendrite](https://github.com/element-hq/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [basecamp/basecamp-cli](https://github.com/basecamp/basecamp-cli) - Basecamp CLI and Agent Skills
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Swarm with Spec Coding. Each agent gets their own desktop. Run Claude, Codex, Gemini and open models on a full private GenAI Stack ♾️
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
@@ -538,6 +552,7 @@
 
 ## Haskell 
 
+- [javgh/watchdog](https://github.com/javgh/watchdog) - Simple control structure for Haskell to re-try an action with exponential backoff
 - [dylex/postgresql-typed](https://github.com/dylex/postgresql-typed) - Haskell PostgreSQL library with compile-time type inference
 - [informatikr/hedis](https://github.com/informatikr/hedis) - A Redis client library for Haskell.
 - [haskell/fgl](https://github.com/haskell/fgl) - A Functional Graph Library for Haskell
@@ -671,6 +686,7 @@
 
 ## Jsonnet 
 
+- [openebs/monitoring](https://github.com/openebs/monitoring) - OpenEBS Monitoring add-on. A set of Grafana, Prometheus, and alert manager plugins.
 - [buildbarn/bb-deployments](https://github.com/buildbarn/bb-deployments) - Example deployments of Buildbarn on various platforms
 - [grafana/tns](https://github.com/grafana/tns) - Observability Demo App
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
@@ -790,6 +806,7 @@
 
 ## Makefile 
 
+- [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
 - [open-telemetry/opentelemetry-proto-go](https://github.com/open-telemetry/opentelemetry-proto-go) - Generated code for OpenTelemetry protobuf data model
 - [open-telemetry/opentelemetry-proto](https://github.com/open-telemetry/opentelemetry-proto) - OpenTelemetry protocol (OTLP) specification and Protobuf definitions
 - [nalgeon/sqlean.js](https://github.com/nalgeon/sqlean.js) - Browser-based SQLite with extensions
@@ -815,6 +832,7 @@
 
 ## Nix 
 
+- [chris-martin/home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [juspay/jenkins-nix-ci](https://github.com/juspay/jenkins-nix-ci) - A NixOS module for Jenkins, optimized specifically for running projects using Nix.
 - [seanrmurphy/nixos-in-10-minutes](https://github.com/seanrmurphy/nixos-in-10-minutes) - Bring up a nixos instance in 10 minutes using nixos-anywhere
@@ -910,6 +928,8 @@
 
 ## Others 
 
+- [openebs/openebs](https://github.com/openebs/openebs) - A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
+- [RocketChat/Jobs](https://github.com/RocketChat/Jobs) - Repository to share Rocket.Chat R&D Job openings
 - [Langsom-com/.github](https://github.com/Langsom-com/.github) - 
 - [Boligforeningsweb/.github](https://github.com/Boligforeningsweb/.github) - Public profile on github for langsom.com
 - [M64GitHub/tiger-style](https://github.com/M64GitHub/tiger-style) - TigerStyle skill - Tigerbeetle style code for your coding agent
@@ -1010,6 +1030,8 @@
 
 ## Python 
 
+- [ceph/ceph-nvmeof](https://github.com/ceph/ceph-nvmeof) - Service to provide Ceph storage over NVMe-oF/TCP protocol
+- [ceph/teuthology](https://github.com/ceph/teuthology) - Ceph test suite
 - [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) - Provides automated YAML management and a streamlit workbench. Designed to optimize dev workflows.
 - [datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli) - Enforce Data Contracts
 - [DataKitchen/DKUtils](https://github.com/DataKitchen/DKUtils) - 
@@ -1212,12 +1234,14 @@
 - [tobi/delayed_job](https://github.com/tobi/delayed_job) - Database backed asynchronous priority queue -- Extracted from Shopify
 - [basecamp/easymon](https://github.com/basecamp/easymon) - Easy Monitoring
 - [basecamp/campfire-bot-kit](https://github.com/basecamp/campfire-bot-kit) - 
-- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
+- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - Super simple group chat, without a subscription
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [igrigorik/vimgolf](https://github.com/igrigorik/vimgolf) - Real Vim ninjas count every keystroke - do you?
 
 ## Rust 
 
+- [openebs/mayastor](https://github.com/openebs/mayastor) - Dynamically provision Stateful Persistent Replicated Cluster-wide Fabric Volumes & Filesystems for Kubernetes that is provisioned from an optimized NVME SPDK backend data storage stack.
+- [stoolap/stoolap](https://github.com/stoolap/stoolap) - A Modern Embedded SQL Database written in Rust
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [jvanbuel/flowrs](https://github.com/jvanbuel/flowrs) - Flowrs is a TUI application for Apache Airflow that allows you to monitor, inspect and trigger Airflow DAGs from the comforts of your terminal.
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
@@ -1452,6 +1476,9 @@
 
 ## Shell 
 
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
+- [RocketChat/helm-charts](https://github.com/RocketChat/helm-charts) - Repository for RocketChat helm charts
+- [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [basecamp/dev-skills](https://github.com/basecamp/dev-skills) - 37signals skills for AI assistants
@@ -1516,6 +1543,10 @@
 
 ## TypeScript 
 
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager
+- [RocketChat/Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - The Secure CommsOS™ for mission-critical operations
+- [RocketChat/fuselage](https://github.com/RocketChat/fuselage) - React port of Rocket.Chat's design system, Fuselage
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [hahnbeelee/hahnbee.com](https://github.com/hahnbeelee/hahnbee.com) - 
 - [DataRecce/recce](https://github.com/DataRecce/recce) - The data-validation toolkit for enhanced dbt (data build tool) PR review
 - [beatrix-ha/beatrix](https://github.com/beatrix-ha/beatrix) - what if claude ran your house

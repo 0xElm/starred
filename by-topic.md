@@ -72,6 +72,7 @@
 - [ethereum](#ethereum)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -155,6 +156,7 @@
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
+- [perl](#perl)
 - [php](#php)
 - [physics](#physics)
 - [postgresql](#postgresql)
@@ -277,6 +279,7 @@
 
 ## android 
 
+- [RocketChat/Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - The Secure CommsOS™ for mission-critical operations
 - [boltffi/boltffi](https://github.com/boltffi/boltffi) - A high-performance multi-language bindings generator for Rust, up to 1,000x faster than UniFFI. Ship Rust libraries that feels native to Swift, Kotlin, and more
 - [Shopify/tophat](https://github.com/Shopify/tophat) - Easily install and test mobile applications with a single click.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -328,6 +331,7 @@
 
 ## automation 
 
+- [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
@@ -476,6 +480,7 @@
 
 ## cli 
 
+- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) - Provides automated YAML management and a streamlit workbench. Designed to optimize dev workflows.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -546,6 +551,7 @@
 
 ## command-line 
 
+- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [go-perf/go-perftuner](https://github.com/go-perf/go-perftuner) - Helper tool for manual Go code optimization.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -669,6 +675,9 @@
 
 ## database 
 
+- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
+- [stoolap/stoolap-go](https://github.com/stoolap/stoolap-go) - NewSQL That Starts Simple. High-performance SQL database with MVCC, columnar indexes, and HTAP capabilities. Pure Go and zero dependencies.
+- [stoolap/stoolap](https://github.com/stoolap/stoolap) - A Modern Embedded SQL Database written in Rust
 - [antithesishq/sqlancer](https://github.com/antithesishq/sqlancer) - Optimized for Antithesis: Automated testing to find logic and performance bugs in database systems
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
@@ -764,6 +773,7 @@
 
 ## devops 
 
+- [openebs/openebs](https://github.com/openebs/openebs) - A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
@@ -790,6 +800,8 @@
 
 ## docker 
 
+- [openebs/openebs](https://github.com/openebs/openebs) - A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
@@ -898,6 +910,11 @@
 ## facebook 
 
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
+
+## fastapi 
+
+- [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 
 ## finance 
 
@@ -1060,6 +1077,9 @@
 
 ## golang 
 
+- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
+- [ceph/go-ceph](https://github.com/ceph/go-ceph) - Go bindings for Ceph :octopus: :octopus: :octopus:
+- [stoolap/stoolap-go](https://github.com/stoolap/stoolap-go) - NewSQL That Starts Simple. High-performance SQL database with MVCC, columnar indexes, and HTAP capabilities. Pure Go and zero dependencies.
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Swarm with Spec Coding. Each agent gets their own desktop. Run Claude, Codex, Gemini and open models on a full private GenAI Stack ♾️
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) - Use a custom domain in your Go import path
@@ -1170,6 +1190,12 @@
 
 ## hacktoberfest 
 
+- [openebs/monitoring](https://github.com/openebs/monitoring) - OpenEBS Monitoring add-on. A set of Grafana, Prometheus, and alert manager plugins.
+- [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner) - Dynamically deploy Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is provisioned from simple local filesystem storage.
+- [openebs/velero-plugin](https://github.com/openebs/velero-plugin) - Velero plugin for backup/restore of OpenEBS cStor volumes
+- [RocketChat/Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - The Secure CommsOS™ for mission-critical operations
+- [RocketChat/fuselage](https://github.com/RocketChat/fuselage) - React port of Rocket.Chat's design system, Fuselage
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
@@ -1344,6 +1370,7 @@
 
 ## ios 
 
+- [RocketChat/Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - The Secure CommsOS™ for mission-critical operations
 - [Shopify/tophat](https://github.com/Shopify/tophat) - Easily install and test mobile applications with a single click.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
@@ -1381,6 +1408,7 @@
 
 ## javascript 
 
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [nalgeon/sqlean.js](https://github.com/nalgeon/sqlean.js) - Browser-based SQLite with extensions
 - [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim
@@ -1447,6 +1475,15 @@
 
 ## kubernetes 
 
+- [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner) - Dynamically deploy Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is provisioned from simple local filesystem storage.
+- [openebs/mayastor](https://github.com/openebs/mayastor) - Dynamically provision Stateful Persistent Replicated Cluster-wide Fabric Volumes & Filesystems for Kubernetes that is provisioned from an optimized NVME SPDK backend data storage stack.
+- [openebs/openebs](https://github.com/openebs/openebs) - A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
+- [openebs/velero-plugin](https://github.com/openebs/velero-plugin) - Velero plugin for backup/restore of OpenEBS cStor volumes
+- [openebs/zfs-localpv](https://github.com/openebs/zfs-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is integrated with a backend ZFS data storage stack.
+- [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
+- [RocketChat/helm-charts](https://github.com/RocketChat/helm-charts) - Repository for RocketChat helm charts
 - [ravaga/helm-chart-generator](https://github.com/ravaga/helm-chart-generator) - This software generates a Helm chart from the user's answers to a series of simple questions.
 - [ereslibre/homeops](https://github.com/ereslibre/homeops) - Gitops for some home automation workloads
 - [polycube-network/polycube](https://github.com/polycube-network/polycube) - eBPF/XDP-based software framework for fast network services running in the Linux kernel.
@@ -1542,6 +1579,7 @@
 
 ## linux 
 
+- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
@@ -1694,6 +1732,7 @@
 
 ## microservices 
 
+- [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner) - Dynamically deploy Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is provisioned from simple local filesystem storage.
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute
@@ -1932,6 +1971,25 @@
 
 ## others 
 
+- [meshcore-dev/meshcore-cli](https://github.com/meshcore-dev/meshcore-cli) - Command line interface to MeshCore node
+- [meshtastic/device-ui](https://github.com/meshtastic/device-ui) - meshtastic device-ui library
+- [AlchemillaHQ/Sylve](https://github.com/AlchemillaHQ/Sylve) - Lightweight GUI for managing Bhyve, Jails, ZFS, networking, and more on FreeBSD
+- [mattmuench/ceph-sizer](https://github.com/mattmuench/ceph-sizer) - A Ceph sizer for capacity and h/w configuration design
+- [henriklovhaug/md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal
+- [uoaerg/wavemon](https://github.com/uoaerg/wavemon) - wavemon is an ncurses-based monitoring application for wireless network devices on Linux.
+- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
+- [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive
+- [BeechatNetworkSystemsLtd/Reticulum-rs](https://github.com/BeechatNetworkSystemsLtd/Reticulum-rs) - Reticulum Networking Stack implementation written in Rust
+- [openshift/lvm-operator](https://github.com/openshift/lvm-operator) - The LVM Operator deploys and manages LVM storage on OpenShift clusters
+- [kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter) - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint.
+- [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
+- [ceph/ceph-nvmeof](https://github.com/ceph/ceph-nvmeof) - Service to provide Ceph storage over NVMe-oF/TCP protocol
+- [ceph/teuthology](https://github.com/ceph/teuthology) - Ceph test suite
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager
+- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
+- [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries
+- [abh/geodns](https://github.com/abh/geodns) - DNS server with per-client targeted responses
+- [RocketChat/Jobs](https://github.com/RocketChat/Jobs) - Repository to share Rocket.Chat R&D Job openings
 - [javgh/watchdog](https://github.com/javgh/watchdog) - Simple control structure for Haskell to re-try an action with exponential backoff
 - [element-hq/dendrite](https://github.com/element-hq/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [hahnbeelee/hahnbee.com](https://github.com/hahnbeelee/hahnbee.com) - 
@@ -2545,7 +2603,7 @@
 - [basecamp/easymon](https://github.com/basecamp/easymon) - Easy Monitoring
 - [basecamp/campfire-bot-kit](https://github.com/basecamp/campfire-bot-kit) - 
 - [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
-- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
+- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - Super simple group chat, without a subscription
 - [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify) - 🔏 Keycloak theming for the modern web
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
@@ -2682,6 +2740,10 @@
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 
+## perl 
+
+- [ag4ve/NF-Save](https://github.com/ag4ve/NF-Save) - Take in a data structure and output nf/iptables and ipset save data
+
 ## php 
 
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
@@ -2765,6 +2827,7 @@
 
 ## python 
 
+- [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [kiliantscherny/nordpy](https://github.com/kiliantscherny/nordpy) - A terminal UI for browsing and exporting your Nordnet portfolio data
@@ -2832,6 +2895,7 @@
 
 ## python3 
 
+- [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [fullzer4/pybenchx](https://github.com/fullzer4/pybenchx) - Microbenchmarks that mean it
@@ -2874,6 +2938,7 @@
 
 ## react 
 
+- [RocketChat/fuselage](https://github.com/RocketChat/fuselage) - React port of Rocket.Chat's design system, Fuselage
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -2898,6 +2963,7 @@
 
 ## react-native 
 
+- [RocketChat/Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - The Secure CommsOS™ for mission-critical operations
 - [radarlabs/react-native-radar](https://github.com/radarlabs/react-native-radar) - React Native module for Radar, the leading geofencing and location tracking platform
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [eva-design/eva](https://github.com/eva-design/eva) - :dizzy:Customizable Design System easily adaptable to your Brand.
@@ -2948,6 +3014,9 @@
 
 ## rust 
 
+- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
+- [openebs/mayastor](https://github.com/openebs/mayastor) - Dynamically provision Stateful Persistent Replicated Cluster-wide Fabric Volumes & Filesystems for Kubernetes that is provisioned from an optimized NVME SPDK backend data storage stack.
+- [stoolap/stoolap](https://github.com/stoolap/stoolap) - A Modern Embedded SQL Database written in Rust
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -3140,6 +3209,7 @@
 
 ## shell 
 
+- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
@@ -3172,6 +3242,8 @@
 
 ## sql 
 
+- [stoolap/stoolap-go](https://github.com/stoolap/stoolap-go) - NewSQL That Starts Simple. High-performance SQL database with MVCC, columnar indexes, and HTAP capabilities. Pure Go and zero dependencies.
+- [stoolap/stoolap](https://github.com/stoolap/stoolap) - A Modern Embedded SQL Database written in Rust
 - [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) - Provides automated YAML management and a streamlit workbench. Designed to optimize dev workflows.
 - [tobilg/polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
 - [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data
@@ -3214,6 +3286,8 @@
 
 ## sqlite 
 
+- [pojntfx/stfs](https://github.com/pojntfx/stfs) - Simple Tape File System (STFS), a file system for tapes and tar files.
+- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [sparklemotion/sqlite3-ruby](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database
 - [carderne/signal-export](https://github.com/carderne/signal-export) - Export your Signal chats to markdown files with attachments
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
@@ -3284,6 +3358,8 @@
 
 ## terminal 
 
+- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
+- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -3334,6 +3410,7 @@
 
 ## tui 
 
+- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [kiliantscherny/nordpy](https://github.com/kiliantscherny/nordpy) - A terminal UI for browsing and exporting your Nordnet portfolio data
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
@@ -3514,6 +3591,7 @@
 
 ## zsh 
 
+- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [hlissner/zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
 - [Yakitrak/notesmd-cli](https://github.com/Yakitrak/notesmd-cli) - Obsidian CLI (Community) -  Interact with Obsidian in the terminal!
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile

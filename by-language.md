@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ASL](#asl)
 - [Awk](#awk)
 - [C](#c)
 - [C#](#c#)
@@ -46,6 +45,7 @@
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [PureScript](#purescript)
 - [Python](#python)
 - [QML](#qml)
@@ -66,10 +66,6 @@
 - [XSLT](#xslt)
 - [Zig](#zig)
 - [reStructuredText](#restructuredtext)
-
-## ASL 
-
-- [flemming-n-larsen/architecture-as-code-example](https://github.com/flemming-n-larsen/architecture-as-code-example) - Architecture Diagrams in Code - Example Repository
 
 ## Awk 
 
@@ -403,7 +399,7 @@
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
 - [rancher/rke2](https://github.com/rancher/rke2) - 
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [vmware-archive/octant](https://github.com/vmware-archive/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -1032,6 +1028,10 @@
 - [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)
 - [timebug/lua-resty-redis-ratelimit](https://github.com/timebug/lua-resty-redis-ratelimit) - Limit the request processing rate between multiple NGINX instances backed by Redis
 
+## PowerShell 
+
+- [flemming-n-larsen/architecture-as-code-example](https://github.com/flemming-n-larsen/architecture-as-code-example) - Architecture Diagrams in Code - Example Repository
+
 ## PureScript 
 
 - [tweag/screener](https://github.com/tweag/screener) - Tool that takes screenshots of a website over a number of devices
@@ -1584,7 +1584,7 @@
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [voideditor/void](https://github.com/voideditor/void) - 

@@ -555,6 +555,7 @@
 
 ## Haskell 
 
+- [cafkafk/maid](https://github.com/cafkafk/maid) - Cleanup "Script" In Haskell
 - [javgh/watchdog](https://github.com/javgh/watchdog) - Simple control structure for Haskell to re-try an action with exponential backoff
 - [dylex/postgresql-typed](https://github.com/dylex/postgresql-typed) - Haskell PostgreSQL library with compile-time type inference
 - [informatikr/hedis](https://github.com/informatikr/hedis) - A Redis client library for Haskell.
@@ -619,6 +620,8 @@
 
 ## JavaScript 
 
+- [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
+- [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [mattmuench/ceph-sizer](https://github.com/mattmuench/ceph-sizer) - A Ceph sizer for capacity and h/w configuration design
 - [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset
 - [andersonfranco/export-tabs](https://github.com/andersonfranco/export-tabs) - Google Chrome extension
@@ -836,6 +839,7 @@
 
 ## Nix 
 
+- [cafkafk/lir](https://github.com/cafkafk/lir) - Moved to private forgejo
 - [chris-martin/home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [juspay/jenkins-nix-ci](https://github.com/juspay/jenkins-nix-ci) - A NixOS module for Jenkins, optimized specifically for running projects using Nix.
@@ -1038,6 +1042,7 @@
 
 ## Python 
 
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [meshcore-dev/meshcore-cli](https://github.com/meshcore-dev/meshcore-cli) - Command line interface to MeshCore node
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [ceph/ceph-nvmeof](https://github.com/ceph/ceph-nvmeof) - Service to provide Ceph storage over NVMe-oF/TCP protocol
@@ -1250,6 +1255,8 @@
 
 ## Rust 
 
+- [cafkafk/arbejdstid](https://github.com/cafkafk/arbejdstid) - Moved to private forgejo
+- [nixcloud/cargo](https://github.com/nixcloud/cargo) - The Rust package manager
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [henriklovhaug/md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal
 - [BeechatNetworkSystemsLtd/Reticulum-rs](https://github.com/BeechatNetworkSystemsLtd/Reticulum-rs) - Reticulum Networking Stack implementation written in Rust
@@ -1490,6 +1497,7 @@
 
 ## Shell 
 
+- [cafkafk/pass-crypt-mount](https://github.com/cafkafk/pass-crypt-mount) - A hastily written shell script for dealing with LUKS drives
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [RocketChat/helm-charts](https://github.com/RocketChat/helm-charts) - Repository for RocketChat helm charts
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
@@ -1539,6 +1547,7 @@
 
 ## Svelte 
 
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
 - [immich-app/ui](https://github.com/immich-app/ui) - Svelte components for Immich
 
@@ -1557,6 +1566,7 @@
 
 ## TypeScript 
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager
 - [RocketChat/Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - The Secure CommsOS™ for mission-critical operations
 - [RocketChat/fuselage](https://github.com/RocketChat/fuselage) - React port of Rocket.Chat's design system, Fuselage
@@ -1606,7 +1616,7 @@
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [ayakovlenko/typescriptlings](https://github.com/ayakovlenko/typescriptlings) - Small exercises to get you used to reading and writing TypeScript code!
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [getnao/nao](https://github.com/getnao/nao) - 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone

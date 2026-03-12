@@ -688,7 +688,6 @@
 ## database 
 
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
-- [stoolap/stoolap-go](https://github.com/stoolap/stoolap-go) - NewSQL That Starts Simple. High-performance SQL database with MVCC, columnar indexes, and HTAP capabilities. Pure Go and zero dependencies.
 - [stoolap/stoolap](https://github.com/stoolap/stoolap) - A Modern Embedded SQL Database written in Rust
 - [antithesishq/sqlancer](https://github.com/antithesishq/sqlancer) - Optimized for Antithesis: Automated testing to find logic and performance bugs in database systems
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
@@ -1091,7 +1090,6 @@
 
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [ceph/go-ceph](https://github.com/ceph/go-ceph) - Go bindings for Ceph :octopus: :octopus: :octopus:
-- [stoolap/stoolap-go](https://github.com/stoolap/stoolap-go) - NewSQL That Starts Simple. High-performance SQL database with MVCC, columnar indexes, and HTAP capabilities. Pure Go and zero dependencies.
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own desktop. Run Claude, Codex, Gemini and open models on a full private GenAI Stack ♾️
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) - Use a custom domain in your Go import path
@@ -3273,7 +3271,6 @@
 
 ## sql 
 
-- [stoolap/stoolap-go](https://github.com/stoolap/stoolap-go) - NewSQL That Starts Simple. High-performance SQL database with MVCC, columnar indexes, and HTAP capabilities. Pure Go and zero dependencies.
 - [stoolap/stoolap](https://github.com/stoolap/stoolap) - A Modern Embedded SQL Database written in Rust
 - [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) - Provides automated YAML management and a streamlit workbench. Designed to optimize dev workflows.
 - [tobilg/polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects

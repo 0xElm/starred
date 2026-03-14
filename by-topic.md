@@ -1988,6 +1988,11 @@
 
 ## others 
 
+- [kanidm/haproxy-protocol](https://github.com/kanidm/haproxy-protocol) - HAProxy Proxy Protocol implementation for servers in rust.
+- [kanidm/concread](https://github.com/kanidm/concread) - Concurrently Readable Data Structures for Rust
+- [kanidm/compact-jwt](https://github.com/kanidm/compact-jwt) - A minimal jwt implementation for OIDC
+- [zfsonlinux/filebench](https://github.com/zfsonlinux/filebench) - Filebench is a file system and storage benchmark that allows to generate a high variety of workloads. It employs extensive Workload Model Language (WML) for detailed workload specification. http://sou
+- [zfsonlinux/zfsstress](https://github.com/zfsonlinux/zfsstress) - 
 - [CategoricalData/hydra](https://github.com/CategoricalData/hydra) - Graph programming language
 - [cafkafk/navi](https://github.com/cafkafk/navi) - Specialized deployment tool for NixOS with persistent daemon architecture, integrated infrastructure provisioning (Terraform/Terranix), and TUI management. Forked from Colmena.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
@@ -2783,6 +2788,7 @@
 
 ## postgresql 
 
+- [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility acr
 - [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset

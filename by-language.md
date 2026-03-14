@@ -74,6 +74,8 @@
 
 ## C 
 
+- [zfsonlinux/filebench](https://github.com/zfsonlinux/filebench) - Filebench is a file system and storage benchmark that allows to generate a high variety of workloads. It employs extensive Workload Model Language (WML) for detailed workload specification. http://sou
+- [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 - [meshtastic/device-ui](https://github.com/meshtastic/device-ui) - meshtastic device-ui library
 - [uoaerg/wavemon](https://github.com/uoaerg/wavemon) - wavemon is an ncurses-based monitoring application for wireless network devices on Linux.
 - [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive
@@ -348,7 +350,6 @@
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [meshery/meshkit](https://github.com/meshery/meshkit) - Common microservices framework for Meshery components
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [team-telnyx/telnyx-go](https://github.com/team-telnyx/telnyx-go) - Go SDK for the Telnyx API
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
@@ -541,6 +542,7 @@
 - [percona/postgresql-docs](https://github.com/percona/postgresql-docs) - Percona Distribution for PostgreSQL
 - [percona/pgsm-docs](https://github.com/percona/pgsm-docs) - pg_stat_monitor for PostgreSQL
 - [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [openstreetmap/help-website](https://github.com/openstreetmap/help-website) - help-website static site built with hugo from OQSA export
 - [permissionlesstech/georelays](https://github.com/permissionlesstech/georelays) - a collection of nostr relays and their estimated locations
 - [matrix-org/matrix-spec](https://github.com/matrix-org/matrix-spec) - The Matrix protocol specification
@@ -1263,6 +1265,9 @@
 
 ## Rust 
 
+- [kanidm/haproxy-protocol](https://github.com/kanidm/haproxy-protocol) - HAProxy Proxy Protocol implementation for servers in rust.
+- [kanidm/concread](https://github.com/kanidm/concread) - Concurrently Readable Data Structures for Rust
+- [kanidm/compact-jwt](https://github.com/kanidm/compact-jwt) - A minimal jwt implementation for OIDC
 - [cafkafk/navi](https://github.com/cafkafk/navi) - Specialized deployment tool for NixOS with persistent daemon architecture, integrated infrastructure provisioning (Terraform/Terranix), and TUI management. Forked from Colmena.
 - [cafkafk/arbejdstid](https://github.com/cafkafk/arbejdstid) - Moved to private forgejo
 - [nixcloud/cargo](https://github.com/nixcloud/cargo) - The Rust package manager
@@ -1506,6 +1511,7 @@
 
 ## Shell 
 
+- [zfsonlinux/zfsstress](https://github.com/zfsonlinux/zfsstress) - 
 - [cafkafk/pass-crypt-mount](https://github.com/cafkafk/pass-crypt-mount) - A hastily written shell script for dealing with LUKS drives
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [RocketChat/helm-charts](https://github.com/RocketChat/helm-charts) - Repository for RocketChat helm charts

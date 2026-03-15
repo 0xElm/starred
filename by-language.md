@@ -74,6 +74,7 @@
 
 ## C 
 
+- [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [zfsonlinux/filebench](https://github.com/zfsonlinux/filebench) - Filebench is a file system and storage benchmark that allows to generate a high variety of workloads. It employs extensive Workload Model Language (WML) for detailed workload specification. http://sou
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 - [meshtastic/device-ui](https://github.com/meshtastic/device-ui) - meshtastic device-ui library
@@ -141,11 +142,14 @@
 
 ## C# # 
 
+- [ForNeVeR/Cesium](https://github.com/ForNeVeR/Cesium) - C compiler for the CLI platform
 - [EliahKagan/Dijkstra](https://github.com/EliahKagan/Dijkstra) - Visualizing Dijkstra's algorithm with various priority queues
 - [CycloneDX/cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli) - CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions.
 
 ## C++ 
 
+- [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
+- [ydb-platform/nbs](https://github.com/ydb-platform/nbs) - Network Block & File Store
 - [open-telemetry/opentelemetry-network](https://github.com/open-telemetry/opentelemetry-network) - eBPF Collector
 - [polycube-network/polycube](https://github.com/polycube-network/polycube) - eBPF/XDP-based software framework for fast network services running in the Linux kernel.
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
@@ -232,6 +236,11 @@
 
 ## Go 
 
+- [rosszurowski/tandem](https://github.com/rosszurowski/tandem) - Parallel task runner for servers and long-running commands.
+- [soniaappasamy/tailscale-grafana-quick-deploy](https://github.com/soniaappasamy/tailscale-grafana-quick-deploy) - Quick-deploy a private Grafana server that is only accessible over Tailscale.
+- [hallyn/uidmapviz](https://github.com/hallyn/uidmapviz) - User namespace uid mapping visualization
+- [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
+- [go-sql-driver/sql-benchmark](https://github.com/go-sql-driver/sql-benchmark) - A synthetic benchmark to compare the performance of various sql-drivers for Go's database/sql package
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [Releem/mysqlconfigurer](https://github.com/Releem/mysqlconfigurer) - Releem is a database advisor for MySQL & MariaDB that provides automatic metrics analysis, actionable insights, and safe automation. It helps detect issues quickly, optimize performance continuously, 
 - [pojntfx/stfs](https://github.com/pojntfx/stfs) - Simple Tape File System (STFS), a file system for tapes and tar files.
@@ -597,6 +606,8 @@
 
 ## Java 
 
+- [dbeaver/dbeaver-common](https://github.com/dbeaver/dbeaver-common) - Common utils and dependencies for all DBeaver projects
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [dqops/dqo](https://github.com/dqops/dqo) - Data Quality and Observability platform for the whole data lifecycle, from profiling new data sources to full automation with Data Observability. Configure data quality checks from the UI or in YAML f
 - [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror
 - [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data
@@ -628,6 +639,8 @@
 
 ## JavaScript 
 
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [mattmuench/ceph-sizer](https://github.com/mattmuench/ceph-sizer) - A Ceph sizer for capacity and h/w configuration design
@@ -846,6 +859,8 @@
 
 ## Nix 
 
+- [joshleecreates/nixos-proxmox](https://github.com/joshleecreates/nixos-proxmox) - 
+- [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
 - [cafkafk/lir](https://github.com/cafkafk/lir) - Moved to private forgejo
 - [chris-martin/home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
@@ -924,6 +939,7 @@
 
 ## OCaml 
 
+- [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
 - [dbcaml/dbcaml](https://github.com/dbcaml/dbcaml) - DBCaml is a database library for OCaml
 - [tjdevries/octane.ml](https://github.com/tjdevries/octane.ml) - The fastest, hottest
 
@@ -1581,6 +1597,7 @@
 
 ## TypeScript 
 
+- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager
 - [RocketChat/Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - The Secure CommsOS™ for mission-critical operations

@@ -386,7 +386,7 @@
 - [DeterminateSystems/bonk](https://github.com/DeterminateSystems/bonk) - Erase macOS machines over Tailscale.
 - [kommodity-io/oidc-discovery-proxy](https://github.com/kommodity-io/oidc-discovery-proxy) - Enables Proxy for OpenID discovery of a Kubernetes cluster.
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
-- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) - WebRTC Server that plays a file and generates a CPU Usage report

@@ -2036,6 +2036,8 @@
 
 ## others 
 
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
+- [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [proginosko/LeechBlockNG](https://github.com/proginosko/LeechBlockNG) - LeechBlock NG (Next Generation) for Firefox is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which
 - [DBCDK/devpi-web](https://github.com/DBCDK/devpi-web) - flake overlay for devpi-web plugin
 - [basecamp/once](https://github.com/basecamp/once) - Easy self-hosting for Docker-based web apps

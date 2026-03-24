@@ -63,6 +63,7 @@
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
+- [discord](#discord)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -164,6 +165,7 @@
 - [php](#php)
 - [physics](#physics)
 - [postgresql](#postgresql)
+- [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming-language](#programming-language)
@@ -203,6 +205,7 @@
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [tailwindcss](#tailwindcss)
+- [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -322,6 +325,7 @@
 
 ## api 
 
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own desktop. Run Claude, Codex, Gemini and open models on a full private GenAI Stack ♾️
 - [replit/river](https://github.com/replit/river) - 🌊 long-lived streaming RPC framework
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -423,6 +427,8 @@
 
 ## bash 
 
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [rxerium/bug-bounty-tools](https://github.com/rxerium/bug-bounty-tools) - A BASH Script to automate the installation of the most popular bug bounty tools
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -462,6 +468,8 @@
 
 ## c 
 
+- [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [ForNeVeR/Cesium](https://github.com/ForNeVeR/Cesium) - C compiler for the CLI platform
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
@@ -503,6 +511,21 @@
 
 ## cli 
 
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
+- [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
+- [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
+- [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
@@ -569,6 +592,7 @@
 
 ## code 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 
 ## code-quality 
@@ -579,6 +603,12 @@
 
 ## command-line 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+- [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [go-perf/go-perftuner](https://github.com/go-perf/go-perftuner) - Helper tool for manual Go code optimization.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
@@ -795,6 +825,8 @@
 
 ## developer-tools 
 
+- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) - A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -813,12 +845,14 @@
 
 ## development 
 
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [xtruder/nix-devcontainer](https://github.com/xtruder/nix-devcontainer) - Swiss army knife container for vscode development environments
 - [grafana/grafana-ansible-collection](https://github.com/grafana/grafana-ansible-collection) - grafana.grafana Ansible collection provides modules and roles for managing various resources on Grafana Cloud and roles to manage and deploy Grafana Agent and Grafana
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 
 ## devops 
 
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [openebs/openebs](https://github.com/openebs/openebs) - A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
@@ -838,6 +872,10 @@
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Testkube is a Test Orchestration Platform for Cloud Native Applications
+
+## discord 
+
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 
 ## django 
 
@@ -896,6 +934,7 @@
 
 ## documentation 
 
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) - Provides automated YAML management and a streamlit workbench. Designed to optimize dev workflows.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
@@ -1060,6 +1099,9 @@
 
 ## go 
 
+- [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
+- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
+- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
@@ -1236,6 +1278,7 @@
 
 ## gui 
 
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 
@@ -1252,6 +1295,9 @@
 
 ## hacktoberfest 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
@@ -1400,6 +1446,9 @@
 
 ## http 
 
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go.
 - [nicolasff/webdis](https://github.com/nicolasff/webdis) - A Redis HTTP interface with JSON output
 - [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability
@@ -1415,6 +1464,7 @@
 
 ## https 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1527,6 +1577,7 @@
 
 ## json 
 
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [ClickHouse/FastFormats](https://github.com/ClickHouse/FastFormats) - A benchmark for data formats
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go.
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
@@ -1549,6 +1600,7 @@
 
 ## kubernetes 
 
+- [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [chr1sd/home-ops](https://github.com/chr1sd/home-ops) - The k8s, GitOps humble home lab.
 - [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
 - [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner) - Dynamically deploy Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is provisioned from simple local filesystem storage.
@@ -1649,12 +1701,14 @@
 
 ## library 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [One-com/ozone](https://github.com/One-com/ozone) - Golang HTTP server/proxy daemon engine
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 ## linux 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -1754,6 +1808,7 @@
 
 ## macos 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -2063,6 +2118,12 @@
 
 ## others 
 
+- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
+- [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
+- [spf13/cobra-cli](https://github.com/spf13/cobra-cli) - Cobra CLI tool to generate applications and commands
+- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
+- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [antirez/yaku-ns](https://github.com/antirez/yaku-ns) - a DNS server I wrote 10 years ago. Here for historical reasons
 - [LuckyTurtleDev/crab-hole](https://github.com/LuckyTurtleDev/crab-hole) - 🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
@@ -2878,7 +2939,6 @@
 
 ## postgresql 
 
-- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
@@ -2923,6 +2983,10 @@
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 
+## powershell 
+
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
 ## privacy 
 
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
@@ -2955,6 +3019,10 @@
 
 ## python 
 
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
 - [SQLMesh/sqlmesh](https://github.com/SQLMesh/sqlmesh) - Scalable and efficient data transformation framework - backwards compatible with dbt.
@@ -3120,6 +3188,7 @@
 
 ## rest-api 
 
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
@@ -3131,6 +3200,7 @@
 
 ## ruby 
 
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [sparklemotion/sqlite3-ruby](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database
@@ -3148,6 +3218,14 @@
 
 ## rust 
 
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+- [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
+- [ismaelgv/rnr](https://github.com/ismaelgv/rnr) - A command-line tool to batch rename files and directories
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -3352,6 +3430,9 @@
 
 ## shell 
 
+- [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
@@ -3475,6 +3556,7 @@
 
 ## statistics 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [percona/pg_stat_monitor](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring Tool for PostgreSQL
 
@@ -3507,6 +3589,10 @@
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 
+## telegram 
+
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
+
 ## tensorflow 
 
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -3514,6 +3600,14 @@
 
 ## terminal 
 
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
+- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -3539,6 +3633,7 @@
 
 ## testing 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite
 - [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
 - [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) - Provides automated YAML management and a streamlit workbench. Designed to optimize dev workflows.
@@ -3568,6 +3663,8 @@
 
 ## tui 
 
+- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
+- [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -3702,6 +3799,7 @@
 
 ## web 
 
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [rack/rack](https://github.com/rack/rack) - A modular Ruby web server interface.
@@ -3737,6 +3835,7 @@
 
 ## windows 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
@@ -3754,6 +3853,7 @@
 
 ## zsh 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [hlissner/zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
 - [Yakitrak/notesmd-cli](https://github.com/Yakitrak/notesmd-cli) - Obsidian CLI (Community) -  Interact with Obsidian in the terminal!

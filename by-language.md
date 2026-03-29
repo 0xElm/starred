@@ -75,6 +75,7 @@
 
 ## C 
 
+- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [antirez/yaku-ns](https://github.com/antirez/yaku-ns) - a DNS server I wrote 10 years ago. Here for historical reasons
@@ -588,6 +589,7 @@
 - [jmalloc/echo-server](https://github.com/jmalloc/echo-server) - An HTTP and WebSocket "echo" server for testing proxies and HTTP clients.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [go-proverbs/go-proverbs.github.io](https://github.com/go-proverbs/go-proverbs.github.io) - Inspired by @rob_pike talk at Gopherfest SV 2015
+- [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 
 ## Handlebars 
 
@@ -674,7 +676,6 @@
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [mattmuench/ceph-sizer](https://github.com/mattmuench/ceph-sizer) - A Ceph sizer for capacity and h/w configuration design
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset
 - [andersonfranco/export-tabs](https://github.com/andersonfranco/export-tabs) - Google Chrome extension
 - [ravaga/helm-chart-generator](https://github.com/ravaga/helm-chart-generator) - This software generates a Helm chart from the user's answers to a series of simple questions.
 - [pouchdb-community/pouchdb-replication-stream](https://github.com/pouchdb-community/pouchdb-replication-stream) - Replicate PouchDB/CouchDB databases with Node.js-style streams
@@ -1072,7 +1073,6 @@
 - [hettie-d/pg_acm](https://github.com/hettie-d/pg_acm) - PostgreSQL access control management
 - [gerdemb/beanpost](https://github.com/gerdemb/beanpost) - An experiment in using PostgreSQL for accounting
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
-- [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 
 ## Perl 
 
@@ -1117,6 +1117,7 @@
 - [datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli) - Enforce Data Contracts
 - [DataKitchen/DKUtils](https://github.com/DataKitchen/DKUtils) - 
 - [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility acr
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset
 - [databrickslabs/dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames and Tables
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [nyrkio/nyrkio](https://github.com/nyrkio/nyrkio) - Nyrkiö is an open source platform for detecting performance changes in a Continuous Performance Engineering workflow
@@ -1244,6 +1245,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [tsinghua-fib-lab/AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety) - AgentSociety: Large-scale Social Simulation to Understand Human Behaviors and Society through LLM-driven Agents
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -1780,7 +1782,6 @@
 - [olvid-io/Olvid-Bot-Js-Client](https://github.com/olvid-io/Olvid-Bot-Js-Client) - 
 - [olvid-io/n8n-nodes-olvid](https://github.com/olvid-io/n8n-nodes-olvid) - n8n nodes to integrate Olvid in your workflows.
 - [aws/graph-explorer](https://github.com/aws/graph-explorer) - React-based web application that enables users to visualize both property graph and RDF data and explore connections between data without having to write graph queries.
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [DefiLlama/defillama-app](https://github.com/DefiLlama/defillama-app) - 

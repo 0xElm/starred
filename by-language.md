@@ -75,6 +75,9 @@
 
 ## C 
 
+- [quixdb/squash-benchmark](https://github.com/quixdb/squash-benchmark) - Benchmarking all of the algorithms from Squash
+- [inikep/lzbench](https://github.com/inikep/lzbench) - lzbench is an in-memory benchmark of open-source compressors
+- [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
@@ -153,6 +156,8 @@
 
 ## C++ 
 
+- [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [percona/percona-xtrabackup](https://github.com/percona/percona-xtrabackup) - Open source hot backup tool for InnoDB and XtraDB databases
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
 - [ydb-platform/nbs](https://github.com/ydb-platform/nbs) - Network Block & File Store
@@ -218,6 +223,7 @@
 
 ## Dockerfile 
 
+- [buildkite/python-docker-example](https://github.com/buildkite/python-docker-example) - An example pipeline that runs Python tests inside a Docker container using uv for dependency management.
 - [open-telemetry/build-tools](https://github.com/open-telemetry/build-tools) - Building tools provided by OpenTelemetry
 - [dovecot/docker](https://github.com/dovecot/docker) - Docker image sources for Dovecot
 - [Arkaniad/docker-supervisord](https://github.com/Arkaniad/docker-supervisord) - 
@@ -244,6 +250,24 @@
 
 ## Go 
 
+- [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
+- [prometheus/test-infra](https://github.com/prometheus/test-infra) - Prometheus E2E benchmarking tool
+- [hashicorp/vault-benchmark](https://github.com/hashicorp/vault-benchmark) - A tool for benchmarking usage of Vault.
+- [multigres/multigres](https://github.com/multigres/multigres) - Vitess for Postgres
+- [multigres/supafirehose](https://github.com/multigres/supafirehose) - Load testing tool for Postgres connection poolers. Control QPS and connections, visualize latency and throughput in real-time.
+- [multigres/multigres-operator](https://github.com/multigres/multigres-operator) - Kubernetes operator for Multigres — deploys, scales, and manages horizontally scalable PostgreSQL clusters with automated topology orchestration, drain-safe rolling updates, and admission webhooks
+- [buildkite/go-pipeline](https://github.com/buildkite/go-pipeline) - A way to define and manipulate buildkite pipelines using golang. Used internally by the buildkite-agent, so you know it's good
+- [buildkite/containers-on-k8s](https://github.com/buildkite/containers-on-k8s) - Examples for building docker containers on kubernetes
+- [buildkite/golang-example](https://github.com/buildkite/golang-example) - An example pipeline that runs and tests a Go project using Buildkite, without Docker.
+- [buildkite/stacksapi](https://github.com/buildkite/stacksapi) - A Go client for Buildkite's Stacks API
+- [buildkite/buildkite-logs](https://github.com/buildkite/buildkite-logs) - A Go library and CLI tool for parsing Buildkite log files that contain OSC (Operating System Command) sequences with timestamps.
+- [buildkite/buildkite-agent-metrics](https://github.com/buildkite/buildkite-agent-metrics) - A command-line tool (and Lambda) for collecting Buildkite agent metrics
+- [buildkite/go-buildkite](https://github.com/buildkite/go-buildkite) - A Go library for the Buildkite API
+- [buildkite/test-engine-client](https://github.com/buildkite/test-engine-client) - Buildkite Test Engine Client (bktec) is an open source tool to orchestrate your test suites. It uses your Buildkite Test Engine suite data to intelligently partition and parallelise your tests.
+- [bradfitz/go-sql-test](https://github.com/bradfitz/go-sql-test) - test ALL the databases
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+- [buildkite/cli](https://github.com/buildkite/cli) - A command line interface for Buildkite.
+- [buildkite/agent](https://github.com/buildkite/agent) - The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network
 - [storj/drpc](https://github.com/storj/drpc) - drpc is a lightweight, drop-in replacement for gRPC
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [ssp-data/neomd](https://github.com/ssp-data/neomd) - A minimal email TUI where you read with Markdown and write in Neovim.
@@ -641,6 +665,7 @@
 
 ## Java 
 
+- [buildkite/clickhouse-java](https://github.com/buildkite/clickhouse-java) - ClickHouse Java Clients & JDBC Driver
 - [dbeaver/dbeaver-common](https://github.com/dbeaver/dbeaver-common) - Common utils and dependencies for all DBeaver projects
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [dqops/dqo](https://github.com/dqops/dqo) - Data Quality and Observability platform for the whole data lifecycle, from profiling new data sources to full automation with Data Observability. Configure data quality checks from the UI or in YAML f
@@ -673,6 +698,7 @@
 
 ## JavaScript 
 
+- [buildkite/jenkins-to-buildkite](https://github.com/buildkite/jenkins-to-buildkite) - An example of how to migrate a Jenkins pipeline to Buildkite.
 - [OpenRouterTeam/awesome-openrouter](https://github.com/OpenRouterTeam/awesome-openrouter) - Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [proginosko/LeechBlockNG](https://github.com/proginosko/LeechBlockNG) - LeechBlock NG (Next Generation) for Firefox is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which
@@ -995,6 +1021,8 @@
 
 ## Others 
 
+- [buildkite/dependent-pipeline-example](https://github.com/buildkite/dependent-pipeline-example) - An example of how to trigger Buildkite pipelines from other pipelines.
+- [buildkite/opentelemetry-notification-service-examples](https://github.com/buildkite/opentelemetry-notification-service-examples) - 
 - [meglister/job-search-skills](https://github.com/meglister/job-search-skills) - Open sourcing the materials and skills I've used in my job search
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
@@ -1108,6 +1136,8 @@
 
 ## Python 
 
+- [buildkite/python-pipenv-example](https://github.com/buildkite/python-pipenv-example) - An example pipeline that tests a Python project using pipenv for dependency management.
+- [buildkite/test-collector-python](https://github.com/buildkite/test-collector-python) - Python adapter for Buildkite Test Engine
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [tencent-ailab/persona-hub](https://github.com/tencent-ailab/persona-hub) - Official repo for the paper "Scaling Synthetic Data Creation with 1,000,000,000 Personas"
 - [chrthomsen/pygrametl](https://github.com/chrthomsen/pygrametl) - Official repository for pygrametl - ETL programming in Python
@@ -1296,6 +1326,7 @@
 
 ## Ruby 
 
+- [buildkite/safer_redis](https://github.com/buildkite/safer_redis) - SaferRedis wraps a Ruby Redis connection and warns before allowing dangerous/slow commands
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [masci/k8s101](https://github.com/masci/k8s101) - A 2-hours workshop to go from zero to Kubernetes
@@ -1335,6 +1366,7 @@
 
 ## Rust 
 
+- [buildkite/test-collector-rust](https://github.com/buildkite/test-collector-rust) - Rust adapter for Buildkite Test Engine which implements a parser and sender for Rust's JSON test output
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars 
 - [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
@@ -1599,6 +1631,10 @@
 
 ## Shell 
 
+- [buildkite/docker-example](https://github.com/buildkite/docker-example) - An example pipeline that runs a Bash script in Docker Compose using the Docker Compose Buildkite plugin.
+- [buildkite/charts](https://github.com/buildkite/charts) - Buildkite Helm Charts repository
+- [buildkite/bash-parallel-example](https://github.com/buildkite/bash-parallel-example) - An example pipeline that runs a Bash script in parallel across multiple agents.
+- [buildkite/docker-bootstrap-example](https://github.com/buildkite/docker-bootstrap-example) - 🐳Run your buildkite builds inside an ephemeral per-job container
 - [supabase/supabase-grafana](https://github.com/supabase/supabase-grafana) - Observability for your Supabase project, using Prometheus/Grafana
 - [rxerium/bug-bounty-tools](https://github.com/rxerium/bug-bounty-tools) - A BASH Script to automate the installation of the most popular bug bounty tools
 - [zfsonlinux/zfsstress](https://github.com/zfsonlinux/zfsstress) - 

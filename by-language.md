@@ -75,6 +75,7 @@
 
 ## C 
 
+- [NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore) - Nagios Core
 - [skaiworldwide-oss/agensgraph](https://github.com/skaiworldwide-oss/agensgraph) - AgensGraph, a transactional graph database based on PostgreSQL
 - [quixdb/squash-benchmark](https://github.com/quixdb/squash-benchmark) - Benchmarking all of the algorithms from Squash
 - [inikep/lzbench](https://github.com/inikep/lzbench) - lzbench is an in-memory benchmark of open-source compressors
@@ -251,6 +252,13 @@
 
 ## Go 
 
+- [bicomsystems/go-libzfs](https://github.com/bicomsystems/go-libzfs) - go language link to libzfs C library
+- [problame/go-netssh](https://github.com/problame/go-netssh) - Package netssh provides net.Conn and net.Listener that uses the ssh binary + authorized_keys file as a transport.
+- [Debian/dh-make-golang](https://github.com/Debian/dh-make-golang) - Automatically creates Debian packaging for Go packages
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code
+- [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
+- [Debian/ratelimit](https://github.com/Debian/ratelimit) - A Go blocking leaky-bucket rate limit implementation
+- [Debian/dcs](https://github.com/Debian/dcs) - Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
@@ -602,6 +610,7 @@
 
 ## HTML 
 
+- [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [simonw/datasette.io](https://github.com/simonw/datasette.io) - The official project website for Datasette
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
@@ -1146,6 +1155,10 @@
 
 ## Python 
 
+- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
+- [shobrook/openlimit](https://github.com/shobrook/openlimit) - Efficient, per-second rate limiter for the OpenAI API
+- [uma-pi1/kge](https://github.com/uma-pi1/kge) - LibKGE - A knowledge graph embedding library for reproducible research
+- [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [graphistry/pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer
 - [buildkite/python-pipenv-example](https://github.com/buildkite/python-pipenv-example) - An example pipeline that tests a Python project using pipenv for dependency management.
 - [buildkite/test-collector-python](https://github.com/buildkite/test-collector-python) - Python adapter for Buildkite Test Engine
@@ -1211,7 +1224,7 @@
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [fullzer4/pybenchx](https://github.com/fullzer4/pybenchx) - Microbenchmarks that mean it
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 - [zipnn/zipnn](https://github.com/zipnn/zipnn) - A Lossless Compression Library for AI pipelines
@@ -1377,6 +1390,7 @@
 
 ## Rust 
 
+- [shorwood/slopc](https://github.com/shorwood/slopc) - A proc macro that uses an hallucination machine to write your function bodies at compile time.
 - [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
 - [buildkite/test-collector-rust](https://github.com/buildkite/test-collector-rust) - Rust adapter for Buildkite Test Engine which implements a parser and sender for Rust's JSON test output
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
@@ -1643,6 +1657,8 @@
 
 ## Shell 
 
+- [EnigmaCurry/nixos-vm-template](https://github.com/EnigmaCurry/nixos-vm-template) - 
+- [ngallodev/mariadb_tuning](https://github.com/ngallodev/mariadb_tuning) - Scripts for tuning the mariadb for optimal performance and bulk load from file
 - [buildkite/docker-example](https://github.com/buildkite/docker-example) - An example pipeline that runs a Bash script in Docker Compose using the Docker Compose Buildkite plugin.
 - [buildkite/charts](https://github.com/buildkite/charts) - Buildkite Helm Charts repository
 - [buildkite/bash-parallel-example](https://github.com/buildkite/bash-parallel-example) - An example pipeline that runs a Bash script in parallel across multiple agents.

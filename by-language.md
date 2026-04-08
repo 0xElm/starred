@@ -158,6 +158,7 @@
 
 ## C++ 
 
+- [yalibs/yasliding-window](https://github.com/yalibs/yasliding-window) - Sliding window average implementation for C/C++ applications
 - [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [percona/percona-xtrabackup](https://github.com/percona/percona-xtrabackup) - Open source hot backup tool for InnoDB and XtraDB databases
@@ -252,6 +253,8 @@
 
 ## Go 
 
+- [cdzombak/golang-moving-average](https://github.com/cdzombak/golang-moving-average) - Moving average/median/stats implementation for Go
+- [RobinUS2/golang-moving-average](https://github.com/RobinUS2/golang-moving-average) - Moving average implementation for Go
 - [bicomsystems/go-libzfs](https://github.com/bicomsystems/go-libzfs) - go language link to libzfs C library
 - [problame/go-netssh](https://github.com/problame/go-netssh) - Package netssh provides net.Conn and net.Listener that uses the ssh binary + authorized_keys file as a transport.
 - [Debian/dh-make-golang](https://github.com/Debian/dh-make-golang) - Automatically creates Debian packaging for Go packages
@@ -801,6 +804,7 @@
 
 ## Jupyter Notebook 
 
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [DataTreehouse/maplib-masterclass](https://github.com/DataTreehouse/maplib-masterclass) - A comprehensive guide to maplib.
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 
@@ -963,6 +967,7 @@
 - [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [tweag/nixdoc](https://github.com/tweag/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@tazjin,@ryantm]
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [nix-community/naersk](https://github.com/nix-community/naersk) - Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly.
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [Michael-C-Buckley/nix-microvm](https://github.com/Michael-C-Buckley/nix-microvm) - Testing flake for microvm.nix instances
@@ -1215,7 +1220,6 @@
 - [moxie0/chapcrack](https://github.com/moxie0/chapcrack) - 
 - [moxie0/sslstrip](https://github.com/moxie0/sslstrip) - A tool for exploiting Moxie Marlinspike's SSL "stripping" attack.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
-- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [robinhood/thorn](https://github.com/robinhood/thorn) - Easy Webhooks for Python
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -1459,6 +1463,7 @@
 - [jgao54/rrb-tree-rs](https://github.com/jgao54/rrb-tree-rs) - Learning about RRB and Rust
 - [bee-san/Ares](https://github.com/bee-san/Ares) - Automated decoding of encrypted text without knowing the key or ciphers used
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [MAIF/yozefu](https://github.com/MAIF/yozefu) - An interactive terminal user interface (TUI) application for exploring data of a kafka cluster.
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
@@ -1529,7 +1534,6 @@
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [proxmox/proxmox-rs](https://github.com/proxmox/proxmox-rs) - Proxmox Common Rust Crates
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
@@ -1735,6 +1739,10 @@
 
 ## TypeScript 
 
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+- [TinyAGI/tinyagi](https://github.com/TinyAGI/tinyagi) - TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) - Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager

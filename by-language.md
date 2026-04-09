@@ -635,7 +635,6 @@
 - [jmalloc/echo-server](https://github.com/jmalloc/echo-server) - An HTTP and WebSocket "echo" server for testing proxies and HTTP clients.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [go-proverbs/go-proverbs.github.io](https://github.com/go-proverbs/go-proverbs.github.io) - Inspired by @rob_pike talk at Gopherfest SV 2015
-- [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 
 ## Handlebars 
 
@@ -1133,6 +1132,7 @@
 - [hettie-d/pg_acm](https://github.com/hettie-d/pg_acm) - PostgreSQL access control management
 - [gerdemb/beanpost](https://github.com/gerdemb/beanpost) - An experiment in using PostgreSQL for accounting
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 
 ## Perl 
 
@@ -1160,6 +1160,7 @@
 
 ## Python 
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [shobrook/openlimit](https://github.com/shobrook/openlimit) - Efficient, per-second rate limiter for the OpenAI API
 - [uma-pi1/kge](https://github.com/uma-pi1/kge) - LibKGE - A knowledge graph embedding library for reproducible research

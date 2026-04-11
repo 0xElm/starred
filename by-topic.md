@@ -266,7 +266,7 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode AI to stay in your flow.
 - [b0o/whispertool](https://github.com/b0o/whispertool) - 🗣️ voice recording and transcription tool built on whisper.cpp
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -283,11 +283,12 @@
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica 🧠 — A framework for building semantic layers, context graphs, and decision intelligence systems with explainability and provenance.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode AI to stay in your flow.
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Testkube is a Test Orchestration Platform for Cloud Native Applications
 
 ## analytics 
 
+- [codennomad/analytics-saas](https://github.com/codennomad/analytics-saas) - Production-Grade Real-Time Analytics Platform | Multi-tenant SaaS with sub-200ms ingestion, ClickHouse OLAP, and enterprise-grade observability. Built with TypeScript, Fastify, Next.js, and Kubernetes
 - [apache/age-viewer](https://github.com/apache/age-viewer) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
@@ -533,6 +534,7 @@
 
 ## claude-code 
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable kn
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
@@ -1163,6 +1165,7 @@
 
 ## go 
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
@@ -1682,6 +1685,7 @@
 
 ## kubernetes 
 
+- [codennomad/analytics-saas](https://github.com/codennomad/analytics-saas) - Production-Grade Real-Time Analytics Platform | Multi-tenant SaaS with sub-200ms ingestion, ClickHouse OLAP, and enterprise-grade observability. Built with TypeScript, Fastify, Next.js, and Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [multigres/multigres-operator](https://github.com/multigres/multigres-operator) - Kubernetes operator for Multigres — deploys, scales, and manages horizontally scalable PostgreSQL clusters with automated topology orchestration, drain-safe rolling updates, and admission webhooks
 - [buildkite/charts](https://github.com/buildkite/charts) - Buildkite Helm Charts repository
@@ -2074,7 +2078,7 @@
 - [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) - Diagrams as code in Neovim.
 - [NotAShelf/direnv.nvim](https://github.com/NotAShelf/direnv.nvim) - Lua implementation of direnv.vim for automatic .envrc handling & syntax.
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode AI to stay in your flow.
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -2099,6 +2103,7 @@
 
 ## nextjs 
 
+- [codennomad/analytics-saas](https://github.com/codennomad/analytics-saas) - Production-Grade Real-Time Analytics Platform | Multi-tenant SaaS with sub-200ms ingestion, ClickHouse OLAP, and enterprise-grade observability. Built with TypeScript, Fastify, Next.js, and Kubernetes
 - [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Publish markdown (and html) websites, docs, wikis and websites in seconds. Integrates with your AI.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
@@ -2216,6 +2221,10 @@
 
 ## others 
 
+- [shafiqahmed-786/zorvyn-finance-backend-api](https://github.com/shafiqahmed-786/zorvyn-finance-backend-api) - Production-grade fintech backend built in Go, Fiber, PostgreSQL, and GORM with JWT auth, RBAC, audit logs, financial records CRUD, dashboard analytics, Dockerized local setup, and Swagger docs. Built 
+- [ClickHouse/stockhouse](https://github.com/ClickHouse/stockhouse) - Stock and Crypto real-time market data visualization demo
+- [bahdotsh/giff](https://github.com/bahdotsh/giff) - A terminal-based Git diff viewer with interactive rebase capabilities
+- [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - Go bindings for libghostty-vt.
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 - [TinyAGI/tinyagi](https://github.com/TinyAGI/tinyagi) - TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -3088,6 +3097,7 @@
 
 ## postgresql 
 
+- [codennomad/analytics-saas](https://github.com/codennomad/analytics-saas) - Production-Grade Real-Time Analytics Platform | Multi-tenant SaaS with sub-200ms ingestion, ClickHouse OLAP, and enterprise-grade observability. Built with TypeScript, Fastify, Next.js, and Kubernetes
 - [skaiworldwide-oss/agensgraph](https://github.com/skaiworldwide-oss/agensgraph) - AgensGraph, a transactional graph database based on PostgreSQL
 - [apache/age-viewer](https://github.com/apache/age-viewer) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [multigres/multigres-operator](https://github.com/multigres/multigres-operator) - Kubernetes operator for Multigres — deploys, scales, and manages horizontally scalable PostgreSQL clusters with automated topology orchestration, drain-safe rolling updates, and admission webhooks
@@ -3788,7 +3798,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui) - A curated list of awesome opentui resources
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode AI to stay in your flow.
 - [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) - A terminal application that simulates installing things but doesn't actually install anything
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -3796,6 +3806,7 @@
 
 ## terraform 
 
+- [codennomad/analytics-saas](https://github.com/codennomad/analytics-saas) - Production-Grade Real-Time Analytics Platform | Multi-tenant SaaS with sub-200ms ingestion, ClickHouse OLAP, and enterprise-grade observability. Built with TypeScript, Fastify, Next.js, and Kubernetes
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [the-nix-way/real-world-devops-with-nix](https://github.com/the-nix-way/real-world-devops-with-nix) - An example project for building containers with Nix and deploying them to Kubernetes
 
@@ -3857,6 +3868,7 @@
 
 ## typescript 
 
+- [codennomad/analytics-saas](https://github.com/codennomad/analytics-saas) - Production-Grade Real-Time Analytics Platform | Multi-tenant SaaS with sub-200ms ingestion, ClickHouse OLAP, and enterprise-grade observability. Built with TypeScript, Fastify, Next.js, and Kubernetes
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.

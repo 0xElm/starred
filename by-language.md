@@ -32,6 +32,7 @@
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lean](#lean)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -163,6 +164,8 @@
 
 ## C++ 
 
+- [graphia-app/graphia](https://github.com/graphia-app/graphia) - A visualisation tool for the creation and analysis of graphs
+- [google/perfetto](https://github.com/google/perfetto) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
 - [yalibs/yasliding-window](https://github.com/yalibs/yasliding-window) - Sliding window average implementation for C/C++ applications
 - [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
@@ -243,6 +246,7 @@
 
 ## Elixir 
 
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [the-nix-way/nix-flake-dev-environments](https://github.com/the-nix-way/nix-flake-dev-environments) - Nix flake examples for real-world development environments [maintainer=@lucperkins]
 
@@ -257,6 +261,8 @@
 
 ## Go 
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [shafiqahmed-786/zorvyn-finance-backend-api](https://github.com/shafiqahmed-786/zorvyn-finance-backend-api) - Production-grade fintech backend built in Go, Fiber, PostgreSQL, and GORM with JWT auth, RBAC, audit logs, financial records CRUD, dashboard analytics, Dockerized local setup, and Swagger docs. Built 
 - [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - Go bindings for libghostty-vt.
 - [cdzombak/golang-moving-average](https://github.com/cdzombak/golang-moving-average) - Moving average/median/stats implementation for Go
 - [RobinUS2/golang-moving-average](https://github.com/RobinUS2/golang-moving-average) - Moving average implementation for Go
@@ -821,6 +827,11 @@
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
 
+## Lean 
+
+- [leanprover/SampCert](https://github.com/leanprover/SampCert) - SampCert : Verified Differential Privacy
+- [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
+
 ## Lua 
 
 - [Percona-Lab/sysbench-tpcc](https://github.com/Percona-Lab/sysbench-tpcc) - Sysbench scripts to generate a tpcc-like workload for MySQL and PostgreSQL
@@ -914,6 +925,7 @@
 ## MDX 
 
 - [mintlify/install-md](https://github.com/mintlify/install-md) - Human-readable installation instructions that AI agents can execute
+- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [radarlabs/mintlify](https://github.com/radarlabs/mintlify) - 
 - [rauchg/blog](https://github.com/rauchg/blog) - 
 - [element-hq/compound](https://github.com/element-hq/compound) - Element's design system
@@ -947,6 +959,9 @@
 
 ## Nix 
 
+- [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
+- [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
+- [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [DBCDK/devpi-web](https://github.com/DBCDK/devpi-web) - flake overlay for devpi-web plugin
 - [joshleecreates/nixos-proxmox](https://github.com/joshleecreates/nixos-proxmox) - 
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
@@ -1165,6 +1180,12 @@
 
 ## Python 
 
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
+- [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
+- [zigpy/zha](https://github.com/zigpy/zha) - Zigbee Home Automation
+- [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
+- [Kha/nixprof](https://github.com/Kha/nixprof) - A Nix build graph profiler
+- [davep/hike](https://github.com/davep/hike) - A Markdown browser for the terminal
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable kn
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [shobrook/openlimit](https://github.com/shobrook/openlimit) - Efficient, per-second rate limiter for the OpenAI API
@@ -1400,6 +1421,10 @@
 
 ## Rust 
 
+- [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
+- [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
+- [oddlama/idmail](https://github.com/oddlama/idmail) - An email alias and account management interface for self-hosted mailservers
+- [oddlama/autokernel](https://github.com/oddlama/autokernel) - A tool for managing your kernel configuration that guarantees semantic correctness
 - [bahdotsh/giff](https://github.com/bahdotsh/giff) - A terminal-based Git diff viewer with interactive rebase capabilities
 - [shorwood/slopc](https://github.com/shorwood/slopc) - A proc macro that uses an hallucination machine to write your function bodies at compile time.
 - [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
@@ -1438,7 +1463,6 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [tobilg/polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
 - [kennytm/qrcode-rust](https://github.com/kennytm/qrcode-rust) - QR code encoder in Rust.
 - [houseme/qrcode-rs](https://github.com/houseme/qrcode-rs) - QR code encoder in Rust，Generate QR Code matrices and images in RAW, PNG and SVG formats.
@@ -1745,6 +1769,8 @@
 
 ## TypeScript 
 
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+- [codennomad/analytics-saas](https://github.com/codennomad/analytics-saas) - Production-Grade Real-Time Analytics Platform | Multi-tenant SaaS with sub-200ms ingestion, ClickHouse OLAP, and enterprise-grade observability. Built with TypeScript, Fastify, Next.js, and Kubernetes
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 - [TinyAGI/tinyagi](https://github.com/TinyAGI/tinyagi) - TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞

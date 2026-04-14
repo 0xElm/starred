@@ -488,7 +488,7 @@
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [dpeckett/aptify](https://github.com/dpeckett/aptify) - Probably the quickest, and easiest, way to create a Debian APT repository from a set of deb files.
 - [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
@@ -1946,7 +1946,7 @@
 
 - [deris/vim-shot-f](https://github.com/deris/vim-shot-f) - highlight the character which can move directly to (by `f`,`F`,`t`,`T`)
 - [yaahc/dotfiles](https://github.com/yaahc/dotfiles) - Jane Lusby's Configuration Files for well used applications.
-- [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
+- [z4p5a9/blamer.nvim](https://github.com/z4p5a9/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Vue 

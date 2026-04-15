@@ -1182,6 +1182,7 @@
 
 ## Python 
 
+- [getscaf/sfu-fullstack-template](https://github.com/getscaf/sfu-fullstack-template) - This template provides developers with a complete blueprint for a new project using Kubernetes.
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
@@ -1697,6 +1698,7 @@
 
 ## Shell 
 
+- [getscaf/scaf](https://github.com/getscaf/scaf) - scaf is a template manager that simplifies bootstrapping and updating projects.
 - [EnigmaCurry/nixos-vm-template](https://github.com/EnigmaCurry/nixos-vm-template) - 
 - [ngallodev/mariadb_tuning](https://github.com/ngallodev/mariadb_tuning) - Scripts for tuning the mariadb for optimal performance and bulk load from file
 - [buildkite/docker-example](https://github.com/buildkite/docker-example) - An example pipeline that runs a Bash script in Docker Compose using the Docker Compose Buildkite plugin.

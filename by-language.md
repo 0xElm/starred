@@ -63,6 +63,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -490,6 +491,7 @@
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [NikolaLohinski/gonja](https://github.com/NikolaLohinski/gonja) - ⛩️ Pure Golang engine for Jinja templates
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
+- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk pro
 - [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
@@ -843,6 +845,11 @@
 
 ## Lua 
 
+- [neovim-treesitter/treesitter-parser-registry](https://github.com/neovim-treesitter/treesitter-parser-registry) - 
+- [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) - Mirror of https://codeberg.org/mfussenegger/nvim-dap-python
+- [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
+- [pysan3/autosession.nvim](https://github.com/pysan3/autosession.nvim) - Neovim Plugin to Save and Restore Sessions Per-directory
+- [georgeharker/whichpy.nvim](https://github.com/georgeharker/whichpy.nvim) - Python interpreter selector for Neovim. Switch interpreters without restarting LSP.
 - [juliamertz/dotfiles](https://github.com/juliamertz/dotfiles) - 
 - [nvzone/timerly](https://github.com/nvzone/timerly) - Beautiful countdown timer plugin for Neovim
 - [nvzone/typr](https://github.com/nvzone/typr) - Most Beautiful Typing practice plugin for Neovim with dashboard
@@ -1201,6 +1208,11 @@
 
 ## Python 
 
+- [neovim/pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim
+- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
+- [ramonhagenaars/jsons](https://github.com/ramonhagenaars/jsons) - 🐍 A Python lib for (de)serializing Python objects to/from JSON
+- [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
+- [Wuestengecko/DoorPi](https://github.com/Wuestengecko/DoorPi) - OpenSource VoIP Door-Intercomstation
 - [jumper149/blugon](https://github.com/jumper149/blugon) - simple and configurable Blue Light Filter for X
 - [brainhivenl/PyHive](https://github.com/brainhivenl/PyHive) - Python interface to Hive and Presto. 🐝
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
@@ -1456,6 +1468,7 @@
 
 ## Rust 
 
+- [georgeharker/sharedserver](https://github.com/georgeharker/sharedserver) - 
 - [DOD-101/commit-lsp](https://github.com/DOD-101/commit-lsp) - LSP Server for providing linting and autocompletion inside of git commit messages
 - [DOD-101/igneous-md](https://github.com/DOD-101/igneous-md) - 🌋 Simple and lightweight gfm markdown viewer / framework written in rust
 - [juliamertz/bluegone](https://github.com/juliamertz/bluegone) - 
@@ -1833,7 +1846,12 @@
 
 ## TeX 
 
+- [The-Compiler/pytest-quick-ref](https://github.com/The-Compiler/pytest-quick-ref) - PDF/paper cheat sheet for pytest
 - [joeduffy/foundations-of-llms](https://github.com/joeduffy/foundations-of-llms) - 
+
+## Tree-sitter Query 
+
+- [neovim-treesitter/nvim-treesitter](https://github.com/neovim-treesitter/nvim-treesitter) - 
 
 ## TypeScript 
 
@@ -1971,7 +1989,6 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [evertdespiegeleer/red-cli](https://github.com/evertdespiegeleer/red-cli) - A TUI client for Redis
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
-- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk pro
 - [DataTreehouse/graph-explorer](https://github.com/DataTreehouse/graph-explorer) - Graph Explorer can be used to explore RDF graphs in SPARQL endpoints or on the web.
 - [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
 - [olvid-io/Olvid-Bot-Js-Client](https://github.com/olvid-io/Olvid-Bot-Js-Client) - 

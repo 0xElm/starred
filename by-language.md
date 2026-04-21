@@ -402,7 +402,7 @@
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [zimulala/minproxy](https://github.com/zimulala/minproxy) - a simple redis cluster
 - [tikv/client-go](https://github.com/tikv/client-go) - Go client for TiKV
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go.
 - [pg-sharding/spqr](https://github.com/pg-sharding/spqr) - Stateless Postgres Query Router.
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
@@ -845,6 +845,7 @@
 
 ## Lua 
 
+- [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [neovim-treesitter/treesitter-parser-registry](https://github.com/neovim-treesitter/treesitter-parser-registry) - 
 - [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) - Mirror of https://codeberg.org/mfussenegger/nvim-dap-python
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
@@ -1468,6 +1469,7 @@
 
 ## Rust 
 
+- [calfonso/rusternetes](https://github.com/calfonso/rusternetes) - kubernetes, reimplemented in Rust
 - [georgeharker/sharedserver](https://github.com/georgeharker/sharedserver) - 
 - [DOD-101/commit-lsp](https://github.com/DOD-101/commit-lsp) - LSP Server for providing linting and autocompletion inside of git commit messages
 - [DOD-101/igneous-md](https://github.com/DOD-101/igneous-md) - 🌋 Simple and lightweight gfm markdown viewer / framework written in rust
@@ -1768,6 +1770,7 @@
 
 ## Shell 
 
+- [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - my scripts!
 - [kewitz/git-semantics](https://github.com/kewitz/git-semantics) - Git hook to ensure semantic commit messages.
 - [getscaf/scaf](https://github.com/getscaf/scaf) - scaf is a template manager that simplifies bootstrapping and updating projects.

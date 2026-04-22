@@ -59,6 +59,7 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Smarty](#smarty)
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -266,6 +267,20 @@
 
 ## Go 
 
+- [kubernetes-sigs/container-object-storage-interface](https://github.com/kubernetes-sigs/container-object-storage-interface) - Container Object Storage Interface (COSI) responsible for defining COSI spec and APIs, interfacing with COSI drivers, and managing the lifecycle of COSI objects.
+- [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom) - A utility to generate SPDX-compliant Bill of Materials manifests
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project
+- [kubernetes-sigs/iptables-wrappers](https://github.com/kubernetes-sigs/iptables-wrappers) - Wrapper scripts for using iptables in containers
+- [kubernetes-sigs/gwctl](https://github.com/kubernetes-sigs/gwctl) - gwctl is a command-line tool for managing and understanding Gateway API resources in your Kubernetes cluster.
+- [kubernetes-sigs/zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) - Zeitgeist: the language-agnostic dependency checker
+- [kubernetes-sigs/mdtoc](https://github.com/kubernetes-sigs/mdtoc) - Markdown table-of-contents generator
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
+- [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [kubernetes-sigs/kindnet](https://github.com/kubernetes-sigs/kindnet) - minimalistic Kubernetes network plugin that just works
+- [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
+- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [sstarcher/helm-exporter](https://github.com/sstarcher/helm-exporter) - Export helm stats into the Prometheus format
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -809,6 +824,7 @@
 
 ## Jinja 
 
+- [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [jsuereth/o11y-by-design](https://github.com/jsuereth/o11y-by-design) - Example code for KubeCon Observability by Design talk.
 - [ANXS/postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
@@ -1090,6 +1106,7 @@
 
 ## Others 
 
+- [act-project/TAC](https://github.com/act-project/TAC) - Automating Compliance Tooling Project
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [opencollective/opencollective](https://github.com/opencollective/opencollective) - We're tracking all our Issues, RFCs and a few other documents in this repository.
 - [graphgeeks-lab/awesome-graph-universe](https://github.com/graphgeeks-lab/awesome-graph-universe) - A curated list of resources for graph-related topics, including graph databases, analytics and science
@@ -1821,6 +1838,10 @@
 - [threema-ch/webrtc-build-docker](https://github.com/threema-ch/webrtc-build-docker) - Dockerfile to build the WebRTC PeerConnection for Android using the new GN based build system.
 - [threema-ch/webrtc-android](https://github.com/threema-ch/webrtc-android) - WebRTC builds for Android
 
+## Smarty 
+
+- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
+
 ## Starlark 
 
 - [tweag/bazel-workshop](https://github.com/tweag/bazel-workshop) - Bazel Introduciton Workshop using C++ and Rust
@@ -1858,6 +1879,7 @@
 
 ## TypeScript 
 
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [juliamertz/hass-light-sync](https://github.com/juliamertz/hass-light-sync) - Hue Sync alike program for Home Assistant lights
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible

@@ -83,6 +83,7 @@
 
 ## C 
 
+- [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [nemuTUI/nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.
 - [NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore) - Nagios Core
@@ -168,6 +169,7 @@
 
 ## C++ 
 
+- [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader (podcast player, basic XMPP client and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
 - [graphia-app/graphia](https://github.com/graphia-app/graphia) - A visualisation tool for the creation and analysis of graphs
@@ -270,6 +272,7 @@
 
 ## Go 
 
+- [openkube-hub/KubeUser](https://github.com/openkube-hub/KubeUser) - Kubernetes-native user management operator
 - [haproxytech/dataplaneapi](https://github.com/haproxytech/dataplaneapi) - HAProxy Data Plane API
 - [S-mishina/initjob-operator](https://github.com/S-mishina/initjob-operator) - A Kubernetes operator that manages initialization jobs for your applications.
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
@@ -800,6 +803,8 @@
 
 ## JavaScript 
 
+- [craigbuckler/staticsearch](https://github.com/craigbuckler/staticsearch) - Static site search engine
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [apache/age-viewer](https://github.com/apache/age-viewer) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [buildkite/jenkins-to-buildkite](https://github.com/buildkite/jenkins-to-buildkite) - An example of how to migrate a Jenkins pipeline to Buildkite.
@@ -1277,6 +1282,10 @@
 
 ## Python 
 
+- [jgillula/paperless-ngx-postprocessor](https://github.com/jgillula/paperless-ngx-postprocessor) - A powerful and customizable postprocessing script for paperless-ngx
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
+- [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -1547,6 +1556,9 @@
 
 ## Rust 
 
+- [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) - Rust implementation of Tailscale (preview, experimental)
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
@@ -1908,7 +1920,7 @@
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [desdic/dotfiles](https://github.com/desdic/dotfiles) - dotfiles managed by chezmoi
-- [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image
+- [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - An OpenTelemetry backend in a Docker container image
 - [WireGuard/wireguard-vyatta-ubnt](https://github.com/WireGuard/wireguard-vyatta-ubnt) - WireGuard for Ubiquiti Devices
 - [lukaszbudnik/keycloak-kubernetes](https://github.com/lukaszbudnik/keycloak-kubernetes) - Keycloak cluster deployed to Kubernetes
 - [threema-ch/webrtc-build-docker](https://github.com/threema-ch/webrtc-build-docker) - Dockerfile to build the WebRTC PeerConnection for Android using the new GN based build system.
@@ -1956,6 +1968,11 @@
 
 ## TypeScript 
 
+- [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [vincelwt/gloomberb](https://github.com/vincelwt/gloomberb) - Finance terminal, in your terminal.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [juliamertz/hass-light-sync](https://github.com/juliamertz/hass-light-sync) - Hue Sync alike program for Home Assistant lights

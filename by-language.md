@@ -169,6 +169,7 @@
 
 ## C++ 
 
+- [mariadb-corporation/MaxScale](https://github.com/mariadb-corporation/MaxScale) - An intelligent database proxy.
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader (podcast player, basic XMPP client and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
@@ -258,7 +259,7 @@
 ## Elixir 
 
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [the-nix-way/nix-flake-dev-environments](https://github.com/the-nix-way/nix-flake-dev-environments) - Nix flake examples for real-world development environments [maintainer=@lucperkins]
 
 ## Elm 
@@ -272,6 +273,10 @@
 
 ## Go 
 
+- [frapposelli/wwhrd](https://github.com/frapposelli/wwhrd) - You have licenses to manage, What Would Henry Rollins Do?
+- [go-enry/go-license-detector](https://github.com/go-enry/go-license-detector) - Reliable project licenses detector.
+- [aragossa/pii-shield](https://github.com/aragossa/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
+- [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) - Verify provenance from SLSA compliant builders
 - [openkube-hub/KubeUser](https://github.com/openkube-hub/KubeUser) - Kubernetes-native user management operator
 - [haproxytech/dataplaneapi](https://github.com/haproxytech/dataplaneapi) - HAProxy Data Plane API
 - [S-mishina/initjob-operator](https://github.com/S-mishina/initjob-operator) - A Kubernetes operator that manages initialization jobs for your applications.
@@ -380,7 +385,7 @@
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
+- [itstoragesvc/dnscontrol](https://github.com/itstoragesvc/dnscontrol) - Infrastructure as code for DNS!
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
@@ -699,6 +704,8 @@
 
 ## HTML 
 
+- [fossology/fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and we
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [simonw/datasette.io](https://github.com/simonw/datasette.io) - The official project website for Datasette
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
@@ -803,6 +810,11 @@
 
 ## JavaScript 
 
+- [holepunchto/hyperdrive](https://github.com/holepunchto/hyperdrive) - Hyperdrive is a secure, real time distributed file system
+- [holepunchto/dht-rpc](https://github.com/holepunchto/dht-rpc) - Make RPC calls over a Kademlia based DHT.
+- [holepunchto/hyperdht](https://github.com/holepunchto/hyperdht) - The DHT powering Hyperswarm
+- [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log.
+- [holepunchto/hyperswarm](https://github.com/holepunchto/hyperswarm) - A distributed networking stack for connecting peers.
 - [craigbuckler/staticsearch](https://github.com/craigbuckler/staticsearch) - Static site search engine
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
@@ -1050,6 +1062,7 @@
 
 ## Nix 
 
+- [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
 - [DOD-101/NixOS-dots](https://github.com/DOD-101/NixOS-dots) - (WIP) My config for NixOs.
 - [juliamertz/homeassistant-rosepine-theme](https://github.com/juliamertz/homeassistant-rosepine-theme) - Soho vibes for Home Assistant
 - [juliamertz/infra](https://github.com/juliamertz/infra) - 
@@ -1160,6 +1173,7 @@
 
 ## Others 
 
+- [CodeScoring/awesome-open-source-licensing](https://github.com/CodeScoring/awesome-open-source-licensing) - Cool links, tools & papers related to Open Source Licensing
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [act-project/TAC](https://github.com/act-project/TAC) - Automating Compliance Tooling Project
@@ -1282,6 +1296,8 @@
 
 ## Python 
 
+- [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) - Scan is a free & Open Source DevSecOps tool for performing static analysis based security testing of your applications and its dependencies. CI and Git friendly.
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet, the Google Summer
 - [jgillula/paperless-ngx-postprocessor](https://github.com/jgillula/paperless-ngx-postprocessor) - A powerful and customizable postprocessing script for paperless-ngx
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
@@ -1875,6 +1891,7 @@
 
 ## Shell 
 
+- [gwenwindflower/dotfiles](https://github.com/gwenwindflower/dotfiles) - 🌿🌺🌀🐚🌱🌸🌻 feel free to pick a fig from the config tree
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - my scripts!
 - [kewitz/git-semantics](https://github.com/kewitz/git-semantics) - Git hook to ensure semantic commit messages.
@@ -1968,6 +1985,7 @@
 
 ## TypeScript 
 
+- [opossum-tool/OpossumUI](https://github.com/opossum-tool/OpossumUI) - A light-weight app to audit and inventory large codebases for open source license compliance.
 - [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
@@ -1984,7 +2002,7 @@
 - [mydraft-cc/ui](https://github.com/mydraft-cc/ui) - Open source wireframing tool written in typescript, react and redux.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [codennomad/analytics-saas](https://github.com/codennomad/analytics-saas) - Production-Grade Real-Time Analytics Platform | Multi-tenant SaaS with sub-200ms ingestion, ClickHouse OLAP, and enterprise-grade observability. Built with TypeScript, Fastify, Next.js, and Kubernetes
-- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Any model. Every tool. Zero limits.
 - [TinyAGI/tinyagi](https://github.com/TinyAGI/tinyagi) - TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -2172,6 +2190,7 @@
 
 ## Zig 
 
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 

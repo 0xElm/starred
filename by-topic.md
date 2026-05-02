@@ -252,6 +252,7 @@
 
 ## agent 
 
+- [scitix/siclaw](https://github.com/scitix/siclaw) - AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [lenaxia/k8s-mechanic](https://github.com/lenaxia/k8s-mechanic) - A K8s controller that watches your cluster for failures and opens pull requests on your GitOps repository with fixes. Security is a first class citizen, and it runs in-cluster with read-only RBAC, red
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -298,6 +299,7 @@
 
 ## ai-agents 
 
+- [scitix/siclaw](https://github.com/scitix/siclaw) - AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -312,6 +314,8 @@
 
 ## analytics 
 
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [codennomad/analytics-saas](https://github.com/codennomad/analytics-saas) - Production-Grade Real-Time Analytics Platform | Multi-tenant SaaS with sub-200ms ingestion, ClickHouse OLAP, and enterprise-grade observability. Built with TypeScript, Fastify, Next.js, and Kubernetes
 - [apache/age-viewer](https://github.com/apache/age-viewer) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
@@ -400,6 +404,7 @@
 
 ## atom 
 
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader (podcast player, basic XMPP client and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
@@ -428,6 +433,7 @@
 
 ## awesome 
 
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [CodeScoring/awesome-open-source-licensing](https://github.com/CodeScoring/awesome-open-source-licensing) - Cool links, tools & papers related to Open Source Licensing
@@ -544,6 +550,7 @@
 
 ## c 
 
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
@@ -591,7 +598,7 @@
 
 ## claude-code 
 
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph. App code
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
@@ -602,6 +609,10 @@
 
 ## cli 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [criteo/fromconfig](https://github.com/criteo/fromconfig) - A library to instantiate any Python object from configuration files.
+- [criteo/command-launcher](https://github.com/criteo/command-launcher) - A command launcher 🚀 made with ❤️
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [Owloops/updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings
@@ -731,6 +742,7 @@
 
 ## command-line 
 
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -762,6 +774,7 @@
 
 ## compiler 
 
+- [octalide/mach](https://github.com/octalide/mach) - A programming language for people who like to know what their code is doing.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) - A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility
 - [ForNeVeR/Cesium](https://github.com/ForNeVeR/Cesium) - C compiler for the CLI platform
@@ -855,6 +868,7 @@
 
 ## data-analysis 
 
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [graphia-app/graphia](https://github.com/graphia-app/graphia) - A visualisation tool for the creation and analysis of graphs
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [elementary-data/elementary](https://github.com/elementary-data/elementary) - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
@@ -899,6 +913,7 @@
 
 ## database 
 
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
@@ -965,6 +980,7 @@
 
 ## deno 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [ayakovlenko/typescriptlings](https://github.com/ayakovlenko/typescriptlings) - Small exercises to get you used to reading and writing TypeScript code!
 
@@ -1017,6 +1033,8 @@
 
 ## devops 
 
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
+- [scitix/siclaw](https://github.com/scitix/siclaw) - AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration
 - [dastergon/wheel-of-misfortune](https://github.com/dastergon/wheel-of-misfortune) - A role-playing game for incident management training
 - [dastergon/postmortem-templates](https://github.com/dastergon/postmortem-templates) - A collection of postmortem templates
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
@@ -1073,6 +1091,8 @@
 
 ## docker 
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [cruise-org/cruise](https://github.com/cruise-org/cruise) - Cruise is a powerful, intuitive, and fully-featured TUI (Terminal User Interface) for managing containers. Built with Go and Bubbletea, it offers a visually rich, keyboard-first experience for managin
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -1157,6 +1177,8 @@
 
 ## dotfiles 
 
+- [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [gwenwindflower/dotfiles](https://github.com/gwenwindflower/dotfiles) - 🌿🌺🌀🐚🌱🌸🌻 feel free to pick a fig from the config tree
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
@@ -1238,6 +1260,7 @@
 
 ## flask 
 
+- [criteo/gourde](https://github.com/criteo/gourde) - Flask sugar for Python microservices
 - [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
 
 ## flutter 
@@ -1328,6 +1351,9 @@
 
 ## go 
 
+- [hugoaguirre/product-service](https://github.com/hugoaguirre/product-service) - A small gRPC service writen in Go that follows Hexagonal Architecture
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [rakyll/go-hardware](https://github.com/rakyll/go-hardware) - A directory of hardware related libs, tools, and tutorials for Go
 - [frapposelli/wwhrd](https://github.com/frapposelli/wwhrd) - You have licenses to manage, What Would Henry Rollins Do?
@@ -1356,7 +1382,7 @@
 - [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
-- [itstoragesvc/dnscontrol](https://github.com/itstoragesvc/dnscontrol) - Infrastructure as code for DNS!
+- [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) - Infrastructure as code for DNS!
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
@@ -1429,6 +1455,9 @@
 
 ## golang 
 
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [frapposelli/wwhrd](https://github.com/frapposelli/wwhrd) - You have licenses to manage, What Would Henry Rollins Do?
 - [go-enry/go-license-detector](https://github.com/go-enry/go-license-detector) - Reliable project licenses detector.
@@ -1578,6 +1607,7 @@
 
 ## hacktoberfest 
 
+- [tjdevries/subd](https://github.com/tjdevries/subd) - subd - a place to reward your subscribers from any platform
 - [icco/postmortems](https://github.com/icco/postmortems) - Postmortem metadata from danluu/post-mortems.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -1744,6 +1774,7 @@
 
 ## http 
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
@@ -1835,6 +1866,7 @@
 
 ## javascript 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -1922,6 +1954,7 @@
 
 ## kubernetes 
 
+- [scitix/siclaw](https://github.com/scitix/siclaw) - AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration
 - [dastergon/kubectl-janitor](https://github.com/dastergon/kubectl-janitor) - List Kubernetes objects in a problematic state
 - [aragossa/pii-shield](https://github.com/aragossa/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
@@ -2025,6 +2058,7 @@
 
 ## language 
 
+- [octalide/mach](https://github.com/octalide/mach) - A programming language for people who like to know what their code is doing.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [knowsys/nemo](https://github.com/knowsys/nemo) - A fast in-memory rule engine
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -2056,6 +2090,7 @@
 
 ## linux 
 
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -2091,6 +2126,7 @@
 
 ## llm 
 
+- [scitix/siclaw](https://github.com/scitix/siclaw) - AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration
 - [lenaxia/k8s-mechanic](https://github.com/lenaxia/k8s-mechanic) - A K8s controller that watches your cluster for failures and opens pull requests on your GitOps repository with fixes. Security is a first class citizen, and it runs in-cluster with read-only RBAC, red
 - [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) - Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -2173,6 +2209,7 @@
 
 ## macos 
 
+- [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -2268,6 +2305,11 @@
 
 ## monitoring 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [criteo/defcon](https://github.com/criteo/defcon) - DefCon - Status page and API for production status
+- [criteo/netprobify](https://github.com/criteo/netprobify) - Network probing tool crafted for datacenters (but not only)
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
@@ -2346,6 +2388,8 @@
 
 ## neovim 
 
+- [AdeAttwood/ivy.nvim](https://github.com/AdeAttwood/ivy.nvim) - An ivy-mode port to neovim.
+- [vim-fall/fall.vim](https://github.com/vim-fall/fall.vim) - 🍂 Yet Another Fuzzy Finder designed for Vim and Neovim and to be programmer-friendly
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
@@ -2413,6 +2457,7 @@
 
 ## nextjs 
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) - Open Collective's Frontend. A React app powered by Next.js.
 - [codennomad/analytics-saas](https://github.com/codennomad/analytics-saas) - Production-Grade Real-Time Analytics Platform | Multi-tenant SaaS with sub-200ms ingestion, ClickHouse OLAP, and enterprise-grade observability. Built with TypeScript, Fastify, Next.js, and Kubernetes
@@ -2431,6 +2476,7 @@
 
 ## node 
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2532,7 +2578,6 @@
 ## opengl 
 
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
-- [hadronized/luminance-rs](https://github.com/hadronized/luminance-rs) - Type-safe, type-level and stateless Rust graphics framework
 
 ## osint 
 
@@ -2541,6 +2586,70 @@
 
 ## others 
 
+- [swlkr/ryzz](https://github.com/swlkr/ryzz) - Sqlite automatic migrations and query builder all in one
+- [moniquelive/rfc.nvim](https://github.com/moniquelive/rfc.nvim) - RFC browser for nvim written in Lua
+- [CWood-sdf/banana.nvim](https://github.com/CWood-sdf/banana.nvim) - An html renderer for neovim plugin UIs
+- [hazelgrove/hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
+- [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
+- [ericzakariasson/workstation](https://github.com/ericzakariasson/workstation) - OpenClaw at home
+- [tjdevries/config.awesomewm](https://github.com/tjdevries/config.awesomewm) - awesomewm config
+- [tjdevries/tjdevries](https://github.com/tjdevries/tjdevries) - About Me :)
+- [tjdevries/topshelf.fm](https://github.com/tjdevries/topshelf.fm) - 
+- [tjdevries/monocle](https://github.com/tjdevries/monocle) - a big mono repo for ocaml
+- [terminaldotshop/the-standup](https://github.com/terminaldotshop/the-standup) - website for the standup
+- [purefunctor/sabihin](https://github.com/purefunctor/sabihin) - ✉️ Anonymous and End-to-End Encrypted Q&A Platform 🔒
+- [brendanzab/language-garden](https://github.com/brendanzab/language-garden) - A garden of small programming language implementations 🪴
+- [yawaramin/fun-sql](https://github.com/yawaramin/fun-sql) - Functional-style SQL query
+- [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config) - Personal OpenCode configuration - commands, tools, agents, knowledge
+- [E-Sh4rk/sstt](https://github.com/E-Sh4rk/sstt) - Simple Set-Theoretic Types library
+- [tjdevries/nvim-code-highlight.obsidian](https://github.com/tjdevries/nvim-code-highlight.obsidian) - Syntax highlighting provided by Neovim for Obsidian
+- [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
+- [tjdevries/advent-of-nvim](https://github.com/tjdevries/advent-of-nvim) - 
+- [google/dotprompt](https://github.com/google/dotprompt) - Executable GenAI prompt templates
+- [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
+- [repology/repology-rs](https://github.com/repology/repology-rs) - Source code of all Repology components
+- [pinpox/radio](https://github.com/pinpox/radio) - Radio stream
+- [criteo/knife-ssh-agent](https://github.com/criteo/knife-ssh-agent) - Authenticate to a chef server using a SSH agent
+- [criteo/http-proxy-tester](https://github.com/criteo/http-proxy-tester) - Test multiple targets through a proxy.
+- [criteo/go-biggraphite](https://github.com/criteo/go-biggraphite) - Because names are hard and we need a repo.
+- [criteo/vault-auth-plugin-chef](https://github.com/criteo/vault-auth-plugin-chef) - 
+- [criteo/loop](https://github.com/criteo/loop) - enhance your web application development workflow
+- [criteo/consul-bench](https://github.com/criteo/consul-bench) - A tool to bench Consul Clusters
+- [criteo/kitchen-vagrant_winrm](https://github.com/criteo/kitchen-vagrant_winrm) - A test-kitchen driver using vagrant-winrm
+- [criteo/chef-deployment-monitor](https://github.com/criteo/chef-deployment-monitor) - 
+- [criteo/golang-template](https://github.com/criteo/golang-template) - Template used to bootstrap GitHub Golang projects at Criteo
+- [criteo/knife-changelog](https://github.com/criteo/knife-changelog) - Helper knife plugin to find changelogs
+- [criteo/traffic-mirroring](https://github.com/criteo/traffic-mirroring) - 
+- [criteo/consul-wrapper](https://github.com/criteo/consul-wrapper) - Run a command and advertise it as a service in consul
+- [openconfig/gnmitest](https://github.com/openconfig/gnmitest) - Test framework for gNMI
+- [openconfig/grpctunnel](https://github.com/openconfig/grpctunnel) - A TCP-over-gRPC Tunnel
+- [openconfig/pattern-regex-tests](https://github.com/openconfig/pattern-regex-tests) - Regular Expression Tests for OpenConfig Models
+- [openconfig/common-ci](https://github.com/openconfig/common-ci) - Common CI workflows for OpenConfig projects.
+- [openconfig/models-ci](https://github.com/openconfig/models-ci) - Continuous integration for OpenConfig models.
+- [openconfig/gnoi](https://github.com/openconfig/gnoi) - gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.
+- [openconfig/containerz](https://github.com/openconfig/containerz) - containerz is a reference implementation for the containerz gNOI service.
+- [mbj4668/pyang](https://github.com/mbj4668/pyang) - An extensible YANG validator and converter in python
+- [openconfig/oc-pyang](https://github.com/openconfig/oc-pyang) - OpenConfig plugins for the pyang validator
+- [openconfig/reference](https://github.com/openconfig/reference) - This repository contains reference implementations, specifications and tooling related to OpenConfig-based network management.
+- [openconfig/attestz](https://github.com/openconfig/attestz) - API for TPM attestation and enrollment for certificates
+- [openconfig/lemming](https://github.com/openconfig/lemming) - An OpenConfig reference device implementation
+- [openconfig/kne](https://github.com/openconfig/kne) - 
+- [openconfig/featureprofiles](https://github.com/openconfig/featureprofiles) - Feature Profiles are groups of OpenConfig paths and tests which verify their behavior
+- [openconfig/bootz](https://github.com/openconfig/bootz) - OpenConfig network device bootstrap APIs and services
+- [openconfig/goyang](https://github.com/openconfig/goyang) - YANG parser and compiler to produce Go language objects
+- [openconfig/gnmi](https://github.com/openconfig/gnmi) - gRPC Network Management Interface
+- [openconfig/ygot](https://github.com/openconfig/ygot) - A YANG-centric Go toolkit - Go/Protobuf Code Generation; Validation; Marshaling/Unmarshaling
+- [criteo/data-aggregation-api](https://github.com/criteo/data-aggregation-api) - 
+- [criteo/http-proxy-exporter](https://github.com/criteo/http-proxy-exporter) - Expose proxy performance statistics in a Prometheus-friendly way.
+- [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers
+- [criteo/hwbench](https://github.com/criteo/hwbench) - hwbench is a benchmark orchestration tool to automate the low-level testing of servers.
+- [criteo/cookbook-release](https://github.com/criteo/cookbook-release) - 
+- [criteo/cypress-utils-criteo](https://github.com/criteo/cypress-utils-criteo) - 
+- [criteo/autofaiss](https://github.com/criteo/autofaiss) - Automatically create Faiss knn indices with the most optimal similarity search parameters.
+- [criteo/biggraphite](https://github.com/criteo/biggraphite) - Simple Scalable Time Series Database
+- [Airtable/airtable_api_proxy](https://github.com/Airtable/airtable_api_proxy) - Example of proxying requests to Airtable
+- [kevinwilde-at/airtable-rpc](https://github.com/kevinwilde-at/airtable-rpc) - view account balance from table
+- [Airtable/airtable.js](https://github.com/Airtable/airtable.js) - Airtable javascript client
 - [rakyll/portmidi](https://github.com/rakyll/portmidi) - Go bindings for libportmidi
 - [rakyll/autopprof](https://github.com/rakyll/autopprof) - Pprof made easy at development time for Go
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
@@ -3525,6 +3634,7 @@
 
 ## postgresql 
 
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -3584,6 +3694,7 @@
 
 ## privacy 
 
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
@@ -3606,6 +3717,7 @@
 
 ## programming-language 
 
+- [octalide/mach](https://github.com/octalide/mach) - A programming language for people who like to know what their code is doing.
 - [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 
@@ -3619,6 +3731,7 @@
 
 ## python 
 
+- [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
@@ -3718,6 +3831,8 @@
 
 ## python3 
 
+- [criteo/fromconfig](https://github.com/criteo/fromconfig) - A library to instantiate any Python object from configuration files.
+- [criteo/py-consul](https://github.com/criteo/py-consul) - Python client for Consul (https://developer.hashicorp.com/consul)
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal.
@@ -3749,6 +3864,7 @@
 
 ## rag 
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini and open models on a full private AI Stack ♾️
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
@@ -3773,6 +3889,7 @@
 
 ## react 
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) - Open Collective's Frontend. A React app powered by Next.js.
 - [mydraft-cc/ui](https://github.com/mydraft-cc/ui) - Open source wireframing tool written in typescript, react and redux.
@@ -3861,6 +3978,9 @@
 
 ## rust 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
@@ -3929,7 +4049,6 @@
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
-- [hadronized/luminance-rs](https://github.com/hadronized/luminance-rs) - Type-safe, type-level and stateless Rust graphics framework
 - [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra) - Zcash - Financial Privacy in Rust 🦓
 - [str4d/wage](https://github.com/str4d/wage) - A WASM package and web app for encrypting and decrypting age-encrypted files, powered by rage.
 - [duesee/imap-codec](https://github.com/duesee/imap-codec) - Rock-solid and complete codec for IMAP
@@ -4066,6 +4185,12 @@
 
 ## self-hosted 
 
+- [octalide/mach](https://github.com/octalide/mach) - A programming language for people who like to know what their code is doing.
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [lenaxia/k8s-mechanic](https://github.com/lenaxia/k8s-mechanic) - A K8s controller that watches your cluster for failures and opens pull requests on your GitOps repository with fixes. Security is a first class citizen, and it runs in-cluster with read-only RBAC, red
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
@@ -4291,6 +4416,8 @@
 
 ## terminal 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your t
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -4381,6 +4508,8 @@
 
 ## tui 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -4446,6 +4575,7 @@
 
 ## typescript 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [mydraft-cc/ui](https://github.com/mydraft-cc/ui) - Open source wireframing tool written in typescript, react and redux.
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
@@ -4514,6 +4644,7 @@
 
 ## vim 
 
+- [vim-fall/fall.vim](https://github.com/vim-fall/fall.vim) - 🍂 Yet Another Fuzzy Finder designed for Vim and Neovim and to be programmer-friendly
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.

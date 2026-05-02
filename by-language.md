@@ -273,6 +273,29 @@
 
 ## Go 
 
+- [criteo/http-proxy-tester](https://github.com/criteo/http-proxy-tester) - Test multiple targets through a proxy.
+- [criteo/go-biggraphite](https://github.com/criteo/go-biggraphite) - Because names are hard and we need a repo.
+- [criteo/vault-auth-plugin-chef](https://github.com/criteo/vault-auth-plugin-chef) - 
+- [criteo/consul-bench](https://github.com/criteo/consul-bench) - A tool to bench Consul Clusters
+- [criteo/golang-template](https://github.com/criteo/golang-template) - Template used to bootstrap GitHub Golang projects at Criteo
+- [criteo/traffic-mirroring](https://github.com/criteo/traffic-mirroring) - 
+- [criteo/consul-wrapper](https://github.com/criteo/consul-wrapper) - Run a command and advertise it as a service in consul
+- [openconfig/gnmitest](https://github.com/openconfig/gnmitest) - Test framework for gNMI
+- [openconfig/grpctunnel](https://github.com/openconfig/grpctunnel) - A TCP-over-gRPC Tunnel
+- [openconfig/models-ci](https://github.com/openconfig/models-ci) - Continuous integration for OpenConfig models.
+- [openconfig/containerz](https://github.com/openconfig/containerz) - containerz is a reference implementation for the containerz gNOI service.
+- [openconfig/attestz](https://github.com/openconfig/attestz) - API for TPM attestation and enrollment for certificates
+- [openconfig/lemming](https://github.com/openconfig/lemming) - An OpenConfig reference device implementation
+- [openconfig/kne](https://github.com/openconfig/kne) - 
+- [openconfig/featureprofiles](https://github.com/openconfig/featureprofiles) - Feature Profiles are groups of OpenConfig paths and tests which verify their behavior
+- [openconfig/bootz](https://github.com/openconfig/bootz) - OpenConfig network device bootstrap APIs and services
+- [openconfig/goyang](https://github.com/openconfig/goyang) - YANG parser and compiler to produce Go language objects
+- [openconfig/gnmi](https://github.com/openconfig/gnmi) - gRPC Network Management Interface
+- [openconfig/ygot](https://github.com/openconfig/ygot) - A YANG-centric Go toolkit - Go/Protobuf Code Generation; Validation; Marshaling/Unmarshaling
+- [criteo/data-aggregation-api](https://github.com/criteo/data-aggregation-api) - 
+- [criteo/http-proxy-exporter](https://github.com/criteo/http-proxy-exporter) - Expose proxy performance statistics in a Prometheus-friendly way.
+- [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers
+- [criteo/command-launcher](https://github.com/criteo/command-launcher) - A command launcher 🚀 made with ❤️
 - [icco/postmortems](https://github.com/icco/postmortems) - Postmortem metadata from danluu/post-mortems.
 - [dastergon/kubectl-janitor](https://github.com/dastergon/kubectl-janitor) - List Kubernetes objects in a problematic state
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
@@ -392,7 +415,7 @@
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
-- [itstoragesvc/dnscontrol](https://github.com/itstoragesvc/dnscontrol) - Infrastructure as code for DNS!
+- [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) - Infrastructure as code for DNS!
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
@@ -818,6 +841,10 @@
 
 ## JavaScript 
 
+- [criteo/loop](https://github.com/criteo/loop) - enhance your web application development workflow
+- [Airtable/airtable_api_proxy](https://github.com/Airtable/airtable_api_proxy) - Example of proxying requests to Airtable
+- [kevinwilde-at/airtable-rpc](https://github.com/kevinwilde-at/airtable-rpc) - view account balance from table
+- [Airtable/airtable.js](https://github.com/Airtable/airtable.js) - Airtable javascript client
 - [holepunchto/hyperdrive](https://github.com/holepunchto/hyperdrive) - Hyperdrive is a secure, real time distributed file system
 - [holepunchto/dht-rpc](https://github.com/holepunchto/dht-rpc) - Make RPC calls over a Kademlia based DHT.
 - [holepunchto/hyperdht](https://github.com/holepunchto/hyperdht) - The DHT powering Hyperswarm
@@ -1181,6 +1208,7 @@
 
 ## Others 
 
+- [openconfig/common-ci](https://github.com/openconfig/common-ci) - Common CI workflows for OpenConfig projects.
 - [dastergon/postmortem-templates](https://github.com/dastergon/postmortem-templates) - A collection of postmortem templates
 - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
@@ -1307,6 +1335,18 @@
 
 ## Python 
 
+- [criteo/fromconfig](https://github.com/criteo/fromconfig) - A library to instantiate any Python object from configuration files.
+- [criteo/gourde](https://github.com/criteo/gourde) - Flask sugar for Python microservices
+- [criteo/defcon](https://github.com/criteo/defcon) - DefCon - Status page and API for production status
+- [openconfig/pattern-regex-tests](https://github.com/openconfig/pattern-regex-tests) - Regular Expression Tests for OpenConfig Models
+- [mbj4668/pyang](https://github.com/mbj4668/pyang) - An extensible YANG validator and converter in python
+- [openconfig/oc-pyang](https://github.com/openconfig/oc-pyang) - OpenConfig plugins for the pyang validator
+- [openconfig/reference](https://github.com/openconfig/reference) - This repository contains reference implementations, specifications and tooling related to OpenConfig-based network management.
+- [criteo/py-consul](https://github.com/criteo/py-consul) - Python client for Consul (https://developer.hashicorp.com/consul)
+- [criteo/hwbench](https://github.com/criteo/hwbench) - hwbench is a benchmark orchestration tool to automate the low-level testing of servers.
+- [criteo/netprobify](https://github.com/criteo/netprobify) - Network probing tool crafted for datacenters (but not only)
+- [criteo/autofaiss](https://github.com/criteo/autofaiss) - Automatically create Faiss knn indices with the most optimal similarity search parameters.
+- [criteo/biggraphite](https://github.com/criteo/biggraphite) - Simple Scalable Time Series Database
 - [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) - Scan is a free & Open Source DevSecOps tool for performing static analysis based security testing of your applications and its dependencies. CI and Git friendly.
 - [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet, the Google Summer
 - [jgillula/paperless-ngx-postprocessor](https://github.com/jgillula/paperless-ngx-postprocessor) - A powerful and customizable postprocessing script for paperless-ngx
@@ -1344,7 +1384,7 @@
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [Kha/nixprof](https://github.com/Kha/nixprof) - A Nix build graph profiler
 - [davep/hike](https://github.com/davep/hike) - A Markdown browser for the terminal
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [shobrook/openlimit](https://github.com/shobrook/openlimit) - Efficient, per-second rate limiter for the OpenAI API
 - [uma-pi1/kge](https://github.com/uma-pi1/kge) - LibKGE - A knowledge graph embedding library for reproducible research
@@ -1501,7 +1541,7 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
-- [tsinghua-fib-lab/AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety) - AgentSociety: Large-scale Social Simulation to Understand Human Behaviors and Society through LLM-driven Agents
+- [tsinghua-fib-lab/AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety) - AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent ag
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [NixOS/branding](https://github.com/NixOS/branding) - The home of the NixOS branding guide and media kit.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
@@ -1539,6 +1579,11 @@
 
 ## Ruby 
 
+- [criteo/knife-ssh-agent](https://github.com/criteo/knife-ssh-agent) - Authenticate to a chef server using a SSH agent
+- [criteo/kitchen-vagrant_winrm](https://github.com/criteo/kitchen-vagrant_winrm) - A test-kitchen driver using vagrant-winrm
+- [criteo/chef-deployment-monitor](https://github.com/criteo/chef-deployment-monitor) - 
+- [criteo/knife-changelog](https://github.com/criteo/knife-changelog) - Helper knife plugin to find changelogs
+- [criteo/cookbook-release](https://github.com/criteo/cookbook-release) - 
 - [feedjira/feedjira](https://github.com/feedjira/feedjira) - A feed parsing library
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -1960,6 +2005,7 @@
 
 ## Starlark 
 
+- [openconfig/gnoi](https://github.com/openconfig/gnoi) - gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.
 - [tweag/bazel-workshop](https://github.com/tweag/bazel-workshop) - Bazel Introduciton Workshop using C++ and Rust
 - [tweag/clodl](https://github.com/tweag/clodl) - Turn dynamically linked ELF binaries and libraries into self-contained closures.
 - [tweag/bb-deployments](https://github.com/tweag/bb-deployments) - Example deployments of Buildbarn on various platforms
@@ -1996,6 +2042,9 @@
 
 ## TypeScript 
 
+- [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
+- [scitix/siclaw](https://github.com/scitix/siclaw) - AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration
+- [criteo/cypress-utils-criteo](https://github.com/criteo/cypress-utils-criteo) - 
 - [opossum-tool/OpossumUI](https://github.com/opossum-tool/OpossumUI) - A light-weight app to audit and inventory large codebases for open source license compliance.
 - [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro

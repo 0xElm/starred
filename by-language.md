@@ -53,6 +53,7 @@
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
+- [Reason](#reason)
 - [RobotFramework](#robotframework)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -75,6 +76,7 @@
 
 ## Astro 
 
+- [terminaldotshop/the-standup](https://github.com/terminaldotshop/the-standup) - website for the standup
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 
 ## Awk 
@@ -83,6 +85,8 @@
 
 ## C 
 
+- [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [nemuTUI/nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.
@@ -273,6 +277,12 @@
 
 ## Go 
 
+- [hugoaguirre/product-service](https://github.com/hugoaguirre/product-service) - A small gRPC service writen in Go that follows Hexagonal Architecture
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
+- [pinpox/radio](https://github.com/pinpox/radio) - Radio stream
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [criteo/http-proxy-tester](https://github.com/criteo/http-proxy-tester) - Test multiple targets through a proxy.
 - [criteo/go-biggraphite](https://github.com/criteo/go-biggraphite) - Because names are hard and we need a repo.
 - [criteo/vault-auth-plugin-chef](https://github.com/criteo/vault-auth-plugin-chef) - 
@@ -841,6 +851,7 @@
 
 ## JavaScript 
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [criteo/loop](https://github.com/criteo/loop) - enhance your web application development workflow
 - [Airtable/airtable_api_proxy](https://github.com/Airtable/airtable_api_proxy) - Example of proxying requests to Airtable
 - [kevinwilde-at/airtable-rpc](https://github.com/kevinwilde-at/airtable-rpc) - view account balance from table
@@ -962,6 +973,11 @@
 
 ## Lua 
 
+- [moniquelive/rfc.nvim](https://github.com/moniquelive/rfc.nvim) - RFC browser for nvim written in Lua
+- [AdeAttwood/ivy.nvim](https://github.com/AdeAttwood/ivy.nvim) - An ivy-mode port to neovim.
+- [CWood-sdf/banana.nvim](https://github.com/CWood-sdf/banana.nvim) - An html renderer for neovim plugin UIs
+- [tjdevries/config.awesomewm](https://github.com/tjdevries/config.awesomewm) - awesomewm config
+- [tjdevries/advent-of-nvim](https://github.com/tjdevries/advent-of-nvim) - 
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [neovim-treesitter/treesitter-parser-registry](https://github.com/neovim-treesitter/treesitter-parser-registry) - 
 - [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) - Mirror of https://codeberg.org/mfussenegger/nvim-dap-python
@@ -1071,6 +1087,7 @@
 
 ## Makefile 
 
+- [octalide/mach](https://github.com/octalide/mach) - A programming language for people who like to know what their code is doing.
 - [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
 - [open-telemetry/opentelemetry-proto-go](https://github.com/open-telemetry/opentelemetry-proto-go) - Generated code for OpenTelemetry protobuf data model
 - [open-telemetry/opentelemetry-proto](https://github.com/open-telemetry/opentelemetry-proto) - OpenTelemetry protocol (OTLP) specification and Protobuf definitions
@@ -1097,6 +1114,8 @@
 
 ## Nix 
 
+- [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
+- [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
 - [DOD-101/NixOS-dots](https://github.com/DOD-101/NixOS-dots) - (WIP) My config for NixOs.
 - [juliamertz/homeassistant-rosepine-theme](https://github.com/juliamertz/homeassistant-rosepine-theme) - Soho vibes for Home Assistant
@@ -1189,6 +1208,11 @@
 
 ## OCaml 
 
+- [tjdevries/topshelf.fm](https://github.com/tjdevries/topshelf.fm) - 
+- [tjdevries/monocle](https://github.com/tjdevries/monocle) - a big mono repo for ocaml
+- [brendanzab/language-garden](https://github.com/brendanzab/language-garden) - A garden of small programming language implementations 🪴
+- [yawaramin/fun-sql](https://github.com/yawaramin/fun-sql) - Functional-style SQL query
+- [E-Sh4rk/sstt](https://github.com/E-Sh4rk/sstt) - Simple Set-Theoretic Types library
 - [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
 - [dbcaml/dbcaml](https://github.com/dbcaml/dbcaml) - DBCaml is a database library for OCaml
 - [tjdevries/octane.ml](https://github.com/tjdevries/octane.ml) - The fastest, hottest
@@ -1208,6 +1232,8 @@
 
 ## Others 
 
+- [unixorn/internet-of-trash](https://github.com/unixorn/internet-of-trash) - A list of IOT devices that are garbage
+- [tjdevries/tjdevries](https://github.com/tjdevries/tjdevries) - About Me :)
 - [openconfig/common-ci](https://github.com/openconfig/common-ci) - Common CI workflows for OpenConfig projects.
 - [dastergon/postmortem-templates](https://github.com/dastergon/postmortem-templates) - A collection of postmortem templates
 - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
@@ -1335,6 +1361,11 @@
 
 ## Python 
 
+- [kpetremann/mqtt-exporter](https://github.com/kpetremann/mqtt-exporter) - Simple generic MQTT Prometheus exporter for IoT working out of the box
+- [ericzakariasson/workstation](https://github.com/ericzakariasson/workstation) - OpenClaw at home
+- [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
+- [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [criteo/fromconfig](https://github.com/criteo/fromconfig) - A library to instantiate any Python object from configuration files.
 - [criteo/gourde](https://github.com/criteo/gourde) - Flask sugar for Python microservices
 - [criteo/defcon](https://github.com/criteo/defcon) - DefCon - Status page and API for production status
@@ -1573,6 +1604,11 @@
 
 - [Tmonster/db-benchmark](https://github.com/Tmonster/db-benchmark) - reproducible benchmark of database-like ops
 
+## Reason 
+
+- [hazelgrove/hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
+- [purefunctor/sabihin](https://github.com/purefunctor/sabihin) - ✉️ Anonymous and End-to-End Encrypted Q&A Platform 🔒
+
 ## RobotFramework 
 
 - [Dasharo/open-source-firmware-validation](https://github.com/Dasharo/open-source-firmware-validation) - OSFV infrastructure with automated tests and scripts for managing test results
@@ -1628,6 +1664,13 @@
 
 ## Rust 
 
+- [swlkr/ryzz](https://github.com/swlkr/ryzz) - Sqlite automatic migrations and query builder all in one
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
+- [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
+- [tjdevries/subd](https://github.com/tjdevries/subd) - subd - a place to reward your subscribers from any platform
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+- [repology/repology-rs](https://github.com/repology/repology-rs) - Source code of all Repology components
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) - Rust implementation of Tailscale (preview, experimental)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -1776,7 +1819,6 @@
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [m-ou-se/inline-python](https://github.com/m-ou-se/inline-python) - Inline Python code directly in your Rust code
 - [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks) - Code examples, data structures, and links from my book, Rust Atomics and Locks.
-- [hadronized/luminance-rs](https://github.com/hadronized/luminance-rs) - Type-safe, type-level and stateless Rust graphics framework
 - [eyre-rs/eyre](https://github.com/eyre-rs/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
 - [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra) - Zcash - Financial Privacy in Rust 🦓
 - [zcash/wallet](https://github.com/zcash/wallet) - Repo for replacing the zcashd wallet
@@ -2005,6 +2047,7 @@
 
 ## Starlark 
 
+- [google/dotprompt](https://github.com/google/dotprompt) - Executable GenAI prompt templates
 - [openconfig/gnoi](https://github.com/openconfig/gnoi) - gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.
 - [tweag/bazel-workshop](https://github.com/tweag/bazel-workshop) - Bazel Introduciton Workshop using C++ and Rust
 - [tweag/clodl](https://github.com/tweag/clodl) - Turn dynamically linked ELF binaries and libraries into self-contained closures.
@@ -2042,6 +2085,11 @@
 
 ## TypeScript 
 
+- [vim-fall/fall.vim](https://github.com/vim-fall/fall.vim) - 🍂 Yet Another Fuzzy Finder designed for Vim and Neovim and to be programmer-friendly
+- [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config) - Personal OpenCode configuration - commands, tools, agents, knowledge
+- [tjdevries/nvim-code-highlight.obsidian](https://github.com/tjdevries/nvim-code-highlight.obsidian) - Syntax highlighting provided by Neovim for Obsidian
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [scitix/siclaw](https://github.com/scitix/siclaw) - AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration
 - [criteo/cypress-utils-criteo](https://github.com/criteo/cypress-utils-criteo) - 

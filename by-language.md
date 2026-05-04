@@ -277,6 +277,7 @@
 
 ## Go 
 
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [hugoaguirre/product-service](https://github.com/hugoaguirre/product-service) - A small gRPC service writen in Go that follows Hexagonal Architecture
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
@@ -973,6 +974,8 @@
 
 ## Lua 
 
+- [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
+- [tjdevries/luai.nvim](https://github.com/tjdevries/luai.nvim) - Lua + AI = ???
 - [moniquelive/rfc.nvim](https://github.com/moniquelive/rfc.nvim) - RFC browser for nvim written in Lua
 - [AdeAttwood/ivy.nvim](https://github.com/AdeAttwood/ivy.nvim) - An ivy-mode port to neovim.
 - [CWood-sdf/banana.nvim](https://github.com/CWood-sdf/banana.nvim) - An html renderer for neovim plugin UIs
@@ -1989,6 +1992,7 @@
 
 ## Shell 
 
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [gwenwindflower/dotfiles](https://github.com/gwenwindflower/dotfiles) - 🌿🌺🌀🐚🌱🌸🌻 feel free to pick a fig from the config tree
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - my scripts!

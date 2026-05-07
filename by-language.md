@@ -23,6 +23,7 @@
 - [Go](#go)
 - [Go Template](#go-template)
 - [Groovy](#groovy)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
@@ -86,6 +87,8 @@
 
 ## C 
 
+- [kube-vip/kube-gateway](https://github.com/kube-vip/kube-gateway) - A transparent proxy for Kubernetes pods
+- [digitalocean/prometheus-client-c](https://github.com/digitalocean/prometheus-client-c) - A Prometheus Client in C
 - [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
@@ -220,6 +223,7 @@
 
 ## CSS 
 
+- [digitalocean/wave](https://github.com/digitalocean/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [cinnyapp/cinny-site](https://github.com/cinnyapp/cinny-site) - 
 - [khandelwal-arpit/springboot-starterkit](https://github.com/khandelwal-arpit/springboot-starterkit) - Starter Kit for Spring Boot based (REST APIs and WebMVC) micro services.
@@ -249,6 +253,7 @@
 
 ## Dockerfile 
 
+- [digitalocean/doks-debug](https://github.com/digitalocean/doks-debug) - A Docker image with Kubernetes manifests for investigation and troubleshooting.
 - [yaronr/dockerfile](https://github.com/yaronr/dockerfile) - My beloved Dockerfiles
 - [buildkite/python-docker-example](https://github.com/buildkite/python-docker-example) - An example pipeline that runs Python tests inside a Docker container using uv for dependency management.
 - [open-telemetry/build-tools](https://github.com/open-telemetry/build-tools) - Building tools provided by OpenTelemetry
@@ -264,7 +269,6 @@
 ## Elixir 
 
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [the-nix-way/nix-flake-dev-environments](https://github.com/the-nix-way/nix-flake-dev-environments) - Nix flake examples for real-world development environments [maintainer=@lucperkins]
 
 ## Elm 
@@ -282,6 +286,21 @@
 
 ## Go 
 
+- [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang) - ⛵ App Platform sample Golang application.
+- [jferrazbr/steve](https://github.com/jferrazbr/steve) - Kubernetes API Translator
+- [rancher/machine](https://github.com/rancher/machine) - Machine management for a container-centric world
+- [rancherlabs/slsactl](https://github.com/rancherlabs/slsactl) - The slsactl is a Command Line Interface (CLI) tool to provide a consolidated experience while handling supply chain aspects of projects across the Rancher ecosystem.
+- [pjbgf/benchr](https://github.com/pjbgf/benchr) - Run Go benchmarks across multiple versions of your project, with automated chart generation.
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
+- [digitalocean/gta](https://github.com/digitalocean/gta) - gta: do transitive analysis to find packages whose dependencies have changed
+- [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
+- [digitalocean/go-workers2](https://github.com/digitalocean/go-workers2) - better-go-workers
+- [digitalocean/netbox-ip-controller](https://github.com/digitalocean/netbox-ip-controller) - A Kubernetes controller to import the IP addresses and metadata of pods and services into NetBox.
+- [digitalocean/clusterlint](https://github.com/digitalocean/clusterlint) - A best practices checker for Kubernetes clusters. 🤠
+- [digitalocean/csi-digitalocean](https://github.com/digitalocean/csi-digitalocean) - A Container Storage Interface (CSI) Driver  for DigitalOcean Block Storage
+- [digitalocean/pmm-headless](https://github.com/digitalocean/pmm-headless) - Percona Monitoring and Management: an open source database monitoring, observability and management tool
+- [digitalocean/go-qemu](https://github.com/digitalocean/go-qemu) - Go packages to interact with QEMU using the QEMU Machine Protocol (QMP).  Apache 2.0 Licensed.
+- [digitalocean/go-libvirt](https://github.com/digitalocean/go-libvirt) - Package libvirt provides a pure Go interface for interacting with Libvirt.  Apache 2.0 Licensed.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [hugoaguirre/product-service](https://github.com/hugoaguirre/product-service) - A small gRPC service writen in Go that follows Hexagonal Architecture
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
@@ -748,8 +767,13 @@
 - [sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3) - Dockerized version of Nexus Repo Manager 3
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 
+## HCL 
+
+- [digitalocean/scale-with-simplicity](https://github.com/digitalocean/scale-with-simplicity) - Reference architectures to showcase how users can leverage DigitalOcean's robust cloud platform to build resilient, distributed systems at scale.
+
 ## HTML 
 
+- [digitalocean/sample-flask](https://github.com/digitalocean/sample-flask) - ⛵ App Platform sample Flask.
 - [dastergon/wheel-of-misfortune](https://github.com/dastergon/wheel-of-misfortune) - A role-playing game for incident management training
 - [fossology/fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and we
 - [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
@@ -1101,6 +1125,7 @@
 
 ## Makefile 
 
+- [rancherlabs/swiss-army-knife-v2](https://github.com/rancherlabs/swiss-army-knife-v2) - 
 - [octalide/mach](https://github.com/octalide/mach) - A programming language for people who like to know what their code is doing.
 - [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
 - [open-telemetry/opentelemetry-proto-go](https://github.com/open-telemetry/opentelemetry-proto-go) - Generated code for OpenTelemetry protobuf data model
@@ -1629,6 +1654,7 @@
 
 ## Ruby 
 
+- [digitalocean/sample-rails](https://github.com/digitalocean/sample-rails) - ⛵ App Platform sample Ruby on Rails application.
 - [criteo/knife-ssh-agent](https://github.com/criteo/knife-ssh-agent) - Authenticate to a chef server using a SSH agent
 - [criteo/kitchen-vagrant_winrm](https://github.com/criteo/kitchen-vagrant_winrm) - A test-kitchen driver using vagrant-winrm
 - [criteo/chef-deployment-monitor](https://github.com/criteo/chef-deployment-monitor) - 
@@ -1678,6 +1704,7 @@
 
 ## Rust 
 
+- [digitalocean/sample-rust](https://github.com/digitalocean/sample-rust) - ⛵ App Platform sample rust application.
 - [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
 - [swlkr/ryzz](https://github.com/swlkr/ryzz) - Sqlite automatic migrations and query builder all in one
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
@@ -2004,6 +2031,7 @@
 
 ## Shell 
 
+- [rancherlabs/systems-info](https://github.com/rancherlabs/systems-info) - 
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [gwenwindflower/dotfiles](https://github.com/gwenwindflower/dotfiles) - 🌿🌺🌀🐚🌱🌸🌻 feel free to pick a fig from the config tree
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
@@ -2162,6 +2190,7 @@
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI

@@ -87,6 +87,7 @@
 
 ## C 
 
+- [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [kube-vip/kube-gateway](https://github.com/kube-vip/kube-gateway) - A transparent proxy for Kubernetes pods
 - [digitalocean/prometheus-client-c](https://github.com/digitalocean/prometheus-client-c) - A Prometheus Client in C
 - [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
@@ -273,6 +274,7 @@
 
 ## Elm 
 
+- [harehare/textusm](https://github.com/harehare/textusm) - TextUSM is a web-based diagram editor that generates diagrams from indented text
 - [elm/core](https://github.com/elm/core) - Elm's core libraries
 - [evancz/guide.elm-lang.org](https://github.com/evancz/guide.elm-lang.org) - My book introducing you to Elm!
 
@@ -774,6 +776,7 @@
 
 ## HTML 
 
+- [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 - [nix-community/nixos-landscape](https://github.com/nix-community/nixos-landscape) - The Landscape of NixOS and associated projects [maintainer=@cafkafk]
 - [digitalocean/sample-flask](https://github.com/digitalocean/sample-flask) - ⛵ App Platform sample Flask.
 - [dastergon/wheel-of-misfortune](https://github.com/dastergon/wheel-of-misfortune) - A role-playing game for incident management training
@@ -1272,6 +1275,7 @@
 
 ## Others 
 
+- [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [unixorn/internet-of-trash](https://github.com/unixorn/internet-of-trash) - A list of IOT devices that are garbage
 - [tjdevries/tjdevries](https://github.com/tjdevries/tjdevries) - About Me :)
 - [openconfig/common-ci](https://github.com/openconfig/common-ci) - Common CI workflows for OpenConfig projects.
@@ -1706,6 +1710,11 @@
 
 ## Rust 
 
+- [Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) - A backend for `mdbook` which will check your links for you.
+- [harehare/mq-tui](https://github.com/harehare/mq-tui) - mq-tui is a Text-based User Interface for the mq Markdown processor.
+- [harehare/mq-task](https://github.com/harehare/mq-task) - mq-task is a task runner that executes code blocks in Markdown files based on section titles.
+- [harehare/mq](https://github.com/harehare/mq) - A jq-like Markdown query language for command-line processing
+- [harehare/gitype](https://github.com/harehare/gitype) - Practice touch typing in the cli in your source code.
 - [digitalocean/sample-rust](https://github.com/digitalocean/sample-rust) - ⛵ App Platform sample rust application.
 - [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
 - [swlkr/ryzz](https://github.com/swlkr/ryzz) - Sqlite automatic migrations and query builder all in one
@@ -2194,7 +2203,7 @@
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
@@ -2336,6 +2345,7 @@
 
 ## Vue 
 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [ClickHouse/stockhouse](https://github.com/ClickHouse/stockhouse) - Stock and Crypto real-time market data visualization demo
 - [str4d/wage](https://github.com/str4d/wage) - A WASM package and web app for encrypting and decrypting age-encrypted files, powered by rage.
 

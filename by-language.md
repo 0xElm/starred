@@ -62,7 +62,6 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Smarty](#smarty)
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -343,7 +342,7 @@
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [frapposelli/wwhrd](https://github.com/frapposelli/wwhrd) - You have licenses to manage, What Would Henry Rollins Do?
 - [go-enry/go-license-detector](https://github.com/go-enry/go-license-detector) - Reliable project licenses detector.
-- [aragossa/pii-shield](https://github.com/aragossa/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
+- [pii-shield/pii-shield](https://github.com/pii-shield/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
 - [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) - Verify provenance from SLSA compliant builders
 - [openkube-hub/KubeUser](https://github.com/openkube-hub/KubeUser) - Kubernetes-native user management operator
 - [haproxytech/dataplaneapi](https://github.com/haproxytech/dataplaneapi) - HAProxy Data Plane API
@@ -397,6 +396,7 @@
 - [kubernetes-sigs/zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) - Zeitgeist: the language-agnostic dependency checker
 - [kubernetes-sigs/mdtoc](https://github.com/kubernetes-sigs/mdtoc) - Markdown table-of-contents generator
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
+- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
 - [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/kindnet](https://github.com/kubernetes-sigs/kindnet) - minimalistic Kubernetes network plugin that just works
@@ -1122,7 +1122,6 @@
 - [mintlify/docs](https://github.com/mintlify/docs) - Official Mintlify documentation
 - [attio/docs](https://github.com/attio/docs) - 
 - [mintlify/install-md](https://github.com/mintlify/install-md) - Human-readable installation instructions that AI agents can execute
-- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [radarlabs/mintlify](https://github.com/radarlabs/mintlify) - 
 - [rauchg/blog](https://github.com/rauchg/blog) - 
 - [element-hq/compound](https://github.com/element-hq/compound) - Element's design system
@@ -1405,6 +1404,7 @@
 
 ## Python 
 
+- [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 - [attio/airbyte](https://github.com/attio/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [kpetremann/mqtt-exporter](https://github.com/kpetremann/mqtt-exporter) - Simple generic MQTT Prometheus exporter for IoT working out of the box
 - [ericzakariasson/workstation](https://github.com/ericzakariasson/workstation) - OpenClaw at home
@@ -1811,6 +1811,7 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [tobilg/polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
 - [kennytm/qrcode-rust](https://github.com/kennytm/qrcode-rust) - QR code encoder in Rust.
 - [houseme/qrcode-rs](https://github.com/houseme/qrcode-rs) - QR code encoder in Rust，Generate QR Code matrices and images in RAW, PNG and SVG formats.
@@ -2096,10 +2097,6 @@
 - [threema-ch/webrtc-build-docker](https://github.com/threema-ch/webrtc-build-docker) - Dockerfile to build the WebRTC PeerConnection for Android using the new GN based build system.
 - [threema-ch/webrtc-android](https://github.com/threema-ch/webrtc-android) - WebRTC builds for Android
 
-## Smarty 
-
-- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
-
 ## Starlark 
 
 - [google/dotprompt](https://github.com/google/dotprompt) - Executable GenAI prompt templates
@@ -2185,7 +2182,7 @@
 - [DataRecce/recce](https://github.com/DataRecce/recce) - The data-validation toolkit for enhanced dbt (data build tool) PR review
 - [beatrix-ha/beatrix](https://github.com/beatrix-ha/beatrix) - what if claude ran your house
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data

@@ -86,6 +86,8 @@
 
 ## C 
 
+- [wireapp/Down](https://github.com/wireapp/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
+- [wireapp/coturn](https://github.com/wireapp/coturn) - coturn TURN server project
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [kube-vip/kube-gateway](https://github.com/kube-vip/kube-gateway) - A transparent proxy for Kubernetes pods
 - [digitalocean/prometheus-client-c](https://github.com/digitalocean/prometheus-client-c) - A Prometheus Client in C
@@ -287,6 +289,9 @@
 
 ## Go 
 
+- [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+- [wireapp/smallstep-certificates](https://github.com/wireapp/smallstep-certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is a developer platform for Kubernetes
 - [sympozium-ai/sympozium](https://github.com/sympozium-ai/sympozium) - The Coordination Layer for Multi-Agent AI
 - [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang) - ⛵ App Platform sample Golang application.
 - [jferrazbr/steve](https://github.com/jferrazbr/steve) - Kubernetes API Translator
@@ -331,7 +336,7 @@
 - [openconfig/ygot](https://github.com/openconfig/ygot) - A YANG-centric Go toolkit - Go/Protobuf Code Generation; Validation; Marshaling/Unmarshaling
 - [criteo/data-aggregation-api](https://github.com/criteo/data-aggregation-api) - 
 - [criteo/http-proxy-exporter](https://github.com/criteo/http-proxy-exporter) - Expose proxy performance statistics in a Prometheus-friendly way.
-- [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers
+- [premday/firmirror](https://github.com/premday/firmirror) - LVFS at home/datacenters for your on-prem servers
 - [criteo/command-launcher](https://github.com/criteo/command-launcher) - A command launcher 🚀 made with ❤️
 - [icco/postmortems](https://github.com/icco/postmortems) - Postmortem metadata from danluu/post-mortems.
 - [dastergon/kubectl-janitor](https://github.com/dastergon/kubectl-janitor) - List Kubernetes objects in a problematic state
@@ -776,6 +781,7 @@
 
 ## HTML 
 
+- [wireapp/remind-app](https://github.com/wireapp/remind-app) - An app to remind you about important things.
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 - [nix-community/nixos-landscape](https://github.com/nix-community/nixos-landscape) - The Landscape of NixOS and associated projects [maintainer=@cafkafk]
 - [digitalocean/sample-flask](https://github.com/digitalocean/sample-flask) - ⛵ App Platform sample Flask.
@@ -811,6 +817,12 @@
 
 ## Haskell 
 
+- [wireapp/servant](https://github.com/wireapp/servant) - Main repository for the servant libraries -- DSL for describing, serving, querying, mocking, documenting web applications and more!
+- [wireapp/hedis](https://github.com/wireapp/hedis) - A Redis client library for Haskell.
+- [wireapp/http2](https://github.com/wireapp/http2) - HTTP/2.0 library including HPACK
+- [wireapp/wai](https://github.com/wireapp/wai) - Haskell Web Application Interface
+- [wireapp/hasql-pool](https://github.com/wireapp/hasql-pool) - A pool of connections for Hasql
+- [wireapp/hasql-migration](https://github.com/wireapp/hasql-migration) - A port of postgresql-simple-migration for use with hasql
 - [CategoricalData/hydra](https://github.com/CategoricalData/hydra) - Graph programming language
 - [cafkafk/maid](https://github.com/cafkafk/maid) - Cleanup "Script" In Haskell
 - [javgh/watchdog](https://github.com/javgh/watchdog) - Simple control structure for Haskell to re-try an action with exponential backoff
@@ -995,6 +1007,10 @@
 
 ## Kotlin 
 
+- [wireapp/jira-app](https://github.com/wireapp/jira-app) - Jira app demo for wire integration using the jvm sdk.
+- [wireapp/broadcast-app](https://github.com/wireapp/broadcast-app) - Message multiple conversations simultaneously
+- [wireapp/kalium](https://github.com/wireapp/kalium) - 🍌 An SDK for creating Wire clients on Android and JVM. Expanding to iOS and Web.
+- [wireapp/sqldelight](https://github.com/wireapp/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 - [twofas/2fas-pass-android](https://github.com/twofas/2fas-pass-android) - Source code for 2FAS Pass Android app
@@ -1404,6 +1420,9 @@
 
 ## Python 
 
+- [wireapp/wire-utility-tool](https://github.com/wireapp/wire-utility-tool) - 
+- [wireapp/wire-upgrade-tool](https://github.com/wireapp/wire-upgrade-tool) - 
+- [wireapp/wire-scripts](https://github.com/wireapp/wire-scripts) - 
 - [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 - [attio/airbyte](https://github.com/attio/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [kpetremann/mqtt-exporter](https://github.com/kpetremann/mqtt-exporter) - Simple generic MQTT Prometheus exporter for IoT working out of the box
@@ -1710,6 +1729,17 @@
 
 ## Rust 
 
+- [wireapp/merge-pr](https://github.com/wireapp/merge-pr) - Merge a PR with a linear history and commit signing
+- [wireapp/rust-jwt-simple](https://github.com/wireapp/rust-jwt-simple) - A secure, standard-conformant, easy to use JWT implementation for Rust.
+- [wireapp/openmls](https://github.com/wireapp/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
+- [wireapp/uniffi-rs](https://github.com/wireapp/uniffi-rs) - a multi-language bindings generator for rust
+- [wireapp/refinery](https://github.com/wireapp/refinery) - Powerful SQL migration toolkit for Rust.
+- [wireapp/compile-schema](https://github.com/wireapp/compile-schema) - Compile a SQL schema from a set of migrations
+- [wireapp/decode](https://github.com/wireapp/decode) - Decode MLS and Proteus wire formats
+- [wireapp/rust-pki](https://github.com/wireapp/rust-pki) - Certification path builder and validator library and utility to build and validate paths
+- [wireapp/rusty-jwt-tools](https://github.com/wireapp/rusty-jwt-tools) - Tools for manipulating JSON Web Tokens, JWS, JWE, and JWK in Rust
+- [wireapp/mls-test-cli](https://github.com/wireapp/mls-test-cli) - Command line client utility used for testing MLS interactions with wire-server
+- [wireapp/core-crypto](https://github.com/wireapp/core-crypto) - MLS/Proteus multiplexer abstraction with encrypted persistent storage in Rust
 - [Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) - A backend for `mdbook` which will check your links for you.
 - [harehare/mq-tui](https://github.com/harehare/mq-tui) - mq-tui is a Text-based User Interface for the mq Markdown processor.
 - [harehare/mq-task](https://github.com/harehare/mq-task) - mq-task is a task runner that executes code blocks in Markdown files based on section titles.
@@ -2043,6 +2073,10 @@
 
 ## Shell 
 
+- [wireapp/prebuilt-webrtc-binaries](https://github.com/wireapp/prebuilt-webrtc-binaries) - Prebuilt binaries for webrtc library
+- [wireapp/ansible-cassandra](https://github.com/wireapp/ansible-cassandra) - Ansible role to install an Apache Cassandra cluster
+- [wireapp/wire-builds](https://github.com/wireapp/wire-builds) - This repo defines builds of Wire as sets of Wire's internal components.
+- [wireapp/wire-server-deploy](https://github.com/wireapp/wire-server-deploy) - Code to install/deploy wire-server (on kubernetes)
 - [rancherlabs/systems-info](https://github.com/rancherlabs/systems-info) - 
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [gwenwindflower/dotfiles](https://github.com/gwenwindflower/dotfiles) - 🌿🌺🌀🐚🌱🌸🌻 feel free to pick a fig from the config tree
@@ -2137,6 +2171,12 @@
 
 ## TypeScript 
 
+- [wireapp/expect-webdriverio](https://github.com/wireapp/expect-webdriverio) - WebdriverIO Assertion Library
+- [wireapp/core-crypto-playground](https://github.com/wireapp/core-crypto-playground) - A minimal React + TypeScript + Vite app for exploring the CoreCrypto WebAssembly library.
+- [wireapp/integration-docs](https://github.com/wireapp/integration-docs) - Wire Integrations documentation
+- [wireapp/wire-web-packages](https://github.com/wireapp/wire-web-packages) - Collection of npm modules created by Wire's web team.
+- [wireapp/wire-account](https://github.com/wireapp/wire-account) - Account verifications and forgotten passwords (https://wire-account-staging.zinfra.io/forgot/).
+- [Orva-Studio/hance](https://github.com/Orva-Studio/hance) - Film-grade your footage from the command line - built for humans and agents.
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [mintlify/mdx](https://github.com/mintlify/mdx) - Mintlify markdown parser
 - [attio/react-data-list](https://github.com/attio/react-data-list) - React Data List is a library which helps you build data arrays by expressing items declaratively using React components. It was built primarily for React Native, but should work anywhere.

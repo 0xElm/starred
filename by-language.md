@@ -86,6 +86,7 @@
 
 ## C 
 
+- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments
 - [wireapp/Down](https://github.com/wireapp/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
 - [wireapp/coturn](https://github.com/wireapp/coturn) - coturn TURN server project
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
@@ -561,7 +562,6 @@
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
-- [karol-broda/funnel](https://github.com/karol-broda/funnel) - a network tunneling proxy written in go
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [noborus/xlsxsql](https://github.com/noborus/xlsxsql) - A CLI tool that executes SQL queries on various files including xlsx files and outputs the results to various files
 - [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
@@ -750,7 +750,7 @@
 - [DaltonSW/campfire](https://github.com/DaltonSW/campfire) - Cozy up with your logs
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Testkube is a Test Orchestration Platform for Cloud Native Applications
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
 - [kubernetes-sigs/e2e-framework](https://github.com/kubernetes-sigs/e2e-framework) - A Go framework for end-to-end testing of components running in Kubernetes clusters.
 - [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
@@ -1894,6 +1894,7 @@
 - [mfontanini/trustrl](https://github.com/mfontanini/trustrl) - CLI tool to manipulate URLs
 - [mfontanini/sockwho](https://github.com/mfontanini/sockwho) - Inspect socketaddrs using eBPF tracepoints
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
+- [karol-broda/funnel](https://github.com/karol-broda/funnel) - a network tunneling proxy
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -2171,6 +2172,7 @@
 
 ## TypeScript 
 
+- [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [wireapp/expect-webdriverio](https://github.com/wireapp/expect-webdriverio) - WebdriverIO Assertion Library
 - [wireapp/core-crypto-playground](https://github.com/wireapp/core-crypto-playground) - A minimal React + TypeScript + Vite app for exploring the CoreCrypto WebAssembly library.
 - [wireapp/integration-docs](https://github.com/wireapp/integration-docs) - Wire Integrations documentation
@@ -2355,7 +2357,7 @@
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+- [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭

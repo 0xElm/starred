@@ -290,6 +290,7 @@
 
 ## Go 
 
+- [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [wireapp/smallstep-certificates](https://github.com/wireapp/smallstep-certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is a developer platform for Kubernetes
@@ -610,7 +611,7 @@
 - [opencontainers/umoci](https://github.com/opencontainers/umoci) - umoci modifies Open Container images
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [DeterminateSystems/bonk](https://github.com/DeterminateSystems/bonk) - Erase macOS machines over Tailscale.
-- [kommodity-io/oidc-discovery-proxy](https://github.com/kommodity-io/oidc-discovery-proxy) - Enables Proxy for OpenID discovery of a Kubernetes cluster.
+- [kommodity-io/oidc-discovery-proxy](https://github.com/kommodity-io/oidc-discovery-proxy) - Expose the OpenID Connect discovery endpoint of a Kubernetes cluster to allow for identity federation.
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
@@ -787,7 +788,6 @@
 - [dastergon/wheel-of-misfortune](https://github.com/dastergon/wheel-of-misfortune) - A role-playing game for incident management training
 - [fossology/fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and we
 - [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [simonw/datasette.io](https://github.com/simonw/datasette.io) - The official project website for Datasette
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
@@ -898,6 +898,7 @@
 
 ## JavaScript 
 
+- [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [attio/react-beautiful-dnd](https://github.com/attio/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -1397,6 +1398,7 @@
 
 ## Perl 
 
+- [os-autoinst/openQA](https://github.com/os-autoinst/openQA) - openQA web-frontend, scheduler and tools.
 - [ag4ve/NF-Save](https://github.com/ag4ve/NF-Save) - Take in a data structure and output nf/iptables and ipset save data
 - [percona/percona-toolkit](https://github.com/percona/percona-toolkit) - Percona Toolkit: a collection of advanced open source command-line tools.
 - [mrash/fwknop](https://github.com/mrash/fwknop) - Single Packet Authorization &gt; Port Knocking
@@ -1421,6 +1423,9 @@
 
 ## Python 
 
+- [avocado-framework/avocado](https://github.com/avocado-framework/avocado) - Avocado is a set of tools and libraries to help with automated testing. One can call it a test framework with benefits. Native tests are written in Python and they follow the unittest pattern, but any
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [wireapp/wire-utility-tool](https://github.com/wireapp/wire-utility-tool) - 
 - [wireapp/wire-upgrade-tool](https://github.com/wireapp/wire-upgrade-tool) - 
 - [wireapp/wire-scripts](https://github.com/wireapp/wire-scripts) - 
@@ -1480,6 +1485,7 @@
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [Kha/nixprof](https://github.com/Kha/nixprof) - A Nix build graph profiler
 - [davep/hike](https://github.com/davep/hike) - A Markdown browser for the terminal
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [shobrook/openlimit](https://github.com/shobrook/openlimit) - Efficient, per-second rate limiter for the OpenAI API
 - [uma-pi1/kge](https://github.com/uma-pi1/kge) - LibKGE - A knowledge graph embedding library for reproducible research

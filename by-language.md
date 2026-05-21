@@ -2059,7 +2059,7 @@
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
-- [element-hq/matrix-authentication-service](https://github.com/element-hq/matrix-authentication-service) - 
+- [element-hq/matrix-authentication-service](https://github.com/element-hq/matrix-authentication-service) - Matrix Authentication Service is the user management and authentication layer in the Matrix stack part of the Element Server Suite
 - [threema-ch/compose-area](https://github.com/threema-ch/compose-area) - A compose area with support for inline images, written with Rust + Webassembly.
 - [threema-ch/push-relay](https://github.com/threema-ch/push-relay) - Relay service for Threema Web push notifications.
 - [signalapp/ringrtc](https://github.com/signalapp/ringrtc) - 
@@ -2330,7 +2330,7 @@
 - [immich-app/data.immich.app](https://github.com/immich-app/data.immich.app) - Graphs and charts for Immich data
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Composable framework to build advanced applications with flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.
 - [DeterminateSystems/flakehub-mirror](https://github.com/DeterminateSystems/flakehub-mirror) - 
 - [DeterminateSystems/ui](https://github.com/DeterminateSystems/ui) - Determinate Systems' design system
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.

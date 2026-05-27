@@ -1425,7 +1425,7 @@
 ## Python 
 
 - [wesm/moneyflow](https://github.com/wesm/moneyflow) - Moneyflow: Personal Finance Data Interface for Power Users (supporting backends like Monarch Money, YNAB)
-- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
+- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
 - [avocado-framework/avocado](https://github.com/avocado-framework/avocado) - Avocado is a set of tools and libraries to help with automated testing. One can call it a test framework with benefits. Native tests are written in Python and they follow the unittest pattern, but any
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
@@ -1519,6 +1519,7 @@
 - [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility acr
 - [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset
 - [databrickslabs/dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames and Tables
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [nyrkio/nyrkio](https://github.com/nyrkio/nyrkio) - Nyrkiö is an open source platform for detecting performance changes in a Continuous Performance Engineering workflow
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
@@ -2107,7 +2108,6 @@
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [RocketChat/helm-charts](https://github.com/RocketChat/helm-charts) - Repository for RocketChat helm charts
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [basecamp/house-skills](https://github.com/basecamp/house-skills) - 37signals skills for AI assistants
 - [safe-agentic-framework/safe-agentic-use-cases](https://github.com/safe-agentic-framework/safe-agentic-use-cases) - A community-driven repository of industry and use-case analyses for agentic systems. Documents how ai agents can fail, and how those failures map to SAFE-MCP attack techniques.

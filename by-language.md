@@ -290,6 +290,7 @@
 
 ## Go 
 
+- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 - [kenn-io/middleman](https://github.com/kenn-io/middleman) - Local-first GitHub dashboard for maintainers to triage, review, and merge PRs and issues across repos without needing GitHub's built-in notification emails or dashboard
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
@@ -1424,6 +1425,7 @@
 
 ## Python 
 
+- [dmuiX/fluxcd.k8sdev.cloud](https://github.com/dmuiX/fluxcd.k8sdev.cloud) - 🚀 Production Grade K8s Cluster — infra & apps deployed automatically via FluxCD
 - [wesm/moneyflow](https://github.com/wesm/moneyflow) - Moneyflow: Personal Finance Data Interface for Power Users (supporting backends like Monarch Money, YNAB)
 - [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
 - [avocado-framework/avocado](https://github.com/avocado-framework/avocado) - Avocado is a set of tools and libraries to help with automated testing. One can call it a test framework with benefits. Native tests are written in Python and they follow the unittest pattern, but any
@@ -1739,6 +1741,7 @@
 
 ## Rust 
 
+- [perplexityai/pgcat](https://github.com/perplexityai/pgcat) - 
 - [wireapp/merge-pr](https://github.com/wireapp/merge-pr) - Merge a PR with a linear history and commit signing
 - [wireapp/rust-jwt-simple](https://github.com/wireapp/rust-jwt-simple) - A secure, standard-conformant, easy to use JWT implementation for Rust.
 - [wireapp/openmls](https://github.com/wireapp/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
@@ -2084,6 +2087,7 @@
 
 ## Shell 
 
+- [perplexityai/webRTC](https://github.com/perplexityai/webRTC) - 
 - [wireapp/prebuilt-webrtc-binaries](https://github.com/wireapp/prebuilt-webrtc-binaries) - Prebuilt binaries for webrtc library
 - [wireapp/ansible-cassandra](https://github.com/wireapp/ansible-cassandra) - Ansible role to install an Apache Cassandra cluster
 - [wireapp/wire-builds](https://github.com/wireapp/wire-builds) - This repo defines builds of Wire as sets of Wire's internal components.

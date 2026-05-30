@@ -280,7 +280,6 @@
 
 ## ai 
 
-- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [Orva-Studio/hance](https://github.com/Orva-Studio/hance) - Film-grade your footage from the command line - built for humans and agents.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
@@ -315,7 +314,6 @@
 
 ## ai-agents 
 
-- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
 - [scitix/siclaw](https://github.com/scitix/siclaw) - AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
@@ -402,7 +400,6 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
-- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -503,7 +500,7 @@
 - [tweag/credential-helper](https://github.com/tweag/credential-helper) - A credential-helper framework and agent for Bazel and similar tools implementing the credential-helper spec.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
-- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
@@ -523,7 +520,7 @@
 
 ## backend 
 
-- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
 
 ## bash 
 
@@ -740,7 +737,7 @@
 - [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [latacora/replik8s](https://github.com/latacora/replik8s) - A modern open-source Kubernetes auditing and investigation tool
-- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
@@ -986,7 +983,7 @@
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -1085,7 +1082,7 @@
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [inspec/inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [grafana/grafana-ansible-collection](https://github.com/grafana/grafana-ansible-collection) - grafana.grafana Ansible collection provides modules and roles for managing various resources on Grafana Cloud and roles to manage and deploy Grafana Agent and Grafana
 - [the-nix-way/real-world-devops-with-nix](https://github.com/the-nix-way/real-world-devops-with-nix) - An example project for building containers with Nix and deploying them to Kubernetes
@@ -1109,7 +1106,7 @@
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
 
 ## django 
 
@@ -1273,7 +1270,6 @@
 
 ## fastapi 
 
-- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 
@@ -1385,6 +1381,7 @@
 
 ## go 
 
+- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [hugoaguirre/product-service](https://github.com/hugoaguirre/product-service) - A small gRPC service writen in Go that follows Hexagonal Architecture
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
@@ -1466,7 +1463,7 @@
 - [vmware-archive/octant](https://github.com/vmware-archive/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
 - [chainguard-sandbox/go-oidctest](https://github.com/chainguard-sandbox/go-oidctest) - Library for creating fake OIDC providers in tests
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
@@ -1490,6 +1487,7 @@
 
 ## golang 
 
+- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 - [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang) - ⛵ App Platform sample Golang application.
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [digitalocean/go-qemu](https://github.com/digitalocean/go-qemu) - Go packages to interact with QEMU using the QEMU Machine Protocol (QMP).  Apache 2.0 Licensed.
@@ -1579,7 +1577,7 @@
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 - [kingluo/lua-resty-ffi](https://github.com/kingluo/lua-resty-ffi) - lua-resty-ffi provides an efficient and generic API to do hybrid programming in openresty/envoy with mainstream languages (Go, Python, Java, Rust, Nodejs, etc.).
-- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
 - [chainguard-dev/incert](https://github.com/chainguard-dev/incert) - Add CA certificates into containers
 - [chainguard-sandbox/go-oidctest](https://github.com/chainguard-sandbox/go-oidctest) - Library for creating fake OIDC providers in tests
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
@@ -1646,6 +1644,7 @@
 
 ## hacktoberfest 
 
+- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus
 - [os-autoinst/openQA](https://github.com/os-autoinst/openQA) - openQA web-frontend, scheduler and tools.
 - [wireapp/wire-web-packages](https://github.com/wireapp/wire-web-packages) - Collection of npm modules created by Wire's web team.
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is a developer platform for Kubernetes
@@ -2151,6 +2150,7 @@
 
 ## linux 
 
+- [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [avocado-framework/avocado](https://github.com/avocado-framework/avocado) - Avocado is a set of tools and libraries to help with automated testing. One can call it a test framework with benefits. Native tests are written in Python and they follow the unittest pattern, but any
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
@@ -2189,7 +2189,6 @@
 
 ## llm 
 
-- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
 - [scitix/siclaw](https://github.com/scitix/siclaw) - AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration
 - [lenaxia/k8s-mechanic](https://github.com/lenaxia/k8s-mechanic) - A K8s controller that watches your cluster for failures and opens pull requests on your GitOps repository with fixes. Security is a first class citizen, and it runs in-cluster with read-only RBAC, red
 - [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) - Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.
@@ -2360,7 +2359,7 @@
 - [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner) - Dynamically deploy Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is provisioned from simple local filesystem storage.
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 
 ## mobile 
@@ -2528,7 +2527,6 @@
 
 ## nextjs 
 
-- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) - Open Collective's Frontend. A React app powered by Next.js.
@@ -2542,6 +2540,7 @@
 
 ## no-code 
 
+- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
@@ -2620,7 +2619,8 @@
 
 ## open-source 
 
-- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -2662,6 +2662,12 @@
 
 ## others 
 
+- [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [kernelslacker/trinity](https://github.com/kernelslacker/trinity) - Linux system call fuzzer
+- [sjhitchner/go-decide](https://github.com/sjhitchner/go-decide) - Decision Tree
+- [dmuiX/fluxcd.k8sdev.cloud](https://github.com/dmuiX/fluxcd.k8sdev.cloud) - 🚀 Production Grade K8s Cluster — infra & apps deployed automatically via FluxCD
+- [perplexityai/pgcat](https://github.com/perplexityai/pgcat) - 
+- [perplexityai/webRTC](https://github.com/perplexityai/webRTC) - 
 - [wesm/moneyflow](https://github.com/wesm/moneyflow) - Moneyflow: Personal Finance Data Interface for Power Users (supporting backends like Monarch Money, YNAB)
 - [kenn-io/middleman](https://github.com/kenn-io/middleman) - Local-first GitHub dashboard for maintainers to triage, review, and merge PRs and issues across repos without needing GitHub's built-in notification emails or dashboard
 - [mikkelkrogsholm/rentemester](https://github.com/mikkelkrogsholm/rentemester) - 
@@ -2724,7 +2730,7 @@
 - [digitalocean/go-libvirt](https://github.com/digitalocean/go-libvirt) - Package libvirt provides a pure Go interface for interacting with Libvirt.  Apache 2.0 Licensed.
 - [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
 - [mintlify/guides](https://github.com/mintlify/guides) - A compilation of best practices for writing technical documentation.
-- [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
+- [mintlify/starter](https://github.com/mintlify/starter) - The starter kit for your mintlify project
 - [mintlify/mdx](https://github.com/mintlify/mdx) - Mintlify markdown parser
 - [mintlify/docs](https://github.com/mintlify/docs) - Official Mintlify documentation
 - [attio/react-beautiful-dnd](https://github.com/attio/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
@@ -3821,7 +3827,6 @@
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite
-- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -3880,7 +3885,7 @@
 
 ## python 
 
-- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
+- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
 - [avocado-framework/avocado](https://github.com/avocado-framework/avocado) - Avocado is a set of tools and libraries to help with automated testing. One can call it a test framework with benefits. Native tests are written in Python and they follow the unittest pattern, but any
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
@@ -4134,6 +4139,7 @@
 
 ## rust 
 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [harehare/mq-tui](https://github.com/harehare/mq-tui) - mq-tui is a Text-based User Interface for the mq Markdown processor.
 - [harehare/mq](https://github.com/harehare/mq) - A jq-like Markdown query language for command-line processing
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
@@ -4348,7 +4354,7 @@
 
 ## self-hosted 
 
-- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
+- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
 - [octalide/mach](https://github.com/octalide/mach) - A programming language for people who like to know what their code is doing.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -4388,11 +4394,12 @@
 
 ## serverless 
 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [briandowns/sky-island](https://github.com/briandowns/sky-island) - FaaS platform for running raw Go functions.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
-- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 
 ## shell 
@@ -4671,7 +4678,7 @@
 
 ## text-to-speech 
 
-- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
+- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
 
 ## trading 
 
@@ -4775,7 +4782,7 @@
 - [514-labs/moosestack](https://github.com/514-labs/moosestack) - The agent harness for building analytics into your app on top of ClickHouse, Redpanda and other high-performance analytical infrastructure
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
-- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
 - [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework

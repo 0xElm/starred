@@ -86,6 +86,9 @@
 
 ## C 
 
+- [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
+- [kernelslacker/trinity](https://github.com/kernelslacker/trinity) - Linux system call fuzzer
 - [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments
 - [wireapp/Down](https://github.com/wireapp/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
 - [wireapp/coturn](https://github.com/wireapp/coturn) - coturn TURN server project
@@ -290,6 +293,8 @@
 
 ## Go 
 
+- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus
+- [sjhitchner/go-decide](https://github.com/sjhitchner/go-decide) - Decision Tree
 - [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 - [kenn-io/middleman](https://github.com/kenn-io/middleman) - Local-first GitHub dashboard for maintainers to triage, review, and merge PRs and issues across repos without needing GitHub's built-in notification emails or dashboard
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
@@ -1741,6 +1746,7 @@
 
 ## Rust 
 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [perplexityai/pgcat](https://github.com/perplexityai/pgcat) - 
 - [wireapp/merge-pr](https://github.com/wireapp/merge-pr) - Merge a PR with a linear history and commit signing
 - [wireapp/rust-jwt-simple](https://github.com/wireapp/rust-jwt-simple) - A secure, standard-conformant, easy to use JWT implementation for Rust.

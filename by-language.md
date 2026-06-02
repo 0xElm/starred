@@ -733,7 +733,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1532,7 +1532,7 @@
 - [Hundter/MitID-BrowserClient](https://github.com/Hundter/MitID-BrowserClient) - Unofficial python implementation of the MitID javascript browser client
 - [kiliantscherny/nordpy](https://github.com/kiliantscherny/nordpy) - A terminal UI for browsing and exporting your Nordnet portfolio data
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-- [safe-agentic-framework/safe-mcp](https://github.com/safe-agentic-framework/safe-mcp) - SAFE-MCP is a comprehensive security framework for documenting and mitigating threats in the AI Agent ecosystem.
+- [secure-agentic-framework/saf-mcp](https://github.com/secure-agentic-framework/saf-mcp) - SAF-MCP is a comprehensive security framework for documenting and mitigating threats in the AI Agent ecosystem.
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
 - [elastic/curator](https://github.com/elastic/curator) - Curator: Tending your Elasticsearch indices
 - [elastic/security-docs](https://github.com/elastic/security-docs) - Elastic Security Documentation
@@ -2121,7 +2121,7 @@
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [basecamp/house-skills](https://github.com/basecamp/house-skills) - 37signals skills for AI assistants
-- [safe-agentic-framework/safe-agentic-use-cases](https://github.com/safe-agentic-framework/safe-agentic-use-cases) - A community-driven repository of industry and use-case analyses for agentic systems. Documents how ai agents can fail, and how those failures map to SAFE-MCP attack techniques.
+- [secure-agentic-framework/saf-agentic-use-cases](https://github.com/secure-agentic-framework/saf-agentic-use-cases) - A community-driven repository of industry and use-case analyses for agentic systems. Documents how ai agents can fail, and how those failures map to SAFE-MCP attack techniques.
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files
 - [ereslibre/homeops](https://github.com/ereslibre/homeops) - Gitops for some home automation workloads
 - [GrapheneOS/ns1.grapheneos.org](https://github.com/GrapheneOS/ns1.grapheneos.org) - Authoritative DNS servers
@@ -2265,7 +2265,7 @@
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -2420,6 +2420,9 @@
 
 ## Zig 
 
+- [xit-vcs/xit](https://github.com/xit-vcs/xit) - a git alternative written in zig
+- [xit-vcs/haxy](https://github.com/xit-vcs/haxy) - a git forge from the future-past
+- [xit-vcs/xitdb](https://github.com/xit-vcs/xitdb) - an immutable database for zig
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.

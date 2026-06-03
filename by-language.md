@@ -18,7 +18,6 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
-- [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [Go](#go)
 - [Go Template](#go-template)
@@ -282,10 +281,6 @@
 - [harehare/textusm](https://github.com/harehare/textusm) - TextUSM is a web-based diagram editor that generates diagrams from indented text
 - [elm/core](https://github.com/elm/core) - Elm's core libraries
 - [evancz/guide.elm-lang.org](https://github.com/evancz/guide.elm-lang.org) - My book introducing you to Elm!
-
-## Emacs Lisp 
-
-- [ereslibre/homelab](https://github.com/ereslibre/homelab) - ❄️ Nixified ❄️ homelab
 
 ## Erlang 
 
@@ -1202,6 +1197,7 @@
 - [juspay/jenkins-nix-ci](https://github.com/juspay/jenkins-nix-ci) - A NixOS module for Jenkins, optimized specifically for running projects using Nix.
 - [seanrmurphy/nixos-in-10-minutes](https://github.com/seanrmurphy/nixos-in-10-minutes) - Bring up a nixos instance in 10 minutes using nixos-anywhere
 - [antithesishq/madness](https://github.com/antithesishq/madness) - Madness enables you to easily run the same binary on NixOS and non-NixOS systems
+- [ereslibre/homelab](https://github.com/ereslibre/homelab) - ❄️ Nixified ❄️ homelab
 - [numtide/nix-vm-test-demo](https://github.com/numtide/nix-vm-test-demo) - Dump of the code used in the nix-vm-test demo
 - [tweag/nixos-specialisation-dual-boot](https://github.com/tweag/nixos-specialisation-dual-boot) - 
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
@@ -2191,6 +2187,7 @@
 
 ## TypeScript 
 
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [mikkelkrogsholm/rentemester](https://github.com/mikkelkrogsholm/rentemester) - 
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [wireapp/expect-webdriverio](https://github.com/wireapp/expect-webdriverio) - WebdriverIO Assertion Library
@@ -2265,7 +2262,7 @@
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [voideditor/void](https://github.com/voideditor/void) - 

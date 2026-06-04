@@ -1178,7 +1178,7 @@
 
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 - [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
-- [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
+- [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven confi
 - [DOD-101/NixOS-dots](https://github.com/DOD-101/NixOS-dots) - (WIP) My config for NixOs.
 - [juliamertz/homeassistant-rosepine-theme](https://github.com/juliamertz/homeassistant-rosepine-theme) - Soho vibes for Home Assistant
 - [juliamertz/infra](https://github.com/juliamertz/infra) - 

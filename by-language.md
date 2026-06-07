@@ -85,6 +85,7 @@
 
 ## C 
 
+- [cafkafk/ncrc](https://github.com/cafkafk/ncrc) - NetCat Relay Chat (portfolio project)
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [kernelslacker/trinity](https://github.com/kernelslacker/trinity) - Linux system call fuzzer
@@ -182,6 +183,7 @@
 
 ## C++ 
 
+- [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon) - Tachyon, IPC/RPC primitive.
 - [mariadb-corporation/MaxScale](https://github.com/mariadb-corporation/MaxScale) - An intelligent database proxy.
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
@@ -288,6 +290,12 @@
 
 ## Go 
 
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+- [evandhoffman/olltop](https://github.com/evandhoffman/olltop) - Real-time tok/s monitor for Ollama using eBPF (Linux) and pcap (macOS)
+- [superfly/fsm](https://github.com/superfly/fsm) - internal fsm library
+- [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
+- [canonical/pebble](https://github.com/canonical/pebble) - Pebble is a lightweight Linux service manager with layered configuration and an HTTP API
+- [hockeypuck/hockeypuck](https://github.com/hockeypuck/hockeypuck) - OpenPGP Key Server
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus
 - [sjhitchner/go-decide](https://github.com/sjhitchner/go-decide) - Decision Tree
@@ -865,6 +873,7 @@
 
 ## Java 
 
+- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [apache/jena](https://github.com/apache/jena) - Apache Jena, A free and open source Java framework for building Semantic Web and Linked Data applications.
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
@@ -1006,12 +1015,14 @@
 
 ## Jupyter Notebook 
 
+- [rbroc/simcat](https://github.com/rbroc/simcat) - A Python package to simulate multi-agent cognitive association tasks 🤖 🧠 👥
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [DataTreehouse/maplib-masterclass](https://github.com/DataTreehouse/maplib-masterclass) - A comprehensive guide to maplib.
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 
 ## Kotlin 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [wireapp/jira-app](https://github.com/wireapp/jira-app) - Jira app demo for wire integration using the jvm sdk.
 - [wireapp/broadcast-app](https://github.com/wireapp/broadcast-app) - Message multiple conversations simultaneously
 - [wireapp/kalium](https://github.com/wireapp/kalium) - 🍌 An SDK for creating Wire clients on Android and JVM. Expanding to iOS and Web.
@@ -1031,6 +1042,7 @@
 
 ## Lua 
 
+- [johnfrankmorgan/whitespace.nvim](https://github.com/johnfrankmorgan/whitespace.nvim) - A simple neovim plugin to highlight and remove trailing whitespace.
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [tjdevries/luai.nvim](https://github.com/tjdevries/luai.nvim) - Lua + AI = ???
 - [moniquelive/rfc.nvim](https://github.com/moniquelive/rfc.nvim) - RFC browser for nvim written in Lua
@@ -1110,7 +1122,7 @@
 - [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - nvim-cmp source for neovim builtin LSP client
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [tjdevries/present.nvim](https://github.com/tjdevries/present.nvim) - 
-- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 45+ independent Lua modules improving Neovim experience with minimal effort
 - [desdic/neovim](https://github.com/desdic/neovim) - My neovim config
 - [desdic/macrothis.nvim](https://github.com/desdic/macrothis.nvim) - Macrothis is a plugin for neovim to save and load macros
 - [shortcuts/neovim-plugin-boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate) - 🔌 Plug and play Neovim plugin boilerplate with pre-configured CI, CD, linter, docs and tests.
@@ -1150,9 +1162,9 @@
 
 ## Makefile 
 
+- [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [rancherlabs/swiss-army-knife-v2](https://github.com/rancherlabs/swiss-army-knife-v2) - 
-- [octalide/mach](https://github.com/octalide/mach) - A programming language for people who like to know what their code is doing.
 - [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
 - [open-telemetry/opentelemetry-proto-go](https://github.com/open-telemetry/opentelemetry-proto-go) - Generated code for OpenTelemetry protobuf data model
 - [open-telemetry/opentelemetry-proto](https://github.com/open-telemetry/opentelemetry-proto) - OpenTelemetry protocol (OTLP) specification and Protobuf definitions
@@ -1179,6 +1191,10 @@
 
 ## Nix 
 
+- [semnix/semnix](https://github.com/semnix/semnix) - Monorepo for Semantically Versioned Releases of Crucial Nix Dependencies
+- [denful/flake-file](https://github.com/denful/flake-file) - Generate flake.nix from module options. Input and Output schemas. Works with flakes, unflake, npins or nixlock.
+- [cafkafk/file-fuzzer](https://github.com/cafkafk/file-fuzzer) - A file fuzzer using fortune
+- [cafkafk/tofunix](https://github.com/cafkafk/tofunix) - Please don't use this
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 - [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven confi
@@ -1299,6 +1315,7 @@
 
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [unixorn/internet-of-trash](https://github.com/unixorn/internet-of-trash) - A list of IOT devices that are garbage
+- [octalide/mach](https://github.com/octalide/mach) - A systems programming language with no hidden behavior.
 - [tjdevries/tjdevries](https://github.com/tjdevries/tjdevries) - About Me :)
 - [openconfig/common-ci](https://github.com/openconfig/common-ci) - Common CI workflows for OpenConfig projects.
 - [dastergon/postmortem-templates](https://github.com/dastergon/postmortem-templates) - A collection of postmortem templates
@@ -1428,6 +1445,17 @@
 
 ## Python 
 
+- [x-tabdeveloping/turftopic](https://github.com/x-tabdeveloping/turftopic) - Robust and fast topic models with sentence-transformers.
+- [nilearn/nilearn](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python
+- [PsychoinformaticsLab/pliers](https://github.com/PsychoinformaticsLab/pliers) - Automated feature extraction in Python
+- [cafkafk/stickerpicker](https://github.com/cafkafk/stickerpicker) - A fast and simple Matrix sticker picker widget
+- [canonical/operator](https://github.com/canonical/operator) - Pure Python framework for writing Juju charms.
+- [canonical/grafana-agent-k8s-operator](https://github.com/canonical/grafana-agent-k8s-operator) - This charmed operator automates the operational procedures of running Grafana Agent, an open-source telemetry collector.
+- [canonical/postgresql-operator](https://github.com/canonical/postgresql-operator) - A Charmed Operator for running PostgreSQL on machines
+- [alithethird/12-factor-ui](https://github.com/alithethird/12-factor-ui) - 
+- [canonical/charmcraft](https://github.com/canonical/charmcraft) - Collaborate, build and publish charmed operators for Kubernetes, Linux and Windows.
+- [canonical/haproxy-operator](https://github.com/canonical/haproxy-operator) - haproxy-operator - charm repository.
+- [allure-framework/allure-python](https://github.com/allure-framework/allure-python) - Allure integrations for Python test frameworks
 - [dmuiX/fluxcd.k8sdev.cloud](https://github.com/dmuiX/fluxcd.k8sdev.cloud) - 🚀 Production Grade K8s Cluster — infra & apps deployed automatically via FluxCD
 - [wesm/moneyflow](https://github.com/wesm/moneyflow) - Moneyflow: Personal Finance Data Interface for Power Users (supporting backends like Monarch Money, YNAB)
 - [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
@@ -1744,6 +1772,11 @@
 
 ## Rust 
 
+- [NickCao/ranet](https://github.com/NickCao/ranet) - redundant array of networks
+- [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
+- [cafkafk/seidr](https://github.com/cafkafk/seidr) - A Rust GitOps/symlinkfarm orchestrator inspired by GNU Stow.
+- [cafkafk/fortune-kind](https://github.com/cafkafk/fortune-kind) - Fortune favors the kind
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [lennart-k/rustical](https://github.com/lennart-k/rustical) - a calendar server aiming to be simple, fast and passwordless
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [perplexityai/pgcat](https://github.com/perplexityai/pgcat) - 
@@ -2190,6 +2223,8 @@
 
 ## TypeScript 
 
+- [neuroscout/neuroscout](https://github.com/neuroscout/neuroscout) - NeuroScout web app and API
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [mikkelkrogsholm/rentemester](https://github.com/mikkelkrogsholm/rentemester) - 
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
@@ -2255,7 +2290,7 @@
 - [taskforcesh/nandu](https://github.com/taskforcesh/nandu) - NPM open registry
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [linear/linear](https://github.com/linear/linear) - Tools, SDK's and plugins for Linear
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [supabase-community/pg-gateway](https://github.com/supabase-community/pg-gateway) - Postgres wire protocol for the server-side
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
@@ -2265,7 +2300,7 @@
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [voideditor/void](https://github.com/voideditor/void) - 

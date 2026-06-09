@@ -212,6 +212,7 @@
 - [radarlabs/node-ip2location](https://github.com/radarlabs/node-ip2location) - Node.js addon module for IP2Location
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [sipsorcery/webrtc-interop](https://github.com/sipsorcery/webrtc-interop) - Simple useful interoperability tests for WebRTC libraries. If you are a WebRTC library developer we'd love to include you!
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [envoyproxy/nighthawk](https://github.com/envoyproxy/nighthawk) - L7 (HTTP/HTTPS/HTTP2/HTTP3) performance characterization tool
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -264,6 +265,7 @@
 - [yaronr/dockerfile](https://github.com/yaronr/dockerfile) - My beloved Dockerfiles
 - [buildkite/python-docker-example](https://github.com/buildkite/python-docker-example) - An example pipeline that runs Python tests inside a Docker container using uv for dependency management.
 - [open-telemetry/build-tools](https://github.com/open-telemetry/build-tools) - Building tools provided by OpenTelemetry
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [dovecot/docker](https://github.com/dovecot/docker) - Docker image sources for Dovecot
 - [Arkaniad/docker-supervisord](https://github.com/Arkaniad/docker-supervisord) - 
 - [lukebakken/docker-rabbitmq-cluster](https://github.com/lukebakken/docker-rabbitmq-cluster) - https://github.com/pardahlman/docker-rabbitmq-cluster
@@ -487,7 +489,7 @@
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [go-sql-driver/sql-benchmark](https://github.com/go-sql-driver/sql-benchmark) - A synthetic benchmark to compare the performance of various sql-drivers for Go's database/sql package
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
-- [Releem/mysqlconfigurer](https://github.com/Releem/mysqlconfigurer) - Releem is a database advisor for MySQL & MariaDB that provides automatic metrics analysis, actionable insights, and safe automation. It helps detect issues quickly, optimize performance continuously, 
+- [Releem/mysqlconfigurer](https://github.com/Releem/mysqlconfigurer) - Releem is a database advisor for MySQL, MariaDB & PostgreSQL that provides automatic metrics analysis, actionable insights, and safe automation. It helps detect issues quickly, optimize performance co
 - [pojntfx/stfs](https://github.com/pojntfx/stfs) - Simple Tape File System (STFS), a file system for tapes and tar files.
 - [AlchemillaHQ/Sylve](https://github.com/AlchemillaHQ/Sylve) - Lightweight GUI for managing Bhyve, Jails, ZFS, networking, and more on FreeBSD
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
@@ -1123,6 +1125,7 @@
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [tjdevries/present.nvim](https://github.com/tjdevries/present.nvim) - 
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 45+ independent Lua modules improving Neovim experience with minimal effort
+- [desdic/dotfiles](https://github.com/desdic/dotfiles) - dotfiles managed by chezmoi
 - [desdic/neovim](https://github.com/desdic/neovim) - My neovim config
 - [desdic/macrothis.nvim](https://github.com/desdic/macrothis.nvim) - Macrothis is a plugin for neovim to save and load macros
 - [shortcuts/neovim-plugin-boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate) - 🔌 Plug and play Neovim plugin boilerplate with pre-configured CI, CD, linter, docs and tests.
@@ -1365,7 +1368,7 @@
 - [tweag/project](https://github.com/tweag/project) - Use this template when creating a new project.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [joeduffy/system-prompts](https://github.com/joeduffy/system-prompts) - A collection of interesting system prompts
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [team-telnyx/openapi](https://github.com/team-telnyx/openapi) - OpenAPI specification for the Telnyx API
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
@@ -1573,7 +1576,6 @@
 - [lilydjwg/pssh](https://github.com/lilydjwg/pssh) - Parallel SSH Tools
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [carderne/signal-export](https://github.com/carderne/signal-export) - Export your Signal chats to markdown files with attachments
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
 - [petl-developers/petl](https://github.com/petl-developers/petl) - Python Extract Transform and Load Tables of Data
 - [butuzov/deadlinks](https://github.com/butuzov/deadlinks) - Health checks for your documentation links.  https://pypi.org/project/deadlinks
@@ -1704,7 +1706,6 @@
 
 ## QML 
 
-- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 
 ## R 
@@ -1858,7 +1859,7 @@
 - [shorwood/slopc](https://github.com/shorwood/slopc) - A proc macro that uses an hallucination machine to write your function bodies at compile time.
 - [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
 - [buildkite/test-collector-rust](https://github.com/buildkite/test-collector-rust) - Rust adapter for Buildkite Test Engine which implements a parser and sender for Rust's JSON test output
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
@@ -2176,7 +2177,6 @@
 - [cbbrowne/ledgersql](https://github.com/cbbrowne/ledgersql) - Integration of Ledger with PostgreSQL
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [desdic/dotfiles](https://github.com/desdic/dotfiles) - dotfiles managed by chezmoi
 - [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - An OpenTelemetry backend in a Docker container image
 - [WireGuard/wireguard-vyatta-ubnt](https://github.com/WireGuard/wireguard-vyatta-ubnt) - WireGuard for Ubiquiti Devices
 - [lukaszbudnik/keycloak-kubernetes](https://github.com/lukaszbudnik/keycloak-kubernetes) - Keycloak cluster deployed to Kubernetes
@@ -2300,7 +2300,7 @@
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [voideditor/void](https://github.com/voideditor/void) - 

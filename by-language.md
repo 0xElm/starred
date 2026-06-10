@@ -220,7 +220,7 @@
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [threema-ch/better-sqlcipher](https://github.com/threema-ch/better-sqlcipher) - A fork of better-sqlite3 with support for sqlcipher
@@ -947,6 +947,7 @@
 - [signalapp/better-sqlite3](https://github.com/signalapp/better-sqlite3) - 
 - [moxie0/Convergence](https://github.com/moxie0/Convergence) - An agile, distributed, and secure alternative to the Certificate Authority system.
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [tmcw/big](https://github.com/tmcw/big) - presentations for busy messy hackers
 - [ashlinchak/mdanki](https://github.com/ashlinchak/mdanki) - Markdown to Anki converter
@@ -995,7 +996,7 @@
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [vkurko/calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource & timeline views
 
@@ -2298,7 +2299,6 @@
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
@@ -2330,7 +2330,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [ZeroLeaks/zeroleaks](https://github.com/ZeroLeaks/zeroleaks) - AI Security Scanner - Test your AI systems for prompt injection and extraction vulnerabilities
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
 - [ethereumjs/merkle-patricia-tree](https://github.com/ethereumjs/merkle-patricia-tree) - Project is in active development and has been moved to the EthereumJS VM monorepo.
 - [OpenZeppelin/merkle-tree](https://github.com/OpenZeppelin/merkle-tree) - A JavaScript library to generate merkle trees and merkle proofs.

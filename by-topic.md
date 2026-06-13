@@ -272,7 +272,7 @@
 ## agents 
 
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini and open models on a full private AI Stack ♾️
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
@@ -294,7 +294,7 @@
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -339,7 +339,7 @@
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [ClickHouse/FastFormats](https://github.com/ClickHouse/FastFormats) - A benchmark for data formats
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [getnao/nao](https://github.com/getnao/nao) - 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
 - [tweag/sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
@@ -693,7 +693,7 @@
 - [fullzer4/pybenchx](https://github.com/fullzer4/pybenchx) - Microbenchmarks that mean it
 - [lance0/xfr](https://github.com/lance0/xfr) - A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -1025,7 +1025,7 @@
 - [514-labs/moosestack](https://github.com/514-labs/moosestack) - The agent harness for building analytics into your app on top of ClickHouse, Redpanda and other high-performance analytical infrastructure
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
+- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
@@ -1219,6 +1219,7 @@
 
 ## dotfiles 
 
+- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, and other config files and utility scripts.
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [gwenwindflower/dotfiles](https://github.com/gwenwindflower/dotfiles) - 🌿🌺🌀🐚🌱🌸🌻 feel free to pick a fig from the config tree
@@ -1638,7 +1639,7 @@
 - [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) - Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
 - [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) - Open Collective's Frontend. A React app powered by Next.js.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
@@ -1663,6 +1664,7 @@
 
 ## hacktoberfest 
 
+- [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 - [hockeypuck/hockeypuck](https://github.com/hockeypuck/hockeypuck) - OpenPGP Key Server
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus
@@ -1708,7 +1710,7 @@
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [fr-ser/grafana-sqlite-datasource](https://github.com/fr-ser/grafana-sqlite-datasource) - Grafana Plugin to enable SQLite as a Datasource
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [Clivern/Walrus](https://github.com/Clivern/Walrus) - 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes.
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
 - [Clivern/Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
@@ -2178,6 +2180,7 @@
 
 ## linux 
 
+- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, and other config files and utility scripts.
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [avocado-framework/avocado](https://github.com/avocado-framework/avocado) - Avocado is a set of tools and libraries to help with automated testing. One can call it a test framework with benefits. Native tests are written in Python and they follow the unittest pattern, but any
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
@@ -2260,7 +2263,7 @@
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim.
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [Xemptuous/sqlua.nvim](https://github.com/Xemptuous/sqlua.nvim) - A SQL IDE and UI for NeoVim written in Lua. Inspired by vim-dadbod vim-dadbod-ui.
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim
@@ -2303,6 +2306,7 @@
 
 ## macos 
 
+- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, and other config files and utility scripts.
 - [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -2379,7 +2383,7 @@
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, time, memory, and async code.
@@ -2468,7 +2472,7 @@
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [block/finch](https://github.com/block/finch) - MySQL Benchmarking: Declarative, Distributed, and Amazing
 - [block/blip](https://github.com/block/blip) - Sublime MySQL monitoring
@@ -2511,7 +2515,7 @@
 - [selimacerbas/markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim) - Live Markdown preview for Neovim with Mermaid diagrams, LaTeX math (KaTeX), scroll sync, and syntax highlighting. Pure Lua, zero npm dependencies.
 - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim.
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [Xemptuous/sqlua.nvim](https://github.com/Xemptuous/sqlua.nvim) - A SQL IDE and UI for NeoVim written in Lua. Inspired by vim-dadbod vim-dadbod-ui.
 - [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim) - A wrapper for charm's freeze cli tool for usage in neovim
@@ -2704,7 +2708,7 @@
 - [johnfrankmorgan/whitespace.nvim](https://github.com/johnfrankmorgan/whitespace.nvim) - A simple neovim plugin to highlight and remove trailing whitespace.
 - [semnix/semnix](https://github.com/semnix/semnix) - Monorepo for Semantically Versioned Releases of Crucial Nix Dependencies
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
-- [denful/flake-file](https://github.com/denful/flake-file) - Generate flake.nix from module options. Input and Output schemas. Works with flakes, unflake, npins or nixlock.
+- [denful/flake-file](https://github.com/denful/flake-file) - Generate flake.nix from module options. Input and Output schemas. Works with flakes, unflake, npins or tack
 - [NickCao/ranet](https://github.com/NickCao/ranet) - redundant array of networks
 - [evandhoffman/olltop](https://github.com/evandhoffman/olltop) - Real-time tok/s monitor for Ollama using eBPF (Linux) and pcap (macOS)
 - [cafkafk/seidr](https://github.com/cafkafk/seidr) - A Rust GitOps/symlinkfarm orchestrator inspired by GNU Stow.
@@ -3867,7 +3871,7 @@
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
@@ -4092,7 +4096,7 @@
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini and open models on a full private AI Stack ♾️
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
@@ -4906,6 +4910,7 @@
 
 ## vim 
 
+- [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 - [vim-fall/fall.vim](https://github.com/vim-fall/fall.vim) - 🍂 Yet Another Fuzzy Finder designed for Vim and Neovim and to be programmer-friendly
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod

@@ -2704,6 +2704,7 @@
 
 ## others 
 
+- [kasperd-aleta/Saturn](https://github.com/kasperd-aleta/Saturn) - Opinionated, web development framework for F# which implements the server-side, functional MVC pattern
 - [rbroc/simcat](https://github.com/rbroc/simcat) - A Python package to simulate multi-agent cognitive association tasks 🤖 🧠 👥
 - [johnfrankmorgan/whitespace.nvim](https://github.com/johnfrankmorgan/whitespace.nvim) - A simple neovim plugin to highlight and remove trailing whitespace.
 - [semnix/semnix](https://github.com/semnix/semnix) - Monorepo for Semantically Versioned Releases of Crucial Nix Dependencies
@@ -3516,7 +3517,7 @@
 - [geohot/anker-vibecoded](https://github.com/geohot/anker-vibecoded) - vibecoded python to connect to Anker chargers over BTLE
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
 - [alyraffauf/nixcfg](https://github.com/alyraffauf/nixcfg) - Multi-host NixOS, Darwin, and home-manager configurations with Nix.
-- [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
+- [FylerOrg/fyler.nvim](https://github.com/FylerOrg/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
 - [Dasharo/open-source-firmware-validation](https://github.com/Dasharo/open-source-firmware-validation) - OSFV infrastructure with automated tests and scripts for managing test results
 - [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp and whisper.cpp directly integrated into your Go applications. Kronk provide
 - [envoyproxy/nighthawk](https://github.com/envoyproxy/nighthawk) - L7 (HTTP/HTTPS/HTTP2/HTTP3) performance characterization tool

@@ -86,6 +86,7 @@
 
 ## C 
 
+- [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 - [JackoCoolio/libssh-zig](https://github.com/JackoCoolio/libssh-zig) - mulitplatform C library implementing the SSHv2 and SSHv1 protocol on client and server side http://libssh.org
 - [cafkafk/ncrc](https://github.com/cafkafk/ncrc) - NetCat Relay Chat (portfolio project)
@@ -243,6 +244,7 @@
 ## Clojure 
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [EnigmaCurry/nixos-vm-template](https://github.com/EnigmaCurry/nixos-vm-template) - Build and manage immutable NixOS virtual machines on libvirt/KVM or Proxmox VE.
 - [logseq/publish-spa](https://github.com/logseq/publish-spa) - A github action and CLI to publish logseq graphs as a SPA app
 - [latacora/replik8s](https://github.com/latacora/replik8s) - A modern open-source Kubernetes auditing and investigation tool
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
@@ -688,7 +690,7 @@
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [kelseyhightower/twelve](https://github.com/kelseyhightower/twelve) - 
 - [kelseyhightower/kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
@@ -922,6 +924,7 @@
 
 ## JavaScript 
 
+- [andrewrk/groovebasin](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface.
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [attio/react-beautiful-dnd](https://github.com/attio/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
@@ -2158,7 +2161,6 @@
 - [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - my scripts!
 - [kewitz/git-semantics](https://github.com/kewitz/git-semantics) - Git hook to ensure semantic commit messages.
 - [getscaf/scaf](https://github.com/getscaf/scaf) - scaf is a template manager that simplifies bootstrapping and updating projects.
-- [EnigmaCurry/nixos-vm-template](https://github.com/EnigmaCurry/nixos-vm-template) - 
 - [ngallodev/mariadb_tuning](https://github.com/ngallodev/mariadb_tuning) - Scripts for tuning the mariadb for optimal performance and bulk load from file
 - [buildkite/docker-example](https://github.com/buildkite/docker-example) - An example pipeline that runs a Bash script in Docker Compose using the Docker Compose Buildkite plugin.
 - [buildkite/charts](https://github.com/buildkite/charts) - Buildkite Helm Charts repository
@@ -2219,7 +2221,7 @@
 ## Svelte 
 
 - [siduck/quickcv](https://github.com/siduck/quickcv) - Fast cv / resume builder to create beautiful resumes ( PDF ), uses browser's native window.print() to generate PDF at high quality
-- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [immich-app/ui](https://github.com/immich-app/ui) - Svelte components for Immich
 
 ## Swift 
@@ -2243,6 +2245,7 @@
 
 ## TypeScript 
 
+- [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -            We Get 0.5% on Volume Traded pump.fun 2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump
 - [neuroscout/neuroscout](https://github.com/neuroscout/neuroscout) - NeuroScout web app and API
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more

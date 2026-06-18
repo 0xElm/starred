@@ -194,6 +194,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
@@ -2712,6 +2713,8 @@
 
 ## others 
 
+- [glommer/keymaxxer](https://github.com/glommer/keymaxxer) - Secret manager for coding agents — run commands that use your API keys and tokens without ever exposing the secret to the model.
+- [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -            We Get 0.5% on Volume Traded pump.fun 2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump
 - [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output
 - [andrewrk/groovebasin](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface.
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
@@ -3013,7 +3016,7 @@
 - [Debian/dh-make-golang](https://github.com/Debian/dh-make-golang) - Automatically creates Debian packaging for Go packages
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [Debian/ratelimit](https://github.com/Debian/ratelimit) - A Go blocking leaky-bucket rate limit implementation
-- [EnigmaCurry/nixos-vm-template](https://github.com/EnigmaCurry/nixos-vm-template) - 
+- [EnigmaCurry/nixos-vm-template](https://github.com/EnigmaCurry/nixos-vm-template) - Build and manage immutable NixOS virtual machines on libvirt/KVM or Proxmox VE.
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore) - Nagios Core
 - [ngallodev/mariadb_tuning](https://github.com/ngallodev/mariadb_tuning) - Scripts for tuning the mariadb for optimal performance and bulk load from file
@@ -4187,6 +4190,10 @@
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
+
+## redteam 
+
+- [zer0yu/CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) - CyberSecurityRSS: A collection of cybersecurity rss to make you better!
 
 ## redux 
 

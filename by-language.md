@@ -1344,7 +1344,6 @@
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [act-project/TAC](https://github.com/act-project/TAC) - Automating Compliance Tooling Project
-- [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [opencollective/opencollective](https://github.com/opencollective/opencollective) - We're tracking all our Issues, RFCs and a few other documents in this repository.
 - [graphgeeks-lab/awesome-graph-universe](https://github.com/graphgeeks-lab/awesome-graph-universe) - A curated list of resources for graph-related topics, including graph databases, analytics and science
 - [buildkite/dependent-pipeline-example](https://github.com/buildkite/dependent-pipeline-example) - An example of how to trigger Buildkite pipelines from other pipelines.
@@ -2158,6 +2157,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [gwenwindflower/dotfiles](https://github.com/gwenwindflower/dotfiles) - 🌿🌺🌀🐚🌱🌸🌻 feel free to pick a fig from the config tree
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
+- [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - my scripts!
 - [kewitz/git-semantics](https://github.com/kewitz/git-semantics) - Git hook to ensure semantic commit messages.
 - [getscaf/scaf](https://github.com/getscaf/scaf) - scaf is a template manager that simplifies bootstrapping and updating projects.
@@ -2245,6 +2245,7 @@
 
 ## TypeScript 
 
+- [glommer/keymaxxer](https://github.com/glommer/keymaxxer) - Secret manager for coding agents — run commands that use your API keys and tokens without ever exposing the secret to the model.
 - [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -            We Get 0.5% on Volume Traded pump.fun 2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump
 - [neuroscout/neuroscout](https://github.com/neuroscout/neuroscout) - NeuroScout web app and API
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.

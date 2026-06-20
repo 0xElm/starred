@@ -804,6 +804,7 @@
 
 ## HTML 
 
+- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [wireapp/remind-app](https://github.com/wireapp/remind-app) - An app to remind you about important things.
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 - [nix-community/nixos-landscape](https://github.com/nix-community/nixos-landscape) - The Landscape of NixOS and associated projects [maintainer=@cafkafk]
@@ -886,7 +887,6 @@
 
 ## Java 
 
-- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [apache/jena](https://github.com/apache/jena) - Apache Jena, A free and open source Java framework for building Semantic Web and Linked Data applications.
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
@@ -1172,6 +1172,7 @@
 - [mintlify/docs](https://github.com/mintlify/docs) - Official Mintlify documentation
 - [attio/docs](https://github.com/attio/docs) - 
 - [mintlify/install-md](https://github.com/mintlify/install-md) - Human-readable installation instructions that AI agents can execute
+- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [radarlabs/mintlify](https://github.com/radarlabs/mintlify) - 
 - [rauchg/blog](https://github.com/rauchg/blog) - 
 - [element-hq/compound](https://github.com/element-hq/compound) - Element's design system
@@ -1789,6 +1790,7 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [phozzy/minigrep](https://github.com/phozzy/minigrep) - 
 - [NickCao/ranet](https://github.com/NickCao/ranet) - redundant array of networks
 - [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
@@ -1910,7 +1912,6 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [tobilg/polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
 - [kennytm/qrcode-rust](https://github.com/kennytm/qrcode-rust) - QR code encoder in Rust.
 - [houseme/qrcode-rs](https://github.com/houseme/qrcode-rs) - QR code encoder in Rust，Generate QR Code matrices and images in RAW, PNG and SVG formats.
@@ -2246,7 +2247,7 @@
 ## TypeScript 
 
 - [glommer/keymaxxer](https://github.com/glommer/keymaxxer) - Secret manager for coding agents — run commands that use your API keys and tokens without ever exposing the secret to the model.
-- [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -            We Get 0.5% on Volume Traded pump.fun 2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump
+- [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -            We Get 0.5% on Volume Traded        2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump
 - [neuroscout/neuroscout](https://github.com/neuroscout/neuroscout) - NeuroScout web app and API
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more

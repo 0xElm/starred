@@ -631,6 +631,7 @@
 
 ## cli 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [midasdf/sshz](https://github.com/midasdf/sshz) - Lightweight SSH management TUI written in Zig with ZigZag. ~260KB static binary.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
@@ -772,6 +773,7 @@
 
 ## command-line 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -2714,6 +2716,18 @@
 
 ## others 
 
+- [andrewrk/zig-benchmarks-game](https://github.com/andrewrk/zig-benchmarks-game) - The Computer Language Benchmarks Game in Zig
+- [andrewrk/xml](https://github.com/andrewrk/xml) - Tokenize XML
+- [andrewrk/dotfiles](https://github.com/andrewrk/dotfiles) - linux yo
+- [kristoff-it/scripty](https://github.com/kristoff-it/scripty) - The perfect scripting sidekick!
+- [andrewrk/scripty](https://github.com/andrewrk/scripty) - The perfect scripting sidekick!
+- [andrewrk/zig-lsp-kit](https://github.com/andrewrk/zig-lsp-kit) - Implement your own LSP server!
+- [andrewrk/mime](https://github.com/andrewrk/mime) - zig package for mapping extensions to mime types
+- [andrewrk/pulseaudio](https://github.com/andrewrk/pulseaudio) - pulseaudio with the build system replaced by zig
+- [andrewrk/zqlite.zig](https://github.com/andrewrk/zqlite.zig) - A thin SQLite wrapper for Zig
+- [andrewrk/libvaxis](https://github.com/andrewrk/libvaxis) - a modern tui library written in zig
+- [andrewrk/StaticHttpFileServer](https://github.com/andrewrk/StaticHttpFileServer) - Zig module for serving a directory of files from memory via HTTP
+- [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
 - [Kozea/wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets
 - [glommer/keymaxxer](https://github.com/glommer/keymaxxer) - Secret manager for coding agents — run commands that use your API keys and tokens without ever exposing the secret to the model.
 - [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -            We Get 0.5% on Volume Traded        2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump
@@ -4242,6 +4256,7 @@
 
 ## rust 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon) - Tachyon, IPC/RPC primitive.
 - [cafkafk/fortune-kind](https://github.com/cafkafk/fortune-kind) - Fortune favors the kind
@@ -4698,6 +4713,7 @@
 
 ## terminal 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [midasdf/sshz](https://github.com/midasdf/sshz) - Lightweight SSH management TUI written in Zig with ZigZag. ~260KB static binary.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
@@ -5078,6 +5094,7 @@
 
 ## zig 
 
+- [andrewrk/advent-of-code](https://github.com/andrewrk/advent-of-code) - https://adventofcode.com
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [ringtailsoftware/misshod](https://github.com/ringtailsoftware/misshod) - MiSSHod is a minimal, experimental SSH client and server implemented as a library
 - [midasdf/sshz](https://github.com/midasdf/sshz) - Lightweight SSH management TUI written in Zig with ZigZag. ~260KB static binary.

@@ -1464,6 +1464,7 @@
 
 ## Python 
 
+- [Kozea/wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets
 - [phozzy/codemaxxing](https://github.com/phozzy/codemaxxing) - 
 - [phozzy/some_py_scripts](https://github.com/phozzy/some_py_scripts) - some python scripts
 - [x-tabdeveloping/turftopic](https://github.com/x-tabdeveloping/turftopic) - Robust and fast topic models with sentence-transformers.

@@ -86,6 +86,9 @@
 
 ## C 
 
+- [andrewrk/zig-benchmarks-game](https://github.com/andrewrk/zig-benchmarks-game) - The Computer Language Benchmarks Game in Zig
+- [andrewrk/pulseaudio](https://github.com/andrewrk/pulseaudio) - pulseaudio with the build system replaced by zig
+- [andrewrk/zqlite.zig](https://github.com/andrewrk/zqlite.zig) - A thin SQLite wrapper for Zig
 - [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 - [JackoCoolio/libssh-zig](https://github.com/JackoCoolio/libssh-zig) - mulitplatform C library implementing the SSHv2 and SSHv1 protocol on client and server side http://libssh.org
@@ -1210,6 +1213,7 @@
 
 ## Nix 
 
+- [andrewrk/dotfiles](https://github.com/andrewrk/dotfiles) - linux yo
 - [semnix/semnix](https://github.com/semnix/semnix) - Monorepo for Semantically Versioned Releases of Crucial Nix Dependencies
 - [denful/flake-file](https://github.com/denful/flake-file) - Generate flake.nix from module options. Input and Output schemas. Works with flakes, unflake, npins or tack
 - [cafkafk/file-fuzzer](https://github.com/cafkafk/file-fuzzer) - A file fuzzer using fortune
@@ -1791,6 +1795,7 @@
 
 ## Rust 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [phozzy/minigrep](https://github.com/phozzy/minigrep) - 
 - [NickCao/ranet](https://github.com/NickCao/ranet) - redundant array of networks
@@ -2482,6 +2487,15 @@
 
 ## Zig 
 
+- [andrewrk/advent-of-code](https://github.com/andrewrk/advent-of-code) - https://adventofcode.com
+- [andrewrk/xml](https://github.com/andrewrk/xml) - Tokenize XML
+- [kristoff-it/scripty](https://github.com/kristoff-it/scripty) - The perfect scripting sidekick!
+- [andrewrk/scripty](https://github.com/andrewrk/scripty) - The perfect scripting sidekick!
+- [andrewrk/zig-lsp-kit](https://github.com/andrewrk/zig-lsp-kit) - Implement your own LSP server!
+- [andrewrk/mime](https://github.com/andrewrk/mime) - zig package for mapping extensions to mime types
+- [andrewrk/libvaxis](https://github.com/andrewrk/libvaxis) - a modern tui library written in zig
+- [andrewrk/StaticHttpFileServer](https://github.com/andrewrk/StaticHttpFileServer) - Zig module for serving a directory of files from memory via HTTP
+- [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
 - [ringtailsoftware/misshod](https://github.com/ringtailsoftware/misshod) - MiSSHod is a minimal, experimental SSH client and server implemented as a library
 - [midasdf/sshz](https://github.com/midasdf/sshz) - Lightweight SSH management TUI written in Zig with ZigZag. ~260KB static binary.
 - [xit-vcs/xit](https://github.com/xit-vcs/xit) - a git alternative written in zig

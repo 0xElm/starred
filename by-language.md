@@ -1380,7 +1380,7 @@
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [RustBeginners/awesome-rust-mentors](https://github.com/RustBeginners/awesome-rust-mentors) - A list of rust lang mentors tagged by topics of interest
 - [modern-email/defects](https://github.com/modern-email/defects) - Collection of real-world email defects
-- [basecamp/bc3-api](https://github.com/basecamp/bc3-api) - API documentation for Basecamp 4
+- [basecamp/bc-api](https://github.com/basecamp/bc-api) - API documentation for Basecamp
 - [altera-al/project-sid](https://github.com/altera-al/project-sid) - 
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [tweag/epcb](https://github.com/tweag/epcb) - Nix RFC draft on evaluation purity and caching builtins

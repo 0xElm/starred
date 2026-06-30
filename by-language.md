@@ -86,6 +86,7 @@
 
 ## C 
 
+- [WireGuard/wireguard-tools](https://github.com/WireGuard/wireguard-tools) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-tools
 - [andrewrk/zig-benchmarks-game](https://github.com/andrewrk/zig-benchmarks-game) - The Computer Language Benchmarks Game in Zig
 - [andrewrk/pulseaudio](https://github.com/andrewrk/pulseaudio) - pulseaudio with the build system replaced by zig
 - [andrewrk/zqlite.zig](https://github.com/andrewrk/zqlite.zig) - A thin SQLite wrapper for Zig
@@ -184,6 +185,7 @@
 
 ## C# # 
 
+- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [ForNeVeR/Cesium](https://github.com/ForNeVeR/Cesium) - C compiler for the CLI platform
 - [EliahKagan/Dijkstra](https://github.com/EliahKagan/Dijkstra) - Visualizing Dijkstra's algorithm with various priority queues
 - [CycloneDX/cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli) - CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions.
@@ -303,6 +305,10 @@
 
 ## Go 
 
+- [openziti/foundation](https://github.com/openziti/foundation) - Foundation components for the Ziti golang ecosystem
+- [openziti/identity](https://github.com/openziti/identity) - Identity management library for the OpenZiti project
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
+- [WireGuard/wgctrl-go](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
 - [kubernetes-up-and-running/influxdb](https://github.com/kubernetes-up-and-running/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [kubernetes-up-and-running/helloworld](https://github.com/kubernetes-up-and-running/helloworld) - Helloworld example application.
 - [kubernetes-up-and-running/kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo app for Kubernetes Up and Running book
@@ -812,6 +818,7 @@
 
 ## HTML 
 
+- [kiwix/ipfs-portal](https://github.com/kiwix/ipfs-portal) - Web portal to access Wikipedia snapshots published on IPFS
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [wireapp/remind-app](https://github.com/wireapp/remind-app) - An app to remind you about important things.
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
@@ -1047,6 +1054,8 @@
 
 ## Kotlin 
 
+- [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
+- [WireGuard/wireguard-android](https://github.com/WireGuard/wireguard-android) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-android
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [wireapp/jira-app](https://github.com/wireapp/jira-app) - Jira app demo for wire integration using the jvm sdk.
 - [wireapp/broadcast-app](https://github.com/wireapp/broadcast-app) - Message multiple conversations simultaneously
@@ -1476,6 +1485,9 @@
 
 ## Python 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
+- [kiwix/seeder](https://github.com/kiwix/seeder) - Kiwix Catalog BitTorrent Seeder Companion
+- [kiwix/operations](https://github.com/kiwix/operations) - Kiwix Kubernetes Cluster
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [Kozea/wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets
 - [phozzy/codemaxxing](https://github.com/phozzy/codemaxxing) - 
@@ -1701,7 +1713,7 @@
 - [markqvist/LXMF](https://github.com/markqvist/LXMF) - A universal, distributed and secure messaging protocol for Reticulum
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [olvid-io/Olvid-Bot-Documentation](https://github.com/olvid-io/Olvid-Bot-Documentation) - 
 - [olvid-io/Olvid-Bot-Python-Client](https://github.com/olvid-io/Olvid-Bot-Python-Client) - 
@@ -2162,6 +2174,7 @@
 
 ## Shell 
 
+- [peacey/split-vpn](https://github.com/peacey/split-vpn) - A split tunnel VPN script for Unifi OS routers (UDM, UXG, UDR) with policy based routing.
 - [kubernetes-up-and-running/examples](https://github.com/kubernetes-up-and-running/examples) - Example code and files from "Kubernetes: Up and Running"
 - [phozzy/keepalived](https://github.com/phozzy/keepalived) - Alpine based container for keepalived
 - [phozzy/nix-with-selinux](https://github.com/phozzy/nix-with-selinux) - this project has moved to a new repo. click the link below
@@ -2443,7 +2456,6 @@
 - [aws/graph-explorer](https://github.com/aws/graph-explorer) - React-based web application that enables users to visualize both property graph and RDF data and explore connections between data without having to write graph queries.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [DefiLlama/defillama-app](https://github.com/DefiLlama/defillama-app) - 
 - [grafana/lgtm-otel-demo](https://github.com/grafana/lgtm-otel-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [grafana/metrics-drilldown](https://github.com/grafana/metrics-drilldown) - A queryless experience for browsing Prometheus-compatible metrics. Quickly find related metrics without writing PromQL queries.
 - [grafana/business-charts](https://github.com/grafana/business-charts) - The Business Charts plugin integrates the powerful Apache ECharts library into Grafana, enabling you to create rich, interactive charts and graphs within your dashboards. Built on pure JavaScript and 

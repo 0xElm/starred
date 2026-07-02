@@ -665,7 +665,7 @@
 - [pion/rtp](https://github.com/pion/rtp) - A Go implementation of RTP
 - [grafana/xk6](https://github.com/grafana/xk6) - k6 extension development toolbox
 - [grafana/k6build](https://github.com/grafana/k6build) - K6 build service
-- [grafana/github-datasource](https://github.com/grafana/github-datasource) - The GitHub data source lets you visualize GitHub data in Grafana dashboards.
+- [grafana/github-datasource](https://github.com/grafana/github-datasource) - The GitHub data source lets you visualize GitHub data in Grafana dashboards
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero-trust, programmable network @OpenZiti
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [Financial-Times/kubectl-login](https://github.com/Financial-Times/kubectl-login) - Logs you into multiple clusters which use dex

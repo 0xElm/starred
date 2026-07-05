@@ -42,6 +42,7 @@
 - [MoonScript](#moonscript)
 - [NCL](#ncl)
 - [Nix](#nix)
+- [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Open Policy Agent](#open-policy-agent)
@@ -86,6 +87,8 @@
 
 ## C 
 
+- [tinygs/tinyGS](https://github.com/tinygs/tinyGS) - 📡 Open Ground Station Network  🛰
+- [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms, focusing on flexibility, security and scalability
 - [WireGuard/wireguard-tools](https://github.com/WireGuard/wireguard-tools) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-tools
 - [andrewrk/zig-benchmarks-game](https://github.com/andrewrk/zig-benchmarks-game) - The Computer Language Benchmarks Game in Zig
 - [andrewrk/pulseaudio](https://github.com/andrewrk/pulseaudio) - pulseaudio with the build system replaced by zig
@@ -306,6 +309,9 @@
 
 ## Go 
 
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
+- [guttermonk/bleamd](https://github.com/guttermonk/bleamd) - Fast, interactive markdown viewer with powerful search, full customization, and clickable links for terminal-centric workflows.
+- [mitchellh/websocket-fork](https://github.com/mitchellh/websocket-fork) - Minimal and idiomatic WebSocket library for Go
 - [slackhq/go-audit](https://github.com/slackhq/go-audit) - go-audit is an alternative to the auditd daemon that ships with many distros
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [openziti/foundation](https://github.com/openziti/foundation) - Foundation components for the Ziti golang ecosystem
@@ -817,6 +823,7 @@
 
 ## HCL 
 
+- [immich-app/devtools](https://github.com/immich-app/devtools) - Various tooling used by the Immich maintainer team
 - [digitalocean/scale-with-simplicity](https://github.com/digitalocean/scale-with-simplicity) - Reference architectures to showcase how users can leverage DigitalOcean's robust cloud platform to build resilient, distributed systems at scale.
 
 ## HTML 
@@ -1233,6 +1240,7 @@
 
 ## Nix 
 
+- [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler.
 - [andrewrk/dotfiles](https://github.com/andrewrk/dotfiles) - linux yo
 - [semnix/semnix](https://github.com/semnix/semnix) - Monorepo for Semantically Versioned Releases of Crucial Nix Dependencies
 - [denful/flake-file](https://github.com/denful/flake-file) - Generate flake.nix from module options. Input and Output schemas. Works with flakes, unflake, npins or tack
@@ -1329,6 +1337,10 @@
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [hall/kubenix](https://github.com/hall/kubenix) - Kubernetes management with Nix
 - [element-hq/nix-flakes](https://github.com/element-hq/nix-flakes) - Development environments for various repos, powered by Nix Flakes.
+
+## Nushell 
+
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 
 ## OCaml 
 
@@ -1442,6 +1454,7 @@
 
 ## PHP 
 
+- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault) - openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is pri
 - [Boligforeningsweb/dansk-tech](https://github.com/Boligforeningsweb/dansk-tech) - 
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
@@ -1818,6 +1831,7 @@
 
 ## Rust 
 
+- [qt/qtbridge-rust](https://github.com/qt/qtbridge-rust) - Qt Bridge for Rust. Qt Bridges enables developers to provide application logic written in a foreign language to Qt Quick applications by offering a simple API that follows the target language’s style 
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [t4t5/caldir](https://github.com/t4t5/caldir) - your calendar as a directory
 - [ClickHouse/wal-rus](https://github.com/ClickHouse/wal-rus) - rust port derived from wal-g
@@ -2009,7 +2023,7 @@
 - [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks) - Code examples, data structures, and links from my book, Rust Atomics and Locks.
 - [eyre-rs/eyre](https://github.com/eyre-rs/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
 - [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra) - Zcash - Financial Privacy in Rust 🦓
-- [zcash/zallet](https://github.com/zcash/zallet) - Repo for replacing the zcashd wallet
+- [zcash/zallet](https://github.com/zcash/zallet) - An RPC wallet designed to replace the deprecated `zcashd` embedded wallet.
 - [duesee/imap-next](https://github.com/duesee/imap-next) - 
 - [duesee/imap-codec](https://github.com/duesee/imap-codec) - Rock-solid and complete codec for IMAP
 - [duesee/pop3-codec](https://github.com/duesee/pop3-codec) - Parsing and construction of POP3 messages
@@ -2177,6 +2191,7 @@
 
 ## Shell 
 
+- [guttermonk/waybar-nixos-updates](https://github.com/guttermonk/waybar-nixos-updates) - A  Waybar update checking script for NixOS.
 - [peacey/split-vpn](https://github.com/peacey/split-vpn) - A split tunnel VPN script for Unifi OS routers (UDM, UXG, UDR) with policy based routing.
 - [kubernetes-up-and-running/examples](https://github.com/kubernetes-up-and-running/examples) - Example code and files from "Kubernetes: Up and Running"
 - [phozzy/keepalived](https://github.com/phozzy/keepalived) - Alpine based container for keepalived
@@ -2283,6 +2298,7 @@
 
 ## TypeScript 
 
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
 - [glommer/keymaxxer](https://github.com/glommer/keymaxxer) - Secret manager for coding agents — run commands that use your API keys and tokens without ever exposing the secret to the model.

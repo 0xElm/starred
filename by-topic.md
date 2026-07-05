@@ -881,6 +881,7 @@
 
 ## cryptocurrency 
 
+- [zcash/zallet](https://github.com/zcash/zallet) - An RPC wallet designed to replace the deprecated `zcashd` embedded wallet.
 - [IntersectMBO/cardano-ledger](https://github.com/IntersectMBO/cardano-ledger) - The ledger implementation and specifications of the Cardano blockchain.
 
 ## cryptography 
@@ -2793,6 +2794,11 @@
 
 ## others 
 
+- [infinisil/nixus](https://github.com/infinisil/nixus) - Experimental deployment tool supporting multi-host abstractions
+- [patrick-sharp/waypoint.nvim](https://github.com/patrick-sharp/waypoint.nvim) - 
+- [NixOS/foundation](https://github.com/NixOS/foundation) - This is the home of the NixOS Foundation
+- [ngi-nix/summer-of-nix](https://github.com/ngi-nix/summer-of-nix) - Summer of Nix is a coordinated effort to support selected free and open source software projects, by making them available on NixOS
+- [immich-app/devtools](https://github.com/immich-app/devtools) - Various tooling used by the Immich maintainer team
 - [guttermonk/bleamd](https://github.com/guttermonk/bleamd) - Fast, interactive markdown viewer with powerful search, full customization, and clickable links for terminal-centric workflows.
 - [guttermonk/waybar-nixos-updates](https://github.com/guttermonk/waybar-nixos-updates) - A  Waybar update checking script for NixOS.
 - [tinygs/tinyGS](https://github.com/tinygs/tinyGS) - 📡 Open Ground Station Network  🛰
@@ -3399,7 +3405,6 @@
 - [RustBeginners/awesome-rust-mentors](https://github.com/RustBeginners/awesome-rust-mentors) - A list of rust lang mentors tagged by topics of interest
 - [eyre-rs/eyre](https://github.com/eyre-rs/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
 - [yaahc/dotfiles](https://github.com/yaahc/dotfiles) - Jane Lusby's Configuration Files for well used applications.
-- [zcash/zallet](https://github.com/zcash/zallet) - Repo for replacing the zcashd wallet
 - [duesee/imap-next](https://github.com/duesee/imap-next) - 
 - [modern-email/defects](https://github.com/modern-email/defects) - Collection of real-world email defects
 - [duesee/smtp-codec](https://github.com/duesee/smtp-codec) - Parsing and construction of SMTP messages

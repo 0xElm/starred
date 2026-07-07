@@ -948,6 +948,7 @@
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [signalapp/storage-service](https://github.com/signalapp/storage-service) - 
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
+- [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
 
 ## JavaScript 
 
@@ -1079,7 +1080,6 @@
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [threema-ch/threema-android](https://github.com/threema-ch/threema-android) - Threema App for Android.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
-- [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
 
 ## Lean 
 
@@ -1145,7 +1145,6 @@
 - [pogyomo/winresize.nvim](https://github.com/pogyomo/winresize.nvim) - Resize windows intuitively
 - [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) - Diagrams as code in Neovim.
 - [dorranh/dotfiles](https://github.com/dorranh/dotfiles) - My dotfiles and related configuration. Use at your own risk.
-- [chhoumann/dotfiles](https://github.com/chhoumann/dotfiles) - Christian's dotfiles.
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
 - [element-hq/jitsi-helm](https://github.com/element-hq/jitsi-helm) - Helm chart for HA Jitsi-meet
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
@@ -1376,7 +1375,7 @@
 - [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [yetmike/awesome-kubestronaut](https://github.com/yetmike/awesome-kubestronaut) - Awesome Kubestronaut. Resources to prepare for CKA, CKAD, CKS, KCNA, KCSA, PCA, ICA, CNPE, CNPA, CGOA, CAPA, KCA, BCA, OTCA, CCA
-- [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
+- [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)
 - [unixorn/internet-of-trash](https://github.com/unixorn/internet-of-trash) - A list of IOT devices that are garbage
 - [tjdevries/tjdevries](https://github.com/tjdevries/tjdevries) - About Me :)
 - [openconfig/common-ci](https://github.com/openconfig/common-ci) - Common CI workflows for OpenConfig projects.
@@ -1679,7 +1678,7 @@
 - [tweag/pytest-e2e-automation](https://github.com/tweag/pytest-e2e-automation) - 
 - [NixOS/nix-security-tracker](https://github.com/NixOS/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Semantica 🧠 • Build AI systems that can explain, trace, and justify every decision. Knowledge graphs, context graphs, reasoning engines, provenance, and governance for production AI.
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Semantica  • Build AI systems that can explain, trace, and justify every decision. Knowledge graphs, context graphs, reasoning engines, provenance, and governance for production AI.
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [barrust/pyspellchecker](https://github.com/barrust/pyspellchecker) - Pure Python Spell Checking http://pyspellchecker.readthedocs.io/en/latest/
@@ -2090,7 +2089,7 @@
 - [ipankajg/rix](https://github.com/ipankajg/rix) - Rust based Unix like OS, written by AI, guided by Humans.
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [Distracted-E421/nixos-cursor](https://github.com/Distracted-E421/nixos-cursor) - A modern, flexible implementation Cursor IDE for NixOS, with the addition of "inline" dialog, security, chat data management, and more.
 - [514-labs/moosestack](https://github.com/514-labs/moosestack) - The agent harness for building analytics into your app on top of ClickHouse, Redpanda and other high-performance analytical infrastructure
 - [numinit/flack](https://github.com/numinit/flack) - A web router backed by the Nix Rust API, inspired by Flask, Rack, Express, and Sinatra
@@ -2245,6 +2244,7 @@
 - [tweag/agentic-coding-handbook](https://github.com/tweag/agentic-coding-handbook) - 
 - [tweag/run-nix-shell](https://github.com/tweag/run-nix-shell) - GitHub action for executing scripts via nix-shell.
 - [chhoumann/claude-hooks](https://github.com/chhoumann/claude-hooks) - 
+- [chhoumann/dotfiles](https://github.com/chhoumann/dotfiles) - Christian's dotfiles.
 - [chhoumann/claude-code-monitoring](https://github.com/chhoumann/claude-code-monitoring) - Local monitoring solution for Claude Code usage metrics with Prometheus and Grafana
 - [element-hq/tailscale-k8s](https://github.com/element-hq/tailscale-k8s) - 
 - [mdegat01/addon-loki](https://github.com/mdegat01/addon-loki) - Loki for Home Assistant

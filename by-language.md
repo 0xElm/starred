@@ -310,6 +310,7 @@
 
 ## Go 
 
+- [psic4t/qcal](https://github.com/psic4t/qcal) - CLI calendar application for CalDAV servers
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [guttermonk/bleamd](https://github.com/guttermonk/bleamd) - Fast, interactive markdown viewer with powerful search, full customization, and clickable links for terminal-centric workflows.
 - [mitchellh/websocket-fork](https://github.com/mitchellh/websocket-fork) - Minimal and idiomatic WebSocket library for Go
@@ -1507,7 +1508,7 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [kiwix/seeder](https://github.com/kiwix/seeder) - Kiwix Catalog BitTorrent Seeder Companion
 - [kiwix/operations](https://github.com/kiwix/operations) - Kiwix Kubernetes Cluster
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [Kozea/wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets
 - [phozzy/codemaxxing](https://github.com/phozzy/codemaxxing) - 
 - [phozzy/some_py_scripts](https://github.com/phozzy/some_py_scripts) - some python scripts
@@ -1563,7 +1564,6 @@
 - [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [ben-nour/tab-pal](https://github.com/ben-nour/tab-pal) - A terminal app that makes it easier to add and edit custom colour palettes in Tableau.
-- [z3z1ma/cdf](https://github.com/z3z1ma/cdf) - A framework to manage data, continuously
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal.
 - [neovim/pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim
@@ -1835,6 +1835,7 @@
 
 ## Rust 
 
+- [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [qt/qtbridge-rust](https://github.com/qt/qtbridge-rust) - Qt Bridge for Rust. Qt Bridges enables developers to provide application logic written in a foreign language to Qt Quick applications by offering a simple API that follows the target language’s style 
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [t4t5/caldir](https://github.com/t4t5/caldir) - your calendar as a directory
@@ -1891,6 +1892,7 @@
 - [orhun/flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
+- [z3z1ma/cdf](https://github.com/z3z1ma/cdf) - A framework to manage data, continuously
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
@@ -2115,7 +2117,7 @@
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
 - [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, time, memory, and async code.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, time, memory, SQL and async code.
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [DataTreehouse/chrontext](https://github.com/DataTreehouse/chrontext) - 
 - [DataTreehouse/oxigraph](https://github.com/DataTreehouse/oxigraph) - SPARQL graph database

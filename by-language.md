@@ -1232,7 +1232,7 @@
 - [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
 - [open-telemetry/opentelemetry-proto-go](https://github.com/open-telemetry/opentelemetry-proto-go) - Generated code for OpenTelemetry protobuf data model
 - [open-telemetry/opentelemetry-proto](https://github.com/open-telemetry/opentelemetry-proto) - OpenTelemetry protocol (OTLP) specification and Protobuf definitions
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 - [nalgeon/sqlean.js](https://github.com/nalgeon/sqlean.js) - Browser-based SQLite with extensions
 - [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance) - Standardizing Cloud Native Value Measurement
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
@@ -1256,6 +1256,7 @@
 
 ## Nix 
 
+- [Niols/nixos-config](https://github.com/Niols/nixos-config) - Niols's NixOS configuration/s
 - [infinisil/nixus](https://github.com/infinisil/nixus) - Experimental deployment tool supporting multi-host abstractions
 - [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler.
 - [andrewrk/dotfiles](https://github.com/andrewrk/dotfiles) - linux yo
@@ -1297,7 +1298,7 @@
 - [tweag/haskell-stack-nix-example](https://github.com/tweag/haskell-stack-nix-example) - Examples of valid and invalid Stack + Nix integration
 - [tweag/ssh-participation](https://github.com/tweag/ssh-participation) - An ssh server that creates new users on-the-fly, great for letting users participate in a demo
 - [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
-- [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
+- [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@hsjobeki]
 - [tweag/nixdoc](https://github.com/tweag/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@tazjin,@ryantm]
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [nix-community/naersk](https://github.com/nix-community/naersk) - Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly.
@@ -1361,6 +1362,9 @@
 
 ## OCaml 
 
+- [colis-anr/morbig](https://github.com/colis-anr/morbig) - A static parser for POSIX Shell
+- [colis-anr/colis-language](https://github.com/colis-anr/colis-language) - A symbolic analyser for shell scripts.
+- [ygrek/sqlgg](https://github.com/ygrek/sqlgg) - SQL Guided (code) Generator
 - [tjdevries/topshelf.fm](https://github.com/tjdevries/topshelf.fm) - 
 - [tjdevries/monocle](https://github.com/tjdevries/monocle) - a big mono repo for ocaml
 - [brendanzab/language-garden](https://github.com/brendanzab/language-garden) - A garden of small programming language implementations 🪴
@@ -2342,7 +2346,7 @@
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [mintlify/mdx](https://github.com/mintlify/mdx) - Mintlify markdown parser
 - [attio/react-data-list](https://github.com/attio/react-data-list) - React Data List is a library which helps you build data arrays by expressing items declaratively using React components. It was built primarily for React Native, but should work anywhere.
-- [attio/linear-app](https://github.com/attio/linear-app) - Linear app for Attio
+- [attio/linear-app](https://github.com/attio/linear-app) - 
 - [vim-fall/fall.vim](https://github.com/vim-fall/fall.vim) - 🍂 Yet Another Fuzzy Finder designed for Vim and Neovim and to be programmer-friendly
 - [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config) - Personal OpenCode configuration - commands, tools, agents, knowledge
 - [tjdevries/nvim-code-highlight.obsidian](https://github.com/tjdevries/nvim-code-highlight.obsidian) - Syntax highlighting provided by Neovim for Obsidian

@@ -1722,6 +1722,7 @@
 
 ## gui 
 
+- [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview) - A standard Crossplane UI dashboard.
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -2124,6 +2125,7 @@
 
 ## kubernetes 
 
+- [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview) - A standard Crossplane UI dashboard.
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
 - [manishchaudhary101/kube-argus](https://github.com/manishchaudhary101/kube-argus) - Real-time Kubernetes dashboard for SREs — live cluster state, drain wizard, YAML editor, just-in-time exec access, cost analysis, and AI diagnosis in a single binary
@@ -5093,6 +5095,7 @@
 
 ## ui 
 
+- [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview) - A standard Crossplane UI dashboard.
 - [peltho/tufw](https://github.com/peltho/tufw) - Terminal UI for ufw
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity

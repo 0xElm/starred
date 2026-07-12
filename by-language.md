@@ -922,7 +922,6 @@
 
 ## Java 
 
-- [GrapheneOS/Messaging](https://github.com/GrapheneOS/Messaging) - Messaging app
 - [GrapheneOS/AttestationServer](https://github.com/GrapheneOS/AttestationServer) - attestation.app remote attestation server. Server code for use with the Auditor app: https://github.com/GrapheneOS/Auditor. It provides two services: submission of attestation data samples and a remot
 - [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) - Modern camera app focused on privacy and security with QR & barcode scanning.
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
@@ -1080,6 +1079,7 @@
 
 ## Kotlin 
 
+- [GrapheneOS/Messaging](https://github.com/GrapheneOS/Messaging) - Messaging app
 - [GrapheneOS/SpeechServices](https://github.com/GrapheneOS/SpeechServices) - Fast, efficient, and high-quality text-to-speech for GrapheneOS using state-of-the-art models running completely on-device.
 - [GrapheneOS/PdfViewer](https://github.com/GrapheneOS/PdfViewer) - Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files.
 - [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
@@ -1601,7 +1601,7 @@
 - [BreadOnPenguins/dots](https://github.com/BreadOnPenguins/dots) - configs and things
 - [getscaf/sfu-fullstack-template](https://github.com/getscaf/sfu-fullstack-template) - This template provides developers with a complete blueprint for a new project using Kubernetes.
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
-- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - Private, real-time speaker diarization on hardware you control. See who is speaking as it happens, no third-party cloud required.
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [zigpy/zha](https://github.com/zigpy/zha) - Zigbee Home Automation
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
@@ -1855,6 +1855,7 @@
 
 ## Rust 
 
+- [dekobon/big-code-analysis](https://github.com/dekobon/big-code-analysis) - Tool to report source code metrics
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [qt/qtbridge-rust](https://github.com/qt/qtbridge-rust) - Qt Bridge for Rust. Qt Bridges enables developers to provide application logic written in a foreign language to Qt Quick applications by offering a simple API that follows the target language’s style 
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (

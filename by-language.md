@@ -375,7 +375,6 @@
 - [digitalocean/pmm-headless](https://github.com/digitalocean/pmm-headless) - Percona Monitoring and Management: an open source database monitoring, observability and management tool
 - [digitalocean/go-qemu](https://github.com/digitalocean/go-qemu) - Go packages to interact with QEMU using the QEMU Machine Protocol (QMP).  Apache 2.0 Licensed.
 - [digitalocean/go-libvirt](https://github.com/digitalocean/go-libvirt) - Package libvirt provides a pure Go interface for interacting with Libvirt.  Apache 2.0 Licensed.
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [hugoaguirre/product-service](https://github.com/hugoaguirre/product-service) - A small gRPC service writen in Go that follows Hexagonal Architecture
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
@@ -824,7 +823,7 @@
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
-- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [element-hq/operator-sdk](https://github.com/element-hq/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server.
@@ -1873,6 +1872,7 @@
 
 ## Rust 
 
+- [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere.
 - [fearful-symmetry/beatperf](https://github.com/fearful-symmetry/beatperf) - Metrics monitor/graphing utility for elastic beats
 - [matrix-org/seshat](https://github.com/matrix-org/seshat) - A Matrix message database/indexer
 - [kaylendog/lupin](https://github.com/kaylendog/lupin) - A stupendously simple actor framework for the functionally inclined.
@@ -1907,8 +1907,8 @@
 - [wireapp/mls-test-cli](https://github.com/wireapp/mls-test-cli) - Command line client utility used for testing MLS interactions with wire-server
 - [wireapp/core-crypto](https://github.com/wireapp/core-crypto) - MLS/Proteus multiplexer abstraction with encrypted persistent storage in Rust
 - [Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) - A backend for `mdbook` which will check your links for you.
-- [harehare/mq-tui](https://github.com/harehare/mq-tui) - mq-tui is a Text-based User Interface for the mq Markdown processor.
-- [harehare/mq-task](https://github.com/harehare/mq-task) - mq-task is a task runner that executes code blocks in Markdown files based on section titles.
+- [harehare/mq-tui](https://github.com/harehare/mq-tui) - A Text-based User Interface for the mq Markdown processor.
+- [harehare/mq-task](https://github.com/harehare/mq-task) - A task runner that executes code blocks in Markdown files based on section titles.
 - [harehare/mq](https://github.com/harehare/mq) - A jq-like Markdown query language for command-line processing
 - [harehare/gitype](https://github.com/harehare/gitype) - Practice touch typing in the cli in your source code.
 - [digitalocean/sample-rust](https://github.com/digitalocean/sample-rust) - ⛵ App Platform sample rust application.
@@ -2352,6 +2352,8 @@
 
 ## TypeScript 
 
+- [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian
+- [ebullient/obsidian-slides-extended](https://github.com/ebullient/obsidian-slides-extended) - Create markdown-based reveal.js presentations in Obsidian
 - [schristoff/pepr](https://github.com/schristoff/pepr) - Type safe K8s middleware for humans
 - [OpenRouterTeam/tool-calling](https://github.com/OpenRouterTeam/tool-calling) - Tool calling demo for OpenRouter
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -2386,6 +2388,7 @@
 - [mintlify/mdx](https://github.com/mintlify/mdx) - Mintlify markdown parser
 - [attio/react-data-list](https://github.com/attio/react-data-list) - React Data List is a library which helps you build data arrays by expressing items declaratively using React components. It was built primarily for React Native, but should work anywhere.
 - [attio/linear-app](https://github.com/attio/linear-app) - 
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [vim-fall/fall.vim](https://github.com/vim-fall/fall.vim) - 🍂 Yet Another Fuzzy Finder designed for Vim and Neovim and to be programmer-friendly
 - [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config) - Personal OpenCode configuration - commands, tools, agents, knowledge
 - [tjdevries/nvim-code-highlight.obsidian](https://github.com/tjdevries/nvim-code-highlight.obsidian) - Syntax highlighting provided by Neovim for Obsidian

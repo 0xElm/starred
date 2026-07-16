@@ -1078,7 +1078,7 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 
 ## deep-learning 
@@ -1317,7 +1317,6 @@
 - [chris-martin/home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
 - [DrunkenToast/.dotfiles](https://github.com/DrunkenToast/.dotfiles) - Connect the dots
 - [chhoumann/dotfiles](https://github.com/chhoumann/dotfiles) - Christian's dotfiles.
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
@@ -2884,6 +2883,7 @@
 
 ## others 
 
+- [pypa/wheel](https://github.com/pypa/wheel) - The official binary distribution format for Python
 - [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere.
 - [cnabio/cnab-to-oci](https://github.com/cnabio/cnab-to-oci) - Tool to convert CNAB bundle.json to OCI index
 - [schristoff/pepr](https://github.com/schristoff/pepr) - Type safe K8s middleware for humans
@@ -4876,7 +4876,7 @@
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 
 ## sql-server 

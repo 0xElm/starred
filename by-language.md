@@ -1035,7 +1035,7 @@
 - [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
 - [chhoumann/Templater_Templates](https://github.com/chhoumann/Templater_Templates) - My templates for the Templater Obsidian.md plugin.
 - [chhoumann/DemoVault](https://github.com/chhoumann/DemoVault) - Demo vault for Obsidian stuff by Christian.
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [conventional-changelog/releaser-tools](https://github.com/conventional-changelog/releaser-tools) - Create a GitHub/GitLab/etc. release using a project's commit messages and metadata.
 - [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) - A commitizen adapter for the angular preset of https://github.com/conventional-changelog/conventional-changelog
 - [commitizen/conventional-commit-types](https://github.com/commitizen/conventional-commit-types) - List of conventional commit types.
@@ -1547,6 +1547,7 @@
 - [OWASP/Nest](https://github.com/OWASP/Nest) - Your gateway to OWASP. Discover, engage, and help shape the future!
 - [stephaniewang526/llm-perf-analyzer](https://github.com/stephaniewang526/llm-perf-analyzer) - LLM-friendly perf report generator via pluggable adapters (Prometheus, JSON, etc.)
 - [anoadragon453/matrix-reminder-bot](https://github.com/anoadragon453/matrix-reminder-bot) - A bot to remind you about stuff. Supports encrypted rooms
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [kiwix/seeder](https://github.com/kiwix/seeder) - Kiwix Catalog BitTorrent Seeder Companion
@@ -2372,7 +2373,6 @@
 - [siemens/element](https://github.com/siemens/element) - Siemens Element is a design system for products and digital experiences, grounded in the Siemens Design Language.
 - [ClickHouse/click-ui](https://github.com/ClickHouse/click-ui) - The home of the ClickHouse design system and component library.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - autonomous red teaming platform; multi-agent offensive-security meta-harness
 - [manishchaudhary101/kube-argus](https://github.com/manishchaudhary101/kube-argus) - Real-time Kubernetes dashboard for SREs — live cluster state, drain wizard, YAML editor, just-in-time exec access, cost analysis, and AI diagnosis in a single binary
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer

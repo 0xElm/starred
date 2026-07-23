@@ -227,7 +227,7 @@
 - [radarlabs/node-ip2location](https://github.com/radarlabs/node-ip2location) - Node.js addon module for IP2Location
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [sipsorcery/webrtc-interop](https://github.com/sipsorcery/webrtc-interop) - Simple useful interoperability tests for WebRTC libraries. If you are a WebRTC library developer we'd love to include you!
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [envoyproxy/nighthawk](https://github.com/envoyproxy/nighthawk) - L7 (HTTP/HTTPS/HTTP2/HTTP3) performance characterization tool
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -313,6 +313,10 @@
 
 ## Go 
 
+- [nektro/mtorrent](https://github.com/nektro/mtorrent) - A totally configurable terminal torrent client.
+- [simonklee/godis](https://github.com/simonklee/godis) - godis - an old Redis client for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
+- [simonklee/opentui-bench](https://github.com/simonklee/opentui-bench) - 
 - [vmware-labs/distribution-tooling-for-helm](https://github.com/vmware-labs/distribution-tooling-for-helm) - Helm Distribution plugin is is a set of utilities and Helm Plugin for making offline work with Helm Charts easier. It is meant to be used for creating reproducible and relocatable packages for Helm Ch
 - [bradfitz/gomemcache](https://github.com/bradfitz/gomemcache) - Go Memcached client library #golang
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
@@ -1121,6 +1125,8 @@
 
 ## Lua 
 
+- [b0o/lavi](https://github.com/b0o/lavi) - 🪻 A soft and sweet colorscheme for Neovim & more
+- [b0o/Mulberry](https://github.com/b0o/Mulberry) - 🫐 Single-file Lua BDD library for testing Neovim plugins
 - [hat0uma/csvview.nvim](https://github.com/hat0uma/csvview.nvim) - A Neovim plugin for CSV file editing.
 - [patrick-sharp/waypoint.nvim](https://github.com/patrick-sharp/waypoint.nvim) - 
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
@@ -1403,6 +1409,7 @@
 
 ## Others 
 
+- [fpereiro/ustack](https://github.com/fpereiro/ustack) - A web application stack focused on understanding
 - [schristoff/schristoff](https://github.com/schristoff/schristoff) - 
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [localazy/cli-schema](https://github.com/localazy/cli-schema) - Localazy CLI schema definitions
@@ -1541,6 +1548,7 @@
 
 ## Python 
 
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [pypa/wheel](https://github.com/pypa/wheel) - The official binary distribution format for Python
 - [Checkmk/checkmk](https://github.com/Checkmk/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
 - [vacanza/holidays](https://github.com/vacanza/holidays) - Open World Holidays Framework
@@ -2250,6 +2258,7 @@
 
 ## Shell 
 
+- [cilium/community](https://github.com/cilium/community) - Here you can find community content around Cilium
 - [GrapheneOS/mail.grapheneos.org](https://github.com/GrapheneOS/mail.grapheneos.org) - Mail server
 - [GrapheneOS/infrastructure](https://github.com/GrapheneOS/infrastructure) - Shared server infrastructure
 - [guttermonk/waybar-nixos-updates](https://github.com/guttermonk/waybar-nixos-updates) - A  Waybar update checking script for NixOS.
@@ -2360,6 +2369,10 @@
 
 ## TypeScript 
 
+- [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
+- [anomalyco/browser-control](https://github.com/anomalyco/browser-control) - Local browser driver for trusted agents: control your existing Chromium browser through a small extension and local relay
+- [anomalyco/bun-ffi-structs](https://github.com/anomalyco/bun-ffi-structs) - Define and pack/unpack C-style structs with memory layout control for FFI calls.
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian
 - [ebullient/obsidian-slides-extended](https://github.com/ebullient/obsidian-slides-extended) - Create markdown-based reveal.js presentations in Obsidian
 - [schristoff/pepr](https://github.com/schristoff/pepr) - Type safe K8s middleware for humans
@@ -2614,6 +2627,8 @@
 
 ## Zig 
 
+- [nektro/zig-xml](https://github.com/nektro/zig-xml) - A pure-Zig fully spec-compliant XML parser.
+- [anomalyco/bun](https://github.com/anomalyco/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [andrewrk/advent-of-code](https://github.com/andrewrk/advent-of-code) - https://adventofcode.com
 - [andrewrk/xml](https://github.com/andrewrk/xml) - Tokenize XML
 - [kristoff-it/scripty](https://github.com/kristoff-it/scripty) - The perfect scripting sidekick!

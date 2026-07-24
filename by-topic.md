@@ -325,7 +325,7 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode for familiar flow.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode in the flow that you already know.
 - [b0o/whispertool](https://github.com/b0o/whispertool) - 🗣️ voice recording and transcription tool built on whisper.cpp
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -345,7 +345,7 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode for familiar flow.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode in the flow that you already know.
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
 
 ## analytics 
@@ -689,6 +689,8 @@
 
 ## cli 
 
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [localazy/cli-schema](https://github.com/localazy/cli-schema) - Localazy CLI schema definitions
 - [psic4t/qcal](https://github.com/psic4t/qcal) - CLI calendar application for CalDAV servers
@@ -2023,6 +2025,7 @@
 
 ## image-processing 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 
@@ -2320,6 +2323,7 @@
 
 ## latex 
 
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [selimacerbas/markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim) - Live Markdown preview for Neovim with Mermaid diagrams, LaTeX math (KaTeX), scroll sync, and syntax highlighting. Pure Lua, zero npm dependencies.
 - [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
 
@@ -2428,6 +2432,7 @@
 
 ## lua 
 
+- [nvim-mini/mini.pick](https://github.com/nvim-mini/mini.pick) - Pick anything. Part of 'mini.nvim' library.
 - [b0o/Mulberry](https://github.com/b0o/Mulberry) - 🫐 Single-file Lua BDD library for testing Neovim plugins
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
 - [pysan3/autosession.nvim](https://github.com/pysan3/autosession.nvim) - Neovim Plugin to Save and Restore Sessions Per-directory
@@ -2454,7 +2459,7 @@
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [pogyomo/winresize.nvim](https://github.com/pogyomo/winresize.nvim) - Resize windows intuitively
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode for familiar flow.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode in the flow that you already know.
 - [kingluo/lua-resty-ffi](https://github.com/kingluo/lua-resty-ffi) - lua-resty-ffi provides an efficient and generic API to do hybrid programming in openresty/envoy with mainstream languages (Go, Python, Java, Rust, Nodejs, etc.).
 - [lunarmodules/busted](https://github.com/lunarmodules/busted) - Elegant Lua unit testing.
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
@@ -2692,6 +2697,8 @@
 
 ## neovim 
 
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
+- [nvim-mini/mini.pick](https://github.com/nvim-mini/mini.pick) - Pick anything. Part of 'mini.nvim' library.
 - [b0o/lavi](https://github.com/b0o/lavi) - 🪻 A soft and sweet colorscheme for Neovim & more
 - [b0o/Mulberry](https://github.com/b0o/Mulberry) - 🫐 Single-file Lua BDD library for testing Neovim plugins
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
@@ -2739,7 +2746,7 @@
 - [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) - Diagrams as code in Neovim.
 - [NotAShelf/direnv.nvim](https://github.com/NotAShelf/direnv.nvim) - Lua implementation of direnv.vim for automatic .envrc handling & syntax.
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode for familiar flow.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode in the flow that you already know.
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -2912,6 +2919,13 @@
 
 ## others 
 
+- [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
+- [desdic/searchxml](https://github.com/desdic/searchxml) - Search though XML via namespaces, tags and context
+- [desdic/ybc](https://github.com/desdic/ybc) - Fast in-process BLOB cache with persistence support
+- [desdic/csvcarve](https://github.com/desdic/csvcarve) - Small CSV carver/grep
+- [desdic/goss](https://github.com/desdic/goss) - Quick and Easy server testing/validation
+- [desdic/xping](https://github.com/desdic/xping) - A terminal based, adhoc, multi target icmp-echo tool.
+- [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
 - [Mic92/wrap-buddy](https://github.com/Mic92/wrap-buddy) - Patch ELF binaries with stub loader for NixOS compatibility
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [layus/nixception](https://github.com/layus/nixception) - NativeLink-based REAPI server that turns remote build actions into Nix derivations (Apache-2.0 release line)
@@ -4220,6 +4234,7 @@
 
 ## powershell 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 
 ## privacy 
@@ -4552,6 +4567,7 @@
 
 ## rust 
 
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
@@ -5025,6 +5041,8 @@
 
 ## terminal 
 
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [midasdf/sshz](https://github.com/midasdf/sshz) - Lightweight SSH management TUI written in Zig with ZigZag. ~260KB static binary.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -5070,7 +5088,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui) - A curated list of awesome opentui resources
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode for familiar flow.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode in the flow that you already know.
 - [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) - A terminal application that simulates installing things but doesn't actually install anything
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands

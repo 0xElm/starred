@@ -86,6 +86,9 @@
 
 ## C 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+- [desdic/ybc](https://github.com/desdic/ybc) - Fast in-process BLOB cache with persistence support
+- [desdic/xping](https://github.com/desdic/xping) - A terminal based, adhoc, multi target icmp-echo tool.
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [NLnetLabs/nsd](https://github.com/NLnetLabs/nsd) - The NLnet Labs Name Server Daemon (NSD) is an authoritative, RFC compliant DNS nameserver.
 - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
@@ -197,6 +200,7 @@
 
 ## C++ 
 
+- [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
 - [Mic92/wrap-buddy](https://github.com/Mic92/wrap-buddy) - Patch ELF binaries with stub loader for NixOS compatibility
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
@@ -315,6 +319,9 @@
 
 ## Go 
 
+- [desdic/searchxml](https://github.com/desdic/searchxml) - Search though XML via namespaces, tags and context
+- [desdic/csvcarve](https://github.com/desdic/csvcarve) - Small CSV carver/grep
+- [desdic/goss](https://github.com/desdic/goss) - Quick and Easy server testing/validation
 - [nektro/mtorrent](https://github.com/nektro/mtorrent) - A totally configurable terminal torrent client.
 - [simonklee/godis](https://github.com/simonklee/godis) - godis - an old Redis client for Go
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
@@ -1128,6 +1135,8 @@
 
 ## Lua 
 
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
+- [nvim-mini/mini.pick](https://github.com/nvim-mini/mini.pick) - Pick anything. Part of 'mini.nvim' library.
 - [b0o/lavi](https://github.com/b0o/lavi) - 🪻 A soft and sweet colorscheme for Neovim & more
 - [b0o/Mulberry](https://github.com/b0o/Mulberry) - 🫐 Single-file Lua BDD library for testing Neovim plugins
 - [hat0uma/csvview.nvim](https://github.com/hat0uma/csvview.nvim) - A Neovim plugin for CSV file editing.
@@ -1590,7 +1599,6 @@
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [wireapp/wire-utility-tool](https://github.com/wireapp/wire-utility-tool) - 
 - [wireapp/wire-upgrade-tool](https://github.com/wireapp/wire-upgrade-tool) - 
-- [wireapp/wire-scripts](https://github.com/wireapp/wire-scripts) - 
 - [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 - [attio/airbyte](https://github.com/attio/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [kpetremann/mqtt-exporter](https://github.com/kpetremann/mqtt-exporter) - Simple generic MQTT Prometheus exporter for IoT working out of the box
@@ -1894,6 +1902,8 @@
 
 ## Rust 
 
+- [hopey-dishwasher/termpix](https://github.com/hopey-dishwasher/termpix) - Display images in an ANSI terminal
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [layus/nixception](https://github.com/layus/nixception) - NativeLink-based REAPI server that turns remote build actions into Nix derivations (Apache-2.0 release line)
 - [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 - [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere.
@@ -2280,6 +2290,7 @@
 - [perplexityai/webRTC](https://github.com/perplexityai/webRTC) - 
 - [wireapp/prebuilt-webrtc-binaries](https://github.com/wireapp/prebuilt-webrtc-binaries) - Prebuilt binaries for webrtc library
 - [wireapp/ansible-cassandra](https://github.com/wireapp/ansible-cassandra) - Ansible role to install an Apache Cassandra cluster
+- [wireapp/wire-scripts](https://github.com/wireapp/wire-scripts) - 
 - [wireapp/wire-builds](https://github.com/wireapp/wire-builds) - This repo defines builds of Wire as sets of Wire's internal components.
 - [wireapp/wire-server-deploy](https://github.com/wireapp/wire-server-deploy) - Code to install/deploy wire-server (on kubernetes)
 - [rancherlabs/systems-info](https://github.com/rancherlabs/systems-info) - 
@@ -2611,6 +2622,7 @@
 
 ## Vim Script 
 
+- [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
 - [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod

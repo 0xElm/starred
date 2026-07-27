@@ -86,6 +86,10 @@
 
 ## C 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
+- [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
+- [dylanaraps/dfm](https://github.com/dylanaraps/dfm) - Dylan's File Manager
+- [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [desdic/ybc](https://github.com/desdic/ybc) - Fast in-process BLOB cache with persistence support
 - [desdic/xping](https://github.com/desdic/xping) - A terminal based, adhoc, multi target icmp-echo tool.
@@ -200,6 +204,7 @@
 
 ## C++ 
 
+- [QuentiumYT/Stacer](https://github.com/QuentiumYT/Stacer) - 🚀 Linux System Optimizer and Monitoring
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
 - [Mic92/wrap-buddy](https://github.com/Mic92/wrap-buddy) - Patch ELF binaries with stub loader for NixOS compatibility
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
@@ -319,6 +324,7 @@
 
 ## Go 
 
+- [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [desdic/searchxml](https://github.com/desdic/searchxml) - Search though XML via namespaces, tags and context
 - [desdic/csvcarve](https://github.com/desdic/csvcarve) - Small CSV carver/grep
 - [desdic/goss](https://github.com/desdic/goss) - Quick and Easy server testing/validation
@@ -877,7 +883,6 @@
 - [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [simonw/datasette.io](https://github.com/simonw/datasette.io) - The official project website for Datasette
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [ClickHouse/FastFormats](https://github.com/ClickHouse/FastFormats) - A benchmark for data formats
 - [elementary-data/elementary](https://github.com/elementary-data/elementary) - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
 - [selimacerbas/markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim) - Live Markdown preview for Neovim with Mermaid diagrams, LaTeX math (KaTeX), scroll sync, and syntax highlighting. Pure Lua, zero npm dependencies.
@@ -1102,6 +1107,7 @@
 
 ## Jupyter Notebook 
 
+- [sspaeti/datadex](https://github.com/sspaeti/datadex) - Open Data Warehouse with dbt and DuckDB
 - [rbroc/simcat](https://github.com/rbroc/simcat) - A Python package to simulate multi-agent cognitive association tasks 🤖 🧠 👥
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [DataTreehouse/maplib-masterclass](https://github.com/DataTreehouse/maplib-masterclass) - A comprehensive guide to maplib.
@@ -1401,6 +1407,7 @@
 
 ## OCaml 
 
+- [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 - [colis-anr/morbig](https://github.com/colis-anr/morbig) - A static parser for POSIX Shell
 - [colis-anr/colis-language](https://github.com/colis-anr/colis-language) - A symbolic analyser for shell scripts.
 - [ygrek/sqlgg](https://github.com/ygrek/sqlgg) - SQL Guided (code) Generator
@@ -1517,6 +1524,7 @@
 
 ## PHP 
 
+- [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault) - openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is pri
 - [Boligforeningsweb/dansk-tech](https://github.com/Boligforeningsweb/dansk-tech) - 
@@ -1563,6 +1571,8 @@
 
 ## Python 
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
+- [ssp-data/personal-swiss-finance-dw](https://github.com/ssp-data/personal-swiss-finance-dw) - Personal Finance Project to automatically collect swiss banking transaction into a DWH and visualise it
 - [layus/dotfiles](https://github.com/layus/dotfiles) - 
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [pypa/wheel](https://github.com/pypa/wheel) - The official binary distribution format for Python
@@ -1852,6 +1862,7 @@
 
 ## Ruby 
 
+- [sspaeti/once-campfire](https://github.com/sspaeti/once-campfire) - self-hosting chat, trying.
 - [digitalocean/sample-rails](https://github.com/digitalocean/sample-rails) - ⛵ App Platform sample Ruby on Rails application.
 - [criteo/knife-ssh-agent](https://github.com/criteo/knife-ssh-agent) - Authenticate to a chef server using a SSH agent
 - [criteo/kitchen-vagrant_winrm](https://github.com/criteo/kitchen-vagrant_winrm) - A test-kitchen driver using vagrant-winrm
@@ -2023,6 +2034,7 @@
 - [LuckyTurtleDev/crab-hole](https://github.com/LuckyTurtleDev/crab-hole) - 🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [kanidm/haproxy-protocol](https://github.com/kanidm/haproxy-protocol) - HAProxy Proxy Protocol implementation for servers in rust.
@@ -2196,7 +2208,7 @@
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
 - [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, time, memory, SQL and async code.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, memory, SQL, HTTP, I/O and async code.
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [DataTreehouse/chrontext](https://github.com/DataTreehouse/chrontext) - 
 - [DataTreehouse/oxigraph](https://github.com/DataTreehouse/oxigraph) - SPARQL graph database
@@ -2276,6 +2288,7 @@
 
 ## Shell 
 
+- [rupa/z](https://github.com/rupa/z) - z - jump around
 - [cilium/community](https://github.com/cilium/community) - Here you can find community content around Cilium
 - [GrapheneOS/mail.grapheneos.org](https://github.com/GrapheneOS/mail.grapheneos.org) - Mail server
 - [GrapheneOS/infrastructure](https://github.com/GrapheneOS/infrastructure) - Shared server infrastructure
@@ -2389,6 +2402,9 @@
 
 ## TypeScript 
 
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
+- [hwgilbert16/scholarsome](https://github.com/hwgilbert16/scholarsome) - Web-based interactive flashcard learning software
+- [sspaeti/graceful-kitchen](https://github.com/sspaeti/graceful-kitchen) - Recepies
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [anomalyco/browser-control](https://github.com/anomalyco/browser-control) - Local browser driver for trusted agents: control your existing Chromium browser through a small extension and local relay
 - [anomalyco/bun-ffi-structs](https://github.com/anomalyco/bun-ffi-structs) - Define and pack/unpack C-style structs with memory layout control for FFI calls.

@@ -34,6 +34,7 @@
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [LLVM](#llvm)
 - [Lean](#lean)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -86,6 +87,7 @@
 
 ## C 
 
+- [GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [dylanaraps/dfm](https://github.com/dylanaraps/dfm) - Dylan's File Manager
@@ -197,6 +199,7 @@
 
 ## C# # 
 
+- [ShokoAnime/ShokoServer](https://github.com/ShokoAnime/ShokoServer) - Repository for Shoko Server.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [ForNeVeR/Cesium](https://github.com/ForNeVeR/Cesium) - C compiler for the CLI platform
 - [EliahKagan/Dijkstra](https://github.com/EliahKagan/Dijkstra) - Visualizing Dijkstra's algorithm with various priority queues
@@ -204,6 +207,9 @@
 
 ## C++ 
 
+- [google/shell-encryption](https://github.com/google/shell-encryption) - 
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+- [Koromix/rygel](https://github.com/Koromix/rygel) - Monorepository with most of my projects
 - [QuentiumYT/Stacer](https://github.com/QuentiumYT/Stacer) - 🚀 Linux System Optimizer and Monitoring
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
 - [Mic92/wrap-buddy](https://github.com/Mic92/wrap-buddy) - Patch ELF binaries with stub loader for NixOS compatibility
@@ -257,6 +263,7 @@
 
 ## CSS 
 
+- [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) - A pastebin for Tailscale users
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 - [digitalocean/wave](https://github.com/digitalocean/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
@@ -324,6 +331,10 @@
 
 ## Go 
 
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
+- [JasonLovesDoggo/abacus](https://github.com/JasonLovesDoggo/abacus) - :abacus: A highly-scalable and stateless counting API
+- [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [desdic/searchxml](https://github.com/desdic/searchxml) - Search though XML via namespaces, tags and context
 - [desdic/csvcarve](https://github.com/desdic/csvcarve) - Small CSV carver/grep
@@ -870,6 +881,8 @@
 
 ## HTML 
 
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [MobileNativeFoundation/mobilenativefoundation.org](https://github.com/MobileNativeFoundation/mobilenativefoundation.org) - Landing page
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [ngi-nix/summer-of-nix](https://github.com/ngi-nix/summer-of-nix) - Summer of Nix is a coordinated effort to support selected free and open source software projects, by making them available on NixOS
 - [kiwix/ipfs-portal](https://github.com/kiwix/ipfs-portal) - Web portal to access Wikipedia snapshots published on IPFS
@@ -996,6 +1009,8 @@
 
 ## JavaScript 
 
+- [earendil-works/website](https://github.com/earendil-works/website) - 
+- [ogulcancelik/agent-skills](https://github.com/ogulcancelik/agent-skills) - Small, opinionated, agent-agnostic skills for coding agents
 - [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
 - [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview) - A standard Crossplane UI dashboard.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1107,6 +1122,7 @@
 
 ## Jupyter Notebook 
 
+- [cristinaponcela/Personal-Projects](https://github.com/cristinaponcela/Personal-Projects) - This repository contains the projects I have enjoyed doing in my free time.
 - [sspaeti/datadex](https://github.com/sspaeti/datadex) - Open Data Warehouse with dbt and DuckDB
 - [rbroc/simcat](https://github.com/rbroc/simcat) - A Python package to simulate multi-agent cognitive association tasks 🤖 🧠 👥
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -1128,11 +1144,15 @@
 - [wireapp/kalium](https://github.com/wireapp/kalium) - 🍌 An SDK for creating Wire clients on Android and JVM. Expanding to iOS and Web.
 - [wireapp/sqldelight](https://github.com/wireapp/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
-- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
+- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - decentralized mesh chat
 - [twofas/2fas-pass-android](https://github.com/twofas/2fas-pass-android) - Source code for 2FAS Pass Android app
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [threema-ch/threema-android](https://github.com/threema-ch/threema-android) - Threema App for Android.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+
+## LLVM 
+
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## Lean 
 
@@ -1141,6 +1161,7 @@
 
 ## Lua 
 
+- [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) - A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [nvim-mini/mini.pick](https://github.com/nvim-mini/mini.pick) - Pick anything. Part of 'mini.nvim' library.
 - [b0o/lavi](https://github.com/b0o/lavi) - 🪻 A soft and sweet colorscheme for Neovim & more
@@ -1311,7 +1332,7 @@
 - [cafkafk/file-fuzzer](https://github.com/cafkafk/file-fuzzer) - A file fuzzer using fortune
 - [cafkafk/tofunix](https://github.com/cafkafk/tofunix) - Please don't use this
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
-- [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
+- [eh8/chenglab](https://github.com/eh8/chenglab) - NixOS setup for my homelab and personal computers
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven confi
 - [DOD-101/NixOS-dots](https://github.com/DOD-101/NixOS-dots) - (WIP) My config for NixOs.
 - [rose-pine/home-assistant](https://github.com/rose-pine/home-assistant) - Soho vibes for Home Assistant
@@ -1422,6 +1443,7 @@
 
 ## Objective-C 
 
+- [MobileNativeFoundation/bluepill](https://github.com/MobileNativeFoundation/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
 - [radarlabs/react-native-radar](https://github.com/radarlabs/react-native-radar) - React Native module for Radar, the leading geofencing and location tracking platform
 - [olvid-io/AppAuth-iOS-for-Olvid](https://github.com/olvid-io/AppAuth-iOS-for-Olvid) - iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 
@@ -1431,6 +1453,7 @@
 
 ## Others 
 
+- [Koromix/goupile](https://github.com/Koromix/goupile) - Free and open-source electronic data capture
 - [fpereiro/ustack](https://github.com/fpereiro/ustack) - A web application stack focused on understanding
 - [schristoff/schristoff](https://github.com/schristoff/schristoff) - 
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
@@ -1524,6 +1547,7 @@
 
 ## PHP 
 
+- [strichliste/strichliste-backend](https://github.com/strichliste/strichliste-backend) - Strichliste Backend
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault) - openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is pri
@@ -1571,6 +1595,10 @@
 
 ## Python 
 
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
+- [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [ssp-data/personal-swiss-finance-dw](https://github.com/ssp-data/personal-swiss-finance-dw) - Personal Finance Project to automatically collect swiss banking transaction into a DWH and visualise it
 - [layus/dotfiles](https://github.com/layus/dotfiles) - 
@@ -1732,7 +1760,7 @@
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [fullzer4/pybenchx](https://github.com/fullzer4/pybenchx) - Microbenchmarks that mean it
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 - [zipnn/zipnn](https://github.com/zipnn/zipnn) - A Lossless Compression Library for AI pipelines
@@ -1761,7 +1789,6 @@
 - [barrust/pyspellchecker](https://github.com/barrust/pyspellchecker) - Pure Python Spell Checking http://pyspellchecker.readthedocs.io/en/latest/
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [team-telnyx/telnyx-python](https://github.com/team-telnyx/telnyx-python) - Python SDK for the Telnyx API
 - [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems lik
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -1913,11 +1940,16 @@
 
 ## Rust 
 
+- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [mullvad/udp-over-tcp](https://github.com/mullvad/udp-over-tcp) - Proxy UDP traffic over a TCP stream
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [hopey-dishwasher/termpix](https://github.com/hopey-dishwasher/termpix) - Display images in an ANSI terminal
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [layus/nixception](https://github.com/layus/nixception) - NativeLink-based REAPI server that turns remote build actions into Nix derivations (Apache-2.0 release line)
 - [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
-- [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere.
+- [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider.
 - [fearful-symmetry/beatperf](https://github.com/fearful-symmetry/beatperf) - Metrics monitor/graphing utility for elastic beats
 - [matrix-org/seshat](https://github.com/matrix-org/seshat) - A Matrix message database/indexer
 - [kaylendog/lupin](https://github.com/kaylendog/lupin) - A stupendously simple actor framework for the functionally inclined.
@@ -2288,6 +2320,9 @@
 
 ## Shell 
 
+- [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
+- [cristinaponcela/cristinaponcela.github.io](https://github.com/cristinaponcela/cristinaponcela.github.io) - My Personal Website
+- [ogulcancelik/herdr-nix](https://github.com/ogulcancelik/herdr-nix) - Pushes herdr releases to cachix
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [cilium/community](https://github.com/cilium/community) - Here you can find community content around Cilium
 - [GrapheneOS/mail.grapheneos.org](https://github.com/GrapheneOS/mail.grapheneos.org) - Mail server
@@ -2383,6 +2418,7 @@
 
 ## Swift 
 
+- [cristinaponcela/HabitTracker](https://github.com/cristinaponcela/HabitTracker) - Application to track habits, monitor your work/life balance and be reminded to keep in contact with friends.
 - [JohnSundell/Plot](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML and RSS in Swift.
 - [Shopify/tophat](https://github.com/Shopify/tophat) - Easily install and test mobile applications with a single click.
 - [radarlabs/deliverytracker](https://github.com/radarlabs/deliverytracker) - Illustrative delivery tracker tutorial using Radar trip tracking
@@ -2402,6 +2438,14 @@
 
 ## TypeScript 
 
+- [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
+- [earendil-works/pi-review](https://github.com/earendil-works/pi-review) - A review extension for Pi
+- [earendil-works/pi-review-loop](https://github.com/earendil-works/pi-review-loop) - A persistent incremental diff review loop for pi
+- [ogulcancelik/pi-extensions](https://github.com/ogulcancelik/pi-extensions) - Extensions for pi, the terminal-based coding agent
+- [ShokoAnime/Shoko-WebUI](https://github.com/ShokoAnime/Shoko-WebUI) - Repository for the Web UI used in Shoko Server.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [chiriapp/chiri](https://github.com/chiriapp/chiri) - 🍃 Cross-platform CalDAV task management app.
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [hwgilbert16/scholarsome](https://github.com/hwgilbert16/scholarsome) - Web-based interactive flashcard learning software
 - [sspaeti/graceful-kitchen](https://github.com/sspaeti/graceful-kitchen) - Recepies
@@ -2555,6 +2599,7 @@
 - [team-telnyx/ai-chatbot](https://github.com/team-telnyx/ai-chatbot) - A NodeJS backend with the essential building block components to develop robust chatbots powered by AI, utilizing Telnyx Inference and Storage API Products.
 - [team-telnyx/react-native-voice-commons](https://github.com/team-telnyx/react-native-voice-commons) - About A high-level, state-agnostic, drop-in module for the Telnyx React Native SDK that simplifies WebRTC voice calling integration.
 - [team-telnyx/webrtc](https://github.com/team-telnyx/webrtc) - SDK for Telnyx's WebRTC platform
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [radarlabs/airport-map-demo](https://github.com/radarlabs/airport-map-demo) - Demo for drawing arcs with Radar maps
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative

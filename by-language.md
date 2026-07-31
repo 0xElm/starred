@@ -199,6 +199,8 @@
 
 ## C# # 
 
+- [swiss/fch-sparql](https://github.com/swiss/fch-sparql) - Library providing abstractions for Sparql queries on RDF based triplestores.
+- [swiss/fch-monitoring](https://github.com/swiss/fch-monitoring) - dotnet library for FOITT compatible health checks
 - [ShokoAnime/ShokoServer](https://github.com/ShokoAnime/ShokoServer) - Repository for Shoko Server.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [ForNeVeR/Cesium](https://github.com/ForNeVeR/Cesium) - C compiler for the CLI platform
@@ -263,6 +265,7 @@
 
 ## CSS 
 
+- [swiss/oss-catalog](https://github.com/swiss/oss-catalog) - Open Source Software Catalog
 - [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) - A pastebin for Tailscale users
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 - [digitalocean/wave](https://github.com/digitalocean/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
@@ -395,7 +398,7 @@
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [wireapp/smallstep-certificates](https://github.com/wireapp/smallstep-certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is a developer platform for Kubernetes
+- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
 - [sympozium-ai/sympozium](https://github.com/sympozium-ai/sympozium) - The Coordination Layer for Multi-Agent AI
 - [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang) - ⛵ App Platform sample Golang application.
 - [jferrazbr/steve](https://github.com/jferrazbr/steve) - Kubernetes API Translator
@@ -873,6 +876,7 @@
 
 ## Groovy 
 
+- [swiss/gitops.trustbroker.swiss](https://github.com/swiss/gitops.trustbroker.swiss) - Demo configuration for a localhost setup for a trustbroker.swiss playground
 - [sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3) - Dockerized version of Nexus Repo Manager 3
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 
@@ -883,6 +887,7 @@
 
 ## HTML 
 
+- [swiss/doc.trustbroker.swiss](https://github.com/swiss/doc.trustbroker.swiss) - Documentation of the trustbroker.swiss service
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [MobileNativeFoundation/mobilenativefoundation.org](https://github.com/MobileNativeFoundation/mobilenativefoundation.org) - Landing page
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
@@ -1324,6 +1329,7 @@
 
 ## Nix 
 
+- [fzakaria/guixpkgs](https://github.com/fzakaria/guixpkgs) - Guix Packages collection built via Nix
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [kleisli-io/nix-effects](https://github.com/kleisli-io/nix-effects) - Pure Nix effects, typed validation, verified boundaries, and description-backed DSLs
@@ -1457,6 +1463,10 @@
 
 ## Others 
 
+- [swiss/swiss-federal-writing-guidelines](https://github.com/swiss/swiss-federal-writing-guidelines) - 
+- [swiss/opensource-guidelines](https://github.com/swiss/opensource-guidelines) - Open Source Guidelines (Swiss Government)
+- [swiss/index](https://github.com/swiss/index) - An overview of current repository organisations.
+- [swiss/api-guidelines](https://github.com/swiss/api-guidelines) - Federal Administration API Guidelines
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [Koromix/goupile](https://github.com/Koromix/goupile) - Free and open-source electronic data capture
 - [fpereiro/ustack](https://github.com/fpereiro/ustack) - A web application stack focused on understanding
@@ -1600,6 +1610,9 @@
 
 ## Python 
 
+- [mistralai/search-starter-app](https://github.com/mistralai/search-starter-app) - Base template to build, manage and improve search engines
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
+- [mistralai/mistral-common](https://github.com/mistralai/mistral-common) - Official inference library for pre-processing of Mistral models
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
@@ -1947,7 +1960,7 @@
 
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal.
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [mullvad/udp-over-tcp](https://github.com/mullvad/udp-over-tcp) - Proxy UDP traffic over a TCP stream
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
@@ -2703,6 +2716,7 @@
 
 ## Vue 
 
+- [swiss/designsystem](https://github.com/swiss/designsystem) - Webguidelines Bund
 - [anoadragon453/ZeroLSTN](https://github.com/anoadragon453/ZeroLSTN) - A p2p music streaming website
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [ClickHouse/stockhouse](https://github.com/ClickHouse/stockhouse) - Stock and Crypto real-time market data visualization demo

@@ -1269,6 +1269,7 @@
 
 ## docker 
 
+- [atlarge-research/apate](https://github.com/atlarge-research/apate) - Emulating Kubernetes for Fun and Profit
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
@@ -1562,6 +1563,7 @@
 
 ## go 
 
+- [atlarge-research/apate](https://github.com/atlarge-research/apate) - Emulating Kubernetes for Fun and Profit
 - [supabase/auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
 - [JasonLovesDoggo/abacus](https://github.com/JasonLovesDoggo/abacus) - :abacus: A highly-scalable and stateless counting API
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
@@ -2261,6 +2263,7 @@
 
 ## kubernetes 
 
+- [atlarge-research/apate](https://github.com/atlarge-research/apate) - Emulating Kubernetes for Fun and Profit
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview) - A standard Crossplane UI dashboard.
@@ -2425,6 +2428,7 @@
 
 ## linux 
 
+- [DianaNites/linux_modules](https://github.com/DianaNites/linux_modules) - Tool To Manage Linux Kernel Modules
 - [QuentiumYT/Stacer](https://github.com/QuentiumYT/Stacer) - 🚀 Linux System Optimizer and Monitoring
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
@@ -3012,6 +3016,10 @@
 
 ## others 
 
+- [cloudflareresearch/pvcli](https://github.com/cloudflareresearch/pvcli) - 
+- [khyperia/NativeFileBrowser](https://github.com/khyperia/NativeFileBrowser) - Open a native file browser window on Windows, MacOS, and Linux, using only C# code
+- [teh/nixcr](https://github.com/teh/nixcr) - Build docker containers on the fly with nix
+- [jyn514/threaded-server](https://github.com/jyn514/threaded-server) - A stupid simple server with threading
 - [swiss/swiss-federal-writing-guidelines](https://github.com/swiss/swiss-federal-writing-guidelines) - 
 - [swiss/gitops.trustbroker.swiss](https://github.com/swiss/gitops.trustbroker.swiss) - Demo configuration for a localhost setup for a trustbroker.swiss playground
 - [swiss/doc.trustbroker.swiss](https://github.com/swiss/doc.trustbroker.swiss) - Documentation of the trustbroker.swiss service
@@ -4717,6 +4725,7 @@
 
 ## rust 
 
+- [TaraNix-Linux/nuuid](https://github.com/TaraNix-Linux/nuuid) - Uuid library for Rust
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust

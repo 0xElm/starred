@@ -87,6 +87,7 @@
 
 ## C 
 
+- [jyn514/threaded-server](https://github.com/jyn514/threaded-server) - A stupid simple server with threading
 - [GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
@@ -199,6 +200,7 @@
 
 ## C# # 
 
+- [khyperia/NativeFileBrowser](https://github.com/khyperia/NativeFileBrowser) - Open a native file browser window on Windows, MacOS, and Linux, using only C# code
 - [swiss/fch-sparql](https://github.com/swiss/fch-sparql) - Library providing abstractions for Sparql queries on RDF based triplestores.
 - [swiss/fch-monitoring](https://github.com/swiss/fch-monitoring) - dotnet library for FOITT compatible health checks
 - [ShokoAnime/ShokoServer](https://github.com/ShokoAnime/ShokoServer) - Repository for Shoko Server.
@@ -335,6 +337,7 @@
 
 ## Go 
 
+- [atlarge-research/apate](https://github.com/atlarge-research/apate) - Emulating Kubernetes for Fun and Profit
 - [supabase/auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [JasonLovesDoggo/abacus](https://github.com/JasonLovesDoggo/abacus) - :abacus: A highly-scalable and stateless counting API
@@ -1001,7 +1004,6 @@
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
 - [moxie0/dropwizard](https://github.com/moxie0/dropwizard) - A damn simple library for building production-ready RESTful web services.
-- [radarlabs/flutter-radar](https://github.com/radarlabs/flutter-radar) - Flutter package for Radar, the leading geofencing and location tracking platform
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [ConfigHubPub/Database-Manager](https://github.com/ConfigHubPub/Database-Manager) - Manage ConfigHub database migration to the latest version
 - [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
@@ -1454,6 +1456,7 @@
 ## Objective-C 
 
 - [MobileNativeFoundation/bluepill](https://github.com/MobileNativeFoundation/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
+- [radarlabs/flutter-radar](https://github.com/radarlabs/flutter-radar) - Flutter package for Radar, the leading geofencing and location tracking platform
 - [radarlabs/react-native-radar](https://github.com/radarlabs/react-native-radar) - React Native module for Radar, the leading geofencing and location tracking platform
 - [olvid-io/AppAuth-iOS-for-Olvid](https://github.com/olvid-io/AppAuth-iOS-for-Olvid) - iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 
@@ -1958,6 +1961,10 @@
 
 ## Rust 
 
+- [cloudflareresearch/pvcli](https://github.com/cloudflareresearch/pvcli) - 
+- [teh/nixcr](https://github.com/teh/nixcr) - Build docker containers on the fly with nix
+- [TaraNix-Linux/nuuid](https://github.com/TaraNix-Linux/nuuid) - Uuid library for Rust
+- [DianaNites/linux_modules](https://github.com/DianaNites/linux_modules) - Tool To Manage Linux Kernel Modules
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on

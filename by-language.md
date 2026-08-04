@@ -302,7 +302,6 @@
 
 ## Dockerfile 
 
-- [digitalocean/doks-debug](https://github.com/digitalocean/doks-debug) - A Docker image with Kubernetes manifests for investigation and troubleshooting.
 - [yaronr/dockerfile](https://github.com/yaronr/dockerfile) - My beloved Dockerfiles
 - [buildkite/python-docker-example](https://github.com/buildkite/python-docker-example) - An example pipeline that runs Python tests inside a Docker container using uv for dependency management.
 - [open-telemetry/build-tools](https://github.com/open-telemetry/build-tools) - Building tools provided by OpenTelemetry
@@ -624,7 +623,7 @@
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [fr-ser/grafana-sqlite-datasource](https://github.com/fr-ser/grafana-sqlite-datasource) - Grafana Plugin to enable SQLite as a Datasource
 - [neondatabase/autoscaling](https://github.com/neondatabase/autoscaling) - Postgres vertical autoscaling in k8s
 - [hashicorp/raft-wal](https://github.com/hashicorp/raft-wal) - experimental raft storage
@@ -2367,6 +2366,7 @@
 - [wireapp/wire-scripts](https://github.com/wireapp/wire-scripts) - 
 - [wireapp/wire-builds](https://github.com/wireapp/wire-builds) - This repo defines builds of Wire as sets of Wire's internal components.
 - [wireapp/wire-server-deploy](https://github.com/wireapp/wire-server-deploy) - Code to install/deploy wire-server (on kubernetes)
+- [digitalocean/doks-debug](https://github.com/digitalocean/doks-debug) - A Docker image with Kubernetes manifests for investigation and troubleshooting.
 - [rancherlabs/systems-info](https://github.com/rancherlabs/systems-info) - 
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [briar-systems/mach](https://github.com/briar-systems/mach) - A systems programming language with no hidden behavior.

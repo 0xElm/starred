@@ -718,7 +718,7 @@
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [DeterminateSystems/bonk](https://github.com/DeterminateSystems/bonk) - Erase macOS machines over Tailscale.
 - [kommodity-io/oidc-discovery-proxy](https://github.com/kommodity-io/oidc-discovery-proxy) - Expose the OpenID Connect discovery endpoint of a Kubernetes cluster to allow for identity federation.
-- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -2472,7 +2472,7 @@
 - [earendil-works/pi-review-loop](https://github.com/earendil-works/pi-review-loop) - A persistent incremental diff review loop for pi
 - [ogulcancelik/pi-extensions](https://github.com/ogulcancelik/pi-extensions) - Extensions for pi, the terminal-based coding agent
 - [ShokoAnime/Shoko-WebUI](https://github.com/ShokoAnime/Shoko-WebUI) - Repository for the Web UI used in Shoko Server.
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 - [chiriapp/chiri](https://github.com/chiriapp/chiri) - 🍃 Cross-platform CalDAV task management app.
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client

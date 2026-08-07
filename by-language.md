@@ -1745,6 +1745,7 @@
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [nyrkio/nyrkio](https://github.com/nyrkio/nyrkio) - Nyrkiö is an open source platform for detecting performance changes in a Continuous Performance Engineering workflow
+- [basecamp/house-skills](https://github.com/basecamp/house-skills) - 37signals skills for AI assistants
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [Hundter/MitID-BrowserClient](https://github.com/Hundter/MitID-BrowserClient) - Unofficial python implementation of the MitID javascript browser client
 - [kiliantscherny/nordpy](https://github.com/kiliantscherny/nordpy) - A terminal UI for browsing and exporting your Nordnet portfolio data
@@ -2390,7 +2391,6 @@
 - [RocketChat/helm-charts](https://github.com/RocketChat/helm-charts) - Repository for RocketChat helm charts
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
-- [basecamp/house-skills](https://github.com/basecamp/house-skills) - 37signals skills for AI assistants
 - [secure-agentic-framework/saf-agentic-use-cases](https://github.com/secure-agentic-framework/saf-agentic-use-cases) - A community-driven repository of industry and use-case analyses for agentic systems. Documents how ai agents can fail, and how those failures map to SAFE-MCP attack techniques.
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files
 - [ereslibre/homeops](https://github.com/ereslibre/homeops) - Gitops for some home automation workloads

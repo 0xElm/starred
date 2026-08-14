@@ -1112,6 +1112,7 @@
 
 ## Jinja 
 
+- [mistralai/search-starter-app](https://github.com/mistralai/search-starter-app) - Base template to build, manage and improve search engines
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [jsuereth/o11y-by-design](https://github.com/jsuereth/o11y-by-design) - Example code for KubeCon Observability by Design talk.
@@ -1307,7 +1308,7 @@
 - [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
 - [open-telemetry/opentelemetry-proto-go](https://github.com/open-telemetry/opentelemetry-proto-go) - Generated code for OpenTelemetry protobuf data model
 - [open-telemetry/opentelemetry-proto](https://github.com/open-telemetry/opentelemetry-proto) - OpenTelemetry protocol (OTLP) specification and Protobuf definitions
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [nalgeon/sqlean.js](https://github.com/nalgeon/sqlean.js) - Browser-based SQLite with extensions
 - [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance) - Standardizing Cloud Native Value Measurement
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
@@ -1611,7 +1612,6 @@
 
 ## Python 
 
-- [mistralai/search-starter-app](https://github.com/mistralai/search-starter-app) - Base template to build, manage and improve search engines
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 - [mistralai/mistral-common](https://github.com/mistralai/mistral-common) - Official inference library for pre-processing of Mistral models
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.

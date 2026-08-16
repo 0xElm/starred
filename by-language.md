@@ -69,6 +69,7 @@
 - [TeX](#tex)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
@@ -893,6 +894,7 @@
 
 ## HTML 
 
+- [collabst/collabst](https://github.com/collabst/collabst) - Self-hosted collaborative workspace for Typst.
 - [swiss/doc.trustbroker.swiss](https://github.com/swiss/doc.trustbroker.swiss) - Documentation of the trustbroker.swiss service
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [MobileNativeFoundation/mobilenativefoundation.org](https://github.com/MobileNativeFoundation/mobilenativefoundation.org) - Landing page
@@ -935,6 +937,7 @@
 
 ## Haskell 
 
+- [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [wireapp/servant](https://github.com/wireapp/servant) - Main repository for the servant libraries -- DSL for describing, serving, querying, mocking, documenting web applications and more!
 - [wireapp/hedis](https://github.com/wireapp/hedis) - A Redis client library for Haskell.
@@ -1020,6 +1023,8 @@
 
 ## JavaScript 
 
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
+- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [earendil-works/website](https://github.com/earendil-works/website) - 
 - [ogulcancelik/agent-skills](https://github.com/ogulcancelik/agent-skills) - Small, opinionated, agent-agnostic skills for coding agents
 - [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
@@ -1173,6 +1178,8 @@
 
 ## Lua 
 
+- [saecki/crates.nvim](https://github.com/saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
+- [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) - A neovim plugin to live preview lsp renames
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) - A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
@@ -1335,6 +1342,10 @@
 
 ## Nix 
 
+- [RossSmyth/press](https://github.com/RossSmyth/press) - Typst document building in nix
+- [loqusion/typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
+- [typst/typst-flake](https://github.com/typst/typst-flake) - Nix flake for Typst
+- [applicative-systems/secure-supply-chain](https://github.com/applicative-systems/secure-supply-chain) - Secure Software Supply Chain Demonstration with Nix
 - [fzakaria/guixpkgs](https://github.com/fzakaria/guixpkgs) - Guix Packages collection built via Nix
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
@@ -1395,7 +1406,7 @@
 - [kashw2/bitbucket-runner-nix](https://github.com/kashw2/bitbucket-runner-nix) - A flake for deploying Bitbucket Runners on NixOS
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
-- [alyraffauf/nixcfg](https://github.com/alyraffauf/nixcfg) - Multi-host NixOS, Darwin, and home-manager configurations with Nix.
+- [alyraffauf/hoenn](https://github.com/alyraffauf/hoenn) - Multi-host NixOS, Darwin, and home-manager configurations with Nix.
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
@@ -1470,6 +1481,7 @@
 
 ## Others 
 
+- [PgBiel/typst-truthtable](https://github.com/PgBiel/typst-truthtable) - A library for generating truth tables
 - [swiss/swiss-federal-writing-guidelines](https://github.com/swiss/swiss-federal-writing-guidelines) - 
 - [swiss/opensource-guidelines](https://github.com/swiss/opensource-guidelines) - Open Source Guidelines (Swiss Government)
 - [swiss/index](https://github.com/swiss/index) - An overview of current repository organisations.
@@ -1615,6 +1627,8 @@
 
 ## Python 
 
+- [craigmbooth/nix-visualize](https://github.com/craigmbooth/nix-visualize) - Uses the Nix package manager to visualize the dependencies of a given package
+- [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - SBOM, provenance, dependency graph, and vulnerability tools for Nix.
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 - [mistralai/mistral-common](https://github.com/mistralai/mistral-common) - Official inference library for pre-processing of Mistral models
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
@@ -1963,6 +1977,16 @@
 
 ## Rust 
 
+- [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
+- [typst/iai](https://github.com/typst/iai) - Experimental one-shot benchmarking/profiling harness for Rust
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
+- [typst/rayon](https://github.com/typst/rayon) - Rayon: A data parallelism library for Rust
+- [typst/markdown-rs](https://github.com/typst/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
+- [typst/biblatex](https://github.com/typst/biblatex) - A Rust crate for parsing and writing BibTeX and BibLaTeX files.
+- [typst/typst-assets](https://github.com/typst/typst-assets) - Assets for the Typst compiler.
+- [typst/hayagriva](https://github.com/typst/hayagriva) - Rusty bibliography management.
+- [typst/package-check](https://github.com/typst/package-check) - A tool to check Typst packages
+- [typst/pdf-writer](https://github.com/typst/pdf-writer) - A step-by-step PDF writer.
 - [cloudflareresearch/pvcli](https://github.com/cloudflareresearch/pvcli) - 
 - [teh/nixcr](https://github.com/teh/nixcr) - Build docker containers on the fly with nix
 - [TaraNix-Linux/nuuid](https://github.com/TaraNix-Linux/nuuid) - Uuid library for Rust
@@ -2456,6 +2480,7 @@
 
 ## TeX 
 
+- [typst/typst-dev-assets](https://github.com/typst/typst-dev-assets) - Assets for testing & docs generation of the Typst compiler.
 - [The-Compiler/pytest-quick-ref](https://github.com/The-Compiler/pytest-quick-ref) - PDF/paper cheat sheet for pytest
 - [joeduffy/foundations-of-llms](https://github.com/joeduffy/foundations-of-llms) - 
 
@@ -2465,6 +2490,7 @@
 
 ## TypeScript 
 
+- [TanStack/charts](https://github.com/TanStack/charts) - A tiny TypeScript visualization grammar for responsive, accessible, server-rendered charts—powered by granular D3 primitives.
 - [supabase/postgres-meta](https://github.com/supabase/postgres-meta) - A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 - [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -2711,6 +2737,17 @@
 - [threema-ch/threema-web](https://github.com/threema-ch/threema-web) - The Threema Web application.
 - [signalapp/storage-manager](https://github.com/signalapp/storage-manager) - Manage objects inside a cdn
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
+
+## Typst 
+
+- [cetz-package/cetz-plot](https://github.com/cetz-package/cetz-plot) - Create Plots and Charts with CeTZ
+- [edgaremy/neural-netz](https://github.com/edgaremy/neural-netz) - A Typst package for visualizing Neural Network Architectures with high-quality diagrams.
+- [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
+- [elegaanz/vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
+- [PgBiel/typst-tablex](https://github.com/PgBiel/typst-tablex) - More powerful and customizable tables in Typst
+- [skyzh/chicv](https://github.com/skyzh/chicv) - A minimal and fully-customizable CV template for Typst.
+- [dialvarezs/neat-cv](https://github.com/dialvarezs/neat-cv) - A modern and elegant CV template for Typst, inspired by Awesome CV and simple-hipstercv.
+- [ptsouchlos/modern-cv](https://github.com/ptsouchlos/modern-cv) - A modern resume template written in Typst, inspired by Awesome-CV
 
 ## Vim Script 
 

@@ -340,6 +340,9 @@
 
 ## Go 
 
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+- [satococoa/wtp](https://github.com/satococoa/wtp) - 🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation
+- [msgpack/msgpack-go](https://github.com/msgpack/msgpack-go) - 
 - [dedemorton/libbeat](https://github.com/dedemorton/libbeat) - libbeat contains the common parts of all the Elastic Beats
 - [atlarge-research/apate](https://github.com/atlarge-research/apate) - Emulating Kubernetes for Fun and Profit
 - [supabase/auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
@@ -1178,6 +1181,17 @@
 
 ## Lua 
 
+- [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
+- [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+- [ThePrimeagen/99](https://github.com/ThePrimeagen/99) - Neovim AI agent done right
+- [Sin-cy/fff.nvim](https://github.com/Sin-cy/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
+- [Sin-cy/nvim-nightly](https://github.com/Sin-cy/nvim-nightly) - 
+- [Sin-cy/dotfiles](https://github.com/Sin-cy/dotfiles) - ⌨️ The never ending updates of my dotfiles config
+- [Sin-cy/nvim-scratch](https://github.com/Sin-cy/nvim-scratch) - 
+- [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver for neovim.
+- [radleylewis/nvim-lite](https://github.com/radleylewis/nvim-lite) - A Powerful but Tastefully Minimal NeoVim Configuration.
+- [stevearc/quicker.nvim](https://github.com/stevearc/quicker.nvim) - Improved UI and workflow for the Neovim quickfix
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [saecki/crates.nvim](https://github.com/saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
 - [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) - A neovim plugin to live preview lsp renames
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
@@ -1406,7 +1420,7 @@
 - [kashw2/bitbucket-runner-nix](https://github.com/kashw2/bitbucket-runner-nix) - A flake for deploying Bitbucket Runners on NixOS
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
-- [alyraffauf/hoenn](https://github.com/alyraffauf/hoenn) - Multi-host NixOS, Darwin, and home-manager configurations with Nix.
+- [alyraffauf/hoenn](https://github.com/alyraffauf/hoenn) - Multi-host NixOS, Darwin, and system-manager configurations with Nix.
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
@@ -1481,6 +1495,8 @@
 
 ## Others 
 
+- [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
+- [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [PgBiel/typst-truthtable](https://github.com/PgBiel/typst-truthtable) - A library for generating truth tables
 - [swiss/swiss-federal-writing-guidelines](https://github.com/swiss/swiss-federal-writing-guidelines) - 
 - [swiss/opensource-guidelines](https://github.com/swiss/opensource-guidelines) - Open Source Guidelines (Swiss Government)
@@ -1627,6 +1643,7 @@
 
 ## Python 
 
+- [msgpack/msgpack-python](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python msgpack.org[Python]
 - [craigmbooth/nix-visualize](https://github.com/craigmbooth/nix-visualize) - Uses the Nix package manager to visualize the dependencies of a given package
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - SBOM, provenance, dependency graph, and vulnerability tools for Nix.
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
@@ -1977,6 +1994,8 @@
 
 ## Rust 
 
+- [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
 - [typst/iai](https://github.com/typst/iai) - Experimental one-shot benchmarking/profiling harness for Rust
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
@@ -2486,6 +2505,8 @@
 
 ## Tree-sitter Query 
 
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
+- [arborist-ts/arborist.nvim](https://github.com/arborist-ts/arborist.nvim) - Smart, simple, fast tree-sitter parser manager for Neovim 0.12+
 - [neovim-treesitter/nvim-treesitter](https://github.com/neovim-treesitter/nvim-treesitter) - 
 
 ## TypeScript 

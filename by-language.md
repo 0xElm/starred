@@ -1643,6 +1643,9 @@
 
 ## Python 
 
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [msgpack/msgpack-python](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python msgpack.org[Python]
 - [craigmbooth/nix-visualize](https://github.com/craigmbooth/nix-visualize) - Uses the Nix package manager to visualize the dependencies of a given package
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - SBOM, provenance, dependency graph, and vulnerability tools for Nix.
@@ -2499,6 +2502,9 @@
 
 ## TeX 
 
+- [liantze/AltaCV](https://github.com/liantze/AltaCV) - Yet another alternative curriculum vitae/résumé class with LaTeX
+- [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv) - Latex CV template built with Font Awesome.
+- [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv) - YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
 - [typst/typst-dev-assets](https://github.com/typst/typst-dev-assets) - Assets for testing & docs generation of the Typst compiler.
 - [The-Compiler/pytest-quick-ref](https://github.com/The-Compiler/pytest-quick-ref) - PDF/paper cheat sheet for pytest
 - [joeduffy/foundations-of-llms](https://github.com/joeduffy/foundations-of-llms) - 
@@ -2761,6 +2767,11 @@
 
 ## Typst 
 
+- [manjavacas/typslides](https://github.com/manjavacas/typslides) - Minimalistic Typst slides.
+- [ansgarlichter/light-cv](https://github.com/ansgarlichter/light-cv) - CV template written in typst.
+- [npujol/chuli-cv](https://github.com/npujol/chuli-cv) - These are my CV and cover letter templates written in Typst.
+- [loicfontaine/vivid-cv](https://github.com/loicfontaine/vivid-cv) - A typst CV template
+- [yunanwg/brilliant-CV](https://github.com/yunanwg/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
 - [cetz-package/cetz-plot](https://github.com/cetz-package/cetz-plot) - Create Plots and Charts with CeTZ
 - [edgaremy/neural-netz](https://github.com/edgaremy/neural-netz) - A Typst package for visualizing Neural Network Architectures with high-quality diagrams.
 - [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.

@@ -272,7 +272,6 @@
 
 - [swiss/oss-catalog](https://github.com/swiss/oss-catalog) - Open Source Software Catalog
 - [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) - A pastebin for Tailscale users
-- [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 - [digitalocean/wave](https://github.com/digitalocean/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
@@ -356,7 +355,7 @@
 - [desdic/goss](https://github.com/desdic/goss) - Quick and Easy server testing/validation
 - [nektro/mtorrent](https://github.com/nektro/mtorrent) - A totally configurable terminal torrent client.
 - [simonklee/godis](https://github.com/simonklee/godis) - godis - an old Redis client for Go
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI,GPT 5.5, GPT-Image-2, Whisper API clients for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI, GPT 5.6, GPT-Image-2, Whisper API clients for Go
 - [simonklee/opentui-bench](https://github.com/simonklee/opentui-bench) - 
 - [vmware-labs/distribution-tooling-for-helm](https://github.com/vmware-labs/distribution-tooling-for-helm) - Helm Distribution plugin is is a set of utilities and Helm Plugin for making offline work with Helm Charts easier. It is meant to be used for creating reproducible and relocatable packages for Helm Ch
 - [bradfitz/gomemcache](https://github.com/bradfitz/gomemcache) - Go Memcached client library #golang
@@ -1663,6 +1662,7 @@
 - [Checkmk/checkmk](https://github.com/Checkmk/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
 - [vacanza/holidays](https://github.com/vacanza/holidays) - Open World Holidays Framework
 - [OWASP/Nest](https://github.com/OWASP/Nest) - Your gateway to OWASP. Discover, engage, and help shape the future!
+- [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [stephaniewang526/llm-perf-analyzer](https://github.com/stephaniewang526/llm-perf-analyzer) - LLM-friendly perf report generator via pluggable adapters (Prometheus, JSON, etc.)
 - [anoadragon453/matrix-reminder-bot](https://github.com/anoadragon453/matrix-reminder-bot) - A bot to remind you about stuff. Supports encrypted rooms
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -2517,6 +2517,8 @@
 
 ## TypeScript 
 
+- [JoshuaThadi/Minimalist](https://github.com/JoshuaThadi/Minimalist) - Minimal frontend website built with modern web development practices. Focused on clean design, responsiveness, and simplicity.
+- [JuditKaramazov/JuditKaramazfolio](https://github.com/JuditKaramazov/JuditKaramazfolio) - 🚀🌿 karamaSystem v1 - Personal portfolio encapsulating this digital animal's very essence.
 - [TanStack/charts](https://github.com/TanStack/charts) - A tiny TypeScript visualization grammar for responsive, accessible, server-rendered charts—powered by granular D3 primitives.
 - [supabase/postgres-meta](https://github.com/supabase/postgres-meta) - A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 - [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres

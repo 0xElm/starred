@@ -1297,7 +1297,7 @@
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [desdic/agrolens.nvim](https://github.com/desdic/agrolens.nvim) - Use Telescope or fzf to view pre-defined/custom treesitter queries
 - [desdic/marlin.nvim](https://github.com/desdic/marlin.nvim) - Smooth sailing through buffers of interest in neovim
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [tjdevries/config.nvim](https://github.com/tjdevries/config.nvim) - my nvim config
@@ -1997,6 +1997,8 @@
 
 ## Rust 
 
+- [keepsimple1/mdns-sd](https://github.com/keepsimple1/mdns-sd) - Rust library for mDNS based Service Discovery
+- [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
@@ -2769,6 +2771,9 @@
 
 ## Typst 
 
+- [stuxf/basic-typst-resume-template](https://github.com/stuxf/basic-typst-resume-template) - A basic resume for typst, designed to work well with ATS systems.
+- [jassielof/typst-templates](https://github.com/jassielof/typst-templates) - Collection of my Typst templates
+- [jskherman/imprecv](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
 - [manjavacas/typslides](https://github.com/manjavacas/typslides) - Minimalistic Typst slides.
 - [ansgarlichter/light-cv](https://github.com/ansgarlichter/light-cv) - CV template written in typst.
 - [npujol/chuli-cv](https://github.com/npujol/chuli-cv) - These are my CV and cover letter templates written in Typst.

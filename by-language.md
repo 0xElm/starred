@@ -711,7 +711,6 @@
 - [zrepl/zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution
 - [mautrix/signal](https://github.com/mautrix/signal) - A Matrix-Signal puppeting bridge
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
-- [element-hq/lk-jwt-service](https://github.com/element-hq/lk-jwt-service) - Minimal service to issue LiveKit JWTs for MatrixRTC
 - [t2bot/matrix-media-repo](https://github.com/t2bot/matrix-media-repo) - Highly configurable multi-domain media repository for Matrix.
 - [matrix-org/rageshake](https://github.com/matrix-org/rageshake) - Bug report server
 - [matrix-org/complement](https://github.com/matrix-org/complement) - Matrix compliance test suite
@@ -2273,6 +2272,7 @@
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [alloy-rs/alloy](https://github.com/alloy-rs/alloy) - Transports, Middleware, and Networks for the Alloy project
+- [element-hq/lk-jwt-service](https://github.com/element-hq/lk-jwt-service) - Minimal service to issue LiveKit JWTs for MatrixRTC
 - [matrix-org/vodozemac](https://github.com/matrix-org/vodozemac) - An implementation of Olm and Megolm in pure Rust.
 - [matrix-org/matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust
 - [rumpelsepp/mnotify](https://github.com/rumpelsepp/mnotify) - A matrix cli client

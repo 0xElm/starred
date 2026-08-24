@@ -213,6 +213,8 @@
 
 ## C++ 
 
+- [google/fuzztest](https://github.com/google/fuzztest) - 
+- [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [google/shell-encryption](https://github.com/google/shell-encryption) - 
@@ -296,6 +298,7 @@
 
 ## Dart 
 
+- [google/webcrypto.dart](https://github.com/google/webcrypto.dart) - Cross-platform implementation of Web Cryptography APIs
 - [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 - [tekartik/sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin
 - [team-telnyx/flutter-voice-sdk](https://github.com/team-telnyx/flutter-voice-sdk) - Telnyx Flutter WebRTC SDK - Enable real-time communication with WebRTC and Telnyx
@@ -339,6 +342,8 @@
 
 ## Go 
 
+- [google/taxinomia](https://github.com/google/taxinomia) - 
+- [google/sam](https://github.com/google/sam) - SAM Sovereign Agent Mesh
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [satococoa/wtp](https://github.com/satococoa/wtp) - 🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation
 - [msgpack/msgpack-go](https://github.com/msgpack/msgpack-go) - 
@@ -895,6 +900,7 @@
 
 ## HTML 
 
+- [google/building-secure-and-reliable-systems](https://github.com/google/building-secure-and-reliable-systems) - This repository contains the content of the book "Building Secure and Reliable Systems" by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, and Adam Stubblefield. Google wr
 - [collabst/collabst](https://github.com/collabst/collabst) - Self-hosted collaborative workspace for Typst.
 - [swiss/doc.trustbroker.swiss](https://github.com/swiss/doc.trustbroker.swiss) - Documentation of the trustbroker.swiss service
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
@@ -1641,6 +1647,8 @@
 
 ## Python 
 
+- [google/tunix](https://github.com/google/tunix) - A Lightweight LLM Post-Training Library
+- [google/oss-fuzz-vulns](https://github.com/google/oss-fuzz-vulns) - OSS-Fuzz vulnerabilities for OSV.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -1997,6 +2005,7 @@
 
 ## Rust 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [keepsimple1/mdns-sd](https://github.com/keepsimple1/mdns-sd) - Rust library for mDNS based Service Discovery
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
@@ -2562,7 +2571,7 @@
 - [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -                            2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump
 - [neuroscout/neuroscout](https://github.com/neuroscout/neuroscout) - NeuroScout web app and API
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [mikkelkrogsholm/rentemester](https://github.com/mikkelkrogsholm/rentemester) - 
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [wireapp/expect-webdriverio](https://github.com/wireapp/expect-webdriverio) - WebdriverIO Assertion Library

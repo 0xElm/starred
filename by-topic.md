@@ -968,6 +968,7 @@
 
 ## cryptography 
 
+- [google/webcrypto.dart](https://github.com/google/webcrypto.dart) - Cross-platform implementation of Web Cryptography APIs
 - [GrapheneOS/AttestationServer](https://github.com/GrapheneOS/AttestationServer) - attestation.app remote attestation server. Server code for use with the Auditor app: https://github.com/GrapheneOS/Auditor. It provides two services: submission of attestation data samples and a remot
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
@@ -1001,6 +1002,7 @@
 
 ## dart 
 
+- [google/webcrypto.dart](https://github.com/google/webcrypto.dart) - Cross-platform implementation of Web Cryptography APIs
 - [team-telnyx/flutter-voice-sdk](https://github.com/team-telnyx/flutter-voice-sdk) - Telnyx Flutter WebRTC SDK - Enable real-time communication with WebRTC and Telnyx
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1386,7 +1388,7 @@
 
 ## dotfiles 
 
-- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, and other config files and utility scripts.
+- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, omarchy and other config files and utility scripts.
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [gwenwindflower/dotfiles](https://github.com/gwenwindflower/dotfiles) - 🌿🌺🌀🐚🌱🌸🌻 feel free to pick a fig from the config tree
@@ -1428,6 +1430,7 @@
 
 ## embedded 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [rakyll/go-hardware](https://github.com/rakyll/go-hardware) - A directory of hardware related libs, tools, and tutorials for Go
 - [ozimov/embedded-redis](https://github.com/ozimov/embedded-redis) - Redis embedded server
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -1489,6 +1492,7 @@
 
 ## flutter 
 
+- [google/webcrypto.dart](https://github.com/google/webcrypto.dart) - Cross-platform implementation of Web Cryptography APIs
 - [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 - [team-telnyx/flutter-voice-sdk](https://github.com/team-telnyx/flutter-voice-sdk) - Telnyx Flutter WebRTC SDK - Enable real-time communication with WebRTC and Telnyx
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
@@ -1502,6 +1506,7 @@
 
 ## framework 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [avocado-framework/avocado](https://github.com/avocado-framework/avocado) - Avocado is a set of tools and libraries to help with automated testing. One can call it a test framework with benefits. Native tests are written in Python and they follow the unittest pattern, but any
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -2147,6 +2152,7 @@
 
 ## iot 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms, focusing on flexibility, security and scalability
 - [unixorn/internet-of-trash](https://github.com/unixorn/internet-of-trash) - A list of IOT devices that are garbage
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
@@ -2462,7 +2468,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [WireGuard/wgctrl-go](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
-- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, and other config files and utility scripts.
+- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, omarchy and other config files and utility scripts.
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [avocado-framework/avocado](https://github.com/avocado-framework/avocado) - Avocado is a set of tools and libraries to help with automated testing. One can call it a test framework with benefits. Native tests are written in Python and they follow the unittest pattern, but any
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
@@ -2611,7 +2617,7 @@
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
-- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, and other config files and utility scripts.
+- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, omarchy and other config files and utility scripts.
 - [eh8/chenglab](https://github.com/eh8/chenglab) - NixOS setup for my homelab and personal computers
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -2688,6 +2694,7 @@
 
 ## mcp 
 
+- [google/sam](https://github.com/google/sam) - SAM Sovereign Agent Mesh
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
@@ -3069,6 +3076,12 @@
 
 ## others 
 
+- [google/fuzztest](https://github.com/google/fuzztest) - 
+- [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
+- [google/taxinomia](https://github.com/google/taxinomia) - 
+- [google/tunix](https://github.com/google/tunix) - A Lightweight LLM Post-Training Library
+- [google/oss-fuzz-vulns](https://github.com/google/oss-fuzz-vulns) - OSS-Fuzz vulnerabilities for OSV.
+- [google/building-secure-and-reliable-systems](https://github.com/google/building-secure-and-reliable-systems) - This repository contains the content of the book "Building Secure and Reliable Systems" by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, and Adam Stubblefield. Google wr
 - [stuxf/basic-typst-resume-template](https://github.com/stuxf/basic-typst-resume-template) - A basic resume for typst, designed to work well with ATS systems.
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [jskherman/imprecv](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
@@ -4582,7 +4595,7 @@
 - [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
 - [buildkite/python-docker-example](https://github.com/buildkite/python-docker-example) - An example pipeline that runs Python tests inside a Docker container using uv for dependency management.
 - [buildkite/python-pipenv-example](https://github.com/buildkite/python-pipenv-example) - An example pipeline that tests a Python project using pipenv for dependency management.
-- [buildkite/test-collector-python](https://github.com/buildkite/test-collector-python) - Python adapter for Buildkite Test Engine
+- [buildkite/test-collector-python](https://github.com/buildkite/test-collector-python) - Moved to buildkite/bktest — Python adapter for Buildkite Test Engine
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
@@ -4832,6 +4845,7 @@
 
 ## rust 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [keepsimple1/mdns-sd](https://github.com/keepsimple1/mdns-sd) - Rust library for mDNS based Service Discovery
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
@@ -4874,7 +4888,7 @@
 - [hako/bbcli](https://github.com/hako/bbcli) - :newspaper: Browse BBC News like a hacker.
 - [oddlama/autokernel](https://github.com/oddlama/autokernel) - A tool for managing your kernel configuration that guarantees semantic correctness
 - [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
-- [buildkite/test-collector-rust](https://github.com/buildkite/test-collector-rust) - Rust adapter for Buildkite Test Engine which implements a parser and sender for Rust's JSON test output
+- [buildkite/test-collector-rust](https://github.com/buildkite/test-collector-rust) - Moved to buildkite/bktest — Rust adapter for Buildkite Test Engine which implements a parser and sender for Rust's JSON test output
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
@@ -5009,6 +5023,7 @@
 
 ## security 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - SBOM, provenance, dependency graph, and vulnerability tools for Nix.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
@@ -5081,7 +5096,7 @@
 
 - [collabst/collabst](https://github.com/collabst/collabst) - Self-hosted collaborative workspace for Typst.
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
-- [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
+- [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - NOW MANAGED ON CODEBERG
 - [hwgilbert16/scholarsome](https://github.com/hwgilbert16/scholarsome) - Web-based interactive flashcard learning software
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.

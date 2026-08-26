@@ -259,6 +259,7 @@
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
@@ -1117,7 +1118,6 @@
 - [One-com/teepee](https://github.com/One-com/teepee) - Generic HTTP client
 - [One-com/node-httperrors](https://github.com/One-com/node-httperrors) - Handy JavaScript Error classes representing the standard HTTP errors. Easily extensible and subclassable.
 - [One-com/one-validation](https://github.com/One-com/one-validation) - Regexp based validation collection for common internet validation tasks
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
@@ -1207,7 +1207,7 @@
 - [hat0uma/csvview.nvim](https://github.com/hat0uma/csvview.nvim) - A Neovim plugin for CSV file editing.
 - [patrick-sharp/waypoint.nvim](https://github.com/patrick-sharp/waypoint.nvim) - 
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
-- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, and other config files and utility scripts.
+- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, omarchy and other config files and utility scripts.
 - [johnfrankmorgan/whitespace.nvim](https://github.com/johnfrankmorgan/whitespace.nvim) - A simple neovim plugin to highlight and remove trailing whitespace.
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [tjdevries/luai.nvim](https://github.com/tjdevries/luai.nvim) - Lua + AI = ???
@@ -1661,7 +1661,7 @@
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
-- [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
+- [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - NOW MANAGED ON CODEBERG
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [ssp-data/personal-swiss-finance-dw](https://github.com/ssp-data/personal-swiss-finance-dw) - Personal Finance Project to automatically collect swiss banking transaction into a DWH and visualise it
 - [layus/dotfiles](https://github.com/layus/dotfiles) - 

@@ -976,7 +976,7 @@
 - [jeffwheeler/Recipes](https://github.com/jeffwheeler/Recipes) - Parse and play with recipes written in a simple DSL, using Haskell
 - [jeffwheeler/hsparql](https://github.com/jeffwheeler/hsparql) - hsparql includes a DSL to easily create queries, as well as methods to submit those queries to a SPARQL server, returning the results as simple Haskell data structures.
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [hadolint/language-docker](https://github.com/hadolint/language-docker) - Haskell Dockerfile parser, pretty-printer and EDSL
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
@@ -1339,7 +1339,6 @@
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [nalgeon/sqlean.js](https://github.com/nalgeon/sqlean.js) - Browser-based SQLite with extensions
 - [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance) - Standardizing Cloud Native Value Measurement
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [lukebakken/rabbitmq](https://github.com/lukebakken/rabbitmq) - RabbitMQ Q&A and code samples
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [chainguard-dev/osquery-defense-kit](https://github.com/chainguard-dev/osquery-defense-kit) - Production-ready detection & response queries for osquery
@@ -1367,6 +1366,7 @@
 - [fzakaria/guixpkgs](https://github.com/fzakaria/guixpkgs) - Guix Packages collection built via Nix
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
+- [layus/dotfiles](https://github.com/layus/dotfiles) - 
 - [kleisli-io/nix-effects](https://github.com/kleisli-io/nix-effects) - Pure Nix effects, typed validation, verified boundaries, and description-backed DSLs
 - [Niols/nixos-config](https://github.com/Niols/nixos-config) - Niols's NixOS configuration/s
 - [infinisil/nixus](https://github.com/infinisil/nixus) - Experimental deployment tool supporting multi-host abstractions
@@ -1570,6 +1570,7 @@
 - [joeduffy/system-prompts](https://github.com/joeduffy/system-prompts) - A collection of interesting system prompts
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [team-telnyx/openapi](https://github.com/team-telnyx/openapi) - OpenAPI specification for the Telnyx API
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [alpinenetworks/.github](https://github.com/alpinenetworks/.github) - 
@@ -1664,7 +1665,6 @@
 - [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - NOW MANAGED ON CODEBERG
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [ssp-data/personal-swiss-finance-dw](https://github.com/ssp-data/personal-swiss-finance-dw) - Personal Finance Project to automatically collect swiss banking transaction into a DWH and visualise it
-- [layus/dotfiles](https://github.com/layus/dotfiles) - 
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [pypa/wheel](https://github.com/pypa/wheel) - The official binary distribution format for Python
 - [Checkmk/checkmk](https://github.com/Checkmk/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring

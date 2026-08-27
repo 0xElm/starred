@@ -1470,7 +1470,7 @@
 
 - [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 
 ## firebase 
 
@@ -2051,7 +2051,7 @@
 - [tweag/sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark.
 - [tweag/pup](https://github.com/tweag/pup) - Bidirectional grammar combinators
 - [IntersectMBO/ouroboros-network](https://github.com/IntersectMBO/ouroboros-network) - Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [hadolint/language-docker](https://github.com/hadolint/language-docker) - Haskell Dockerfile parser, pretty-printer and EDSL
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
@@ -5521,7 +5521,7 @@
 - [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui) - A curated list of awesome opentui resources
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 
 ## twitter 

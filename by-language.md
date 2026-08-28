@@ -751,7 +751,7 @@
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [NikolaLohinski/gonja](https://github.com/NikolaLohinski/gonja) - ⛩️ Pure Golang engine for Jinja templates
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
-- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp and whisper.cpp directly integrated into your Go applications. Kronk provide
+- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stablediffusion.cpp directly integrated into your Go appli
 - [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
@@ -1090,6 +1090,7 @@
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [openstreetmap/dns](https://github.com/openstreetmap/dns) - OpenStreetMap DNS
 - [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [chhoumann/Templater_Templates](https://github.com/chhoumann/Templater_Templates) - My templates for the Templater Obsidian.md plugin.
 - [chhoumann/DemoVault](https://github.com/chhoumann/DemoVault) - Demo vault for Obsidian stuff by Christian.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
@@ -1185,6 +1186,10 @@
 
 ## Lua 
 
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
+- [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
+- [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
+- [catwell/cw-lua](https://github.com/catwell/cw-lua) - Catwell's Lua playground
 - [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [ThePrimeagen/99](https://github.com/ThePrimeagen/99) - Neovim AI agent done right
@@ -1570,7 +1575,6 @@
 - [joeduffy/system-prompts](https://github.com/joeduffy/system-prompts) - A collection of interesting system prompts
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [team-telnyx/openapi](https://github.com/team-telnyx/openapi) - OpenAPI specification for the Telnyx API
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [alpinenetworks/.github](https://github.com/alpinenetworks/.github) - 
@@ -1616,6 +1620,7 @@
 
 ## PLpgSQL 
 
+- [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 - [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite
 - [sivers/srs](https://github.com/sivers/srs) - Spaced Repetition in PostgreSQL functions
 - [hettie-d/pg_acm](https://github.com/hettie-d/pg_acm) - PostgreSQL access control management
@@ -2033,7 +2038,6 @@
 - [hopey-dishwasher/termpix](https://github.com/hopey-dishwasher/termpix) - Display images in an ANSI terminal
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [layus/nixception](https://github.com/layus/nixception) - NativeLink-based REAPI server that turns remote build actions into Nix derivations (Apache-2.0 release line)
-- [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 - [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider.
 - [fearful-symmetry/beatperf](https://github.com/fearful-symmetry/beatperf) - Metrics monitor/graphing utility for elastic beats
 - [matrix-org/seshat](https://github.com/matrix-org/seshat) - A Matrix message database/indexer
@@ -2799,6 +2803,7 @@
 
 ## Vim Script 
 
+- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
 - [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim

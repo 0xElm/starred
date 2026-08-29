@@ -1511,6 +1511,7 @@
 - [swiss/index](https://github.com/swiss/index) - An overview of current repository organisations.
 - [swiss/api-guidelines](https://github.com/swiss/api-guidelines) - Federal Administration API Guidelines
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+- [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - NOW MANAGED ON CODEBERG
 - [Koromix/goupile](https://github.com/Koromix/goupile) - Free and open-source electronic data capture
 - [fpereiro/ustack](https://github.com/fpereiro/ustack) - A web application stack focused on understanding
 - [schristoff/schristoff](https://github.com/schristoff/schristoff) - 
@@ -1667,7 +1668,6 @@
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
-- [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - NOW MANAGED ON CODEBERG
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [ssp-data/personal-swiss-finance-dw](https://github.com/ssp-data/personal-swiss-finance-dw) - Personal Finance Project to automatically collect swiss banking transaction into a DWH and visualise it
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 

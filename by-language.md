@@ -213,6 +213,8 @@
 
 ## C++ 
 
+- [omacom/quickshell](https://github.com/omacom/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
+- [omacom/omawrite](https://github.com/omacom/omawrite) - The essence of writing
 - [google/fuzztest](https://github.com/google/fuzztest) - 
 - [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
@@ -343,6 +345,7 @@
 
 ## Go 
 
+- [omacom/aether](https://github.com/omacom/aether) - Aether, native Omarchy theming support. Works standalone for other distros.
 - [google/taxinomia](https://github.com/google/taxinomia) - 
 - [google/sam](https://github.com/google/sam) - SAM Sovereign Agent Mesh
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -901,6 +904,10 @@
 
 ## HTML 
 
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
+- [omacom/omarchy-site](https://github.com/omacom/omarchy-site) - Beautiful, Modern & Opinionated Linux by DHH
+- [omacom/oligarchy](https://github.com/omacom/oligarchy) - Elite capital. Public code. The oligarchy.fyi landing page.
+- [aorumbayev/awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy) - ⚡A curated list of awesome omarchy resources
 - [google/building-secure-and-reliable-systems](https://github.com/google/building-secure-and-reliable-systems) - This repository contains the content of the book "Building Secure and Reliable Systems" by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, and Adam Stubblefield. Google wr
 - [collabst/collabst](https://github.com/collabst/collabst) - Self-hosted collaborative workspace for Typst.
 - [swiss/doc.trustbroker.swiss](https://github.com/swiss/doc.trustbroker.swiss) - Documentation of the trustbroker.swiss service
@@ -1186,6 +1193,12 @@
 
 ## Lua 
 
+- [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
+- [nvim-mini/mini.surround](https://github.com/nvim-mini/mini.surround) - Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.
+- [nvim-mini/mini.files](https://github.com/nvim-mini/mini.files) - Navigate and manipulate file system. Part of 'mini.nvim' library.
+- [nvim-mini/mini.diff](https://github.com/nvim-mini/mini.diff) - Work with diff hunks. Part of 'mini.nvim' library.
+- [omacom/lumon.nvim](https://github.com/omacom/lumon.nvim) - Lumon Industries Neovim Theme
 - [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
 - [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
@@ -1364,6 +1377,7 @@
 
 ## Nix 
 
+- [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
 - [RossSmyth/press](https://github.com/RossSmyth/press) - Typst document building in nix
 - [loqusion/typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
 - [typst/typst-flake](https://github.com/typst/typst-flake) - Nix flake for Typst
@@ -1503,6 +1517,7 @@
 
 ## Others 
 
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [PgBiel/typst-truthtable](https://github.com/PgBiel/typst-truthtable) - A library for generating truth tables
@@ -1942,6 +1957,7 @@
 
 ## QML 
 
+- [jkoestinger/omarchy-vpn](https://github.com/jkoestinger/omarchy-vpn) - VPN status and switching in the Omarchy bar, across whichever VPN tools are installed.
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 
 ## R 
@@ -1959,6 +1975,7 @@
 
 ## Ruby 
 
+- [omacom/omarchy-plugin-registry](https://github.com/omacom/omarchy-plugin-registry) - 
 - [sspaeti/once-campfire](https://github.com/sspaeti/once-campfire) - self-hosting chat, trying.
 - [digitalocean/sample-rails](https://github.com/digitalocean/sample-rails) - ⛵ App Platform sample Ruby on Rails application.
 - [criteo/knife-ssh-agent](https://github.com/criteo/knife-ssh-agent) - Authenticate to a chef server using a SSH agent
@@ -2010,6 +2027,13 @@
 
 ## Rust 
 
+- [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
+- [scipenai/tylax](https://github.com/scipenai/tylax) - A bi-directional converter between Typst and LaTeX. Available as both a CLI tool and a Web interface.
+- [omacom/ttfx](https://github.com/omacom/ttfx) - Terminal text effects as a single static binary — a parity-exact Rust port of terminaltexteffects
+- [akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar) - Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans/credits - inspired by claudebar/codexbar
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
+- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [keepsimple1/mdns-sd](https://github.com/keepsimple1/mdns-sd) - Rust library for mDNS based Service Discovery
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
@@ -2233,7 +2257,7 @@
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-- [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
+- [nostacks/ekphos](https://github.com/nostacks/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [m-ou-se/inline-python](https://github.com/m-ou-se/inline-python) - Inline Python code directly in your Rust code
 - [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks) - Code examples, data structures, and links from my book, Rust Atomics and Locks.
@@ -2409,6 +2433,13 @@
 
 ## Shell 
 
+- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
+- [paulbkim-dev/vim-herdr-navigation](https://github.com/paulbkim-dev/vim-herdr-navigation) - Seamless Ctrl+h/j/k/l navigation across herdr panes and Vim/Neovim splits — vim-tmux-navigator ported to herdr
+- [omacom/omarchy-pkgs](https://github.com/omacom/omarchy-pkgs) - 
+- [mryll/claudebar](https://github.com/mryll/claudebar) - Claude Code usage limits for Waybar and the Omarchy shell. Session, weekly, per-model, and extra-usage costs. Bash, AUR.
+- [themartiano/try-omarchy](https://github.com/themartiano/try-omarchy) - Run Omarchy on MacOS without any setup.
+- [omacom/omarchy-iso](https://github.com/omacom/omarchy-iso) - 
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
 - [cristinaponcela/cristinaponcela.github.io](https://github.com/cristinaponcela/cristinaponcela.github.io) - My Personal Website
 - [herdrdev/herdr-nix](https://github.com/herdrdev/herdr-nix) - Pushes herdr releases to cachix
@@ -2516,6 +2547,7 @@
 
 ## TeX 
 
+- [latex-ninja/simple-hipstercv](https://github.com/latex-ninja/simple-hipstercv) - A more simple, lightweight and a little bit different version of the Hipster CV
 - [liantze/AltaCV](https://github.com/liantze/AltaCV) - Yet another alternative curriculum vitae/résumé class with LaTeX
 - [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv) - Latex CV template built with Font Awesome.
 - [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv) - YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
@@ -2675,7 +2707,7 @@
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [getnao/nao](https://github.com/getnao/nao) - 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
-- [remorses/critique](https://github.com/remorses/critique) - TUI for reviewing git changes
+- [remorses/critique](https://github.com/remorses/critique) - TUI & website for reviewing git changes
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [ZeroLeaks/zeroleaks](https://github.com/ZeroLeaks/zeroleaks) - AI Security Scanner - Test your AI systems for prompt injection and extraction vulnerabilities
@@ -2784,6 +2816,7 @@
 
 ## Typst 
 
+- [DavidSasson22/david-resume-template](https://github.com/DavidSasson22/david-resume-template) - evidence-based resume structure
 - [stuxf/basic-typst-resume-template](https://github.com/stuxf/basic-typst-resume-template) - A basic resume for typst, designed to work well with ATS systems.
 - [jassielof/typst-templates](https://github.com/jassielof/typst-templates) - Collection of my Typst templates
 - [jskherman/imprecv](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.

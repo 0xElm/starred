@@ -190,6 +190,7 @@
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [perl](#perl)
+- [phishing](#phishing)
 - [php](#php)
 - [physics](#physics)
 - [portfolio](#portfolio)
@@ -474,6 +475,7 @@
 
 ## artificial-intelligence 
 
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -1384,7 +1386,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
@@ -1453,6 +1455,7 @@
 
 ## embedded 
 
+- [open2b/scriggo](https://github.com/open2b/scriggo) - The world’s most powerful template engine and Go embeddable interpreter
 - [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [rakyll/go-hardware](https://github.com/rakyll/go-hardware) - A directory of hardware related libs, tools, and tutorials for Go
 - [ozimov/embedded-redis](https://github.com/ozimov/embedded-redis) - Redis embedded server
@@ -1565,7 +1568,7 @@
 ## git 
 
 - [satococoa/wtp](https://github.com/satococoa/wtp) - 🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
@@ -1611,6 +1614,7 @@
 
 ## go 
 
+- [open2b/scriggo](https://github.com/open2b/scriggo) - The world’s most powerful template engine and Go embeddable interpreter
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [satococoa/wtp](https://github.com/satococoa/wtp) - 🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation
 - [atlarge-research/apate](https://github.com/atlarge-research/apate) - Emulating Kubernetes for Fun and Profit
@@ -1736,6 +1740,7 @@
 
 ## golang 
 
+- [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
@@ -1910,6 +1915,7 @@
 
 ## hacktoberfest 
 
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
@@ -2320,6 +2326,7 @@
 
 ## kubernetes 
 
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [atlarge-research/apate](https://github.com/atlarge-research/apate) - Emulating Kubernetes for Fun and Profit
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
@@ -2446,6 +2453,7 @@
 
 ## language 
 
+- [open2b/scriggo](https://github.com/open2b/scriggo) - The world’s most powerful template engine and Go embeddable interpreter
 - [briar-systems/mach](https://github.com/briar-systems/mach) - A systems programming language with no hidden behavior.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [knowsys/nemo](https://github.com/knowsys/nemo) - A fast in-memory rule engine
@@ -2635,6 +2643,7 @@
 
 ## machine-learning 
 
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [nilearn/nilearn](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
@@ -2684,7 +2693,7 @@
 - [harehare/mq-tui](https://github.com/harehare/mq-tui) - A Text-based User Interface for the mq Markdown processor.
 - [harehare/mq-task](https://github.com/harehare/mq-task) - A task runner that executes code blocks in Markdown files based on section titles.
 - [harehare/mq](https://github.com/harehare/mq) - A jq-like Markdown query language for command-line processing
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -3008,7 +3017,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon) - Tachyon, IPC/RPC primitive.
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) - Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
 - [ravaga/helm-chart-generator](https://github.com/ravaga/helm-chart-generator) - This software generates a Helm chart from the user's answers to a series of simple questions.
@@ -3081,7 +3090,7 @@
 - [neuroscout/neuroscout](https://github.com/neuroscout/neuroscout) - NeuroScout web app and API
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [opencollective/opencollective](https://github.com/opencollective/opencollective) - We're tracking all our Issues, RFCs and a few other documents in this repository.
@@ -3125,6 +3134,13 @@
 
 ## others 
 
+- [yurug/engineer-engineering-tools](https://github.com/yurug/engineer-engineering-tools) - backbrief, forebrief and inbrief — tools for steering agentic development — and the library they share.
+- [yurug/agentic-loop-kit](https://github.com/yurug/agentic-loop-kit) - A spec-driven engineering loop for building reliable software with coding agents
+- [yurug/laconic-skill](https://github.com/yurug/laconic-skill) - Claude Code plugin: cuts noise from agent communication via an auditable model of what the user knows
+- [corticph/gophish-postgres](https://github.com/corticph/gophish-postgres) - GoPhish - Open-Source Phishing Toolkit with Postgres support
+- [corticph/kserve](https://github.com/corticph/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
+- [corticph/corti-examples](https://github.com/corticph/corti-examples) - 
+- [corticph/NeMo](https://github.com/corticph/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [kaarmu/typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 - [jonaspleyer/peace-of-posters](https://github.com/jonaspleyer/peace-of-posters) - Typst package for creating scientific posters
 - [AbdullahHendy/clickworthy-resume](https://github.com/AbdullahHendy/clickworthy-resume) - A Typst simple, flexible, responsive, ATS-friendly, and click-worthy resume template. Extra cover letter and extendable to a CV.
@@ -4487,6 +4503,10 @@
 - [os-autoinst/openQA](https://github.com/os-autoinst/openQA) - openQA web-frontend, scheduler and tools.
 - [ag4ve/NF-Save](https://github.com/ag4ve/NF-Save) - Take in a data structure and output nf/iptables and ipset save data
 
+## phishing 
+
+- [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
+
 ## php 
 
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
@@ -4770,6 +4790,7 @@
 
 ## pytorch 
 
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
@@ -5098,6 +5119,7 @@
 
 ## security 
 
+- [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - SBOM, provenance, dependency graph, and vulnerability tools for Nix.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
@@ -5417,6 +5439,7 @@
 
 ## tensorflow 
 
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.

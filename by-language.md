@@ -345,6 +345,7 @@
 
 ## Go 
 
+- [open2b/scriggo](https://github.com/open2b/scriggo) - The world’s most powerful template engine and Go embeddable interpreter
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [corticph/gophish-postgres](https://github.com/corticph/gophish-postgres) - GoPhish - Open-Source Phishing Toolkit with Postgres support
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
@@ -609,7 +610,7 @@
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner) - Dynamically deploy Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is provisioned from simple local filesystem storage.
-- [openebs/velero-plugin](https://github.com/openebs/velero-plugin) - Velero plugin for backup/restore of OpenEBS cStor volumes
+- [openebs/velero-plugin](https://github.com/openebs/velero-plugin) - Velero Plugin for LocalPV LVM and Replicated PV Mayastor
 - [openebs/zfs-localpv](https://github.com/openebs/zfs-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is integrated with a backend ZFS data storage stack.
 - [openshift/lvm-operator](https://github.com/openshift/lvm-operator) - The LVM Operator deploys and manages LVM storage on OpenShift clusters
 - [kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter) - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint.
@@ -1676,6 +1677,8 @@
 
 ## Python 
 
+- [yurug/agentic-loop-kit](https://github.com/yurug/agentic-loop-kit) - A spec-driven engineering loop for building reliable software with coding agents
+- [yurug/laconic-skill](https://github.com/yurug/laconic-skill) - Claude Code plugin: cuts noise from agent communication via an auditable model of what the user knows
 - [corticph/NeMo](https://github.com/corticph/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [google/tunix](https://github.com/google/tunix) - A Lightweight LLM Post-Training Library
 - [google/oss-fuzz-vulns](https://github.com/google/oss-fuzz-vulns) - OSS-Fuzz vulnerabilities for OSV.
@@ -2573,6 +2576,7 @@
 
 ## TypeScript 
 
+- [yurug/engineer-engineering-tools](https://github.com/yurug/engineer-engineering-tools) - backbrief, forebrief and inbrief — tools for steering agentic development — and the library they share.
 - [corticph/corti-examples](https://github.com/corticph/corti-examples) - 
 - [JoshuaThadi/Minimalist](https://github.com/JoshuaThadi/Minimalist) - Minimal frontend website built with modern web development practices. Focused on clean design, responsiveness, and simplicity.
 - [JuditKaramazov/JuditKaramazfolio](https://github.com/JuditKaramazov/JuditKaramazfolio) - 🚀🌿 karamaSystem v1 - Personal portfolio encapsulating this digital animal's very essence.
@@ -2862,9 +2866,10 @@
 
 ## Vue 
 
+- [FoggedLens/deflock](https://github.com/FoggedLens/deflock) - Crowdsourced tool for locating and reporting ALPRs
 - [swiss/designsystem](https://github.com/swiss/designsystem) - Webguidelines Bund
 - [anoadragon453/ZeroLSTN](https://github.com/anoadragon453/ZeroLSTN) - A p2p music streaming website
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [ClickHouse/stockhouse](https://github.com/ClickHouse/stockhouse) - Stock and Crypto real-time market data visualization demo
 - [str4d/wage](https://github.com/str4d/wage) - A WASM package and web app for encrypting and decrypting age-encrypted files, powered by rage.
 

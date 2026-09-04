@@ -38,6 +38,7 @@
 - [Lean](#lean)
 - [Lua](#lua)
 - [MDX](#mdx)
+- [MLIR](#mlir)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [MoonScript](#moonscript)
@@ -88,6 +89,12 @@
 
 ## C 
 
+- [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) - An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months bet
+- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
+- [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
+- [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
+- [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
+- [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [jyn514/threaded-server](https://github.com/jyn514/threaded-server) - A stupid simple server with threading
 - [GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
@@ -301,6 +308,7 @@
 
 ## Dart 
 
+- [DefinedNet/mobile_nebula](https://github.com/DefinedNet/mobile_nebula) - Brings nebula to mobile devices (iOS, Android)
 - [google/webcrypto.dart](https://github.com/google/webcrypto.dart) - Cross-platform implementation of Web Cryptography APIs
 - [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 - [tekartik/sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin
@@ -311,6 +319,7 @@
 
 ## Dockerfile 
 
+- [digitalocean/doks-debug](https://github.com/digitalocean/doks-debug) - A Docker image with Kubernetes manifests for investigation and troubleshooting.
 - [yaronr/dockerfile](https://github.com/yaronr/dockerfile) - My beloved Dockerfiles
 - [buildkite/python-docker-example](https://github.com/buildkite/python-docker-example) - An example pipeline that runs Python tests inside a Docker container using uv for dependency management.
 - [open-telemetry/build-tools](https://github.com/open-telemetry/build-tools) - Building tools provided by OpenTelemetry
@@ -345,6 +354,42 @@
 
 ## Go 
 
+- [nanovms/unikernel-design-patterns](https://github.com/nanovms/unikernel-design-patterns) - A collection of unikernel design patterns for use with the Nanos/Ops unikernel toolchain.
+- [nanovms/fc-ex](https://github.com/nanovms/fc-ex) - Build Your own Unikernel Firecracker PAAS on NanoVMs Inception
+- [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
+- [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc) - A Mock OIDC Server for Unit & Integration Tests
+- [DefinedNet/mockoidc](https://github.com/DefinedNet/mockoidc) - A Mock OIDC Server for Unit & Integration Tests
+- [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
+- [peterkc/gortex](https://github.com/peterkc/gortex) - High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expos
+- [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
+- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
+- [chhoumann/uca](https://github.com/chhoumann/uca) - 
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [willnorris/simpleproxy](https://github.com/willnorris/simpleproxy) - simple containerized HTTP reverse proxy
+- [willnorris/tools](https://github.com/willnorris/tools) - Assorted Go command line tools
+- [willnorris/httpexec](https://github.com/willnorris/httpexec) - 
+- [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
+- [willnorris/redirect](https://github.com/willnorris/redirect) - A simple redirecting web server
+- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+- [willnorris/timestamp](https://github.com/willnorris/timestamp) - 
+- [willnorris/records](https://github.com/willnorris/records) - A plugin that enables serving (basic) zone data directly from the Corefile
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
+- [willnorris/microformats](https://github.com/willnorris/microformats) - Go library for parsing microformats
+- [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
+- [bradfitz/latlong](https://github.com/bradfitz/latlong) - The latlong package maps from a latitude and longitude to a timezone.
+- [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
+- [tailscale/tsidp](https://github.com/tailscale/tsidp) - A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet.
+- [tailscale/dnsimple-go](https://github.com/tailscale/dnsimple-go) - [dev fork] The DNSimple API client for Go.
+- [creachadair/taskgroup](https://github.com/creachadair/taskgroup) - A Go package for managing a group of collaborating goroutines.
+- [tailscale/squibble](https://github.com/tailscale/squibble) - A lightweight schema manager for SQLite databases.
+- [tailscale/tskagent](https://github.com/tailscale/tskagent) - An SSH agent implementation over setec.
+- [tailscale/tailsql](https://github.com/tailscale/tailsql) - A SQL playground service over Tailscale.
+- [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) - A highly experimental exploration of integrating Tailscale and Caddy.
+- [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
+- [tailscale/mkctr](https://github.com/tailscale/mkctr) - mkctr: cross platform container builder for go
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
+- [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
 - [open2b/scriggo](https://github.com/open2b/scriggo) - The world’s most powerful template engine and Go embeddable interpreter
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [corticph/gophish-postgres](https://github.com/corticph/gophish-postgres) - GoPhish - Open-Source Phishing Toolkit with Postgres support
@@ -905,6 +950,7 @@
 
 ## HCL 
 
+- [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra) - Rust Infrastructure automation
 - [immich-app/devtools](https://github.com/immich-app/devtools) - Various tooling used by the Immich maintainer team
 - [digitalocean/scale-with-simplicity](https://github.com/digitalocean/scale-with-simplicity) - Reference architectures to showcase how users can leverage DigitalOcean's robust cloud platform to build resilient, distributed systems at scale.
 
@@ -1044,6 +1090,7 @@
 
 ## JavaScript 
 
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [earendil-works/website](https://github.com/earendil-works/website) - 
@@ -1159,6 +1206,7 @@
 
 ## Jupyter Notebook 
 
+- [chhoumann/thesis-chemcam](https://github.com/chhoumann/thesis-chemcam) - This project aims to advance LIBS technology interpretation for Mars' ChemCam data, integrating human insights with sophisticated machine learning models, broadening prospects for future space mission
 - [cristinaponcela/Personal-Projects](https://github.com/cristinaponcela/Personal-Projects) - This repository contains the projects I have enjoyed doing in my free time.
 - [sspaeti/datadex](https://github.com/sspaeti/datadex) - Open Data Warehouse with dbt and DuckDB
 - [rbroc/simcat](https://github.com/rbroc/simcat) - A Python package to simulate multi-agent cognitive association tasks 🤖 🧠 👥
@@ -1168,6 +1216,7 @@
 
 ## Kotlin 
 
+- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
 - [matrix-org/matrix-analytics-events](https://github.com/matrix-org/matrix-analytics-events) - Cross-platform definitions of analytics events raised by matrix SDKs
 - [GrapheneOS/Messaging](https://github.com/GrapheneOS/Messaging) - Messaging app
@@ -1199,6 +1248,9 @@
 
 ## Lua 
 
+- [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (actively maintained version)
+- [ymic9963/mdnotes.nvim](https://github.com/ymic9963/mdnotes.nvim) - Simple, improved, and extensible Markdown note taking.
+- [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
 - [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) - Low latency typst preview for Neovim
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
@@ -1351,6 +1403,10 @@
 - [element-hq/compound](https://github.com/element-hq/compound) - Element's design system
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 
+## MLIR 
+
+- [google/heir](https://github.com/google/heir) - A compiler for homomorphic encryption
+
 ## Makefile 
 
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
@@ -1494,6 +1550,7 @@
 
 ## Nushell 
 
+- [WorldOfZero/homelab](https://github.com/WorldOfZero/homelab) - World of Zero Homelab Config
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 
 ## OCaml 
@@ -1677,6 +1734,11 @@
 
 ## Python 
 
+- [google/distributed_graph_flow](https://github.com/google/distributed_graph_flow) - A Python library to develop and deploy Graph Neural Network models.
+- [berylliumsec/nebula](https://github.com/berylliumsec/nebula) - AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis.
+- [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
+- [skylines-project/skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
+- [jyn514/pillar-of-autumn](https://github.com/jyn514/pillar-of-autumn) - Talk to a base model before it's been through post-training. Runs locally on your computer.
 - [yurug/agentic-loop-kit](https://github.com/yurug/agentic-loop-kit) - A spec-driven engineering loop for building reliable software with coding agents
 - [yurug/laconic-skill](https://github.com/yurug/laconic-skill) - Claude Code plugin: cuts noise from agent communication via an auditable model of what the user knows
 - [corticph/NeMo](https://github.com/corticph/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
@@ -2037,6 +2099,17 @@
 
 ## Rust 
 
+- [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
+- [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
+- [Canop/bacon](https://github.com/Canop/bacon) - background code checker
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
+- [chhoumann/replayproxy](https://github.com/chhoumann/replayproxy) - A proxy server for recording and replaying HTTP traffic
+- [uuid-rs/uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
+- [sval-rs/sval](https://github.com/sval-rs/sval) - A lightweight, no-std, object-safe, serialization-only framework for Rust
+- [6543/batmon](https://github.com/6543/batmon) - Interactive batteries viewer
+- [wayle-rs/wayle](https://github.com/wayle-rs/wayle) - Wayland Elements -  A compositor agnostic shell with extensive customization
+- [wayle-rs/wayle-services](https://github.com/wayle-rs/wayle-services) - Reactive system service crates for Linux.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) - Beautiful and reliable typst code formatter
 - [typst-community/tytanic](https://github.com/typst-community/tytanic) - A test runner for typst projects.
@@ -2446,6 +2519,10 @@
 
 ## Shell 
 
+- [jdoss/ppngx](https://github.com/jdoss/ppngx) - Podman + Paperless NGX
+- [rust-lang/std-dev-guide](https://github.com/rust-lang/std-dev-guide) - Guide for standard library developers
+- [OctopusET/sway-contrib](https://github.com/OctopusET/sway-contrib) - A collection of user-contributed scripts for sway
+- [willnorris/dotfiles](https://github.com/willnorris/dotfiles) - My personal ~/.dotfiles
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [paulbkim-dev/vim-herdr-navigation](https://github.com/paulbkim-dev/vim-herdr-navigation) - Seamless Ctrl+h/j/k/l navigation across herdr panes and Vim/Neovim splits — vim-tmux-navigator ported to herdr
 - [omacom/omarchy-pkgs](https://github.com/omacom/omarchy-pkgs) - 
@@ -2472,7 +2549,6 @@
 - [wireapp/wire-scripts](https://github.com/wireapp/wire-scripts) - 
 - [wireapp/wire-builds](https://github.com/wireapp/wire-builds) - This repo defines builds of Wire as sets of Wire's internal components.
 - [wireapp/wire-server-deploy](https://github.com/wireapp/wire-server-deploy) - Code to install/deploy wire-server (on kubernetes)
-- [digitalocean/doks-debug](https://github.com/digitalocean/doks-debug) - A Docker image with Kubernetes manifests for investigation and troubleshooting.
 - [rancherlabs/systems-info](https://github.com/rancherlabs/systems-info) - 
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [gwenwindflower/dotfiles](https://github.com/gwenwindflower/dotfiles) - 🌿🌺🌀🐚🌱🌸🌻 feel free to pick a fig from the config tree
@@ -2548,7 +2624,7 @@
 
 ## Swift 
 
-- [themartiano/try-omarchy](https://github.com/themartiano/try-omarchy) - Run Omarchy on MacOS without any setup.
+- [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
 - [cristinaponcela/HabitTracker](https://github.com/cristinaponcela/HabitTracker) - Application to track habits, monitor your work/life balance and be reminded to keep in contact with friends.
 - [JohnSundell/Plot](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML and RSS in Swift.
 - [Shopify/tophat](https://github.com/Shopify/tophat) - Easily install and test mobile applications with a single click.
@@ -2576,6 +2652,9 @@
 
 ## TypeScript 
 
+- [DefinedNet/nebula-docs](https://github.com/DefinedNet/nebula-docs) - Documentation for the Nebula open source project
+- [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
+- [fitchmultz/pi-codex-goal](https://github.com/fitchmultz/pi-codex-goal) - Codex-style goal tracking and continuation for pi.
 - [yurug/engineer-engineering-tools](https://github.com/yurug/engineer-engineering-tools) - backbrief, forebrief and inbrief — tools for steering agentic development — and the library they share.
 - [corticph/corti-examples](https://github.com/corticph/corti-examples) - 
 - [JoshuaThadi/Minimalist](https://github.com/JoshuaThadi/Minimalist) - Minimal frontend website built with modern web development practices. Focused on clean design, responsiveness, and simplicity.
@@ -2662,7 +2741,7 @@
 - [codennomad/analytics-saas](https://github.com/codennomad/analytics-saas) - Production-Grade Real-Time Analytics Platform | Multi-tenant SaaS with sub-200ms ingestion, ClickHouse OLAP, and enterprise-grade observability. Built with TypeScript, Fastify, Next.js, and Kubernetes
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
 - [TinyAGI/tinyagi](https://github.com/TinyAGI/tinyagi) - TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) - Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.

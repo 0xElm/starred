@@ -388,7 +388,7 @@
 - [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [ClickHouse/FastFormats](https://github.com/ClickHouse/FastFormats) - A benchmark for data formats
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
 - [getnao/nao](https://github.com/getnao/nao) - 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
 - [tweag/sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
@@ -406,6 +406,7 @@
 
 ## android 
 
+- [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [DefinedNet/mobile_nebula](https://github.com/DefinedNet/mobile_nebula) - Brings nebula to mobile devices (iOS, Android)
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
@@ -2789,6 +2790,7 @@
 
 ## material-design 
 
+- [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [khandelwal-arpit/springboot-starterkit](https://github.com/khandelwal-arpit/springboot-starterkit) - Starter Kit for Spring Boot based (REST APIs and WebMVC) micro services.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2866,7 +2868,7 @@
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [dqops/dqo](https://github.com/dqops/dqo) - Data Quality and Observability platform for the whole data lifecycle, from profiling new data sources to full automation with Data Observability. Configure data quality checks from the UI or in YAML f
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
 - [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
@@ -3197,6 +3199,23 @@
 
 ## others 
 
+- [ThePrimeagen/reactivesocket](https://github.com/ThePrimeagen/reactivesocket) - ReactiveSocket Protocol Definition
+- [ThePrimeagen/flatbuffers](https://github.com/ThePrimeagen/flatbuffers) - Memory Efficient Serialization Library
+- [ThePrimeagen/uhh](https://github.com/ThePrimeagen/uhh) - When you keep forgetting those sweet sweet sweet sweet commands.
+- [ThePrimeagen/contextprint.nvim](https://github.com/ThePrimeagen/contextprint.nvim) - neovim plugin to add context aware print debug statements
+- [ThePrimeagen/rfc-reader](https://github.com/ThePrimeagen/rfc-reader) - 
+- [ThePrimeagen/neovim-irc](https://github.com/ThePrimeagen/neovim-irc) - 
+- [ThePrimeagen/neovim-irc-ui](https://github.com/ThePrimeagen/neovim-irc-ui) - 
+- [ThePrimeagen/plenary.nvim](https://github.com/ThePrimeagen/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
+- [ThePrimeagen/crypto-legends](https://github.com/ThePrimeagen/crypto-legends) - Like Apex Legends.  Just more, better, faster, and less recoil
+- [ThePrimeagen/how-to-exit-vim](https://github.com/ThePrimeagen/how-to-exit-vim) - Below are some simple methods for exiting vim.
+- [ThePrimeagen/vim-fundamentals](https://github.com/ThePrimeagen/vim-fundamentals) - 
+- [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) - 
+- [ThePrimeagen/cockpit](https://github.com/ThePrimeagen/cockpit) - 
+- [ThePrimeagen/daydream](https://github.com/ThePrimeagen/daydream) - 
+- [ThePrimeagen/skills](https://github.com/ThePrimeagen/skills) - 
+- [ThePrimeagen/morris-worm-malware](https://github.com/ThePrimeagen/morris-worm-malware) - The Morris worm, or Great Internet Worm, was one of the first computer worms distributed via the Internet
+- [ThePrimeagen/Apollo-11](https://github.com/ThePrimeagen/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) - An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months bet
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
 - [nanovms/unikernel-design-patterns](https://github.com/nanovms/unikernel-design-patterns) - A collection of unikernel design patterns for use with the Nanos/Ops unikernel toolchain.
@@ -5837,6 +5856,7 @@
 
 ## video 
 
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [PsychoinformaticsLab/pliers](https://github.com/PsychoinformaticsLab/pliers) - Automated feature extraction in Python
 - [Orva-Studio/hance](https://github.com/Orva-Studio/hance) - Film-grade your footage from the command line - built for humans and agents.

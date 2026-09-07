@@ -1017,6 +1017,7 @@
 
 ## csharp 
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon) - Tachyon, IPC/RPC primitive.
 
 ## css 
@@ -1450,6 +1451,7 @@
 
 ## dotnet 
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [swiss/fch-sparql](https://github.com/swiss/fch-sparql) - Library providing abstractions for Sparql queries on RDF based triplestores.
 - [swiss/fch-monitoring](https://github.com/swiss/fch-monitoring) - dotnet library for FOITT compatible health checks
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
@@ -1462,7 +1464,6 @@
 ## electron 
 
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [liamcottle/reticulum-meshchat](https://github.com/liamcottle/reticulum-meshchat) - A simple mesh network communications app powered by the Reticulum Network Stack.
 
@@ -1956,6 +1957,8 @@
 
 ## hacktoberfest 
 
+- [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - The Free Software Media System - Official Web Client
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -3199,6 +3202,8 @@
 
 ## others 
 
+- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
+- [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer
 - [ThePrimeagen/reactivesocket](https://github.com/ThePrimeagen/reactivesocket) - ReactiveSocket Protocol Definition
 - [ThePrimeagen/flatbuffers](https://github.com/ThePrimeagen/flatbuffers) - Memory Efficient Serialization Library
 - [ThePrimeagen/uhh](https://github.com/ThePrimeagen/uhh) - When you keep forgetting those sweet sweet sweet sweet commands.
@@ -5932,6 +5937,7 @@
 
 ## vue 
 
+- [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -5946,6 +5952,7 @@
 
 ## vuejs 
 
+- [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 
 ## web 

@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [Astro](#astro)
 - [Awk](#awk)
 - [C](#c)
@@ -78,6 +79,10 @@
 - [Zig](#zig)
 - [reStructuredText](#restructuredtext)
 
+## Assembly 
+
+- [briar-systems/mach](https://github.com/briar-systems/mach) - A systems programming language with no hidden behavior.
+
 ## Astro 
 
 - [terminaldotshop/the-standup](https://github.com/terminaldotshop/the-standup) - website for the standup
@@ -89,6 +94,9 @@
 
 ## C 
 
+- [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer
+- [ThePrimeagen/neovim-irc](https://github.com/ThePrimeagen/neovim-irc) - 
+- [ThePrimeagen/morris-worm-malware](https://github.com/ThePrimeagen/morris-worm-malware) - The Morris worm, or Great Internet Worm, was one of the first computer worms distributed via the Internet
 - [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) - An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months bet
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
@@ -126,7 +134,6 @@
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [kube-vip/kube-gateway](https://github.com/kube-vip/kube-gateway) - A transparent proxy for Kubernetes pods
 - [digitalocean/prometheus-client-c](https://github.com/digitalocean/prometheus-client-c) - A Prometheus Client in C
-- [briar-systems/mach](https://github.com/briar-systems/mach) - A systems programming language with no hidden behavior.
 - [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
@@ -220,6 +227,7 @@
 
 ## C++ 
 
+- [ThePrimeagen/flatbuffers](https://github.com/ThePrimeagen/flatbuffers) - Memory Efficient Serialization Library
 - [omacom/quickshell](https://github.com/omacom/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [omacom/omawrite](https://github.com/omacom/omawrite) - The essence of writing
 - [google/fuzztest](https://github.com/google/fuzztest) - 
@@ -354,6 +362,10 @@
 
 ## Go 
 
+- [ThePrimeagen/uhh](https://github.com/ThePrimeagen/uhh) - When you keep forgetting those sweet sweet sweet sweet commands.
+- [ThePrimeagen/crypto-legends](https://github.com/ThePrimeagen/crypto-legends) - Like Apex Legends.  Just more, better, faster, and less recoil
+- [ThePrimeagen/daydream](https://github.com/ThePrimeagen/daydream) - 
+- [ThePrimeagen/Apollo-11](https://github.com/ThePrimeagen/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [nanovms/unikernel-design-patterns](https://github.com/nanovms/unikernel-design-patterns) - A collection of unikernel design patterns for use with the Nanos/Ops unikernel toolchain.
 - [nanovms/fc-ex](https://github.com/nanovms/fc-ex) - Build Your own Unikernel Firecracker PAAS on NanoVMs Inception
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
@@ -1090,6 +1102,7 @@
 
 ## JavaScript 
 
+- [ThePrimeagen/vim-fundamentals](https://github.com/ThePrimeagen/vim-fundamentals) - 
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
@@ -1216,6 +1229,8 @@
 
 ## Kotlin 
 
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
+- [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
 - [matrix-org/matrix-analytics-events](https://github.com/matrix-org/matrix-analytics-events) - Cross-platform definitions of analytics events raised by matrix SDKs
@@ -1248,6 +1263,12 @@
 
 ## Lua 
 
+- [ThePrimeagen/contextprint.nvim](https://github.com/ThePrimeagen/contextprint.nvim) - neovim plugin to add context aware print debug statements
+- [ThePrimeagen/rfc-reader](https://github.com/ThePrimeagen/rfc-reader) - 
+- [ThePrimeagen/neovim-irc-ui](https://github.com/ThePrimeagen/neovim-irc-ui) - 
+- [ThePrimeagen/plenary.nvim](https://github.com/ThePrimeagen/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
+- [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) - 
+- [ThePrimeagen/cockpit](https://github.com/ThePrimeagen/cockpit) - 
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (actively maintained version)
 - [ymic9963/mdnotes.nvim](https://github.com/ymic9963/mdnotes.nvim) - Simple, improved, and extensible Markdown note taking.
 - [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
@@ -1581,6 +1602,8 @@
 
 ## Others 
 
+- [ThePrimeagen/reactivesocket](https://github.com/ThePrimeagen/reactivesocket) - ReactiveSocket Protocol Definition
+- [ThePrimeagen/how-to-exit-vim](https://github.com/ThePrimeagen/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
@@ -2099,6 +2122,7 @@
 
 ## Rust 
 
+- [ThePrimeagen/skills](https://github.com/ThePrimeagen/skills) - 
 - [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
@@ -2756,7 +2780,7 @@
 - [DataRecce/recce](https://github.com/DataRecce/recce) - The data-validation toolkit for enhanced dbt (data build tool) PR review
 - [beatrix-ha/beatrix](https://github.com/beatrix-ha/beatrix) - what if claude ran your house
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data

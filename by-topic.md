@@ -1521,7 +1521,7 @@
 
 - [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [hledgerorg/hledger](https://github.com/hledgerorg/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 
 ## firebase 
 
@@ -1645,6 +1645,7 @@
 
 ## go 
 
+- [digitorus/timestamp](https://github.com/digitorus/timestamp) - Time-Stamp Protocol (TSP) implementation for Go as specified in RFC3161
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [creachadair/taskgroup](https://github.com/creachadair/taskgroup) - A Go package for managing a group of collaborating goroutines.
@@ -1776,6 +1777,7 @@
 
 ## golang 
 
+- [digitorus/timestamp](https://github.com/digitorus/timestamp) - Time-Stamp Protocol (TSP) implementation for Go as specified in RFC3161
 - [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc) - A Mock OIDC Server for Unit & Integration Tests
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -2125,7 +2127,7 @@
 - [tweag/sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark.
 - [tweag/pup](https://github.com/tweag/pup) - Bidirectional grammar combinators
 - [IntersectMBO/ouroboros-network](https://github.com/IntersectMBO/ouroboros-network) - Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
-- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [hledgerorg/hledger](https://github.com/hledgerorg/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [hadolint/language-docker](https://github.com/hadolint/language-docker) - Haskell Dockerfile parser, pretty-printer and EDSL
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
@@ -3202,6 +3204,27 @@
 
 ## others 
 
+- [mfussenegger/paperstore](https://github.com/mfussenegger/paperstore) - python script to scan documents and search them later using a fulltext index
+- [baverman/flameprof](https://github.com/baverman/flameprof) - Flamegraph generator for cProfile stats
+- [YS-L/flamelens](https://github.com/YS-L/flamelens) - Flamegraph viewer in the terminal
+- [alsa-project/alsa-tools](https://github.com/alsa-project/alsa-tools) - The Advanced Linux Sound Architecture (ALSA) - tools
+- [FrameworkComputer/alsa-tools](https://github.com/FrameworkComputer/alsa-tools) - The Advanced Linux Sound Architecture (ALSA) - tools
+- [FrameworkComputer/UEFI-Shell](https://github.com/FrameworkComputer/UEFI-Shell) - Fork of https://github.com/pbatard/UEFI-Shell
+- [FrameworkComputer/guid-create](https://github.com/FrameworkComputer/guid-create) - Rust helper for randomly creating GUIDs
+- [FrameworkComputer/uefi-rs](https://github.com/FrameworkComputer/uefi-rs) - Fork of https://github.com/rust-osdev/uefi-rs
+- [FrameworkComputer/paper_trail-background.rb](https://github.com/FrameworkComputer/paper_trail-background.rb) - Enqueue PaperTrail versioning to a background job
+- [FrameworkComputer/snapd](https://github.com/FrameworkComputer/snapd) - The snapd and snap tools enable systems to work with .snap files.
+- [FrameworkComputer/framework-tool-tui](https://github.com/FrameworkComputer/framework-tool-tui) - TUI for controlling and monitoring Framework Computers hardware built in Rust
+- [FrameworkComputer/s-tui](https://github.com/FrameworkComputer/s-tui) - Terminal-based CPU stress and monitoring utility
+- [FrameworkComputer/fwupd](https://github.com/FrameworkComputer/fwupd) - A system daemon to allow session software to update firmware
+- [FrameworkComputer/Framework-Wireless-Touchpad-Keyboard](https://github.com/FrameworkComputer/Framework-Wireless-Touchpad-Keyboard) - Documentation for the Framework Wireless Touchpad Keyboard
+- [FrameworkComputer/coreboot](https://github.com/FrameworkComputer/coreboot) - Fork of https://github.com/coreboot/coreboot with public pull requests for upstream contributions by Framework Computer
+- [FrameworkComputer/nixos-hardware](https://github.com/FrameworkComputer/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
+- [FrameworkComputer/linux-docs](https://github.com/FrameworkComputer/linux-docs) - Linux Markdown Guides
+- [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
+- [digitorus/eramba](https://github.com/digitorus/eramba) - Dockerized Eramba, Open Source Governance, Risk & Compliance (GRC) system https://hub.docker.com/r/digitorus/er…
+- [pkic/pkimm](https://github.com/pkic/pkimm) - PKI Maturity Model
+- [pkic/pqccm](https://github.com/pkic/pqccm) - PQC Capabilities Matrix (PQCCM)
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer
 - [ThePrimeagen/reactivesocket](https://github.com/ThePrimeagen/reactivesocket) - ReactiveSocket Protocol Definition
@@ -5073,6 +5096,7 @@
 
 ## rust 
 
+- [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionalit
 - [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
@@ -5773,7 +5797,7 @@
 - [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui) - A curated list of awesome opentui resources
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
-- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [hledgerorg/hledger](https://github.com/hledgerorg/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 
 ## twitter 
@@ -6002,6 +6026,7 @@
 
 ## website 
 
+- [pkic/pkic.org](https://github.com/pkic/pkic.org) - Source of the pkic.org website
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [cinnyapp/cinny-site](https://github.com/cinnyapp/cinny-site) - 

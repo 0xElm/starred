@@ -8,6 +8,7 @@
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Awk](#awk)
+- [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -91,6 +92,10 @@
 ## Awk 
 
 - [bell-tower/zelta](https://github.com/bell-tower/zelta) - ZFS tools used for data migration and backup management
+
+## Bikeshed 
+
+- [w3c/webauthn](https://github.com/w3c/webauthn) - Web Authentication: An API for accessing Public Key Credentials
 
 ## C 
 
@@ -363,6 +368,7 @@
 
 ## Go 
 
+- [digitorus/timestamp](https://github.com/digitorus/timestamp) - Time-Stamp Protocol (TSP) implementation for Go as specified in RFC3161
 - [ThePrimeagen/uhh](https://github.com/ThePrimeagen/uhh) - When you keep forgetting those sweet sweet sweet sweet commands.
 - [ThePrimeagen/crypto-legends](https://github.com/ThePrimeagen/crypto-legends) - Like Apex Legends.  Just more, better, faster, and less recoil
 - [ThePrimeagen/daydream](https://github.com/ThePrimeagen/daydream) - 
@@ -995,7 +1001,6 @@
 - [elementary-data/elementary](https://github.com/elementary-data/elementary) - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
 - [selimacerbas/markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim) - Live Markdown preview for Neovim with Mermaid diagrams, LaTeX math (KaTeX), scroll sync, and syntax highlighting. Pure Lua, zero npm dependencies.
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
-- [w3c/webauthn](https://github.com/w3c/webauthn) - Web Authentication: An API for accessing Public Key Credentials
 - [tweag/haddock](https://github.com/tweag/haddock) - Haskell Documentation Tool
 - [CycloneDX/cyclonedx-web-tool](https://github.com/CycloneDX/cyclonedx-web-tool) - A web based tool for working with CycloneDX BOMs
 - [percona/postgresql-docs](https://github.com/percona/postgresql-docs) - Percona Distribution for PostgreSQL
@@ -1226,7 +1231,7 @@
 - [rbroc/simcat](https://github.com/rbroc/simcat) - A Python package to simulate multi-agent cognitive association tasks 🤖 🧠 👥
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [DataTreehouse/maplib-masterclass](https://github.com/DataTreehouse/maplib-masterclass) - A comprehensive guide to maplib.
-- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [metainternal/llama-cookbook](https://github.com/metainternal/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 
 ## Kotlin 
 
@@ -1280,7 +1285,6 @@
 - [nvim-mini/mini.files](https://github.com/nvim-mini/mini.files) - Navigate and manipulate file system. Part of 'mini.nvim' library.
 - [nvim-mini/mini.diff](https://github.com/nvim-mini/mini.diff) - Work with diff hunks. Part of 'mini.nvim' library.
 - [omacom/lumon.nvim](https://github.com/omacom/lumon.nvim) - Lumon Industries Neovim Theme
-- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
 - [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
 - [catwell/cw-lua](https://github.com/catwell/cw-lua) - Catwell's Lua playground
@@ -1603,6 +1607,7 @@
 
 ## Others 
 
+- [pkic/pqccm](https://github.com/pkic/pqccm) - PQC Capabilities Matrix (PQCCM)
 - [ThePrimeagen/reactivesocket](https://github.com/ThePrimeagen/reactivesocket) - ReactiveSocket Protocol Definition
 - [ThePrimeagen/how-to-exit-vim](https://github.com/ThePrimeagen/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
@@ -1757,6 +1762,7 @@
 
 ## Python 
 
+- [pkic/pkimm](https://github.com/pkic/pkimm) - PKI Maturity Model
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
 - [google/distributed_graph_flow](https://github.com/google/distributed_graph_flow) - A Python library to develop and deploy Graph Neural Network models.
 - [berylliumsec/nebula](https://github.com/berylliumsec/nebula) - AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis.
@@ -2556,6 +2562,7 @@
 - [mryll/claudebar](https://github.com/mryll/claudebar) - Claude Code usage limits for Waybar and the Omarchy shell. Session, weekly, per-model, and extra-usage costs. Bash, AUR.
 - [omacom/omarchy-iso](https://github.com/omacom/omarchy-iso) - 
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
 - [cristinaponcela/cristinaponcela.github.io](https://github.com/cristinaponcela/cristinaponcela.github.io) - My Personal Website
 - [herdrdev/herdr-nix](https://github.com/herdrdev/herdr-nix) - Pushes herdr releases to cachix
@@ -2679,6 +2686,7 @@
 
 ## TypeScript 
 
+- [pkic/pkic.org](https://github.com/pkic/pkic.org) - Source of the pkic.org website
 - [DefinedNet/nebula-docs](https://github.com/DefinedNet/nebula-docs) - Documentation for the Nebula open source project
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [fitchmultz/pi-codex-goal](https://github.com/fitchmultz/pi-codex-goal) - Codex-style goal tracking and continuation for pi.
@@ -2946,7 +2954,7 @@
 - [manjavacas/typslides](https://github.com/manjavacas/typslides) - Minimalistic Typst slides.
 - [ansgarlichter/light-cv](https://github.com/ansgarlichter/light-cv) - CV template written in typst.
 - [npujol/chuli-cv](https://github.com/npujol/chuli-cv) - These are my CV and cover letter templates written in Typst.
-- [loicfontaine/vivid-cv](https://github.com/loicfontaine/vivid-cv) - A typst CV template
+- [loicfontaine/vivid-cv](https://github.com/loicfontaine/vivid-cv) - A colorful, modern and ATS-friendly resume template written in Typst based on basic-resume
 - [yunanwg/brilliant-CV](https://github.com/yunanwg/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
 - [cetz-package/cetz-plot](https://github.com/cetz-package/cetz-plot) - Create Plots and Charts with CeTZ
 - [edgaremy/neural-netz](https://github.com/edgaremy/neural-netz) - A Typst package for visualizing Neural Network Architectures with high-quality diagrams.

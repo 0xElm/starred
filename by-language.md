@@ -99,6 +99,10 @@
 
 ## C 
 
+- [alsa-project/alsa-tools](https://github.com/alsa-project/alsa-tools) - The Advanced Linux Sound Architecture (ALSA) - tools
+- [FrameworkComputer/alsa-tools](https://github.com/FrameworkComputer/alsa-tools) - The Advanced Linux Sound Architecture (ALSA) - tools
+- [FrameworkComputer/fwupd](https://github.com/FrameworkComputer/fwupd) - A system daemon to allow session software to update firmware
+- [FrameworkComputer/coreboot](https://github.com/FrameworkComputer/coreboot) - Fork of https://github.com/coreboot/coreboot with public pull requests for upstream contributions by Framework Computer
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer
 - [ThePrimeagen/neovim-irc](https://github.com/ThePrimeagen/neovim-irc) - 
 - [ThePrimeagen/morris-worm-malware](https://github.com/ThePrimeagen/morris-worm-malware) - The Morris worm, or Great Internet Worm, was one of the first computer worms distributed via the Internet
@@ -296,6 +300,7 @@
 
 ## CSS 
 
+- [DefinedNet/nebula-docs](https://github.com/DefinedNet/nebula-docs) - Documentation for the Nebula open source project
 - [swiss/oss-catalog](https://github.com/swiss/oss-catalog) - Open Source Software Catalog
 - [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) - A pastebin for Tailscale users
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
@@ -368,6 +373,7 @@
 
 ## Go 
 
+- [FrameworkComputer/snapd](https://github.com/FrameworkComputer/snapd) - The snapd and snap tools enable systems to work with .snap files.
 - [digitorus/timestamp](https://github.com/digitorus/timestamp) - Time-Stamp Protocol (TSP) implementation for Go as specified in RFC3161
 - [ThePrimeagen/uhh](https://github.com/ThePrimeagen/uhh) - When you keep forgetting those sweet sweet sweet sweet commands.
 - [ThePrimeagen/crypto-legends](https://github.com/ThePrimeagen/crypto-legends) - Like Apex Legends.  Just more, better, faster, and less recoil
@@ -417,7 +423,7 @@
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [omacom/aether](https://github.com/omacom/aether) - Aether, native Omarchy theming made easy.
 - [google/taxinomia](https://github.com/google/taxinomia) - 
-- [google/sam](https://github.com/google/sam) - SAM Sovereign Agent Mesh
+- [google/sam](https://github.com/google/sam) - SAM
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [satococoa/wtp](https://github.com/satococoa/wtp) - 🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation
 - [msgpack/msgpack-go](https://github.com/msgpack/msgpack-go) - 
@@ -1044,7 +1050,7 @@
 - [tweag/funflow](https://github.com/tweag/funflow) - Functional workflows
 - [tweag/timestats](https://github.com/tweag/timestats) - A library to profile time in a Haskell program
 - [tweag/sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark.
-- [tweag/pup](https://github.com/tweag/pup) - Bidirectional grammar combinators
+- [aspiwack/pup](https://github.com/aspiwack/pup) - Bidirectional grammar combinators
 - [IntersectMBO/ouroboros-network](https://github.com/IntersectMBO/ouroboros-network) - Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
 - [tweag/webauthn](https://github.com/tweag/webauthn) - A library for parsing and validating webauthn/fido2 credentials
 - [tweag/foliage](https://github.com/tweag/foliage) - 🌿 Foliage is a tool to create custom Haskell package repositories, in a fully reproducible way.
@@ -1053,7 +1059,7 @@
 - [jeffwheeler/Recipes](https://github.com/jeffwheeler/Recipes) - Parse and play with recipes written in a simple DSL, using Haskell
 - [jeffwheeler/hsparql](https://github.com/jeffwheeler/hsparql) - hsparql includes a DSL to easily create queries, as well as methods to submit those queries to a SPARQL server, returning the results as simple Haskell data structures.
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
-- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [hledgerorg/hledger](https://github.com/hledgerorg/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [hadolint/language-docker](https://github.com/hadolint/language-docker) - Haskell Dockerfile parser, pretty-printer and EDSL
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
@@ -1466,6 +1472,7 @@
 
 ## Nix 
 
+- [FrameworkComputer/nixos-hardware](https://github.com/FrameworkComputer/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
 - [RossSmyth/press](https://github.com/RossSmyth/press) - Typst document building in nix
 - [loqusion/typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
@@ -1607,6 +1614,8 @@
 
 ## Others 
 
+- [FrameworkComputer/UEFI-Shell](https://github.com/FrameworkComputer/UEFI-Shell) - Fork of https://github.com/pbatard/UEFI-Shell
+- [FrameworkComputer/Framework-Wireless-Touchpad-Keyboard](https://github.com/FrameworkComputer/Framework-Wireless-Touchpad-Keyboard) - Documentation for the Framework Wireless Touchpad Keyboard
 - [pkic/pqccm](https://github.com/pkic/pqccm) - PQC Capabilities Matrix (PQCCM)
 - [ThePrimeagen/reactivesocket](https://github.com/ThePrimeagen/reactivesocket) - ReactiveSocket Protocol Definition
 - [ThePrimeagen/how-to-exit-vim](https://github.com/ThePrimeagen/how-to-exit-vim) - Below are some simple methods for exiting vim.
@@ -1728,7 +1737,6 @@
 
 ## PLpgSQL 
 
-- [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 - [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite
 - [sivers/srs](https://github.com/sivers/srs) - Spaced Repetition in PostgreSQL functions
 - [hettie-d/pg_acm](https://github.com/hettie-d/pg_acm) - PostgreSQL access control management
@@ -1762,8 +1770,12 @@
 
 ## Python 
 
+- [mfussenegger/paperstore](https://github.com/mfussenegger/paperstore) - python script to scan documents and search them later using a fulltext index
+- [baverman/flameprof](https://github.com/baverman/flameprof) - Flamegraph generator for cProfile stats
+- [FrameworkComputer/s-tui](https://github.com/FrameworkComputer/s-tui) - Terminal-based CPU stress and monitoring utility
+- [FrameworkComputer/linux-docs](https://github.com/FrameworkComputer/linux-docs) - Linux Markdown Guides
 - [pkic/pkimm](https://github.com/pkic/pkimm) - PKI Maturity Model
-- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
+- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV-Based Jellyfin Client with Offline Sync
 - [google/distributed_graph_flow](https://github.com/google/distributed_graph_flow) - A Python library to develop and deploy Graph Neural Network models.
 - [berylliumsec/nebula](https://github.com/berylliumsec/nebula) - AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis.
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
@@ -2079,6 +2091,7 @@
 
 ## Ruby 
 
+- [FrameworkComputer/paper_trail-background.rb](https://github.com/FrameworkComputer/paper_trail-background.rb) - Enqueue PaperTrail versioning to a background job
 - [omacom/omarchy-plugin-registry](https://github.com/omacom/omarchy-plugin-registry) - 
 - [sspaeti/once-campfire](https://github.com/sspaeti/once-campfire) - self-hosting chat, trying.
 - [digitalocean/sample-rails](https://github.com/digitalocean/sample-rails) - ⛵ App Platform sample Ruby on Rails application.
@@ -2131,6 +2144,12 @@
 
 ## Rust 
 
+- [YS-L/flamelens](https://github.com/YS-L/flamelens) - Flamegraph viewer in the terminal
+- [FrameworkComputer/guid-create](https://github.com/FrameworkComputer/guid-create) - Rust helper for randomly creating GUIDs
+- [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionalit
+- [FrameworkComputer/uefi-rs](https://github.com/FrameworkComputer/uefi-rs) - Fork of https://github.com/rust-osdev/uefi-rs
+- [FrameworkComputer/framework-tool-tui](https://github.com/FrameworkComputer/framework-tool-tui) - TUI for controlling and monitoring Framework Computers hardware built in Rust
+- [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [ThePrimeagen/skills](https://github.com/ThePrimeagen/skills) - 
 - [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
@@ -2181,6 +2200,7 @@
 - [hopey-dishwasher/termpix](https://github.com/hopey-dishwasher/termpix) - Display images in an ANSI terminal
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [layus/nixception](https://github.com/layus/nixception) - NativeLink-based REAPI server that turns remote build actions into Nix derivations (Apache-2.0 release line)
+- [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 - [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider.
 - [fearful-symmetry/beatperf](https://github.com/fearful-symmetry/beatperf) - Metrics monitor/graphing utility for elastic beats
 - [matrix-org/seshat](https://github.com/matrix-org/seshat) - A Matrix message database/indexer
@@ -2552,6 +2572,7 @@
 
 ## Shell 
 
+- [digitorus/eramba](https://github.com/digitorus/eramba) - Dockerized Eramba, Open Source Governance, Risk & Compliance (GRC) system https://hub.docker.com/r/digitorus/er…
 - [jdoss/ppngx](https://github.com/jdoss/ppngx) - Podman + Paperless NGX
 - [rust-lang/std-dev-guide](https://github.com/rust-lang/std-dev-guide) - Guide for standard library developers
 - [OctopusET/sway-contrib](https://github.com/OctopusET/sway-contrib) - A collection of user-contributed scripts for sway
@@ -2687,7 +2708,6 @@
 ## TypeScript 
 
 - [pkic/pkic.org](https://github.com/pkic/pkic.org) - Source of the pkic.org website
-- [DefinedNet/nebula-docs](https://github.com/DefinedNet/nebula-docs) - Documentation for the Nebula open source project
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [fitchmultz/pi-codex-goal](https://github.com/fitchmultz/pi-codex-goal) - Codex-style goal tracking and continuation for pi.
 - [yurug/engineer-engineering-tools](https://github.com/yurug/engineer-engineering-tools) - backbrief, forebrief and inbrief — tools for steering agentic development — and the library they share.

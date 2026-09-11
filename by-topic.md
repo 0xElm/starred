@@ -1121,6 +1121,7 @@
 
 ## database 
 
+- [sirupsen/airrecord](https://github.com/sirupsen/airrecord) - Ruby wrapper for Airtable, your personal database
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [supabase/postgres-meta](https://github.com/supabase/postgres-meta) - A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
@@ -2125,7 +2126,7 @@
 - [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell
 - [dmjio/envy](https://github.com/dmjio/envy) - :angry: Environmentally friendly environment variables
 - [tweag/sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark.
-- [tweag/pup](https://github.com/tweag/pup) - Bidirectional grammar combinators
+- [aspiwack/pup](https://github.com/aspiwack/pup) - Bidirectional grammar combinators
 - [IntersectMBO/ouroboros-network](https://github.com/IntersectMBO/ouroboros-network) - Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
 - [hledgerorg/hledger](https://github.com/hledgerorg/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [hadolint/language-docker](https://github.com/hadolint/language-docker) - Haskell Dockerfile parser, pretty-printer and EDSL
@@ -2804,7 +2805,7 @@
 
 - [tailscale/tsidp](https://github.com/tailscale/tsidp) - A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
-- [google/sam](https://github.com/google/sam) - SAM Sovereign Agent Mesh
+- [google/sam](https://github.com/google/sam) - SAM
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
@@ -3204,6 +3205,8 @@
 
 ## others 
 
+- [brk0v/trixter](https://github.com/brk0v/trixter) - Trixter Proxy + tokio-netem: chaos engineering tools for Rust networking
+- [brk0v/cgtouch](https://github.com/brk0v/cgtouch) - vmtouch like util to show per cgroup per file Page Cache stats.
 - [mfussenegger/paperstore](https://github.com/mfussenegger/paperstore) - python script to scan documents and search them later using a fulltext index
 - [baverman/flameprof](https://github.com/baverman/flameprof) - Flamegraph generator for cProfile stats
 - [YS-L/flamelens](https://github.com/YS-L/flamelens) - Flamegraph viewer in the terminal
@@ -3225,7 +3228,7 @@
 - [digitorus/eramba](https://github.com/digitorus/eramba) - Dockerized Eramba, Open Source Governance, Risk & Compliance (GRC) system https://hub.docker.com/r/digitorus/er…
 - [pkic/pkimm](https://github.com/pkic/pkimm) - PKI Maturity Model
 - [pkic/pqccm](https://github.com/pkic/pqccm) - PQC Capabilities Matrix (PQCCM)
-- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
+- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV-Based Jellyfin Client with Offline Sync
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer
 - [ThePrimeagen/reactivesocket](https://github.com/ThePrimeagen/reactivesocket) - ReactiveSocket Protocol Definition
 - [ThePrimeagen/flatbuffers](https://github.com/ThePrimeagen/flatbuffers) - Memory Efficient Serialization Library
@@ -4301,7 +4304,7 @@
 - [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push) - Release your Nix flake to FlakeHub.com.
 - [DeterminateSystems/flakehub-mirror](https://github.com/DeterminateSystems/flakehub-mirror) - 
 - [DeterminateSystems/ui](https://github.com/DeterminateSystems/ui) - Determinate Systems' design system
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh,@srid]
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [DeterminateSystems/zpool-auto-expand-partitions](https://github.com/DeterminateSystems/zpool-auto-expand-partitions) - 
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
@@ -4328,7 +4331,7 @@
 - [alyraffauf/hoenn](https://github.com/alyraffauf/hoenn) - Multi-host NixOS, Darwin, and system-manager configurations with Nix.
 - [FylerOrg/fyler.nvim](https://github.com/FylerOrg/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
 - [Dasharo/open-source-firmware-validation](https://github.com/Dasharo/open-source-firmware-validation) - OSFV infrastructure with automated tests and scripts for managing test results
-- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Go With Your Own Intelligence! Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stablediffusion.cpp directl
+- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Go With Your Own Intelligence! Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stable-diffusion.cpp directly integrated into your Go applications. Kronk provides a hig
 - [envoyproxy/nighthawk](https://github.com/envoyproxy/nighthawk) - L7 (HTTP/HTTPS/HTTP2/HTTP3) performance characterization tool
 - [envoyproxy/envoy-perf](https://github.com/envoyproxy/envoy-perf) - Envoy performance testing
 - [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
@@ -5075,6 +5078,7 @@
 
 ## ruby 
 
+- [sirupsen/airrecord](https://github.com/sirupsen/airrecord) - Ruby wrapper for Airtable, your personal database
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [thoughtbot/factory_bot](https://github.com/thoughtbot/factory_bot) - A library for setting up Ruby objects as test data.

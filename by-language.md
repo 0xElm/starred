@@ -354,7 +354,7 @@
 ## Elixir 
 
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [the-nix-way/nix-flake-dev-environments](https://github.com/the-nix-way/nix-flake-dev-environments) - Nix flake examples for real-world development environments [maintainer=@lucperkins]
 
 ## Elm 
@@ -373,6 +373,7 @@
 
 ## Go 
 
+- [brk0v/cgtouch](https://github.com/brk0v/cgtouch) - vmtouch like util to show per cgroup per file Page Cache stats.
 - [FrameworkComputer/snapd](https://github.com/FrameworkComputer/snapd) - The snapd and snap tools enable systems to work with .snap files.
 - [digitorus/timestamp](https://github.com/digitorus/timestamp) - Time-Stamp Protocol (TSP) implementation for Go as specified in RFC3161
 - [ThePrimeagen/uhh](https://github.com/ThePrimeagen/uhh) - When you keep forgetting those sweet sweet sweet sweet commands.
@@ -830,7 +831,7 @@
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [NikolaLohinski/gonja](https://github.com/NikolaLohinski/gonja) - ⛩️ Pure Golang engine for Jinja templates
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
-- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Go With Your Own Intelligence! Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stablediffusion.cpp directl
+- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Go With Your Own Intelligence! Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stable-diffusion.cpp directly integrated into your Go applications. Kronk provides a hig
 - [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
@@ -1146,6 +1147,7 @@
 - [OpenRouterTeam/awesome-openrouter](https://github.com/OpenRouterTeam/awesome-openrouter) - Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [proginosko/LeechBlockNG](https://github.com/proginosko/LeechBlockNG) - LeechBlock NG (Next Generation) for Firefox is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
@@ -1159,7 +1161,6 @@
 - [signalapp/better-sqlite3](https://github.com/signalapp/better-sqlite3) - 
 - [moxie0/Convergence](https://github.com/moxie0/Convergence) - An agile, distributed, and secure alternative to the Certificate Authority system.
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [tmcw/big](https://github.com/tmcw/big) - presentations for busy messy hackers
 - [ashlinchak/mdanki](https://github.com/ashlinchak/mdanki) - Markdown to Anki converter
@@ -1536,7 +1537,7 @@
 - [DeterminateSystems/flake-templates](https://github.com/DeterminateSystems/flake-templates) - Flake templates for Determinate Nix
 - [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [kashw2/bitbucket-runner-nix](https://github.com/kashw2/bitbucket-runner-nix) - A flake for deploying Bitbucket Runners on NixOS
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh,@srid]
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [alyraffauf/hoenn](https://github.com/alyraffauf/hoenn) - Multi-host NixOS, Darwin, and system-manager configurations with Nix.
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
@@ -1910,7 +1911,6 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [SQLMesh/sqlmesh](https://github.com/SQLMesh/sqlmesh) - Scalable and efficient data transformation framework - backwards compatible with dbt.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [meshcore-dev/meshcore-cli](https://github.com/meshcore-dev/meshcore-cli) - Command line interface to MeshCore node
@@ -2091,6 +2091,7 @@
 
 ## Ruby 
 
+- [sirupsen/airrecord](https://github.com/sirupsen/airrecord) - Ruby wrapper for Airtable, your personal database
 - [FrameworkComputer/paper_trail-background.rb](https://github.com/FrameworkComputer/paper_trail-background.rb) - Enqueue PaperTrail versioning to a background job
 - [omacom/omarchy-plugin-registry](https://github.com/omacom/omarchy-plugin-registry) - 
 - [sspaeti/once-campfire](https://github.com/sspaeti/once-campfire) - self-hosting chat, trying.
@@ -2144,6 +2145,7 @@
 
 ## Rust 
 
+- [brk0v/trixter](https://github.com/brk0v/trixter) - Trixter Proxy + tokio-netem: chaos engineering tools for Rust networking
 - [YS-L/flamelens](https://github.com/YS-L/flamelens) - Flamegraph viewer in the terminal
 - [FrameworkComputer/guid-create](https://github.com/FrameworkComputer/guid-create) - Rust helper for randomly creating GUIDs
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionalit
@@ -2829,6 +2831,7 @@
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian

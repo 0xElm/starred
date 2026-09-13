@@ -99,6 +99,7 @@
 
 ## C 
 
+- [eisbaw/nano_ssh_server](https://github.com/eisbaw/nano_ssh_server) - World's smallest self-contained SSH server. Entirely AI slop
 - [alsa-project/alsa-tools](https://github.com/alsa-project/alsa-tools) - The Advanced Linux Sound Architecture (ALSA) - tools
 - [FrameworkComputer/alsa-tools](https://github.com/FrameworkComputer/alsa-tools) - The Advanced Linux Sound Architecture (ALSA) - tools
 - [FrameworkComputer/fwupd](https://github.com/FrameworkComputer/fwupd) - A system daemon to allow session software to update firmware

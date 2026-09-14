@@ -99,6 +99,9 @@
 
 ## C 
 
+- [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
+- [istopwg/ippsample](https://github.com/istopwg/ippsample) - IPP sample implementations.
+- [istopwg/ippeveselfcert](https://github.com/istopwg/ippeveselfcert) - IPP Everywhere Printer Self-Certification Tools
 - [eisbaw/nano_ssh_server](https://github.com/eisbaw/nano_ssh_server) - World's smallest self-contained SSH server. Entirely AI slop
 - [alsa-project/alsa-tools](https://github.com/alsa-project/alsa-tools) - The Advanced Linux Sound Architecture (ALSA) - tools
 - [FrameworkComputer/alsa-tools](https://github.com/FrameworkComputer/alsa-tools) - The Advanced Linux Sound Architecture (ALSA) - tools
@@ -374,6 +377,7 @@
 
 ## Go 
 
+- [OpenPrinting/go-mfp](https://github.com/OpenPrinting/go-mfp) - MFP: Go libraries and tools for Multi-Function Printers and scanners
 - [brk0v/cgtouch](https://github.com/brk0v/cgtouch) - vmtouch like util to show per cgroup per file Page Cache stats.
 - [FrameworkComputer/snapd](https://github.com/FrameworkComputer/snapd) - The snapd and snap tools enable systems to work with .snap files.
 - [digitorus/timestamp](https://github.com/digitorus/timestamp) - Time-Stamp Protocol (TSP) implementation for Go as specified in RFC3161
@@ -1540,7 +1544,7 @@
 - [kashw2/bitbucket-runner-nix](https://github.com/kashw2/bitbucket-runner-nix) - A flake for deploying Bitbucket Runners on NixOS
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh,@srid]
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
-- [alyraffauf/hoenn](https://github.com/alyraffauf/hoenn) - Multi-host NixOS, Darwin, and system-manager configurations with Nix.
+- [devon-systems/hoenn](https://github.com/devon-systems/hoenn) - Multi-host NixOS, Darwin, and system-manager configurations with Nix.
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.

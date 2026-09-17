@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Assembly](#assembly)
 - [Astro](#astro)
 - [Awk](#awk)
 - [Bikeshed](#bikeshed)
@@ -80,10 +79,6 @@
 - [Zig](#zig)
 - [reStructuredText](#restructuredtext)
 
-## Assembly 
-
-- [briar-systems/mach](https://github.com/briar-systems/mach) - A systems programming language with no hidden behavior.
-
 ## Astro 
 
 - [terminaldotshop/the-standup](https://github.com/terminaldotshop/the-standup) - website for the standup
@@ -147,6 +142,7 @@
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [kube-vip/kube-gateway](https://github.com/kube-vip/kube-gateway) - A transparent proxy for Kubernetes pods
 - [digitalocean/prometheus-client-c](https://github.com/digitalocean/prometheus-client-c) - A Prometheus Client in C
+- [briar-systems/mach](https://github.com/briar-systems/mach) - A systems programming language with no hidden behavior.
 - [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore

@@ -1125,6 +1125,7 @@
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - The Free Software Media System - Official Web Client
 - [ThePrimeagen/vim-fundamentals](https://github.com/ThePrimeagen/vim-fundamentals) - 
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [jkoestinger/omarchy-vpn](https://github.com/jkoestinger/omarchy-vpn) - VPN status and switching in the Omarchy bar, across whichever VPN tools are installed.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [earendil-works/website](https://github.com/earendil-works/website) - 
@@ -1777,6 +1778,7 @@
 
 ## Python 
 
+- [antithesishq/postgres-workload](https://github.com/antithesishq/postgres-workload) - {✱} Testing Postgres on Antithesis
 - [mfussenegger/paperstore](https://github.com/mfussenegger/paperstore) - python script to scan documents and search them later using a fulltext index
 - [baverman/flameprof](https://github.com/baverman/flameprof) - Flamegraph generator for cProfile stats
 - [FrameworkComputer/s-tui](https://github.com/FrameworkComputer/s-tui) - Terminal-based CPU stress and monitoring utility
@@ -2080,7 +2082,6 @@
 
 ## QML 
 
-- [jkoestinger/omarchy-vpn](https://github.com/jkoestinger/omarchy-vpn) - VPN status and switching in the Omarchy bar, across whichever VPN tools are installed.
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 
 ## R 
@@ -2152,7 +2153,6 @@
 
 ## Rust 
 
-- [antithesishq/postgres-workload](https://github.com/antithesishq/postgres-workload) - {✱} Testing Postgres on Antithesis
 - [antithesishq/snouty](https://github.com/antithesishq/snouty) - A CLI for the Antithesis platform
 - [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications.
 - [brk0v/trixter](https://github.com/brk0v/trixter) - Trixter Proxy + tokio-netem: chaos engineering tools for Rust networking

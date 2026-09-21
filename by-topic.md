@@ -3224,6 +3224,7 @@
 
 ## others 
 
+- [maniartech/gotime](https://github.com/maniartech/gotime) - The gotime is a Go library for simplified date and time processing, offering intuitive parsing, formatting, and relative time calculations. It complements the standard time package with user-friendly 
 - [antithesishq/postgres-workload](https://github.com/antithesishq/postgres-workload) - {✱} Testing Postgres on Antithesis
 - [percona/percona-xtradb-cluster](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability
 - [antithesishq/percona-xtradb-cluster](https://github.com/antithesishq/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability
@@ -5864,7 +5865,6 @@
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [ayakovlenko/typescriptlings](https://github.com/ayakovlenko/typescriptlings) - Small exercises to get you used to reading and writing TypeScript code!
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust

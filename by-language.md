@@ -377,6 +377,7 @@
 
 ## Go 
 
+- [maniartech/gotime](https://github.com/maniartech/gotime) - The gotime is a Go library for simplified date and time processing, offering intuitive parsing, formatting, and relative time calculations. It complements the standard time package with user-friendly 
 - [antithesishq/valthree](https://github.com/antithesishq/valthree) - A clustered, Valkey-compatible database backed by object storage
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [OpenPrinting/go-mfp](https://github.com/OpenPrinting/go-mfp) - MFP: Go libraries and tools for Multi-Function Printers and scanners
@@ -1334,7 +1335,7 @@
 - [tjdevries/config.awesomewm](https://github.com/tjdevries/config.awesomewm) - awesomewm config
 - [tjdevries/advent-of-nvim](https://github.com/tjdevries/advent-of-nvim) - 
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
-- [neovim-treesitter/treesitter-parser-registry](https://github.com/neovim-treesitter/treesitter-parser-registry) - 
+- [neovim-treesitter/treesitter-parser-registry](https://github.com/neovim-treesitter/treesitter-parser-registry) - [DEPRECATED] Parser/query registry for the deprecated fork — parsers and queries now live in nvim-treesitter/nvim-treesitter
 - [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) - Mirror of https://codeberg.org/mfussenegger/nvim-dap-python
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
 - [pysan3/autosession.nvim](https://github.com/pysan3/autosession.nvim) - Neovim Plugin to Save and Restore Sessions Per-directory
@@ -2715,7 +2716,7 @@
 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [arborist-ts/arborist.nvim](https://github.com/arborist-ts/arborist.nvim) - Smart, simple, fast tree-sitter parser manager for Neovim 0.12+
-- [neovim-treesitter/nvim-treesitter](https://github.com/neovim-treesitter/nvim-treesitter) - 
+- [neovim-treesitter/nvim-treesitter](https://github.com/neovim-treesitter/nvim-treesitter) - [DEPRECATED] Distributed-maintenance fork — please use nvim-treesitter/nvim-treesitter (actively maintained)
 
 ## TypeScript 
 
@@ -2827,7 +2828,7 @@
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [beatrix-ha/beatrix](https://github.com/beatrix-ha/beatrix) - what if claude ran your house
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data

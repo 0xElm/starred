@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Assembly](#assembly)
 - [Astro](#astro)
 - [Awk](#awk)
 - [Bikeshed](#bikeshed)
@@ -79,10 +78,6 @@
 - [YAML](#yaml)
 - [Zig](#zig)
 - [reStructuredText](#restructuredtext)
-
-## Assembly 
-
-- [omacom/ttfx](https://github.com/omacom/ttfx) - Terminal text effects as a single static binary — a parity-exact Rust port of terminaltexteffects
 
 ## Astro 
 
@@ -2194,6 +2189,7 @@
 - [typst-community/tytanic](https://github.com/typst-community/tytanic) - A test runner for typst projects.
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
 - [scipenai/tylax](https://github.com/scipenai/tylax) - A bi-directional converter between Typst and LaTeX. Available as both a CLI tool and a Web interface.
+- [omacom/ttfx](https://github.com/omacom/ttfx) - Terminal text effects as a single static binary — a parity-exact Rust port of terminaltexteffects
 - [akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar) - Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans/credits - inspired by claudebar/codexbar
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
@@ -2927,7 +2923,7 @@
 - [andreasgerstmayr/fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards) - Custom Dashboards for Beancount in Fava
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
-- [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
+- [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - React Native UI library built on the Eva Design System: 30+ themeable, accessible components for iOS, Android and web. TypeScript, React 19 / RN 0.81, Eva and Material themes with runtime light/dark s
 - [eva-design/eva](https://github.com/eva-design/eva) - :dizzy:Customizable Design System easily adaptable to your Brand.
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.

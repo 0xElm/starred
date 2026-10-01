@@ -232,7 +232,7 @@
 - [khyperia/NativeFileBrowser](https://github.com/khyperia/NativeFileBrowser) - Open a native file browser window on Windows, MacOS, and Linux, using only C# code
 - [swiss/fch-sparql](https://github.com/swiss/fch-sparql) - Library providing abstractions for Sparql queries on RDF based triplestores.
 - [swiss/fch-monitoring](https://github.com/swiss/fch-monitoring) - dotnet library for FOITT compatible health checks
-- [ShokoAnime/ShokoServer](https://github.com/ShokoAnime/ShokoServer) - Repository for Shoko Server.
+- [ShokoAnime/ShokoServer](https://github.com/ShokoAnime/ShokoServer) - Shoko is a media metadata aggregator that solves all of the annoying edge cases that face anime's differing structure from western media. It integrates directly with media software rather than working
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [ForNeVeR/Cesium](https://github.com/ForNeVeR/Cesium) - C compiler for the CLI platform
 - [EliahKagan/Dijkstra](https://github.com/EliahKagan/Dijkstra) - Visualizing Dijkstra's algorithm with various priority queues
@@ -379,6 +379,7 @@
 
 ## Go 
 
+- [zackb/yoro](https://github.com/zackb/yoro) - TUI Contacts and Calendars
 - [MichaelKinsy/PiG](https://github.com/MichaelKinsy/PiG) - PiG (Pi in Go) is a faithful Go port of upstream Pi, the TypeScript codebase behind the Pi coding agent. It is a parity-bound translation, not a rewrite: upstream behavior is the contract, and Go is t
 - [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [maniartech/gotime](https://github.com/maniartech/gotime) - The gotime is a Go library for simplified date and time processing, offering intuitive parsing, formatting, and relative time calculations. It complements the standard time package with user-friendly 
@@ -986,7 +987,7 @@
 
 - [swiss/gitops.trustbroker.swiss](https://github.com/swiss/gitops.trustbroker.swiss) - Demo configuration for a localhost setup for a trustbroker.swiss playground
 - [sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3) - Dockerized version of Nexus Repo Manager 3
-- [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
+- [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A workflow language for data-driven computational pipelines
 
 ## HCL 
 
@@ -1788,6 +1789,8 @@
 
 ## Python 
 
+- [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
+- [aburkov/theMLbook](https://github.com/aburkov/theMLbook) - The Python code to reproduce the illustrations from The Hundred-Page Machine Learning Book.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
@@ -2739,6 +2742,7 @@
 
 ## TypeScript 
 
+- [aburkov/claude-leaked-files](https://github.com/aburkov/claude-leaked-files) - Mirrored snapshot of Claude Code's source (exposed 2026-03-31) preserved for educational purposes, defensive security research, and software supply-chain analysis.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [antithesishq/anta](https://github.com/antithesishq/anta) - Anta is Antithesis design system
@@ -3054,6 +3058,7 @@
 
 ## Zig 
 
+- [contextfreecode/zig-demo](https://github.com/contextfreecode/zig-demo) - Code for video: Interview with Zig language creator Andrew Kelley
 - [nektro/zig-xml](https://github.com/nektro/zig-xml) - A pure-Zig fully spec-compliant XML parser.
 - [andrewrk/advent-of-code](https://github.com/andrewrk/advent-of-code) - https://adventofcode.com
 - [andrewrk/xml](https://github.com/andrewrk/xml) - Tokenize XML

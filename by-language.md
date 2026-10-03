@@ -379,6 +379,7 @@
 
 ## Go 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [zackb/yoro](https://github.com/zackb/yoro) - TUI Contacts and Calendars
 - [MichaelKinsy/PiG](https://github.com/MichaelKinsy/PiG) - PiG (Pi in Go) is a faithful Go port of upstream Pi, the TypeScript codebase behind the Pi coding agent. It is a parity-bound translation, not a rewrite: upstream behavior is the contract, and Go is t
 - [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -1790,6 +1791,7 @@
 
 ## Python 
 
+- [bpf-fault/bpf-fault](https://github.com/bpf-fault/bpf-fault) - bpf_fault is a framework enabling custom page fault handling with BPF. Appeared in SOSP 2026.
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [aburkov/theMLbook](https://github.com/aburkov/theMLbook) - The Python code to reproduce the illustrations from The Hundred-Page Machine Learning Book.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
@@ -2170,6 +2172,7 @@
 
 ## Rust 
 
+- [bpf-fault/firecracker](https://github.com/bpf-fault/firecracker) - Secure and fast microVMs for serverless computing.
 - [madsim-rs/MadRaft](https://github.com/madsim-rs/MadRaft) - The labs of Raft consensus algorithm based on MadSim.
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [madsim-rs/madsim](https://github.com/madsim-rs/madsim) - Magical Deterministic Simulator for distributed systems in Rust.

@@ -1000,7 +1000,7 @@
 
 - [Mic92/blog](https://github.com/Mic92/blog) - Source of my blog
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-- [omacom/omarchy-site](https://github.com/omacom/omarchy-site) - Beautiful, Modern & Opinionated Linux by DHH
+- [omacom/omarchy-site](https://github.com/omacom/omarchy-site) - Beautiful, Fun & Agentic Linux by DHH
 - [omacom/oligarchy](https://github.com/omacom/oligarchy) - Elite capital. Public code. The oligarchy.fyi landing page.
 - [aorumbayev/awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy) - ⚡A curated list of awesome omarchy resources
 - [google/building-secure-and-reliable-systems](https://github.com/google/building-secure-and-reliable-systems) - This repository contains the content of the book "Building Secure and Reliable Systems" by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, and Adam Stubblefield. Google wr
@@ -1791,6 +1791,8 @@
 
 ## Python 
 
+- [NousResearch/hermes-homeassistant](https://github.com/NousResearch/hermes-homeassistant) - Home Assistant gateway platform and smart-home tools for Hermes Agent (official plugin)
+- [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) - ⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA
 - [bpf-fault/bpf-fault](https://github.com/bpf-fault/bpf-fault) - bpf_fault is a framework enabling custom page fault handling with BPF. Appeared in SOSP 2026.
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [aburkov/theMLbook](https://github.com/aburkov/theMLbook) - The Python code to reproduce the illustrations from The Hundred-Page Machine Learning Book.
@@ -2745,6 +2747,7 @@
 
 ## TypeScript 
 
+- [georgekobaidze/neuralhats](https://github.com/georgekobaidze/neuralhats) - Six AI personas debate any topic using Edward de Bono's Six Thinking Hats framework. Powered by Gemma 4 via Ollama. Runs fully local.
 - [aburkov/claude-leaked-files](https://github.com/aburkov/claude-leaked-files) - Mirrored snapshot of Claude Code's source (exposed 2026-03-31) preserved for educational purposes, defensive security research, and software supply-chain analysis.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!

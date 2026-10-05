@@ -68,6 +68,7 @@
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TLA](#tla)
 - [TeX](#tex)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
@@ -1092,6 +1093,7 @@
 
 ## Java 
 
+- [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 - [GrapheneOS/AttestationServer](https://github.com/GrapheneOS/AttestationServer) - attestation.app remote attestation server. Server code for use with the Auditor app: https://github.com/GrapheneOS/Auditor. It provides two services: submission of attestation data samples and a remot
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -1793,7 +1795,7 @@
 
 - [NousResearch/hermes-homeassistant](https://github.com/NousResearch/hermes-homeassistant) - Home Assistant gateway platform and smart-home tools for Hermes Agent (official plugin)
 - [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) - ⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA
-- [bpf-fault/bpf-fault](https://github.com/bpf-fault/bpf-fault) - bpf_fault is a framework enabling custom page fault handling with BPF. Appeared in SOSP 2026.
+- [bpf-fault/bpf-fault](https://github.com/bpf-fault/bpf-fault) - bpf_fault is a framework enabling custom page fault handling with eBPF. Appeared in SOSP 2026.
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [aburkov/theMLbook](https://github.com/aburkov/theMLbook) - The Python code to reproduce the illustrations from The Hundred-Page Machine Learning Book.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
@@ -2729,6 +2731,10 @@
 - [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) - Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk.
 - [threema-ch/threema-ios](https://github.com/threema-ch/threema-ios) - Threema App for iOS.
 
+## TLA 
+
+- [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA⁺ specifications of varying complexities.
+
 ## TeX 
 
 - [latex-ninja/simple-hipstercv](https://github.com/latex-ninja/simple-hipstercv) - A more simple, lightweight and a little bit different version of the Hipster CV
@@ -2747,6 +2753,7 @@
 
 ## TypeScript 
 
+- [tlaplus/tla-by-example](https://github.com/tlaplus/tla-by-example) - 
 - [georgekobaidze/neuralhats](https://github.com/georgekobaidze/neuralhats) - Six AI personas debate any topic using Edward de Bono's Six Thinking Hats framework. Powered by Gemma 4 via Ollama. Runs fully local.
 - [aburkov/claude-leaked-files](https://github.com/aburkov/claude-leaked-files) - Mirrored snapshot of Claude Code's source (exposed 2026-03-31) preserved for educational purposes, defensive security research, and software supply-chain analysis.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?

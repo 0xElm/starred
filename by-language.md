@@ -336,6 +336,7 @@
 
 - [DefinedNet/mobile_nebula](https://github.com/DefinedNet/mobile_nebula) - Brings nebula to mobile devices (iOS, Android)
 - [google/webcrypto.dart](https://github.com/google/webcrypto.dart) - Cross-platform implementation of Web Cryptography APIs
+- [google/dotprompt](https://github.com/google/dotprompt) - Executable GenAI prompt templates
 - [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 - [tekartik/sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin
 - [team-telnyx/flutter-voice-sdk](https://github.com/team-telnyx/flutter-voice-sdk) - Telnyx Flutter WebRTC SDK - Enable real-time communication with WebRTC and Telnyx
@@ -1814,7 +1815,7 @@
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [skylines-project/skylines](https://github.com/skylines-project/skylines) - Open-source live tracking, flight database and competition platform for soaring pilots
 - [jyn514/pillar-of-autumn](https://github.com/jyn514/pillar-of-autumn) - Talk to a base model before it's been through post-training. Runs locally on your computer.
-- [yurug/agentic-loop-kit](https://github.com/yurug/agentic-loop-kit) - A spec-driven engineering loop for building reliable software with coding agents
+- [yurug/socrask](https://github.com/yurug/socrask) - A spec-driven engineering loop for building reliable software with coding agents
 - [yurug/laconic-skill](https://github.com/yurug/laconic-skill) - Claude Code plugin: cuts noise from agent communication via an auditable model of what the user knows
 - [corticph/NeMo](https://github.com/corticph/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [google/tunix](https://github.com/google/tunix) - A Lightweight LLM Post-Training Library
@@ -1872,7 +1873,6 @@
 - [attio/airbyte](https://github.com/attio/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [kpetremann/mqtt-exporter](https://github.com/kpetremann/mqtt-exporter) - Simple generic MQTT Prometheus exporter for IoT working out of the box
 - [ericzakariasson/workstation](https://github.com/ericzakariasson/workstation) - OpenClaw at home
-- [google/dotprompt](https://github.com/google/dotprompt) - Executable GenAI prompt templates
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
@@ -2757,7 +2757,7 @@
 - [georgekobaidze/neuralhats](https://github.com/georgekobaidze/neuralhats) - Six AI personas debate any topic using Edward de Bono's Six Thinking Hats framework. Powered by Gemma 4 via Ollama. Runs fully local.
 - [aburkov/claude-leaked-files](https://github.com/aburkov/claude-leaked-files) - Mirrored snapshot of Claude Code's source (exposed 2026-03-31) preserved for educational purposes, defensive security research, and software supply-chain analysis.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [antithesishq/anta](https://github.com/antithesishq/anta) - Anta is Antithesis design system
 - [pkic/pkic.org](https://github.com/pkic/pkic.org) - Source of the pkic.org website
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser

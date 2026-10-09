@@ -381,7 +381,7 @@
 
 ## Go 
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [zackb/yoro](https://github.com/zackb/yoro) - TUI Contacts and Calendars
 - [MichaelKinsy/PiG](https://github.com/MichaelKinsy/PiG) - PiG (Pi in Go) is a faithful Go port of upstream Pi, the TypeScript codebase behind the Pi coding agent. It is a parity-bound translation, not a rewrite: upstream behavior is the contract, and Go is t
 - [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -712,7 +712,7 @@
 - [basecamp/basecamp-cli](https://github.com/basecamp/basecamp-cli) - Basecamp CLI and Agent Skills
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini and open models on a full private AI Stack ♾️
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
-- [tis24dev/proxsave](https://github.com/tis24dev/proxsave) - Backup tool for Proxmox  PBS & PVE System Files with advanced features and notifications
+- [tis24dev/proxsave](https://github.com/tis24dev/proxsave) - Proxmox VE & PBS host configuration backup and disaster recovery. Online backups without downtime, guided restore, encryption, cloud storage and native PBS integration.
 - [fkautz/serve](https://github.com/fkautz/serve) - A very simple static HTTP server
 - [in-toto/witness](https://github.com/in-toto/witness) - Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.
 - [antithesishq/hive](https://github.com/antithesishq/hive) - Ethereum end-to-end test harness -- runnable in Antithesis

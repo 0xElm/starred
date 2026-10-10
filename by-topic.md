@@ -284,6 +284,7 @@
 
 ## agent 
 
+- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [scitix/siclaw](https://github.com/scitix/siclaw) - AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration
@@ -917,6 +918,7 @@
 
 ## cloud 
 
+- [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
 - [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [openclarity/openclarity](https://github.com/openclarity/openclarity) - OpenClarity is an open source platform built to enhance security and observability of cloud native applications and infrastructure
@@ -2627,6 +2629,7 @@
 
 ## linux 
 
+- [eunomia-bpf/eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf) - A Tool to make Build and Run eBPF programs easier
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
@@ -2682,6 +2685,7 @@
 
 ## llm 
 
+- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [georgekobaidze/neuralhats](https://github.com/georgekobaidze/neuralhats) - Six AI personas debate any topic using Edward de Bono's Six Thinking Hats framework. Powered by Gemma 4 via Ollama. Runs fully local.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
@@ -2894,7 +2898,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [tailscale/tsidp](https://github.com/tailscale/tsidp) - A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
-- [google/sam](https://github.com/google/sam) - OSS Agent Mesh
+- [google/agentmesh](https://github.com/google/agentmesh) - Agent Mesh
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
@@ -3250,6 +3254,7 @@
 
 ## open-source 
 
+- [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
 - [skylines-project/skylines](https://github.com/skylines-project/skylines) - Open-source live tracking, flight database and competition platform for soaring pilots
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [neuroscout/neuroscout](https://github.com/neuroscout/neuroscout) - NeuroScout web app and API
@@ -3301,6 +3306,18 @@
 
 ## others 
 
+- [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
+- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for Observability, Network, GPU & General Extensions Framework
+- [brauner/linux-formal](https://github.com/brauner/linux-formal) - TLA+ models of Linux kernel protocols
+- [OpenNebula/storage-provider-opennebula](https://github.com/OpenNebula/storage-provider-opennebula) - 
+- [OpenNebula/minione](https://github.com/OpenNebula/minione) - Easy to use deployment tool for an OpenNebula evaluation environment
+- [OpenNebula/one-training-files](https://github.com/OpenNebula/one-training-files) - 
+- [OpenNebula/one-docs](https://github.com/OpenNebula/one-docs) - 
+- [OpenNebula/cluster-api-provider-opennebula](https://github.com/OpenNebula/cluster-api-provider-opennebula) - A CAPI implementation for OpenNebula (capone)
+- [OpenNebula/one-swap](https://github.com/OpenNebula/one-swap) - Migrate VMware workloads to OpenNebula/KVM
+- [OpenNebula/one-apps](https://github.com/OpenNebula/one-apps) - Toolchain to build OpenNebula appliances
+- [OpenNebula/one-deploy-validation](https://github.com/OpenNebula/one-deploy-validation) - 
+- [OpenNebula/one-deploy](https://github.com/OpenNebula/one-deploy) - 
 - [kismetwireless/kismet](https://github.com/kismetwireless/kismet) - Github mirror of official Kismet repository
 - [shadowsocks/shadowsocks-org](https://github.com/shadowsocks/shadowsocks-org) - www.shadowsocks.org
 - [ipfs/go-ipfs-delay](https://github.com/ipfs/go-ipfs-delay) - A module to add (threadsafe) configurable delays to other objects

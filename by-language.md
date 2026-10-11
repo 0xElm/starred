@@ -96,6 +96,8 @@
 
 ## C 
 
+- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
+- [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable
 - [pgraug/dhyve-src](https://github.com/pgraug/dhyve-src) - 
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
@@ -243,6 +245,7 @@
 
 ## C++ 
 
+- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for Observability, Network, GPU & General Extensions Framework
 - [kismetwireless/kismet](https://github.com/kismetwireless/kismet) - Github mirror of official Kismet repository
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [percona/percona-xtradb-cluster](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability
@@ -387,6 +390,8 @@
 
 ## Go 
 
+- [OpenNebula/storage-provider-opennebula](https://github.com/OpenNebula/storage-provider-opennebula) - 
+- [OpenNebula/cluster-api-provider-opennebula](https://github.com/OpenNebula/cluster-api-provider-opennebula) - A CAPI implementation for OpenNebula (capone)
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
 - [ipfs/go-ipfs-delay](https://github.com/ipfs/go-ipfs-delay) - A module to add (threadsafe) configurable delays to other objects
 - [ipfs/go-datastore](https://github.com/ipfs/go-datastore) - key-value datastore interfaces
@@ -1149,6 +1154,7 @@
 
 ## JavaScript 
 
+- [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
 - [antithesishq/antithesis-skills](https://github.com/antithesishq/antithesis-skills) - AI Skills for Antithesis Users
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - The Free Software Media System - Official Web Client
 - [ThePrimeagen/vim-fundamentals](https://github.com/ThePrimeagen/vim-fundamentals) - 
@@ -1249,6 +1255,7 @@
 
 ## Jinja 
 
+- [OpenNebula/one-deploy-validation](https://github.com/OpenNebula/one-deploy-validation) - 
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [jsuereth/o11y-by-design](https://github.com/jsuereth/o11y-by-design) - Example code for KubeCon Observability by Design talk.
@@ -1813,8 +1820,10 @@
 
 ## Python 
 
+- [OpenNebula/one-training-files](https://github.com/OpenNebula/one-training-files) - 
+- [OpenNebula/one-deploy](https://github.com/OpenNebula/one-deploy) - 
 - [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
-- [NousResearch/hermes-homeassistant](https://github.com/NousResearch/hermes-homeassistant) - Home Assistant gateway platform and smart-home tools for Hermes Agent (official plugin)
+- [NousResearch/hermes-homeassistant](https://github.com/NousResearch/hermes-homeassistant) - Moved to NousResearch/hermes-official-plugins/homeassistant, the home of Nous Research's official Hermes Agent plugins.
 - [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) - ⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA
 - [bpf-fault/bpf-fault](https://github.com/bpf-fault/bpf-fault) - bpf_fault is a framework enabling custom page fault handling with eBPF. Appeared in SOSP 2026.
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
@@ -2141,6 +2150,7 @@
 
 ## Ruby 
 
+- [OpenNebula/one-swap](https://github.com/OpenNebula/one-swap) - Migrate VMware workloads to OpenNebula/KVM
 - [sirupsen/airrecord](https://github.com/sirupsen/airrecord) - Ruby wrapper for Airtable, your personal database
 - [FrameworkComputer/paper_trail-background.rb](https://github.com/FrameworkComputer/paper_trail-background.rb) - Enqueue PaperTrail versioning to a background job
 - [omacom/omarchy-plugin-registry](https://github.com/omacom/omarchy-plugin-registry) - 
@@ -2195,6 +2205,7 @@
 
 ## Rust 
 
+- [eunomia-bpf/eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf) - A Tool to make Build and Run eBPF programs easier
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [bpf-fault/firecracker](https://github.com/bpf-fault/firecracker) - Secure and fast microVMs for serverless computing.
 - [madsim-rs/MadRaft](https://github.com/madsim-rs/MadRaft) - The labs of Raft consensus algorithm based on MadSim.
@@ -2621,6 +2632,7 @@
 
 ## SCSS 
 
+- [OpenNebula/one-docs](https://github.com/OpenNebula/one-docs) - 
 - [cncf/dot-org-hugo-theme](https://github.com/cncf/dot-org-hugo-theme) - Hugo theme ideal for Organizations to use. Built initially for the TODO site redesign.
 - [k8up-io/website](https://github.com/k8up-io/website) - K8up.io Landingpage
 - [semver/semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
@@ -2634,6 +2646,8 @@
 
 ## Shell 
 
+- [OpenNebula/minione](https://github.com/OpenNebula/minione) - Easy to use deployment tool for an OpenNebula evaluation environment
+- [OpenNebula/one-apps](https://github.com/OpenNebula/one-apps) - Toolchain to build OpenNebula appliances
 - [carlsverre/dotfiles](https://github.com/carlsverre/dotfiles) - My personal dotfiles repo
 - [digitorus/eramba](https://github.com/digitorus/eramba) - Dockerized Eramba, Open Source Governance, Risk & Compliance (GRC) system https://hub.docker.com/r/digitorus/er…
 - [jdoss/ppngx](https://github.com/jdoss/ppngx) - Podman + Paperless NGX
@@ -2753,6 +2767,7 @@
 
 ## TLA 
 
+- [brauner/linux-formal](https://github.com/brauner/linux-formal) - TLA+ models of Linux kernel protocols
 - [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA⁺ specifications of varying complexities.
 
 ## TeX 

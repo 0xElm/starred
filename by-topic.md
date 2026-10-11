@@ -1723,7 +1723,6 @@
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
 - [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
 - [open2b/scriggo](https://github.com/open2b/scriggo) - The world’s most powerful template engine and Go embeddable interpreter
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [satococoa/wtp](https://github.com/satococoa/wtp) - 🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation
 - [atlarge-research/apate](https://github.com/atlarge-research/apate) - Emulating Kubernetes for Fun and Profit
 - [supabase/auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
@@ -1859,7 +1858,6 @@
 - [creachadair/taskgroup](https://github.com/creachadair/taskgroup) - A Go package for managing a group of collaborating goroutines.
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI, GPT 6.1, GPT-Image-2, Whisper API clients for Go. Zero-dependency.
@@ -3328,7 +3326,7 @@
 - [ooni/probe-cli](https://github.com/ooni/probe-cli) - OONI Probe Engine and CLI
 - [tlaplus/tla-by-example](https://github.com/tlaplus/tla-by-example) - 
 - [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA⁺ specifications of varying complexities.
-- [NousResearch/hermes-homeassistant](https://github.com/NousResearch/hermes-homeassistant) - Home Assistant gateway platform and smart-home tools for Hermes Agent (official plugin)
+- [NousResearch/hermes-homeassistant](https://github.com/NousResearch/hermes-homeassistant) - Moved to NousResearch/hermes-official-plugins/homeassistant, the home of Nous Research's official Hermes Agent plugins.
 - [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) - ⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA
 - [bpf-fault/firecracker](https://github.com/bpf-fault/firecracker) - Secure and fast microVMs for serverless computing.
 - [bpf-fault/bpf-fault](https://github.com/bpf-fault/bpf-fault) - bpf_fault is a framework enabling custom page fault handling with eBPF. Appeared in SOSP 2026.

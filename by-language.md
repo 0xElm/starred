@@ -971,7 +971,7 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Supports Prometheus, Tempo, Loki, Pyroscope, and more!
 - [DBCDK/kubernixos](https://github.com/DBCDK/kubernixos) - Simple kubernetes manifest reconciler configured by NixOS modules
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
 - [DBCDK/kube-login](https://github.com/DBCDK/kube-login) - Simple login app based on DEX example-app
@@ -1831,7 +1831,7 @@
 - [bpf-fault/bpf-fault](https://github.com/bpf-fault/bpf-fault) - bpf_fault is a framework enabling custom page fault handling with eBPF. Appeared in SOSP 2026.
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [aburkov/theMLbook](https://github.com/aburkov/theMLbook) - The Python code to reproduce the illustrations from The Hundred-Page Machine Learning Book.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and 
@@ -2866,6 +2866,7 @@
 - [wireapp/wire-web-packages](https://github.com/wireapp/wire-web-packages) - Collection of npm modules created by Wire's web team.
 - [wireapp/wire-account](https://github.com/wireapp/wire-account) - Account verifications and forgotten passwords (https://wire-account-staging.zinfra.io/forgot/).
 - [Orva-Studio/hance](https://github.com/Orva-Studio/hance) - Film-grade your footage from the command line - built for humans and agents.
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [mintlify/mdx](https://github.com/mintlify/mdx) - Mintlify markdown parser
 - [attio/react-data-list](https://github.com/attio/react-data-list) - React Data List is a library which helps you build data arrays by expressing items declaratively using React components. It was built primarily for React Native, but should work anywhere.
@@ -3108,7 +3109,6 @@
 - [FoggedLens/deflock](https://github.com/FoggedLens/deflock) - Crowdsourced tool for locating and reporting ALPRs
 - [swiss/designsystem](https://github.com/swiss/designsystem) - Webguidelines Bund
 - [anoadragon453/ZeroLSTN](https://github.com/anoadragon453/ZeroLSTN) - A p2p music streaming website
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [ClickHouse/stockhouse](https://github.com/ClickHouse/stockhouse) - Stock and Crypto real-time market data visualization demo
 - [str4d/wage](https://github.com/str4d/wage) - A WASM package and web app for encrypting and decrypting age-encrypted files, powered by rage.
 

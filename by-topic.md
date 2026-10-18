@@ -285,6 +285,7 @@
 
 ## agent 
 
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -327,6 +328,7 @@
 
 ## ai 
 
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
 - [georgekobaidze/neuralhats](https://github.com/georgekobaidze/neuralhats) - Six AI personas debate any topic using Edward de Bono's Six Thinking Hats framework. Powered by Gemma 4 via Ollama. Runs fully local.
@@ -375,6 +377,7 @@
 
 ## ai-agent 
 
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [MichaelKinsy/PiG](https://github.com/MichaelKinsy/PiG) - PiG (Pi in Go) is a faithful Go port of upstream Pi, the TypeScript codebase behind the Pi coding agent. It is a parity-bound translation, not a rewrite: upstream behavior is the contract, and Go is t
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [scitix/siclaw](https://github.com/scitix/siclaw) - AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration
@@ -384,6 +387,7 @@
 
 ## ai-agents 
 
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
@@ -1398,6 +1402,7 @@
 
 ## docker 
 
+- [bazel-contrib/rules_oci](https://github.com/bazel-contrib/rules_oci) - Bazel rules for building OCI containers
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [Tymeslot/tymeslot](https://github.com/Tymeslot/tymeslot) - Open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-host or use the managed cloud at tymeslot.app.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -1530,6 +1535,7 @@
 
 ## dsh-plugin 
 
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ## education 
@@ -2712,6 +2718,7 @@
 
 ## llm 
 
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 - [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -3341,6 +3348,16 @@
 
 ## others 
 
+- [bazelbuild/reclient](https://github.com/bazelbuild/reclient) - 
+- [bazelbuild/bazel-toolchains](https://github.com/bazelbuild/bazel-toolchains) - Repository that hosts Bazel toolchain configs for remote execution and related support tools.
+- [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Tools for building Bazel targets when source files change.
+- [bazelbuild/bazel-bench](https://github.com/bazelbuild/bazel-bench) - Benchmarking tool for bazel
+- [laszlocsomor/proposals](https://github.com/laszlocsomor/proposals) - Index of all Bazel design documents and proposals
+- [eaftan/safere](https://github.com/eaftan/safere) - A safe linear-time regular expression matching library for Java, based on RE2
+- [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
+- [thousandbrainsproject/tbp.teleop](https://github.com/thousandbrainsproject/tbp.teleop) - Visualize and teleoperate a Monty experiment in real-time
+- [radkat/sonden](https://github.com/radkat/sonden) - If Sonos is playing audio, turn on my Denon amps.
+- [radkat/camlistore](https://github.com/radkat/camlistore) - Camlistore is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [mercenaruss/uzg-firmware](https://github.com/mercenaruss/uzg-firmware) - Firmware for ZigStar UZG-01
 - [bradfitz/hubbub-hub](https://github.com/bradfitz/hubbub-hub) - A PubSubHubbub hub implementation

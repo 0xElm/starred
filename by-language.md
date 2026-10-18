@@ -19,6 +19,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
+- [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [F#](#f#)
 - [Go](#go)
@@ -73,6 +74,7 @@
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Typst](#typst)
+- [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
@@ -96,6 +98,7 @@
 
 ## C 
 
+- [danderson/nix-codelab](https://github.com/danderson/nix-codelab) - Codelab repo for Tailscale Nix training
 - [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
 - [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable
@@ -314,6 +317,7 @@
 
 ## CSS 
 
+- [mercenaruss/uzg-firmware](https://github.com/mercenaruss/uzg-firmware) - Firmware for ZigStar UZG-01
 - [Exodus-Privacy/website](https://github.com/Exodus-Privacy/website) - Website of non-profit Exodus Privacy
 - [DefinedNet/nebula-docs](https://github.com/DefinedNet/nebula-docs) - Documentation for the Nebula open source project
 - [swiss/oss-catalog](https://github.com/swiss/oss-catalog) - Open Source Software Catalog
@@ -381,6 +385,10 @@
 - [elm/core](https://github.com/elm/core) - Elm's core libraries
 - [evancz/guide.elm-lang.org](https://github.com/evancz/guide.elm-lang.org) - My book introducing you to Elm!
 
+## Emacs Lisp 
+
+- [danderson/dotfiles](https://github.com/danderson/dotfiles) - My dotfiles.
+
 ## Erlang 
 
 - [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability
@@ -391,6 +399,63 @@
 
 ## Go 
 
+- [bradfitz/rfbgo](https://github.com/bradfitz/rfbgo) - Toy RFB (VNC) Server in Go (#golang)
+- [bradfitz/powerview](https://github.com/bradfitz/powerview) - Control Hunter Douglas PowerView shades & blinds
+- [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
+- [bradfitz/autocertdelegate](https://github.com/bradfitz/autocertdelegate) - Get LetsEncrypt TLS certs for internal-only TLS servers via a delegated golang.org/x/crypto/acme/autocert server.
+- [bradfitz/goimports](https://github.com/bradfitz/goimports) - (old repo) Tool to fix (add, remove) your Go imports automatically.
+- [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
+- [bradfitz/cue](https://github.com/bradfitz/cue) - Validate and define text-based and dynamic configuration
+- [bradfitz/jndi](https://github.com/bradfitz/jndi) - a irresponsibly bad logging library
+- [bradfitz/sixmap](https://github.com/bradfitz/sixmap) - tool to visualize the SIX (Seattle Internet Exchange) route server coverage
+- [bradfitz/gitbrute](https://github.com/bradfitz/gitbrute) - brute-force a git commit hash
+- [insomniacslk/dhcp](https://github.com/insomniacslk/dhcp) - DHCPv6 and DHCPv4 packet library, client and server written in Go
+- [bradfitz/dhcp](https://github.com/bradfitz/dhcp) - DHCPv6 and DHCPv4 packet library, client and server written in Go
+- [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
+- [ipld/go-car](https://github.com/ipld/go-car) - A content addressible archive utility
+- [bradfitz/aoc](https://github.com/bradfitz/aoc) - advent of code helpers to reuse between tasks
+- [bradfitz/websentry-mitm-prometheus-exporter](https://github.com/bradfitz/websentry-mitm-prometheus-exporter) - 
+- [bradfitz/netlink](https://github.com/bradfitz/netlink) - Package netlink provides low-level access to Linux netlink sockets (AF_NETLINK). MIT Licensed.
+- [bradfitz/v-netlink](https://github.com/bradfitz/v-netlink) - Simple netlink library for go.
+- [bradfitz/qemu-guest-kragent](https://github.com/bradfitz/qemu-guest-kragent) - a minimal qemu-guest-agent in Go for gokrazy + Proxmox (qemu)
+- [bradfitz/tsp](https://github.com/bradfitz/tsp) - tailscale protocol tool
+- [bradfitz/flakestress](https://github.com/bradfitz/flakestress) - 
+- [bradfitz/tsauthify](https://github.com/bradfitz/tsauthify) - 
+- [bradfitz/livecore](https://github.com/bradfitz/livecore) - Linux low-pause core file dumper from an existing running process
+- [bradfitz/go-trim-caches](https://github.com/bradfitz/go-trim-caches) - 
+- [bradfitz/guestbd](https://github.com/bradfitz/guestbd) - NBD server for ephemeral VMs getting writable forks of base images
+- [bradfitz/reco](https://github.com/bradfitz/reco) - experimental reactive computation library
+- [bradfitz/go-tool-cache](https://github.com/bradfitz/go-tool-cache) - 
+- [gosuda/portalite](https://github.com/gosuda/portalite) - Lightweight portal client
+- [gosuda/securl](https://github.com/gosuda/securl) - SecURL: A Secure URL Shortener That Respects User Privacy
+- [gosuda/JustGoodPractices](https://github.com/gosuda/JustGoodPractices) - 
+- [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) - Publishes localhost services to the agentic web through self-hostable, trustless relays.
+- [gosuda/HQQ](https://github.com/gosuda/HQQ) - HQQ: Efficient Interprocess Communication
+- [antonmashko/taskq](https://github.com/antonmashko/taskq) - Golang goroutine manager.
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [giancarlosisasi/taskify-go](https://github.com/giancarlosisasi/taskify-go) - a simple task runner written in go lang
+- [danderson/tlswrapper](https://github.com/danderson/tlswrapper) - An SNI-respecting, HSTS-enforcing, HTTP-redirecting HTTPS server library for Go.
+- [danderson/tuntap](https://github.com/danderson/tuntap) - Automatically exported from code.google.com/p/tuntap
+- [danderson/gobox](https://github.com/danderson/gobox) - Trivial CLI wrapper around go.crypto/nacl/box. Easy secure public key authenticated encryption.
+- [danderson/caddy-builder](https://github.com/danderson/caddy-builder) - Travis-based Debian package builder for Caddy, for deployment to my personal servers.
+- [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary)
+- [danderson/img](https://github.com/danderson/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
+- [danderson/goppp](https://github.com/danderson/goppp) - 
+- [danderson/natprobe](https://github.com/danderson/natprobe) - NAT probing toolkit.
+- [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go
+- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system
+- [Snowflake-Labs/sansshell](https://github.com/Snowflake-Labs/sansshell) - A non-interactive daemon for host management
+- [danderson/deskauth](https://github.com/danderson/deskauth) - Simplified OAuth for desktop programs.
+- [stapelberg/airscan](https://github.com/stapelberg/airscan) - Go package to scan paper documents 📄 from a scanner 🖨️ via the network 🕸️ using the Apple AirScan (eSCL) protocol.
+- [danderson/reload](https://github.com/danderson/reload) - Live reloading for Go servers
+- [danderson/livemon](https://github.com/danderson/livemon) - Liveness monitoring daemon for periodic jobs
+- [danderson/mds](https://github.com/danderson/mds) - Generic data structures in Go.
+- [danderson/dbus](https://github.com/danderson/dbus) - A DBus client implementation in Go.
+- [danderson/garden](https://github.com/danderson/garden) - 
+- [danderson/netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
+- [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
+- [danderson/natlab](https://github.com/danderson/natlab) - A testbed for NAT traversal software.
+- [boldsoftware/shelley](https://github.com/boldsoftware/shelley) - Shelley is a coding agent
 - [storytold/irsa-manager](https://github.com/storytold/irsa-manager) - 
 - [OpenNebula/storage-provider-opennebula](https://github.com/OpenNebula/storage-provider-opennebula) - 
 - [OpenNebula/cluster-api-provider-opennebula](https://github.com/OpenNebula/cluster-api-provider-opennebula) - A CAPI implementation for OpenNebula (capone)
@@ -1022,6 +1087,8 @@
 
 ## HTML 
 
+- [danderson/davetf](https://github.com/danderson/davetf) - dave.tf's website.
+- [danderson/pqnoise_spec](https://github.com/danderson/pqnoise_spec) - Noise Specification (modified for PQNoise)
 - [shadowsocks/shadowsocks-org](https://github.com/shadowsocks/shadowsocks-org) - www.shadowsocks.org
 - [ipfs/specs](https://github.com/ipfs/specs) - Technical specifications for the IPFS protocol stack
 - [Mic92/blog](https://github.com/Mic92/blog) - Source of my blog
@@ -1117,6 +1184,7 @@
 
 ## Java 
 
+- [gosuda/jailscale](https://github.com/gosuda/jailscale) - Expose a local port to the internet over HTTPS: a hub holding one wildcard certificate, nodes that terminate TLS themselves.
 - [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 - [GrapheneOS/AttestationServer](https://github.com/GrapheneOS/AttestationServer) - attestation.app remote attestation server. Server code for use with the Auditor app: https://github.com/GrapheneOS/Auditor. It provides two services: submission of attestation data samples and a remot
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
@@ -1156,8 +1224,9 @@
 
 ## JavaScript 
 
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
-- [antithesishq/antithesis-skills](https://github.com/antithesishq/antithesis-skills) - AI Skills for Antithesis Users
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - The Free Software Media System - Official Web Client
 - [ThePrimeagen/vim-fundamentals](https://github.com/ThePrimeagen/vim-fundamentals) - 
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
@@ -1191,7 +1260,6 @@
 - [OpenRouterTeam/awesome-openrouter](https://github.com/OpenRouterTeam/awesome-openrouter) - Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [proginosko/LeechBlockNG](https://github.com/proginosko/LeechBlockNG) - LeechBlock NG (Next Generation) for Firefox is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
@@ -1276,6 +1344,8 @@
 
 ## Jupyter Notebook 
 
+- [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 - [chhoumann/thesis-chemcam](https://github.com/chhoumann/thesis-chemcam) - This project aims to advance LIBS technology interpretation for Mars' ChemCam data, integrating human insights with sophisticated machine learning models, broadening prospects for future space mission
 - [cristinaponcela/Personal-Projects](https://github.com/cristinaponcela/Personal-Projects) - This repository contains the projects I have enjoyed doing in my free time.
 - [sspaeti/datadex](https://github.com/sspaeti/datadex) - Open Data Warehouse with dbt and DuckDB
@@ -1663,6 +1733,13 @@
 
 ## Others 
 
+- [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
+- [chiphuyen/dmls-book](https://github.com/chiphuyen/dmls-book) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
+- [danderson/packer](https://github.com/danderson/packer) - Pack a tree of files into a single binary, which expands on execution and executes a binary in the tree
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
+- [rustsec/advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
+- [rust-secure-code/safety-dance](https://github.com/rust-secure-code/safety-dance) - Auditing crates for unsafe code which can be safely replaced
+- [bradfitz/homelab](https://github.com/bradfitz/homelab) - Brad's homelab setup
 - [ooni/probe](https://github.com/ooni/probe) - OONI Probe network measurement tool for detecting internet censorship
 - [ivanyu/awesome-deterministic-simulation-testing](https://github.com/ivanyu/awesome-deterministic-simulation-testing) - A curated list of awesome deterministic simulation testing resources 😎
 - [FrameworkComputer/UEFI-Shell](https://github.com/FrameworkComputer/UEFI-Shell) - Fork of https://github.com/pbatard/UEFI-Shell
@@ -1797,6 +1874,11 @@
 
 ## Perl 
 
+- [bradfitz/hubbub-hub](https://github.com/bradfitz/hubbub-hub) - A PubSubHubbub hub implementation
+- [bradfitz/talk-gluecon-2010](https://github.com/bradfitz/talk-gluecon-2010) - Slides & code samples from my Gluecon 2010 talk
+- [bradfitz/set-consistenthash-perl](https://github.com/bradfitz/set-consistenthash-perl) - consistent hashing library for Perl
+- [bradfitz/shipit](https://github.com/bradfitz/shipit) - Software Release Tool
+- [bradfitz/livejournal](https://github.com/bradfitz/livejournal) - LiveJournal Server Source Code (stale history from before it went closed-source)
 - [os-autoinst/openQA](https://github.com/os-autoinst/openQA) - openQA web-frontend, scheduler and tools.
 - [ag4ve/NF-Save](https://github.com/ag4ve/NF-Save) - Take in a data structure and output nf/iptables and ipset save data
 - [percona/percona-toolkit](https://github.com/percona/percona-toolkit) - Percona Toolkit: a collection of advanced open source command-line tools.
@@ -1822,6 +1904,13 @@
 
 ## Python 
 
+- [bradfitz/brackup-gae-server](https://github.com/bradfitz/brackup-gae-server) - Brackup server for Google App Engine
+- [bradfitz/scanningcabinet](https://github.com/bradfitz/scanningcabinet) - Document Management System (scanner -&gt; appengine blobs)
+- [bradfitz/python-tailscale](https://github.com/bradfitz/python-tailscale) - Asynchronous client for the Tailscale API.
+- [chiphuyen/lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
+- [danderson/py-remoteexec](https://github.com/danderson/py-remoteexec) - Remote Exec lets you ship python code to a remote machine and run it there, all without installing anything other than the standard Python interpreter on the server.
+- [danderson/nat-birthday-paradox](https://github.com/danderson/nat-birthday-paradox) - A small calculator (and associated demonstrative algorithm) for the birthday paradox applied to NAT traversal.
+- [SELinuxProject/selinux-notebook](https://github.com/SELinuxProject/selinux-notebook) - The SELinux Notebook
 - [storytold/cloud-worker](https://github.com/storytold/cloud-worker) - 
 - [OpenNebula/one-training-files](https://github.com/OpenNebula/one-training-files) - 
 - [OpenNebula/one-deploy](https://github.com/OpenNebula/one-deploy) - 
@@ -1843,7 +1932,7 @@
 - [pkic/pkimm](https://github.com/pkic/pkimm) - PKI Maturity Model
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV-Based Jellyfin Client with Offline Sync
 - [google/distributed_graph_flow](https://github.com/google/distributed_graph_flow) - A Python library to develop and deploy Graph Neural Network models.
-- [berylliumsec/nebula](https://github.com/berylliumsec/nebula) - AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis.
+- [berylliumsec/nebula](https://github.com/berylliumsec/nebula) - Cybersecurity Harness
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [skylines-project/skylines](https://github.com/skylines-project/skylines) - Open-source live tracking, flight database and competition platform for soaring pilots
 - [jyn514/pillar-of-autumn](https://github.com/jyn514/pillar-of-autumn) - Talk to a base model before it's been through post-training. Runs locally on your computer.
@@ -1974,6 +2063,7 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [SQLMesh/sqlmesh](https://github.com/SQLMesh/sqlmesh) - Scalable and efficient data transformation framework - backwards compatible with dbt.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [meshcore-dev/meshcore-cli](https://github.com/meshcore-dev/meshcore-cli) - Command line interface to MeshCore node
@@ -1998,6 +2088,7 @@
 - [elastic/security-docs](https://github.com/elastic/security-docs) - Elastic Security Documentation
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
 - [nvim-neotest/neotest-python](https://github.com/nvim-neotest/neotest-python) - 
+- [ereslibre/homeops](https://github.com/ereslibre/homeops) - Gitops for some home automation workloads
 - [fivetran/great_expectations](https://github.com/fivetran/great_expectations) - Always know what to expect from your data.
 - [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
@@ -2207,6 +2298,20 @@
 
 ## Rust 
 
+- [gosuda/zeroproxy](https://github.com/gosuda/zeroproxy) - Web-Based, Zero-Knowledge, Zero-Installation Proxy
+- [danderson/seccomp-sys](https://github.com/danderson/seccomp-sys) - low-level bindings to libseccomp
+- [kpcyrd/syscallz-rs](https://github.com/kpcyrd/syscallz-rs) - Simple seccomp library for rust
+- [LaurenzV/krilla](https://github.com/LaurenzV/krilla) - A high-level, ergonomic Rust library for creating PDF documents.
+- [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
+- [Shnatsel/bounds-check-cookbook](https://github.com/Shnatsel/bounds-check-cookbook) - Recipes for avoiding bounds checks in Rust, without unsafe!
+- [rust-secure-code/cargo-auditable](https://github.com/rust-secure-code/cargo-auditable) - Make production Rust binaries auditable
+- [197g/automata](https://github.com/197g/automata) - A rust library to model several different automata & algorithms
+- [197g/ethox](https://github.com/197g/ethox) - Ethox is a standalone network stack for user-space networking and unikernels
+- [197g/oxide-auth](https://github.com/197g/oxide-auth) - A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends.
+- [rust-secure-code/cargo-supply-chain](https://github.com/rust-secure-code/cargo-supply-chain) - Gather author, contributor and publisher data on crates in your dependency graph.
+- [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
+- [linebender/fearless_simd](https://github.com/linebender/fearless_simd) - 
+- [hyperlight-dev/hyperlight-unikraft](https://github.com/hyperlight-dev/hyperlight-unikraft) - Run ordinary Linux programs (e.g., Python, Node.js, .NET, Go, Bash) inside Hyperlight micro-VMs
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [storytold/craft-libs](https://github.com/storytold/craft-libs) - Rust libraries for the Craft Apps
 - [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
@@ -2654,8 +2759,10 @@
 
 ## Shell 
 
+- [ss18/grep-typos](https://github.com/ss18/grep-typos) - Quickly check your project for typos
 - [OpenNebula/minione](https://github.com/OpenNebula/minione) - Easy to use deployment tool for an OpenNebula evaluation environment
 - [OpenNebula/one-apps](https://github.com/OpenNebula/one-apps) - Toolchain to build OpenNebula appliances
+- [antithesishq/antithesis-skills](https://github.com/antithesishq/antithesis-skills) - AI Skills for Antithesis Users
 - [carlsverre/dotfiles](https://github.com/carlsverre/dotfiles) - My personal dotfiles repo
 - [digitorus/eramba](https://github.com/digitorus/eramba) - Dockerized Eramba, Open Source Governance, Risk & Compliance (GRC) system https://hub.docker.com/r/digitorus/er…
 - [jdoss/ppngx](https://github.com/jdoss/ppngx) - Podman + Paperless NGX
@@ -2713,7 +2820,6 @@
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [secure-agentic-framework/saf-agentic-use-cases](https://github.com/secure-agentic-framework/saf-agentic-use-cases) - A community-driven repository of industry and use-case analyses for agentic systems. Documents how ai agents can fail, and how those failures map to SAFE-MCP attack techniques.
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files
-- [ereslibre/homeops](https://github.com/ereslibre/homeops) - Gitops for some home automation workloads
 - [GrapheneOS/ns1.grapheneos.org](https://github.com/GrapheneOS/ns1.grapheneos.org) - Authoritative DNS servers
 - [rossella/vagrant](https://github.com/rossella/vagrant) - my vagrant configuration
 - [hlissner/zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
@@ -2796,6 +2902,7 @@
 
 ## TypeScript 
 
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [osbytes/crypt.fyi](https://github.com/osbytes/crypt.fyi) - Ephemeral, zero-knowledge, end-to-end post-quantum encrypted sensitive data sharing
@@ -3089,8 +3196,13 @@
 - [dialvarezs/neat-cv](https://github.com/dialvarezs/neat-cv) - A modern and elegant CV template for Typst, inspired by Awesome CV and simple-hipstercv.
 - [ptsouchlos/modern-cv](https://github.com/ptsouchlos/modern-cv) - A modern resume template written in Typst, inspired by Awesome-CV
 
+## Verilog 
+
+- [danderson/Learn_Bluespec_and_RISCV_Design](https://github.com/danderson/Learn_Bluespec_and_RISCV_Design) - Textbook and full source codes to learn basics of RISC-V pipelined CPU design using the Bluespec Hardware Design Language(s)
+
 ## Vim Script 
 
+- [gosuda/oxvim](https://github.com/gosuda/oxvim) - Neovim Rewritten in Rust — a Rust implementation of the Neovim core that preserves the Lua plugin ecosystem
 - [kaarmu/typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM

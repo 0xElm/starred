@@ -98,6 +98,7 @@
 
 ## C 
 
+- [dibsonthis/Vortex](https://github.com/dibsonthis/Vortex) - Vortex Programming Language
 - [danderson/nix-codelab](https://github.com/danderson/nix-codelab) - Codelab repo for Tailscale Nix training
 - [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
 - [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
@@ -159,7 +160,7 @@
 - [nemuTUI/nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.
 - [NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore) - Nagios Core
-- [skaiworldwide-oss/agensgraph](https://github.com/skaiworldwide-oss/agensgraph) - AgensGraph, a transactional graph database based on PostgreSQL
+- [skaiworldwide-oss/agensgraph](https://github.com/skaiworldwide-oss/agensgraph) - AgensGraph, a high performance transactional graph database based on PostgreSQL
 - [quixdb/squash-benchmark](https://github.com/quixdb/squash-benchmark) - Benchmarking all of the algorithms from Squash
 - [inikep/lzbench](https://github.com/inikep/lzbench) - lzbench is an in-memory benchmark of open-source compressors
 - [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
@@ -187,7 +188,7 @@
 - [concurrencykit/ck](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurr
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.
-- [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
+- [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection manager
 - [iproute2/iproute2](https://github.com/iproute2/iproute2) - Iproute2 Source Code Mirror - This is a publish-only repository. Please follow README.devel procedure for any changes.
 - [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
 - [nicolasff/webdis](https://github.com/nicolasff/webdis) - A Redis HTTP interface with JSON output
@@ -399,6 +400,11 @@
 
 ## Go 
 
+- [bazelbuild/reclient](https://github.com/bazelbuild/reclient) - 
+- [bazelbuild/bazel-toolchains](https://github.com/bazelbuild/bazel-toolchains) - Repository that hosts Bazel toolchain configs for remote execution and related support tools.
+- [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Tools for building Bazel targets when source files change.
+- [radkat/sonden](https://github.com/radkat/sonden) - If Sonos is playing audio, turn on my Denon amps.
+- [radkat/camlistore](https://github.com/radkat/camlistore) - Camlistore is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [bradfitz/rfbgo](https://github.com/bradfitz/rfbgo) - Toy RFB (VNC) Server in Go (#golang)
 - [bradfitz/powerview](https://github.com/bradfitz/powerview) - Control Hunter Douglas PowerView shades & blinds
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
@@ -1137,6 +1143,7 @@
 
 ## Haskell 
 
+- [neutronest/vortex](https://github.com/neutronest/vortex) - a Haskell implementation of Deep Learning frameworks.
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [wireapp/servant](https://github.com/wireapp/servant) - Main repository for the servant libraries -- DSL for describing, serving, querying, mocking, documenting web applications and more!
@@ -1184,6 +1191,8 @@
 
 ## Java 
 
+- [eaftan/safere](https://github.com/eaftan/safere) - A safe linear-time regular expression matching library for Java, based on RE2
+- [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [gosuda/jailscale](https://github.com/gosuda/jailscale) - Expose a local port to the internet over HTTPS: a hub holding one wildcard certificate, nodes that terminate TLS themselves.
 - [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 - [GrapheneOS/AttestationServer](https://github.com/GrapheneOS/AttestationServer) - attestation.app remote attestation server. Server code for use with the Auditor app: https://github.com/GrapheneOS/Auditor. It provides two services: submission of attestation data samples and a remot
@@ -1733,6 +1742,7 @@
 
 ## Others 
 
+- [laszlocsomor/proposals](https://github.com/laszlocsomor/proposals) - Index of all Bazel design documents and proposals
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [chiphuyen/dmls-book](https://github.com/chiphuyen/dmls-book) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
 - [danderson/packer](https://github.com/danderson/packer) - Pack a tree of files into a single binary, which expands on execution and executes a binary in the tree
@@ -1859,7 +1869,7 @@
 - [Boligforeningsweb/dansk-tech](https://github.com/Boligforeningsweb/dansk-tech) - 
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [facebook/open-graph-protocol](https://github.com/facebook/open-graph-protocol) - 
 - [grafana/grafana-foundation-sdk](https://github.com/grafana/grafana-foundation-sdk) - A set of tools, types and libraries for building and manipulating Grafana objects.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -1870,6 +1880,7 @@
 - [sivers/srs](https://github.com/sivers/srs) - Spaced Repetition in PostgreSQL functions
 - [hettie-d/pg_acm](https://github.com/hettie-d/pg_acm) - PostgreSQL access control management
 - [gerdemb/beanpost](https://github.com/gerdemb/beanpost) - An experiment in using PostgreSQL for accounting
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 
 ## Perl 
@@ -1904,6 +1915,8 @@
 
 ## Python 
 
+- [bazelbuild/bazel-bench](https://github.com/bazelbuild/bazel-bench) - Benchmarking tool for bazel
+- [thousandbrainsproject/tbp.teleop](https://github.com/thousandbrainsproject/tbp.teleop) - Visualize and teleoperate a Monty experiment in real-time
 - [bradfitz/brackup-gae-server](https://github.com/bradfitz/brackup-gae-server) - Brackup server for Google App Engine
 - [bradfitz/scanningcabinet](https://github.com/bradfitz/scanningcabinet) - Document Management System (scanner -&gt; appengine blobs)
 - [bradfitz/python-tailscale](https://github.com/bradfitz/python-tailscale) - Asynchronous client for the Tailscale API.
@@ -2504,7 +2517,7 @@
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
-- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
+- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast, Neuro-symbolic Data-Wrangling toolkit
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [kanidm/haproxy-protocol](https://github.com/kanidm/haproxy-protocol) - HAProxy Proxy Protocol implementation for servers in rust.
 - [kanidm/concread](https://github.com/kanidm/concread) - Concurrently Readable Data Structures for Rust
@@ -2678,7 +2691,7 @@
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
 - [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
+- [hotpath-rs/hotpath](https://github.com/hotpath-rs/hotpath) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [DataTreehouse/chrontext](https://github.com/DataTreehouse/chrontext) - 
 - [DataTreehouse/oxigraph](https://github.com/DataTreehouse/oxigraph) - SPARQL graph database
@@ -2726,7 +2739,6 @@
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [wharfix/wharfix](https://github.com/wharfix/wharfix) - 
 - [DBCDK/faythe](https://github.com/DBCDK/faythe) - 
-- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
@@ -2850,6 +2862,7 @@
 
 ## Starlark 
 
+- [bazel-contrib/rules_oci](https://github.com/bazel-contrib/rules_oci) - Bazel rules for building OCI containers
 - [tweag/rules_fawltydeps](https://github.com/tweag/rules_fawltydeps) - Fawltydeps rules(!) to keep your bazel python dependencies in check
 - [bazel-contrib/rules_python](https://github.com/bazel-contrib/rules_python) - Bazel Python Rules
 - [openconfig/gnoi](https://github.com/openconfig/gnoi) - gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.
@@ -2973,7 +2986,6 @@
 - [wireapp/wire-web-packages](https://github.com/wireapp/wire-web-packages) - Collection of npm modules created by Wire's web team.
 - [wireapp/wire-account](https://github.com/wireapp/wire-account) - Account verifications and forgotten passwords (https://wire-account-staging.zinfra.io/forgot/).
 - [Orva-Studio/hance](https://github.com/Orva-Studio/hance) - Film-grade your footage from the command line - built for humans and agents.
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [mintlify/mdx](https://github.com/mintlify/mdx) - Mintlify markdown parser
 - [attio/react-data-list](https://github.com/attio/react-data-list) - React Data List is a library which helps you build data arrays by expressing items declaratively using React components. It was built primarily for React Native, but should work anywhere.
@@ -3221,6 +3233,7 @@
 - [FoggedLens/deflock](https://github.com/FoggedLens/deflock) - Crowdsourced tool for locating and reporting ALPRs
 - [swiss/designsystem](https://github.com/swiss/designsystem) - Webguidelines Bund
 - [anoadragon453/ZeroLSTN](https://github.com/anoadragon453/ZeroLSTN) - A p2p music streaming website
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [ClickHouse/stockhouse](https://github.com/ClickHouse/stockhouse) - Stock and Crypto real-time market data visualization demo
 - [str4d/wage](https://github.com/str4d/wage) - A WASM package and web app for encrypting and decrypting age-encrypted files, powered by rage.
 

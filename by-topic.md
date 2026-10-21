@@ -305,6 +305,7 @@
 
 ## agent-skills 
 
+- [docker/skills](https://github.com/docker/skills) - A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows.
 - [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) - Publishes localhost services to the agentic web through self-hostable, trustless relays.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
@@ -387,6 +388,7 @@
 
 ## ai-agents 
 
+- [docker/skills](https://github.com/docker/skills) - A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
@@ -786,6 +788,7 @@
 
 ## claude-code 
 
+- [docker/skills](https://github.com/docker/skills) - A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
@@ -1114,8 +1117,6 @@
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) - Provides automated YAML management and a streamlit workbench. Designed to optimize dev workflows.
 - [DataRecce/recce](https://github.com/DataRecce/recce) - The data-validation toolkit for enhanced dbt (data build tool) PR review
-- [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility acr
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset
 - [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations.
 - [superdb/zui](https://github.com/superdb/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
@@ -1143,8 +1144,8 @@
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli) - Open-source data contract testing for Snowflake, Databricks, BigQuery, Kafka & 15 more. Built on the Open Data Contract Standard (ODCS). MIT.
 - [DataRecce/recce](https://github.com/DataRecce/recce) - The data-validation toolkit for enhanced dbt (data build tool) PR review
-- [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility acr
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset
+- [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer and quickstart for DataKitchen's open-source DataOps TestGen and DataOps Observability. Installs TestGen with Docker Compose or pip, Observability with Docker Compose.
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, CLI, and MCP
 - [fivetran/great_expectations](https://github.com/fivetran/great_expectations) - Always know what to expect from your data.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
@@ -1158,8 +1159,6 @@
 - [chiphuyen/lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [graphia-app/graphia](https://github.com/graphia-app/graphia) - A visualisation tool for the creation and analysis of graphs
-- [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility acr
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset
 - [fivetran/great_expectations](https://github.com/fivetran/great_expectations) - Always know what to expect from your data.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -1402,6 +1401,14 @@
 
 ## docker 
 
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+- [docker/skills](https://github.com/docker/skills) - A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows.
+- [docker/scout-cli](https://github.com/docker/scout-cli) - Docker Scout CLI
+- [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
+- [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [bazel-contrib/rules_oci](https://github.com/bazel-contrib/rules_oci) - Bazel rules for building OCI containers
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [Tymeslot/tymeslot](https://github.com/Tymeslot/tymeslot) - Open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-host or use the managed cloud at tymeslot.app.
@@ -1429,6 +1436,7 @@
 - [buildkite/agent](https://github.com/buildkite/agent) - The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network
 - [openebs/openebs](https://github.com/openebs/openebs) - A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
+- [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer and quickstart for DataKitchen's open-source DataOps TestGen and DataOps Observability. Installs TestGen with Docker Compose or pip, Observability with Docker Compose.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
@@ -1733,6 +1741,8 @@
 
 ## go 
 
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
 - [insomniacslk/dhcp](https://github.com/insomniacslk/dhcp) - DHCPv6 and DHCPv4 packet library, client and server written in Go
 - [antonmashko/taskq](https://github.com/antonmashko/taskq) - Golang goroutine manager.
@@ -1871,6 +1881,8 @@
 
 ## golang 
 
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [insomniacslk/dhcp](https://github.com/insomniacslk/dhcp) - DHCPv6 and DHCPv4 packet library, client and server written in Go
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [antonmashko/taskq](https://github.com/antonmashko/taskq) - Golang goroutine manager.
@@ -2066,6 +2078,9 @@
 
 ## hacktoberfest 
 
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
+- [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -2942,6 +2957,7 @@
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, CLI, and MCP
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
@@ -3348,6 +3364,15 @@
 
 ## others 
 
+- [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
+- [OpenSCAP/openscap](https://github.com/OpenSCAP/openscap) - NIST Certified SCAP 1.2 toolkit
+- [docker/oidc-action](https://github.com/docker/oidc-action) - Official OIDC action for authenticating with Docker
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner
+- [docker/sbx-kits-contrib](https://github.com/docker/sbx-kits-contrib) - Community repository for sbx kits
+- [docker/secrets-engine](https://github.com/docker/secrets-engine) - 
+- [docker/roadmap](https://github.com/docker/roadmap) - Welcome to the Public Roadmap for All Things Docker! We welcome your ideas.
+- [docker/sbx-releases](https://github.com/docker/sbx-releases) - Docker Sandboxes run AI coding agents in isolated environments on your machine or on Docker-managed cloud infrastructure
 - [neutronest/vortex](https://github.com/neutronest/vortex) - a Haskell implementation of Deep Learning frameworks.
 - [dibsonthis/Vortex](https://github.com/dibsonthis/Vortex) - Vortex Programming Language
 - [bazelbuild/reclient](https://github.com/bazelbuild/reclient) - 
@@ -4994,8 +5019,8 @@
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 - [Releem/releem-agent](https://github.com/Releem/releem-agent) - Releem is a database advisor for MySQL, MariaDB & PostgreSQL that provides automatic metrics analysis, actionable insights, and safe automation. It helps detect issues quickly, optimize performance co
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
-- [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility acr
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset
+- [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer and quickstart for DataKitchen's open-source DataOps TestGen and DataOps Observability. Installs TestGen with Docker Compose or pip, Observability with Docker Compose.
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, CLI, and MCP
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
@@ -5158,7 +5183,7 @@
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, CLI, and MCP
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [kiliantscherny/nordpy](https://github.com/kiliantscherny/nordpy) - A terminal UI for browsing and exporting your Nordnet portfolio data
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
@@ -5609,6 +5634,9 @@
 
 ## security 
 
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
+- [OpenSCAP/openscap-report](https://github.com/OpenSCAP/openscap-report) - Tool for generating a report from results of oscap scan.
+- [docker/scout-cli](https://github.com/docker/scout-cli) - Docker Scout CLI
 - [Snowflake-Labs/sansshell](https://github.com/Snowflake-Labs/sansshell) - A non-interactive daemon for host management
 - [rustsec/advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
@@ -5679,6 +5707,8 @@
 
 ## security-tools 
 
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
+- [OpenSCAP/openscap-report](https://github.com/OpenSCAP/openscap-report) - Tool for generating a report from results of oscap scan.
 - [rust-secure-code/cargo-auditable](https://github.com/rust-secure-code/cargo-auditable) - Make production Rust binaries auditable
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [osbytes/crypt.fyi](https://github.com/osbytes/crypt.fyi) - Ephemeral, zero-knowledge, end-to-end post-quantum encrypted sensitive data sharing
@@ -5720,8 +5750,8 @@
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [chr1sd/home-ops](https://github.com/chr1sd/home-ops) - The k8s, GitOps humble home lab.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
-- [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility acr
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset
+- [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer and quickstart for DataKitchen's open-source DataOps TestGen and DataOps Observability. Installs TestGen with Docker Compose or pip, Observability with Docker Compose.
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, CLI, and MCP
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini and open models on a full private AI Stack ♾️
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [getnao/nao](https://github.com/getnao/nao) - 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
@@ -6424,6 +6454,7 @@
 
 ## xml 
 
+- [OpenSCAP/openscap-report](https://github.com/OpenSCAP/openscap-report) - Tool for generating a report from results of oscap scan.
 - [JohnSundell/Plot](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML and RSS in Swift.
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.

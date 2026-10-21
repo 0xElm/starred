@@ -294,7 +294,7 @@
 - [mfontanini/libtins](https://github.com/mfontanini/libtins) - High-level, multiplatform C++ network packet sniffing and crafting library.
 - [tweag/pythonix](https://github.com/tweag/pythonix) - Eval nix code from python
 - [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [radarlabs/node-ip2location](https://github.com/radarlabs/node-ip2location) - Node.js addon module for IP2Location
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [sipsorcery/webrtc-interop](https://github.com/sipsorcery/webrtc-interop) - Simple useful interoperability tests for WebRTC libraries. If you are a WebRTC library developer we'd love to include you!
@@ -2239,7 +2239,7 @@
 
 ## QML 
 
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
+- [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 
 ## R 
 
@@ -2986,6 +2986,7 @@
 - [wireapp/wire-web-packages](https://github.com/wireapp/wire-web-packages) - Collection of npm modules created by Wire's web team.
 - [wireapp/wire-account](https://github.com/wireapp/wire-account) - Account verifications and forgotten passwords (https://wire-account-staging.zinfra.io/forgot/).
 - [Orva-Studio/hance](https://github.com/Orva-Studio/hance) - Film-grade your footage from the command line - built for humans and agents.
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [mintlify/mdx](https://github.com/mintlify/mdx) - Mintlify markdown parser
 - [attio/react-data-list](https://github.com/attio/react-data-list) - React Data List is a library which helps you build data arrays by expressing items declaratively using React components. It was built primarily for React Native, but should work anywhere.
@@ -3233,7 +3234,6 @@
 - [FoggedLens/deflock](https://github.com/FoggedLens/deflock) - Crowdsourced tool for locating and reporting ALPRs
 - [swiss/designsystem](https://github.com/swiss/designsystem) - Webguidelines Bund
 - [anoadragon453/ZeroLSTN](https://github.com/anoadragon453/ZeroLSTN) - A p2p music streaming website
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [ClickHouse/stockhouse](https://github.com/ClickHouse/stockhouse) - Stock and Crypto real-time market data visualization demo
 - [str4d/wage](https://github.com/str4d/wage) - A WASM package and web app for encrypting and decrypting age-encrypted files, powered by rage.
 

@@ -318,6 +318,7 @@
 
 ## CSS 
 
+- [OpenSCAP/openscap-report](https://github.com/OpenSCAP/openscap-report) - Tool for generating a report from results of oscap scan.
 - [mercenaruss/uzg-firmware](https://github.com/mercenaruss/uzg-firmware) - Firmware for ZigStar UZG-01
 - [Exodus-Privacy/website](https://github.com/Exodus-Privacy/website) - Website of non-profit Exodus Privacy
 - [DefinedNet/nebula-docs](https://github.com/DefinedNet/nebula-docs) - Documentation for the Nebula open source project
@@ -400,6 +401,17 @@
 
 ## Go 
 
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- [docker/sbx-kits-contrib](https://github.com/docker/sbx-kits-contrib) - Community repository for sbx kits
+- [docker/secrets-engine](https://github.com/docker/secrets-engine) - 
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+- [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
+- [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [bazelbuild/reclient](https://github.com/bazelbuild/reclient) - 
 - [bazelbuild/bazel-toolchains](https://github.com/bazelbuild/bazel-toolchains) - Repository that hosts Bazel toolchain configs for remote execution and related support tools.
 - [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Tools for building Bazel targets when source files change.
@@ -1441,7 +1453,6 @@
 - [hat0uma/csvview.nvim](https://github.com/hat0uma/csvview.nvim) - A Neovim plugin for CSV file editing.
 - [patrick-sharp/waypoint.nvim](https://github.com/patrick-sharp/waypoint.nvim) - 
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
-- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, omarchy and other config files and utility scripts.
 - [johnfrankmorgan/whitespace.nvim](https://github.com/johnfrankmorgan/whitespace.nvim) - A simple neovim plugin to highlight and remove trailing whitespace.
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [tjdevries/luai.nvim](https://github.com/tjdevries/luai.nvim) - Lua + AI = ???
@@ -1634,6 +1645,7 @@
 - [joshleecreates/nixos-proxmox](https://github.com/joshleecreates/nixos-proxmox) - 
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
 - [cafkafk/lir](https://github.com/cafkafk/lir) - Moved to private forgejo
+- [nixcloud/cargo](https://github.com/nixcloud/cargo) - The Rust package manager
 - [chris-martin/home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [juspay/jenkins-nix-ci](https://github.com/juspay/jenkins-nix-ci) - A NixOS module for Jenkins, optimized specifically for running projects using Nix.
@@ -1733,7 +1745,6 @@
 
 - [MobileNativeFoundation/bluepill](https://github.com/MobileNativeFoundation/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
 - [radarlabs/flutter-radar](https://github.com/radarlabs/flutter-radar) - Flutter package for Radar, the leading geofencing and location tracking platform
-- [radarlabs/react-native-radar](https://github.com/radarlabs/react-native-radar) - React Native module for Radar, the leading geofencing and location tracking platform
 - [olvid-io/AppAuth-iOS-for-Olvid](https://github.com/olvid-io/AppAuth-iOS-for-Olvid) - iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 
 ## OpenSCAD 
@@ -1742,6 +1753,8 @@
 
 ## Others 
 
+- [docker/roadmap](https://github.com/docker/roadmap) - Welcome to the Public Roadmap for All Things Docker! We welcome your ideas.
+- [docker/sbx-releases](https://github.com/docker/sbx-releases) - Docker Sandboxes run AI coding agents in isolated environments on your machine or on Docker-managed cloud infrastructure
 - [laszlocsomor/proposals](https://github.com/laszlocsomor/proposals) - Index of all Bazel design documents and proposals
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [chiphuyen/dmls-book](https://github.com/chiphuyen/dmls-book) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
@@ -1915,6 +1928,7 @@
 
 ## Python 
 
+- [docker/skills](https://github.com/docker/skills) - A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows.
 - [bazelbuild/bazel-bench](https://github.com/bazelbuild/bazel-bench) - Benchmarking tool for bazel
 - [thousandbrainsproject/tbp.teleop](https://github.com/thousandbrainsproject/tbp.teleop) - Visualize and teleoperate a Monty experiment in real-time
 - [bradfitz/brackup-gae-server](https://github.com/bradfitz/brackup-gae-server) - Brackup server for Google App Engine
@@ -2085,8 +2099,8 @@
 - [ceph/teuthology](https://github.com/ceph/teuthology) - Ceph test suite
 - [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) - Provides automated YAML management and a streamlit workbench. Designed to optimize dev workflows.
 - [DataKitchen/DKUtils](https://github.com/DataKitchen/DKUtils) - 
-- [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility acr
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset
+- [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer and quickstart for DataKitchen's open-source DataOps TestGen and DataOps Observability. Installs TestGen with Docker Compose or pip, Observability with Docker Compose.
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, CLI, and MCP
 - [databrickslabs/dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames and Tables
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [nyrkio/nyrkio](https://github.com/nyrkio/nyrkio) - Nyrkiö is an open source platform for detecting performance changes in a Continuous Performance Engineering workflow
@@ -2311,6 +2325,7 @@
 
 ## Rust 
 
+- [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [gosuda/zeroproxy](https://github.com/gosuda/zeroproxy) - Web-Based, Zero-Knowledge, Zero-Installation Proxy
 - [danderson/seccomp-sys](https://github.com/danderson/seccomp-sys) - low-level bindings to libseccomp
 - [kpcyrd/syscallz-rs](https://github.com/kpcyrd/syscallz-rs) - Simple seccomp library for rust
@@ -2524,7 +2539,6 @@
 - [kanidm/compact-jwt](https://github.com/kanidm/compact-jwt) - A minimal jwt implementation for OIDC
 - [cafkafk/navi](https://github.com/cafkafk/navi) - Specialized deployment tool for NixOS with persistent daemon architecture, integrated infrastructure provisioning (Terraform/Terranix), and TUI management. Forked from Colmena.
 - [cafkafk/arbejdstid](https://github.com/cafkafk/arbejdstid) - Moved to private forgejo
-- [nixcloud/cargo](https://github.com/nixcloud/cargo) - The Rust package manager
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [henriklovhaug/md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal
 - [BeechatNetworkSystemsLtd/Reticulum-rs](https://github.com/BeechatNetworkSystemsLtd/Reticulum-rs) - Reticulum Networking Stack implementation written in Rust
@@ -2771,6 +2785,7 @@
 
 ## Shell 
 
+- [docker/scout-cli](https://github.com/docker/scout-cli) - Docker Scout CLI
 - [ss18/grep-typos](https://github.com/ss18/grep-typos) - Quickly check your project for typos
 - [OpenNebula/minione](https://github.com/OpenNebula/minione) - Easy to use deployment tool for an OpenNebula evaluation environment
 - [OpenNebula/one-apps](https://github.com/OpenNebula/one-apps) - Toolchain to build OpenNebula appliances
@@ -2802,6 +2817,7 @@
 - [phozzy/nix-with-selinux](https://github.com/phozzy/nix-with-selinux) - this project has moved to a new repo. click the link below
 - [metal3-io/project-infra](https://github.com/metal3-io/project-infra) - Metal3 testing infrastructure configuration
 - [metal3-io/metal3-dev-env](https://github.com/metal3-io/metal3-dev-env) - Metal³ Development Environment
+- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, omarchy and other config files and utility scripts.
 - [perplexityai/webRTC](https://github.com/perplexityai/webRTC) - 
 - [wireapp/prebuilt-webrtc-binaries](https://github.com/wireapp/prebuilt-webrtc-binaries) - Prebuilt binaries for webrtc library
 - [wireapp/ansible-cassandra](https://github.com/wireapp/ansible-cassandra) - Ansible role to install an Apache Cassandra cluster
@@ -2915,6 +2931,7 @@
 
 ## TypeScript 
 
+- [docker/oidc-action](https://github.com/docker/oidc-action) - Official OIDC action for authenticating with Docker
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -3108,6 +3125,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [radarlabs/airport-map-demo](https://github.com/radarlabs/airport-map-demo) - Demo for drawing arcs with Radar maps
+- [radarlabs/react-native-radar](https://github.com/radarlabs/react-native-radar) - React Native module for Radar, the leading geofencing and location tracking platform
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [stripe/stripe-node](https://github.com/stripe/stripe-node) - Node.js library for the Stripe API.
 - [pavlealeksic/puppeteer-afp](https://github.com/pavlealeksic/puppeteer-afp) - Solution to stop sites from fingerprinting your puppeteer
@@ -3239,6 +3257,7 @@
 
 ## XSLT 
 
+- [OpenSCAP/openscap](https://github.com/OpenSCAP/openscap) - NIST Certified SCAP 1.2 toolkit
 - [CycloneDX/specification](https://github.com/CycloneDX/specification) - OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction. SBOM, SaaSBOM, HBOM, AI/ML-BOM, CBOM, OBOM, MBOM, VDR, and V
 
 ## YAML 

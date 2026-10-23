@@ -227,6 +227,7 @@
 - [robotics](#robotics)
 - [ruby](#ruby)
 - [rust](#rust)
+- [sass](#sass)
 - [scala](#scala)
 - [security](#security)
 - [security-tools](#security-tools)
@@ -314,6 +315,7 @@
 
 ## agents 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
@@ -329,6 +331,7 @@
 
 ## ai 
 
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
@@ -416,7 +419,7 @@
 
 ## analytics 
 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -708,6 +711,7 @@
 
 ## c 
 
+- [proxmox/pve-cluster](https://github.com/proxmox/pve-cluster) - Cluster FS and Tools
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [dylanaraps/dfm](https://github.com/dylanaraps/dfm) - Dylan's File Manager
@@ -811,6 +815,7 @@
 
 ## cli 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
 - [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo without leaving your CLI.
@@ -933,6 +938,7 @@
 
 ## cloud 
 
+- [proxmox/pve-ha-manager](https://github.com/proxmox/pve-ha-manager) - Proxmox VE High Availabillity Manager - read-only source mirror
 - [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
 - [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
@@ -972,6 +978,7 @@
 
 ## code-review 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [earendil-works/pi-review-loop](https://github.com/earendil-works/pi-review-loop) - A persistent incremental diff review loop for pi
 
@@ -1017,6 +1024,7 @@
 
 ## compiler 
 
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [briar-systems/mach](https://github.com/briar-systems/mach) - A systems programming language with no hidden behavior.
@@ -1145,7 +1153,7 @@
 - [datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli) - Open-source data contract testing for Snowflake, Databricks, BigQuery, Kafka & 15 more. Built on the Open Data Contract Standard (ODCS). MIT.
 - [DataRecce/recce](https://github.com/DataRecce/recce) - The data-validation toolkit for enhanced dbt (data build tool) PR review
 - [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer and quickstart for DataKitchen's open-source DataOps TestGen and DataOps Observability. Installs TestGen with Docker Compose or pip, Observability with Docker Compose.
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, CLI, and MCP
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, REST API, an
 - [fivetran/great_expectations](https://github.com/fivetran/great_expectations) - Always know what to expect from your data.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
@@ -1691,6 +1699,7 @@
 
 ## git 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [satococoa/wtp](https://github.com/satococoa/wtp) - 🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
@@ -1741,6 +1750,7 @@
 
 ## go 
 
+- [prometheus/procfs](https://github.com/prometheus/procfs) - procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
@@ -2052,6 +2062,7 @@
 
 ## gui 
 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview) - A standard Crossplane UI dashboard.
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
@@ -2267,6 +2278,7 @@
 
 ## html 
 
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [JohnSundell/Plot](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML and RSS in Swift.
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -2285,6 +2297,7 @@
 
 ## http 
 
+- [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
 - [ipfs/rainbow](https://github.com/ipfs/rainbow) - IPFS HTTP Gateway daemon in Go, tuned for public production traffic: retrieval only, no pinning, no providing
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
@@ -2733,6 +2746,7 @@
 
 ## llm 
 
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 - [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
@@ -2957,7 +2971,7 @@
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, CLI, and MCP
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, REST API, an
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
@@ -3364,6 +3378,22 @@
 
 ## others 
 
+- [matthiasr/openwrt-reconnect](https://github.com/matthiasr/openwrt-reconnect) - Simple CGI script to reconnect the WAN connection of an OpenWRT Kamikaze/Backfire router
+- [proxmox/pve-manager](https://github.com/proxmox/pve-manager) - Read-Only mirror of the Proxmox VE Managaer API and Web UI repository
+- [proxmox/pve-installer](https://github.com/proxmox/pve-installer) - Bare Metal Installer
+- [proxmox/ceph](https://github.com/proxmox/ceph) - 
+- [proxmox/pve-guest-common](https://github.com/proxmox/pve-guest-common) - 
+- [proxmox/pve-kernel](https://github.com/proxmox/pve-kernel) - Read-Only source code mirror, Proxmox uses mailing list workflow for development.
+- [proxmox/proxmox-yew-widget-toolkit](https://github.com/proxmox/proxmox-yew-widget-toolkit) - Read-Only Mirror of the Proxmox Widget Toolkit for Yew / rust
+- [proxmox/pve-http-server](https://github.com/proxmox/pve-http-server) - 
+- [proxmox/pve-yew-mobile-gui](https://github.com/proxmox/pve-yew-mobile-gui) - Read-Only Mirror of the mobile web UI fpr Proxmox VE based on Yew / rust
+- [proxmox/proxmox-websocket-tunnel](https://github.com/proxmox/proxmox-websocket-tunnel) - Read-only mirror for the Proxmox websocket tunnel written in rust.
+- [proxmox/pve-lxc-syscalld](https://github.com/proxmox/pve-lxc-syscalld) - 
+- [proxmox/lxc](https://github.com/proxmox/lxc) - 
+- [proxmox/pve-apiclient](https://github.com/proxmox/pve-apiclient) - Read-Only mirror of perl API client library
+- [proxmox/pve-storage](https://github.com/proxmox/pve-storage) - Read-Only Mirror of the Proxmox VE Storage Library
+- [proxmox/pve-network](https://github.com/proxmox/pve-network) - 
+- [aldevv/katac](https://github.com/aldevv/katac) - 
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [OpenSCAP/openscap](https://github.com/OpenSCAP/openscap) - NIST Certified SCAP 1.2 toolkit
 - [docker/oidc-action](https://github.com/docker/oidc-action) - Official OIDC action for authenticating with Docker
@@ -3860,7 +3890,7 @@
 - [allure-framework/allure-python](https://github.com/allure-framework/allure-python) - Allure integrations for Python test frameworks
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [xit-vcs/xit](https://github.com/xit-vcs/xit) - a git alternative written in zig
-- [xit-vcs/haxy](https://github.com/xit-vcs/haxy) - a git forge from the future-past
+- [xit-vcs/haxy](https://github.com/xit-vcs/haxy) - a git forge that is local-first and text-based
 - [xit-vcs/xitdb](https://github.com/xit-vcs/xitdb) - an immutable database for zig
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [kernelslacker/trinity](https://github.com/kernelslacker/trinity) - Linux system call fuzzer
@@ -4965,6 +4995,14 @@
 
 ## perl 
 
+- [proxmox/pve-common](https://github.com/proxmox/pve-common) - Proxmox Project's Common Perl Code
+- [proxmox/pve-zsync](https://github.com/proxmox/pve-zsync) - 
+- [proxmox/pve-firewall](https://github.com/proxmox/pve-firewall) - Firewall test scripts
+- [proxmox/pve-access-control](https://github.com/proxmox/pve-access-control) - Access control framework
+- [proxmox/pve-ha-manager](https://github.com/proxmox/pve-ha-manager) - Proxmox VE High Availabillity Manager - read-only source mirror
+- [proxmox/pve-container](https://github.com/proxmox/pve-container) - Proxmox VE container manager & runtime - read-only mirror
+- [proxmox/qemu-server](https://github.com/proxmox/qemu-server) - Proxmox VE's Virtual Machine Manager
+- [proxmox/pve-cluster](https://github.com/proxmox/pve-cluster) - Cluster FS and Tools
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [os-autoinst/openQA](https://github.com/os-autoinst/openQA) - openQA web-frontend, scheduler and tools.
 - [ag4ve/NF-Save](https://github.com/ag4ve/NF-Save) - Take in a data structure and output nf/iptables and ipset save data
@@ -5020,7 +5058,7 @@
 - [Releem/releem-agent](https://github.com/Releem/releem-agent) - Releem is a database advisor for MySQL, MariaDB & PostgreSQL that provides automatic metrics analysis, actionable insights, and safe automation. It helps detect issues quickly, optimize performance co
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer and quickstart for DataKitchen's open-source DataOps TestGen and DataOps Observability. Installs TestGen with Docker Compose or pip, Observability with Docker Compose.
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, CLI, and MCP
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, REST API, an
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
@@ -5102,6 +5140,7 @@
 
 ## programming-language 
 
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [briar-systems/mach](https://github.com/briar-systems/mach) - A systems programming language with no hidden behavior.
 - [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
@@ -5112,6 +5151,7 @@
 
 ## prompt-engineering 
 
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
@@ -5183,7 +5223,7 @@
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, CLI, and MCP
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, REST API, an
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [kiliantscherny/nordpy](https://github.com/kiliantscherny/nordpy) - A terminal UI for browsing and exporting your Nordnet portfolio data
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
@@ -5430,6 +5470,12 @@
 
 ## rust 
 
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
+- [proxmox/proxmox-fuse-rs](https://github.com/proxmox/proxmox-fuse-rs) - Filesystem in Userspace bindings for rust
+- [proxmox/pxar](https://github.com/proxmox/pxar) - Proxmox Archive Format Implementation
+- [proxmox/pathpatterns-rs](https://github.com/proxmox/pathpatterns-rs) - Crate for path (filter) patterns
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
+- [proxmox/proxmox-backup](https://github.com/proxmox/proxmox-backup) - Proxmox Backup Server and Client - read only mirror
 - [gosuda/oxvim](https://github.com/gosuda/oxvim) - Neovim Rewritten in Rust — a Rust implementation of the Neovim core that preserves the Lua plugin ecosystem
 - [kpcyrd/syscallz-rs](https://github.com/kpcyrd/syscallz-rs) - Simple seccomp library for rust
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
@@ -5626,6 +5672,10 @@
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [threema-ch/push-relay](https://github.com/threema-ch/push-relay) - Relay service for Threema Web push notifications.
 
+## sass 
+
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
+
 ## scala 
 
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
@@ -5634,6 +5684,7 @@
 
 ## security 
 
+- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [OpenSCAP/openscap-report](https://github.com/OpenSCAP/openscap-report) - Tool for generating a report from results of oscap scan.
 - [docker/scout-cli](https://github.com/docker/scout-cli) - Docker Scout CLI
@@ -5751,7 +5802,7 @@
 - [chr1sd/home-ops](https://github.com/chr1sd/home-ops) - The k8s, GitOps humble home lab.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer and quickstart for DataKitchen's open-source DataOps TestGen and DataOps Observability. Installs TestGen with Docker Compose or pip, Observability with Docker Compose.
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, CLI, and MCP
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, REST API, an
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini and open models on a full private AI Stack ♾️
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [getnao/nao](https://github.com/getnao/nao) - 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
@@ -5936,7 +5987,7 @@
 
 ## statistics 
 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [cdzombak/golang-moving-average](https://github.com/cdzombak/golang-moving-average) - Moving average/median/stats implementation for Go
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast, Neuro-symbolic Data-Wrangling toolkit
@@ -5992,6 +6043,7 @@
 
 ## terminal 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
@@ -6113,6 +6165,7 @@
 
 ## tui 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
 - [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo without leaving your CLI.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
@@ -6371,6 +6424,7 @@
 
 ## web 
 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [197g/oxide-auth](https://github.com/197g/oxide-auth) - A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.

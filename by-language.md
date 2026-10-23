@@ -232,7 +232,6 @@
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [signalapp/Signal-Pods](https://github.com/signalapp/Signal-Pods) - Pods dependency tracker for Signal-iOS
 
 ## C# # 
 
@@ -401,6 +400,7 @@
 
 ## Go 
 
+- [aldevv/katac](https://github.com/aldevv/katac) - 
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
 - [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI
@@ -1094,7 +1094,6 @@
 ## Groovy 
 
 - [swiss/gitops.trustbroker.swiss](https://github.com/swiss/gitops.trustbroker.swiss) - Demo configuration for a localhost setup for a trustbroker.swiss playground
-- [sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3) - Dockerized version of Nexus Repo Manager 3
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A workflow language for data-driven computational pipelines
 
 ## HCL 
@@ -1155,6 +1154,7 @@
 
 ## Haskell 
 
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [neutronest/vortex](https://github.com/neutronest/vortex) - a Haskell implementation of Deep Learning frameworks.
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
@@ -1217,6 +1217,7 @@
 - [dbeaver/dbeaver-common](https://github.com/dbeaver/dbeaver-common) - Common utils and dependencies for all DBeaver projects
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [dqops/dqo](https://github.com/dqops/dqo) - Data Quality and Observability platform for the whole data lifecycle, from profiling new data sources to full automation with Data Observability. Configure data quality checks from the UI or in YAML f
+- [sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3) - Dockerized version of Nexus Repo Manager 3
 - [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror
 - [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data
 - [MarquezProject/marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata
@@ -1233,6 +1234,7 @@
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
 - [moxie0/dropwizard](https://github.com/moxie0/dropwizard) - A damn simple library for building production-ready RESTful web services.
+- [radarlabs/flutter-radar](https://github.com/radarlabs/flutter-radar) - Flutter package for Radar, the leading geofencing and location tracking platform
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [ConfigHubPub/Database-Manager](https://github.com/ConfigHubPub/Database-Manager) - Manage ConfigHub database migration to the latest version
 - [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
@@ -1744,7 +1746,6 @@
 ## Objective-C 
 
 - [MobileNativeFoundation/bluepill](https://github.com/MobileNativeFoundation/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
-- [radarlabs/flutter-radar](https://github.com/radarlabs/flutter-radar) - Flutter package for Radar, the leading geofencing and location tracking platform
 - [olvid-io/AppAuth-iOS-for-Olvid](https://github.com/olvid-io/AppAuth-iOS-for-Olvid) - iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 
 ## OpenSCAD 
@@ -1928,6 +1929,7 @@
 
 ## Python 
 
+- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
 - [docker/skills](https://github.com/docker/skills) - A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows.
 - [bazelbuild/bazel-bench](https://github.com/bazelbuild/bazel-bench) - Benchmarking tool for bazel
 - [thousandbrainsproject/tbp.teleop](https://github.com/thousandbrainsproject/tbp.teleop) - Visualize and teleoperate a Monty experiment in real-time
@@ -2100,7 +2102,7 @@
 - [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) - Provides automated YAML management and a streamlit workbench. Designed to optimize dev workflows.
 - [DataKitchen/DKUtils](https://github.com/DataKitchen/DKUtils) - 
 - [DataKitchen/data-observability-installer](https://github.com/DataKitchen/data-observability-installer) - Installer and quickstart for DataKitchen's open-source DataOps TestGen and DataOps Observability. Installs TestGen with Docker Compose or pip, Observability with Docker Compose.
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, CLI, and MCP
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, REST API, an
 - [databrickslabs/dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames and Tables
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [nyrkio/nyrkio](https://github.com/nyrkio/nyrkio) - Nyrkiö is an open source platform for detecting performance changes in a Continuous Performance Engineering workflow
@@ -2907,6 +2909,7 @@
 - [olvid-io/olvid-ios](https://github.com/olvid-io/olvid-ios) - Olvid client application for iOS
 - [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) - Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk.
 - [threema-ch/threema-ios](https://github.com/threema-ch/threema-ios) - Threema App for iOS.
+- [signalapp/Signal-Pods](https://github.com/signalapp/Signal-Pods) - Pods dependency tracker for Signal-iOS
 
 ## TLA 
 
@@ -2931,6 +2934,7 @@
 
 ## TypeScript 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [docker/oidc-action](https://github.com/docker/oidc-action) - Official OIDC action for authenticating with Docker
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
@@ -2962,7 +2966,7 @@
 - [earendil-works/pi-review-loop](https://github.com/earendil-works/pi-review-loop) - A persistent incremental diff review loop for pi
 - [ogulcancelik/pi-extensions](https://github.com/ogulcancelik/pi-extensions) - Extensions for pi, the terminal-based coding agent
 - [ShokoAnime/Shoko-WebUI](https://github.com/ShokoAnime/Shoko-WebUI) - Repository for the Web UI used in Shoko Server.
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [chiriapp/chiri](https://github.com/chiriapp/chiri) - 🍃 Cross-platform CalDAV task management app.
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client

@@ -87,6 +87,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -1409,6 +1410,7 @@
 
 ## docker 
 
+- [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-
 - [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
@@ -1548,6 +1550,10 @@
 - [swiss/fch-monitoring](https://github.com/swiss/fch-monitoring) - dotnet library for FOITT compatible health checks
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [ForNeVeR/Cesium](https://github.com/ForNeVeR/Cesium) - C compiler for the CLI platform
+
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## dsh-plugin 
 
@@ -3326,6 +3332,7 @@
 
 ## open-source 
 
+- [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-
 - [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
 - [skylines-project/skylines](https://github.com/skylines-project/skylines) - Open-source live tracking, flight database and competition platform for soaring pilots
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
@@ -3378,6 +3385,7 @@
 
 ## others 
 
+- [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
 - [matthiasr/openwrt-reconnect](https://github.com/matthiasr/openwrt-reconnect) - Simple CGI script to reconnect the WAN connection of an OpenWRT Kamikaze/Backfire router
 - [proxmox/pve-manager](https://github.com/proxmox/pve-manager) - Read-Only mirror of the Proxmox VE Managaer API and Web UI repository
 - [proxmox/pve-installer](https://github.com/proxmox/pve-installer) - Bare Metal Installer
@@ -3791,7 +3799,6 @@
 - [elastic/tk-btf](https://github.com/elastic/tk-btf) - 
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [NLnetLabs/nsd](https://github.com/NLnetLabs/nsd) - The NLnet Labs Name Server Daemon (NSD) is an authoritative, RFC compliant DNS nameserver.
-- [OpenRouterTeam/tool-calling](https://github.com/OpenRouterTeam/tool-calling) - Tool calling demo for OpenRouter
 - [jeff-bruemmer/vaporwair](https://github.com/jeff-bruemmer/vaporwair) - Fast weather and air quality reports.
 - [matrix-org/matrix-analytics-events](https://github.com/matrix-org/matrix-analytics-events) - Cross-platform definitions of analytics events raised by matrix SDKs
 - [matrix-org/seshat](https://github.com/matrix-org/seshat) - A Matrix message database/indexer
@@ -5163,6 +5170,7 @@
 
 ## python 
 
+- [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-
 - [chiphuyen/lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [georgekobaidze/neuralhats](https://github.com/georgekobaidze/neuralhats) - Six AI personas debate any topic using Edward de Bono's Six Thinking Hats framework. Powered by Gemma 4 via Ollama. Runs fully local.
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application

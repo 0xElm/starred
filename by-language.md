@@ -98,6 +98,8 @@
 
 ## C 
 
+- [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
+- [proxmox/pve-cluster](https://github.com/proxmox/pve-cluster) - Cluster FS and Tools
 - [dibsonthis/Vortex](https://github.com/dibsonthis/Vortex) - Vortex Programming Language
 - [danderson/nix-codelab](https://github.com/danderson/nix-codelab) - Codelab repo for Tailscale Nix training
 - [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
@@ -248,6 +250,7 @@
 
 ## C++ 
 
+- [proxmox/ceph](https://github.com/proxmox/ceph) - 
 - [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for Observability, Network, GPU & General Extensions Framework
 - [kismetwireless/kismet](https://github.com/kismetwireless/kismet) - Github mirror of official Kismet repository
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
@@ -400,6 +403,7 @@
 
 ## Go 
 
+- [prometheus/procfs](https://github.com/prometheus/procfs) - procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
 - [aldevv/katac](https://github.com/aldevv/katac) - 
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
@@ -1247,6 +1251,7 @@
 
 ## JavaScript 
 
+- [proxmox/pve-manager](https://github.com/proxmox/pve-manager) - Read-Only mirror of the Proxmox VE Managaer API and Web UI repository
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
@@ -1580,6 +1585,8 @@
 
 ## Makefile 
 
+- [proxmox/pve-kernel](https://github.com/proxmox/pve-kernel) - Read-Only source code mirror, Proxmox uses mailing list workflow for development.
+- [proxmox/lxc](https://github.com/proxmox/lxc) - 
 - [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collaborative list of awesome Zig libraries and resources.
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [kubernetes-up-and-running/dockerfiles](https://github.com/kubernetes-up-and-running/dockerfiles) - 
@@ -1754,6 +1761,7 @@
 
 ## Others 
 
+- [matthiasr/openwrt-reconnect](https://github.com/matthiasr/openwrt-reconnect) - Simple CGI script to reconnect the WAN connection of an OpenWRT Kamikaze/Backfire router
 - [docker/roadmap](https://github.com/docker/roadmap) - Welcome to the Public Roadmap for All Things Docker! We welcome your ideas.
 - [docker/sbx-releases](https://github.com/docker/sbx-releases) - Docker Sandboxes run AI coding agents in isolated environments on your machine or on Docker-managed cloud infrastructure
 - [laszlocsomor/proposals](https://github.com/laszlocsomor/proposals) - Index of all Bazel design documents and proposals
@@ -1899,6 +1907,18 @@
 
 ## Perl 
 
+- [proxmox/pve-guest-common](https://github.com/proxmox/pve-guest-common) - 
+- [proxmox/pve-common](https://github.com/proxmox/pve-common) - Proxmox Project's Common Perl Code
+- [proxmox/pve-http-server](https://github.com/proxmox/pve-http-server) - 
+- [proxmox/pve-zsync](https://github.com/proxmox/pve-zsync) - 
+- [proxmox/pve-apiclient](https://github.com/proxmox/pve-apiclient) - Read-Only mirror of perl API client library
+- [proxmox/pve-firewall](https://github.com/proxmox/pve-firewall) - Firewall test scripts
+- [proxmox/pve-access-control](https://github.com/proxmox/pve-access-control) - Access control framework
+- [proxmox/pve-storage](https://github.com/proxmox/pve-storage) - Read-Only Mirror of the Proxmox VE Storage Library
+- [proxmox/pve-network](https://github.com/proxmox/pve-network) - 
+- [proxmox/pve-ha-manager](https://github.com/proxmox/pve-ha-manager) - Proxmox VE High Availabillity Manager - read-only source mirror
+- [proxmox/pve-container](https://github.com/proxmox/pve-container) - Proxmox VE container manager & runtime - read-only mirror
+- [proxmox/qemu-server](https://github.com/proxmox/qemu-server) - Proxmox VE's Virtual Machine Manager
 - [bradfitz/hubbub-hub](https://github.com/bradfitz/hubbub-hub) - A PubSubHubbub hub implementation
 - [bradfitz/talk-gluecon-2010](https://github.com/bradfitz/talk-gluecon-2010) - Slides & code samples from my Gluecon 2010 talk
 - [bradfitz/set-consistenthash-perl](https://github.com/bradfitz/set-consistenthash-perl) - consistent hashing library for Perl
@@ -2327,6 +2347,17 @@
 
 ## Rust 
 
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
+- [proxmox/proxmox-fuse-rs](https://github.com/proxmox/proxmox-fuse-rs) - Filesystem in Userspace bindings for rust
+- [proxmox/pve-installer](https://github.com/proxmox/pve-installer) - Bare Metal Installer
+- [proxmox/proxmox-yew-widget-toolkit](https://github.com/proxmox/proxmox-yew-widget-toolkit) - Read-Only Mirror of the Proxmox Widget Toolkit for Yew / rust
+- [proxmox/pxar](https://github.com/proxmox/pxar) - Proxmox Archive Format Implementation
+- [proxmox/pve-yew-mobile-gui](https://github.com/proxmox/pve-yew-mobile-gui) - Read-Only Mirror of the mobile web UI fpr Proxmox VE based on Yew / rust
+- [proxmox/pathpatterns-rs](https://github.com/proxmox/pathpatterns-rs) - Crate for path (filter) patterns
+- [proxmox/proxmox-websocket-tunnel](https://github.com/proxmox/proxmox-websocket-tunnel) - Read-only mirror for the Proxmox websocket tunnel written in rust.
+- [proxmox/pve-lxc-syscalld](https://github.com/proxmox/pve-lxc-syscalld) - 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
+- [proxmox/proxmox-backup](https://github.com/proxmox/proxmox-backup) - Proxmox Backup Server and Client - read only mirror
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [gosuda/zeroproxy](https://github.com/gosuda/zeroproxy) - Web-Based, Zero-Knowledge, Zero-Installation Proxy
 - [danderson/seccomp-sys](https://github.com/danderson/seccomp-sys) - low-level bindings to libseccomp
@@ -2979,7 +3010,6 @@
 - [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian
 - [ebullient/obsidian-slides-extended](https://github.com/ebullient/obsidian-slides-extended) - Create markdown-based reveal.js presentations in Obsidian
 - [schristoff/pepr](https://github.com/schristoff/pepr) - Type safe K8s middleware for humans
-- [OpenRouterTeam/tool-calling](https://github.com/OpenRouterTeam/tool-calling) - Tool calling demo for OpenRouter
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [localazy/strapi-plugin](https://github.com/localazy/strapi-plugin) - The official Strapi Plugin by Localazy
@@ -3284,7 +3314,7 @@
 - [ringtailsoftware/misshod](https://github.com/ringtailsoftware/misshod) - MiSSHod is a minimal, experimental SSH client and server implemented as a library
 - [midasdf/sshz](https://github.com/midasdf/sshz) - Lightweight SSH management TUI written in Zig with ZigZag. ~260KB static binary.
 - [xit-vcs/xit](https://github.com/xit-vcs/xit) - a git alternative written in zig
-- [xit-vcs/haxy](https://github.com/xit-vcs/haxy) - a git forge from the future-past
+- [xit-vcs/haxy](https://github.com/xit-vcs/haxy) - a git forge that is local-first and text-based
 - [xit-vcs/xitdb](https://github.com/xit-vcs/xitdb) - an immutable database for zig
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.

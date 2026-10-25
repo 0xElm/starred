@@ -3385,6 +3385,10 @@
 
 ## others 
 
+- [varnish/varnish](https://github.com/varnish/varnish) - Varnish Cache
+- [corelight/ecs-dashboards](https://github.com/corelight/ecs-dashboards) - 
+- [corelight/packet_replay](https://github.com/corelight/packet_replay) - Send pcaps via GENEVE or VXLAN tunnels
+- [corelight/CorelightForSentinelOne](https://github.com/corelight/CorelightForSentinelOne) - Corelight Dashboards and Parsers for Sentinel One Singularity
 - [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
 - [matthiasr/openwrt-reconnect](https://github.com/matthiasr/openwrt-reconnect) - Simple CGI script to reconnect the WAN connection of an OpenWRT Kamikaze/Backfire router
 - [proxmox/pve-manager](https://github.com/proxmox/pve-manager) - Read-Only mirror of the Proxmox VE Managaer API and Web UI repository

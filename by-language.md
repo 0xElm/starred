@@ -98,6 +98,7 @@
 
 ## C 
 
+- [varnish/varnish](https://github.com/varnish/varnish) - Varnish Cache
 - [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
 - [proxmox/pve-cluster](https://github.com/proxmox/pve-cluster) - Cluster FS and Tools
 - [dibsonthis/Vortex](https://github.com/dibsonthis/Vortex) - Vortex Programming Language
@@ -2462,7 +2463,7 @@
 - [dekobon/big-code-analysis](https://github.com/dekobon/big-code-analysis) - Tool to report source code metrics
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [qt/qtbridge-rust](https://github.com/qt/qtbridge-rust) - Qt Bridge for Rust. Qt Bridges enables developers to provide application logic written in a foreign language to Qt Quick applications by offering a simple API that follows the target language’s style 
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% l
 - [t4t5/caldir](https://github.com/t4t5/caldir) - your calendar as a directory
 - [ClickHouse/wal-rus](https://github.com/ClickHouse/wal-rus) - rust port derived from wal-g
 - [iximiuz/pq](https://github.com/iximiuz/pq) - Parse and Query log files as time series

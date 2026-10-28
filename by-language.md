@@ -98,6 +98,8 @@
 
 ## C 
 
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [califio/publications](https://github.com/califio/publications) - Publications from Calif
 - [varnish/varnish](https://github.com/varnish/varnish) - Varnish Cache
 - [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
 - [proxmox/pve-cluster](https://github.com/proxmox/pve-cluster) - Cluster FS and Tools
@@ -250,6 +252,8 @@
 
 ## C++ 
 
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+- [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [proxmox/ceph](https://github.com/proxmox/ceph) - 
 - [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for Observability, Network, GPU & General Extensions Framework
 - [kismetwireless/kismet](https://github.com/kismetwireless/kismet) - Github mirror of official Kismet repository
@@ -364,6 +368,7 @@
 ## Dockerfile 
 
 - [digitalocean/doks-debug](https://github.com/digitalocean/doks-debug) - A Docker image with Kubernetes manifests for investigation and troubleshooting.
+- [rancherlabs/swiss-army-knife-v2](https://github.com/rancherlabs/swiss-army-knife-v2) - 
 - [yaronr/dockerfile](https://github.com/yaronr/dockerfile) - My beloved Dockerfiles
 - [buildkite/python-docker-example](https://github.com/buildkite/python-docker-example) - An example pipeline that runs Python tests inside a Docker container using uv for dependency management.
 - [open-telemetry/build-tools](https://github.com/open-telemetry/build-tools) - Building tools provided by OpenTelemetry
@@ -403,6 +408,14 @@
 
 ## Go 
 
+- [entireio/auth-go](https://github.com/entireio/auth-go) - Shareable Go OAuth 2.0 client library for CLIs: RFC 8628 device flow, RFC 8693 token exchange, token storage, and the orchestration layer that ties them together.
+- [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
+- [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
+- [entireio/entire-brain](https://github.com/entireio/entire-brain) - 🧠 The memory layer for your Git repository. Turn retained agent sessions, checkpoint history, docs, code structure, and durable facts into something you and your coding agents can actually query.
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+- [Bren2010/katie](https://github.com/Bren2010/katie) - A simple transparency server implementation.
+- [bazel-contrib/buildtools](https://github.com/bazel-contrib/buildtools) - A bazel BUILD file formatter and editor
+- [signalapp/key-transparency-server](https://github.com/signalapp/key-transparency-server) - Key transparency server
 - [prometheus/procfs](https://github.com/prometheus/procfs) - procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
 - [aldevv/katac](https://github.com/aldevv/katac) - 
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
@@ -716,7 +729,7 @@
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland's public transport timetables, inspidered by the SBB/CFF/FFS app
-- [mickamy/sql-tap](https://github.com/mickamy/sql-tap) - Watch SQL traffic in real-time with a TUI
+- [proto-tap/sql-tap](https://github.com/proto-tap/sql-tap) - Watch SQL traffic in real-time with a TUI
 - [enix/x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter) - A Prometheus exporter for X.509 certificates, built for Kubernetes first but equally happy as a standalone binary
 - [lenaxia/k8s-mechanic](https://github.com/lenaxia/k8s-mechanic) - A K8s controller that watches your cluster for failures and opens pull requests on your GitOps repository with fixes. Security is a first class citizen, and it runs in-cluster with read-only RBAC, red
 - [kubernetes-sigs/container-object-storage-interface](https://github.com/kubernetes-sigs/container-object-storage-interface) - Container Object Storage Interface (COSI) responsible for defining COSI spec and APIs, interfacing with COSI drivers, and managing the lifecycle of COSI objects.
@@ -1207,6 +1220,8 @@
 
 ## Java 
 
+- [califio/keycloak-recaptcha-password-defense](https://github.com/califio/keycloak-recaptcha-password-defense) - Drop-in provider for Keycloak 22+ that detects password leaks and breached credentials with Google reCAPTCHA Enterprise – Password Defense
+- [neo4j/graph-data-science](https://github.com/neo4j/graph-data-science) - Source code for the Neo4j Graph Data Science library of graph algorithms.
 - [eaftan/safere](https://github.com/eaftan/safere) - A safe linear-time regular expression matching library for Java, based on RE2
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [gosuda/jailscale](https://github.com/gosuda/jailscale) - Expose a local port to the internet over HTTPS: a hub holding one wildcard certificate, nodes that terminate TLS themselves.
@@ -1585,6 +1600,7 @@
 
 ## Makefile 
 
+- [mlswg/mls-virtual-clients](https://github.com/mlswg/mls-virtual-clients) - 
 - [proxmox/pve-kernel](https://github.com/proxmox/pve-kernel) - Read-Only source code mirror, Proxmox uses mailing list workflow for development.
 - [proxmox/lxc](https://github.com/proxmox/lxc) - 
 - [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collaborative list of awesome Zig libraries and resources.
@@ -1592,7 +1608,6 @@
 - [kubernetes-up-and-running/dockerfiles](https://github.com/kubernetes-up-and-running/dockerfiles) - 
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
-- [rancherlabs/swiss-army-knife-v2](https://github.com/rancherlabs/swiss-army-knife-v2) - 
 - [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
 - [open-telemetry/opentelemetry-proto](https://github.com/open-telemetry/opentelemetry-proto) - OpenTelemetry protocol (OTLP) specification and Protobuf definitions
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
@@ -1732,7 +1747,6 @@
 
 ## Nushell 
 
-- [WorldOfZero/homelab](https://github.com/WorldOfZero/homelab) - World of Zero Homelab Config
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 
 ## OCaml 
@@ -1761,6 +1775,8 @@
 
 ## Others 
 
+- [sazabi/cve.now](https://github.com/sazabi/cve.now) - A free, public vulnerability feed: CVE, GHSA, OSV, CISA KEV and EPSS merged into one entry per vulnerability. RSS, JSON API and MCP. Docs and issues only.
+- [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) - ⟠ A curated list of awesome Solidity resources, libraries, tools and more
 - [corelight/ecs-dashboards](https://github.com/corelight/ecs-dashboards) - 
 - [corelight/CorelightForSentinelOne](https://github.com/corelight/CorelightForSentinelOne) - Corelight Dashboards and Parsers for Sentinel One Singularity
 - [matthiasr/openwrt-reconnect](https://github.com/matthiasr/openwrt-reconnect) - Simple CGI script to reconnect the WAN connection of an OpenWRT Kamikaze/Backfire router
@@ -1952,6 +1968,16 @@
 
 ## Python 
 
+- [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interf
+- [califio/ngxray](https://github.com/califio/ngxray) - ngxray — nginx config security scanner
+- [trailofbits/buttercup](https://github.com/trailofbits/buttercup) - Buttercup finds and patches software vulnerabilities
+- [trailofbits/deptective](https://github.com/trailofbits/deptective) - Deptective automatically determines the native dependencies required to run any arbitrary program or command.
+- [trailofbits/pylock-attestations](https://github.com/trailofbits/pylock-attestations) - CLI tool to add attestation identities to `pylock.toml` files
+- [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
+- [trailofbits/dropkit](https://github.com/trailofbits/dropkit) - A CLI tool for managing DigitalOcean droplets with automated setup, SSH configuration, and lifecycle management.
+- [trailofbits/brotli-checker](https://github.com/trailofbits/brotli-checker) - Claude Code and Codex skill for finding potentially vulnerable Brotli copies and guiding updates for CVE-2026-111497.
+- [trailofbits/trailmark](https://github.com/trailofbits/trailmark) - Build and query a graph database representation of source code
+- [trailofbits/publications](https://github.com/trailofbits/publications) - Publications from Trail of Bits
 - [corelight/packet_replay](https://github.com/corelight/packet_replay) - Send pcaps via GENEVE or VXLAN tunnels
 - [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
@@ -1990,6 +2016,7 @@
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [skylines-project/skylines](https://github.com/skylines-project/skylines) - Open-source live tracking, flight database and competition platform for soaring pilots
 - [jyn514/pillar-of-autumn](https://github.com/jyn514/pillar-of-autumn) - Talk to a base model before it's been through post-training. Runs locally on your computer.
+- [WorldOfZero/homelab](https://github.com/WorldOfZero/homelab) - World of Zero Homelab Config
 - [yurug/socrask](https://github.com/yurug/socrask) - A spec-driven engineering loop for building reliable software with coding agents
 - [yurug/laconic-skill](https://github.com/yurug/laconic-skill) - Claude Code plugin: cuts noise from agent communication via an auditable model of what the user knows
 - [corticph/NeMo](https://github.com/corticph/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
@@ -2353,6 +2380,14 @@
 
 ## Rust 
 
+- [trailofbits/build-wrap](https://github.com/trailofbits/build-wrap) - Help protect against malicious build scripts
+- [trailofbits/signal-auditor](https://github.com/trailofbits/signal-auditor) - Key Transparency Auditor for Signal
+- [s1ck/nom-gdl](https://github.com/s1ck/nom-gdl) - Graph Definition Language in Rust
+- [neo4j-labs/graph](https://github.com/neo4j-labs/graph) - A library for high-performant graph algorithms.
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
+- [tfpk/lifetimekata](https://github.com/tfpk/lifetimekata) - An exploration of lifetimes in Rust.
+- [trailofbits/cargo-unmaintained](https://github.com/trailofbits/cargo-unmaintained) - Find unmaintained packages in Rust projects
+- [trailofbits/necessist](https://github.com/trailofbits/necessist) - A mutation-based tool for finding bugs in tests
 - [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [proxmox/proxmox-fuse-rs](https://github.com/proxmox/proxmox-fuse-rs) - Filesystem in Userspace bindings for rust
 - [proxmox/pve-installer](https://github.com/proxmox/pve-installer) - Bare Metal Installer
@@ -2377,7 +2412,7 @@
 - [197g/oxide-auth](https://github.com/197g/oxide-auth) - A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends.
 - [rust-secure-code/cargo-supply-chain](https://github.com/rust-secure-code/cargo-supply-chain) - Gather author, contributor and publisher data on crates in your dependency graph.
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
-- [linebender/fearless_simd](https://github.com/linebender/fearless_simd) - 
+- [linebender/fearless_simd](https://github.com/linebender/fearless_simd) - Safer and easier SIMD
 - [hyperlight-dev/hyperlight-unikraft](https://github.com/hyperlight-dev/hyperlight-unikraft) - Run ordinary Linux programs (e.g., Python, Node.js, .NET, Go, Bash) inside Hyperlight micro-VMs
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [storytold/craft-libs](https://github.com/storytold/craft-libs) - Rust libraries for the Craft Apps
@@ -2824,6 +2859,7 @@
 
 ## Shell 
 
+- [entireio/herdr-trails](https://github.com/entireio/herdr-trails) - 
 - [docker/scout-cli](https://github.com/docker/scout-cli) - Docker Scout CLI
 - [ss18/grep-typos](https://github.com/ss18/grep-typos) - Quickly check your project for typos
 - [OpenNebula/minione](https://github.com/OpenNebula/minione) - Easy to use deployment tool for an OpenNebula evaluation environment
@@ -2971,6 +3007,7 @@
 
 ## TypeScript 
 
+- [califio/code-secure-dashboard](https://github.com/califio/code-secure-dashboard) - 
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [docker/oidc-action](https://github.com/docker/oidc-action) - Official OIDC action for authenticating with Docker
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
@@ -3306,6 +3343,7 @@
 
 ## Zig 
 
+- [manishrjain/egres](https://github.com/manishrjain/egres) - A Postgres Compatible Database for Heavy, Multi-Tenant Workloads
 - [contextfreecode/zig-demo](https://github.com/contextfreecode/zig-demo) - Code for video: Interview with Zig language creator Andrew Kelley
 - [nektro/zig-xml](https://github.com/nektro/zig-xml) - A pure-Zig fully spec-compliant XML parser.
 - [andrewrk/advent-of-code](https://github.com/andrewrk/advent-of-code) - https://adventofcode.com

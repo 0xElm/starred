@@ -306,7 +306,7 @@
 - [sipsorcery/webrtc-interop](https://github.com/sipsorcery/webrtc-interop) - Simple useful interoperability tests for WebRTC libraries. If you are a WebRTC library developer we'd love to include you!
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [envoyproxy/nighthawk](https://github.com/envoyproxy/nighthawk) - L7 (HTTP/HTTPS/HTTP2/HTTP3) performance characterization tool
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
+- [meta/rocksdb](https://github.com/meta/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
@@ -1324,7 +1324,6 @@
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [percona/pmm-ui-tests](https://github.com/percona/pmm-ui-tests) - PMM UI end-to-end tests
-- [percona/pmm-qa](https://github.com/percona/pmm-qa) - PMM Quality Assurance
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [meshery/meshery.io](https://github.com/meshery/meshery.io) - Website for Meshery
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
@@ -1911,7 +1910,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
-- [facebook/open-graph-protocol](https://github.com/facebook/open-graph-protocol) - 
+- [meta/open-graph-protocol](https://github.com/meta/open-graph-protocol) - 
 - [grafana/grafana-foundation-sdk](https://github.com/grafana/grafana-foundation-sdk) - A set of tools, types and libraries for building and manipulating Grafana objects.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
@@ -2380,6 +2379,7 @@
 
 ## Rust 
 
+- [cloudflare/boring](https://github.com/cloudflare/boring) - BoringSSL bindings for the Rust programming language.
 - [trailofbits/build-wrap](https://github.com/trailofbits/build-wrap) - Help protect against malicious build scripts
 - [trailofbits/signal-auditor](https://github.com/trailofbits/signal-auditor) - Key Transparency Auditor for Signal
 - [s1ck/nom-gdl](https://github.com/s1ck/nom-gdl) - Graph Definition Language in Rust
@@ -2721,7 +2721,7 @@
 - [tweag/genealogos](https://github.com/tweag/genealogos) - Genealogos, a Nix sbom generator
 - [stepancheg/rust-log-ndc](https://github.com/stepancheg/rust-log-ndc) - log crate extension with NDC-like functionality
 - [stepancheg/rust-tls-api](https://github.com/stepancheg/rust-tls-api) - TLS API for Rust, and API implementations over native-tls and openssl in separate crates
-- [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
+- [meta/buck2](https://github.com/meta/buck2) - Build system, successor to Buck
 - [topiary/topiary](https://github.com/topiary/topiary) - 
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -2770,7 +2770,7 @@
 - [DeterminateSystems/zpool-auto-expand-partitions](https://github.com/DeterminateSystems/zpool-auto-expand-partitions) - 
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) - Health checks for your Nix flakes
-- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+- [meta/relay](https://github.com/meta/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - Async-friendly WebRTC implementation in Rust
 - [DBCDK/hostmap](https://github.com/DBCDK/hostmap) - 
 - [birkenfeld/fddf](https://github.com/birkenfeld/fddf) - Fast data dupe finder
@@ -2793,7 +2793,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [goldstraw/rust_transformer](https://github.com/goldstraw/rust_transformer) - A transformer built from scratch in Rust.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
+- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
 - [memorysafety/river](https://github.com/memorysafety/river) - This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -3099,7 +3099,7 @@
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [juliamertz/hass-light-sync](https://github.com/juliamertz/hass-light-sync) - Hue Sync alike program for Home Assistant lights
@@ -3177,7 +3177,7 @@
 - [getnao/nao](https://github.com/getnao/nao) - 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
 - [remorses/critique](https://github.com/remorses/critique) - TUI & website for reviewing git changes
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
-- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Deterministic testing tools for MCP servers
 - [ZeroLeaks/zeroleaks](https://github.com/ZeroLeaks/zeroleaks) - AI Security Scanner - Test your AI systems for prompt injection and extraction vulnerabilities
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
@@ -3188,6 +3188,7 @@
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [tweag/inputs](https://github.com/tweag/inputs) - Utilities for building forms with React
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
+- [percona/pmm-qa](https://github.com/percona/pmm-qa) - PMM Quality Assurance
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - WARNING: the repo moved to https://github.com/percona/pmm.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager

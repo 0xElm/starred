@@ -408,6 +408,7 @@
 
 ## Go 
 
+- [DependencyTrack/client-go](https://github.com/DependencyTrack/client-go) - Go client library for OWASP Dependency-Track
 - [entireio/auth-go](https://github.com/entireio/auth-go) - Shareable Go OAuth 2.0 client library for CLIs: RFC 8628 device flow, RFC 8693 token exchange, token storage, and the orchestration layer that ties them together.
 - [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
@@ -594,7 +595,7 @@
 - [bwplotka/mimic](https://github.com/bwplotka/mimic) - mimic: Define your Deployments, Infrastructure and Configuration as a Go Code 🚀
 - [jeff-bruemmer/vaporwair](https://github.com/jeff-bruemmer/vaporwair) - Fast weather and air quality reports.
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
-- [TrianaLab/pacto](https://github.com/TrianaLab/pacto) - Pacto (/ˈpak.to/ — from Spanish: pact, agreement) is an open, OCI-distributed contract standard for cloud-native services.
+- [TrianaLab/pacto](https://github.com/TrianaLab/pacto) - Pacto tells you which services a change breaks before it ships, and checks what is actually running. One YAML contract per service in your OCI registry; opt-in delivery (alpha) ships what the contract
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
@@ -813,7 +814,7 @@
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [go-sql-driver/sql-benchmark](https://github.com/go-sql-driver/sql-benchmark) - A synthetic benchmark to compare the performance of various sql-drivers for Go's database/sql package
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
-- [Releem/releem-agent](https://github.com/Releem/releem-agent) - Releem is a database advisor for MySQL, MariaDB & PostgreSQL that provides automatic metrics analysis, actionable insights, and safe automation. It helps detect issues quickly, optimize performance co
+- [Releem/releem-agent](https://github.com/Releem/releem-agent) - Releem is a MySQL performance tuning tool with AI and controlled automation. Improve query performance and resource efficiency with workload-based recommendations.
 - [pojntfx/stfs](https://github.com/pojntfx/stfs) - Simple Tape File System (STFS), a file system for tapes and tar files.
 - [AlchemillaHQ/Sylve](https://github.com/AlchemillaHQ/Sylve) - Lightweight GUI for managing Bhyve, Jails, ZFS, networking, and more on FreeBSD
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
@@ -1220,6 +1221,8 @@
 
 ## Java 
 
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+- [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [califio/keycloak-recaptcha-password-defense](https://github.com/califio/keycloak-recaptcha-password-defense) - Drop-in provider for Keycloak 22+ that detects password leaks and breached credentials with Google reCAPTCHA Enterprise – Password Defense
 - [neo4j/graph-data-science](https://github.com/neo4j/graph-data-science) - Source code for the Neo4j Graph Data Science library of graph algorithms.
 - [eaftan/safere](https://github.com/eaftan/safere) - A safe linear-time regular expression matching library for Java, based on RE2
@@ -1266,6 +1269,7 @@
 
 ## JavaScript 
 
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [proxmox/pve-manager](https://github.com/proxmox/pve-manager) - Read-Only mirror of the Proxmox VE Managaer API and Web UI repository
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -1488,7 +1492,6 @@
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
 - [pysan3/autosession.nvim](https://github.com/pysan3/autosession.nvim) - Neovim Plugin to Save and Restore Sessions Per-directory
 - [georgeharker/whichpy.nvim](https://github.com/georgeharker/whichpy.nvim) - Python interpreter selector for Neovim. Switch interpreters without restarting LSP.
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [juliamertz/dotfiles](https://github.com/juliamertz/dotfiles) - 
 - [nvzone/timerly](https://github.com/nvzone/timerly) - Beautiful countdown timer plugin for Neovim
 - [nvzone/typr](https://github.com/nvzone/typr) - Most Beautiful Typing practice plugin for Neovim with dashboard
@@ -1632,6 +1635,7 @@
 
 ## Nix 
 
+- [mped-oticon/freedombox](https://github.com/mped-oticon/freedombox) - Demo: NixOS VM encrypted via git-secret and justfile for convenience
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [FrameworkComputer/nixos-hardware](https://github.com/FrameworkComputer/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
@@ -1774,6 +1778,7 @@
 
 ## Others 
 
+- [unclebob/ub-mode](https://github.com/unclebob/ub-mode) - 
 - [sazabi/cve.now](https://github.com/sazabi/cve.now) - A free, public vulnerability feed: CVE, GHSA, OSV, CISA KEV and EPSS merged into one entry per vulnerability. RSS, JSON API and MCP. Docs and issues only.
 - [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) - ⟠ A curated list of awesome Solidity resources, libraries, tools and more
 - [corelight/ecs-dashboards](https://github.com/corelight/ecs-dashboards) - 
@@ -1967,6 +1972,8 @@
 
 ## Python 
 
+- [siemens/debsbom](https://github.com/siemens/debsbom) - SBOM tooling for Debian-based distributions
+- [eisbaw/nemlig_cli](https://github.com/eisbaw/nemlig_cli) - Command-line-interface for nemlig.com, danish delivery service
 - [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interf
 - [califio/ngxray](https://github.com/califio/ngxray) - ngxray — nginx config security scanner
 - [trailofbits/buttercup](https://github.com/trailofbits/buttercup) - Buttercup finds and patches software vulnerabilities
@@ -2194,7 +2201,7 @@
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [fullzer4/pybenchx](https://github.com/fullzer4/pybenchx) - Microbenchmarks that mean it
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 - [zipnn/zipnn](https://github.com/zipnn/zipnn) - A Lossless Compression Library for AI pipelines
@@ -2379,6 +2386,13 @@
 
 ## Rust 
 
+- [peetzweg/papr](https://github.com/peetzweg/papr) - Command line tool to generate a PDF Calendars
+- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
+- [aetosdios27/kiban](https://github.com/aetosdios27/kiban) - A durable LSM-tree storage engine exploring WALs, memtables, SSTables, compaction, and crash recovery from first principles.
+- [aetosdios27/Styx](https://github.com/aetosdios27/Styx) - A from-scratch BitTorrent engine in Rust with peer wire, trackers, DHT, magnets, verified storage, and seeding.
+- [aetosdios27/kurogane](https://github.com/aetosdios27/kurogane) - Kurogane is a from-scratch Rust implementation of Raft and a replicated in-memory key/value state machine.
+- [penso/herdr-gpui](https://github.com/penso/herdr-gpui) - Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
+- [eisbaw/nix-p2p](https://github.com/eisbaw/nix-p2p) - Decentralized Nix binary cache: localhost substituter, signed-metadata passthrough, p2p NAR transfer
 - [cloudflare/boring](https://github.com/cloudflare/boring) - BoringSSL bindings for the Rust programming language.
 - [trailofbits/build-wrap](https://github.com/trailofbits/build-wrap) - Help protect against malicious build scripts
 - [trailofbits/signal-auditor](https://github.com/trailofbits/signal-auditor) - Key Transparency Auditor for Signal
@@ -2564,6 +2578,7 @@
 - [DOD-101/igneous-md](https://github.com/DOD-101/igneous-md) - 🌋 Simple and lightweight gfm markdown viewer / framework written in rust
 - [juliamertz/bluegone](https://github.com/juliamertz/bluegone) - 
 - [juliamertz/noogle-cli](https://github.com/juliamertz/noogle-cli) - 
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [juliamertz/rqlite-rs](https://github.com/juliamertz/rqlite-rs) - Async Rqlite client for Rust
 - [juliamertz/nix2oci](https://github.com/juliamertz/nix2oci) - 
 - [brainhivenl/steiger](https://github.com/brainhivenl/steiger) - High-performance container build orchestrator with native Bazel, Nix and Docker BuildKit
@@ -2706,7 +2721,7 @@
 - [the-lean-crate/criner](https://github.com/the-lean-crate/criner) - A tool to mine crates.io and produce static websites
 - [share-secrets-safely/cli](https://github.com/share-secrets-safely/cli) - share secrets within teams to avoid plain-text secrets from day one
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web and terminal UIs
@@ -3007,6 +3022,7 @@
 
 ## TypeScript 
 
+- [aetosdios27/Konto](https://github.com/aetosdios27/Konto) - A double-entry accounting engine on PostgreSQL with typed financial primitives, enforced invariants, and agent-safe execution.
 - [califio/code-secure-dashboard](https://github.com/califio/code-secure-dashboard) - 
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [docker/oidc-action](https://github.com/docker/oidc-action) - Official OIDC action for authenticating with Docker
@@ -3174,7 +3190,7 @@
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
-- [getnao/nao](https://github.com/getnao/nao) - 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
+- [getnao/nao](https://github.com/getnao/nao) - 👾 nao is the #1 open source agentic BI. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
 - [remorses/critique](https://github.com/remorses/critique) - TUI & website for reviewing git changes
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Deterministic testing tools for MCP servers
@@ -3250,7 +3266,7 @@
 - [aws/graph-explorer](https://github.com/aws/graph-explorer) - React-based web application that enables users to visualize both property graph and RDF data and explore connections between data without having to write graph queries.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [grafana/lgtm-otel-demo](https://github.com/grafana/lgtm-otel-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [grafana-cold-storage/lgtm-otel-demo](https://github.com/grafana-cold-storage/lgtm-otel-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [grafana/metrics-drilldown](https://github.com/grafana/metrics-drilldown) - A queryless experience for browsing Prometheus-compatible metrics. Quickly find related metrics without writing PromQL queries.
 - [grafana/business-charts](https://github.com/grafana/business-charts) - The Business Charts plugin integrates the powerful Apache ECharts library into Grafana, enabling you to create rich, interactive charts and graphs within your dashboards. Built on pure JavaScript and 
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -3325,6 +3341,7 @@
 
 ## Vue 
 
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [FoggedLens/deflock](https://github.com/FoggedLens/deflock) - Crowdsourced tool for locating and reporting ALPRs
@@ -3344,6 +3361,7 @@
 
 ## Zig 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [manishrjain/egres](https://github.com/manishrjain/egres) - A Postgres Compatible Database for Heavy, Multi-Tenant Workloads
 - [contextfreecode/zig-demo](https://github.com/contextfreecode/zig-demo) - Code for video: Interview with Zig language creator Andrew Kelley
 - [nektro/zig-xml](https://github.com/nektro/zig-xml) - A pure-Zig fully spec-compliant XML parser.

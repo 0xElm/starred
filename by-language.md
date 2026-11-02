@@ -1635,6 +1635,8 @@
 
 ## Nix 
 
+- [vikanezrimaya/nixos-super-minimal](https://github.com/vikanezrimaya/nixos-super-minimal) - 
+- [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [mped-oticon/freedombox](https://github.com/mped-oticon/freedombox) - Demo: NixOS VM encrypted via git-secret and justfile for convenience
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [FrameworkComputer/nixos-hardware](https://github.com/FrameworkComputer/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
@@ -2386,6 +2388,8 @@
 
 ## Rust 
 
+- [woodruffw/pyrage](https://github.com/woodruffw/pyrage) - Python bindings for rage (age in Rust)
+- [astral-sh/astral-codec](https://github.com/astral-sh/astral-codec) - Fast, async format encoder/decoders for Rust
 - [peetzweg/papr](https://github.com/peetzweg/papr) - Command line tool to generate a PDF Calendars
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [aetosdios27/kiban](https://github.com/aetosdios27/kiban) - A durable LSM-tree storage engine exploring WALs, memtables, SSTables, compaction, and crash recovery from first principles.
@@ -3022,6 +3026,7 @@
 
 ## TypeScript 
 
+- [rustsec/audit-check](https://github.com/rustsec/audit-check) - 🛡️ GitHub Action for security audits
 - [aetosdios27/Konto](https://github.com/aetosdios27/Konto) - A double-entry accounting engine on PostgreSQL with typed financial primitives, enforced invariants, and agent-safe execution.
 - [califio/code-secure-dashboard](https://github.com/califio/code-secure-dashboard) - 
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders

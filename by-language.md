@@ -2278,7 +2278,6 @@
 - [pbertera/SPLiT](https://github.com/pbertera/SPLiT) - SIP Phone Learning Tool
 - [markqvist/LXMF](https://github.com/markqvist/LXMF) - A universal, distributed and secure messaging protocol for Reticulum
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [olvid-io/Olvid-Bot-Documentation](https://github.com/olvid-io/Olvid-Bot-Documentation) - 
@@ -2395,7 +2394,7 @@
 - [aetosdios27/kiban](https://github.com/aetosdios27/kiban) - A durable LSM-tree storage engine exploring WALs, memtables, SSTables, compaction, and crash recovery from first principles.
 - [aetosdios27/Styx](https://github.com/aetosdios27/Styx) - A from-scratch BitTorrent engine in Rust with peer wire, trackers, DHT, magnets, verified storage, and seeding.
 - [aetosdios27/kurogane](https://github.com/aetosdios27/kurogane) - Kurogane is a from-scratch Rust implementation of Raft and a replicated in-memory key/value state machine.
-- [penso/herdr-gpui](https://github.com/penso/herdr-gpui) - Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
+- [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) - Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
 - [eisbaw/nix-p2p](https://github.com/eisbaw/nix-p2p) - Decentralized Nix binary cache: localhost substituter, signed-metadata passthrough, p2p NAR transfer
 - [cloudflare/boring](https://github.com/cloudflare/boring) - BoringSSL bindings for the Rust programming language.
 - [trailofbits/build-wrap](https://github.com/trailofbits/build-wrap) - Help protect against malicious build scripts
@@ -2989,6 +2988,7 @@
 - [siduck/quickcv](https://github.com/siduck/quickcv) - Fast cv / resume builder to create beautiful resumes ( PDF ), uses browser's native window.print() to generate PDF at high quality
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [immich-app/ui](https://github.com/immich-app/ui) - Svelte components for Immich
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Swift 
 

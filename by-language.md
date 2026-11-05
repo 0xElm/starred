@@ -1004,7 +1004,6 @@
 - [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [kelseyhightower/twelve](https://github.com/kelseyhightower/twelve) - 
@@ -1889,6 +1888,7 @@
 - [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem.
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [olvid-io/Olvid-Bot-Protobuf](https://github.com/olvid-io/Olvid-Bot-Protobuf) - 
+- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [bungle/awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.

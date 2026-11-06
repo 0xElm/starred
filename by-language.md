@@ -252,6 +252,7 @@
 
 ## C++ 
 
+- [omacom/signed](https://github.com/omacom/signed) - Sign PDFs and fill them in with text and dates
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [proxmox/ceph](https://github.com/proxmox/ceph) - 
@@ -327,7 +328,6 @@
 - [OpenSCAP/openscap-report](https://github.com/OpenSCAP/openscap-report) - Tool for generating a report from results of oscap scan.
 - [mercenaruss/uzg-firmware](https://github.com/mercenaruss/uzg-firmware) - Firmware for ZigStar UZG-01
 - [Exodus-Privacy/website](https://github.com/Exodus-Privacy/website) - Website of non-profit Exodus Privacy
-- [DefinedNet/nebula-docs](https://github.com/DefinedNet/nebula-docs) - Documentation for the Nebula open source project
 - [swiss/oss-catalog](https://github.com/swiss/oss-catalog) - Open Source Software Catalog
 - [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) - A pastebin for Tailscale users
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
@@ -408,6 +408,11 @@
 
 ## Go 
 
+- [golang/vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs
 - [DependencyTrack/client-go](https://github.com/DependencyTrack/client-go) - Go client library for OWASP Dependency-Track
 - [entireio/auth-go](https://github.com/entireio/auth-go) - Shareable Go OAuth 2.0 client library for CLIs: RFC 8628 device flow, RFC 8693 token exchange, token storage, and the orchestration layer that ties them together.
 - [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
@@ -1268,6 +1273,8 @@
 
 ## JavaScript 
 
+- [davglass/license-checker](https://github.com/davglass/license-checker) - Check NPM package licenses
+- [WebKit/Speedometer](https://github.com/WebKit/Speedometer) - An open source repository for the Speedometer benchmark
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [proxmox/pve-manager](https://github.com/proxmox/pve-manager) - Read-Only mirror of the Proxmox VE Managaer API and Web UI repository
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
@@ -1585,6 +1592,7 @@
 
 ## MDX 
 
+- [DefinedNet/nebula-docs](https://github.com/DefinedNet/nebula-docs) - Documentation for the Nebula open source project
 - [mintlify/guides](https://github.com/mintlify/guides) - A compilation of best practices for writing technical documentation.
 - [mintlify/starter](https://github.com/mintlify/starter) - The starter kit for your mintlify project
 - [mintlify/docs](https://github.com/mintlify/docs) - Official Mintlify documentation
@@ -1779,6 +1787,7 @@
 
 ## Others 
 
+- [joone/fosscomics](https://github.com/joone/fosscomics) - fosscomics.com
 - [unclebob/ub-mode](https://github.com/unclebob/ub-mode) - 
 - [sazabi/cve.now](https://github.com/sazabi/cve.now) - A free, public vulnerability feed: CVE, GHSA, OSV, CISA KEV and EPSS merged into one entry per vulnerability. RSS, JSON API and MCP. Docs and issues only.
 - [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) - ⟠ A curated list of awesome Solidity resources, libraries, tools and more
@@ -1974,6 +1983,10 @@
 
 ## Python 
 
+- [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
+- [google/clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
+- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
 - [siemens/debsbom](https://github.com/siemens/debsbom) - SBOM tooling for Debian-based distributions
 - [eisbaw/nemlig_cli](https://github.com/eisbaw/nemlig_cli) - Command-line-interface for nemlig.com, danish delivery service
 - [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interf
@@ -2387,6 +2400,12 @@
 
 ## Rust 
 
+- [gnukeith/snowpaw](https://github.com/gnukeith/snowpaw) - 
+- [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
+- [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
+- [Sovereign-Engineering/reqwest](https://github.com/Sovereign-Engineering/reqwest) - An easy and powerful Rust HTTP Client
+- [Sovereign-Engineering/obscuravpn-client](https://github.com/Sovereign-Engineering/obscuravpn-client) - Obscura VPN Rust library and App (available on all major platforms)
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [woodruffw/pyrage](https://github.com/woodruffw/pyrage) - Python bindings for rage (age in Rust)
 - [astral-sh/astral-codec](https://github.com/astral-sh/astral-codec) - Fast, async format encoder/decoders for Rust
 - [peetzweg/papr](https://github.com/peetzweg/papr) - Command line tool to generate a PDF Calendars
@@ -2877,6 +2896,8 @@
 
 ## Shell 
 
+- [gnukeith/pers](https://github.com/gnukeith/pers) - My personal configs because I'm a person
+- [antonu17/lab-network-bgp](https://github.com/antonu17/lab-network-bgp) - Ever wanted to learn BGP? Kickstart your journey with this interactive Lab and Practical Tasks!
 - [entireio/herdr-trails](https://github.com/entireio/herdr-trails) - 
 - [docker/scout-cli](https://github.com/docker/scout-cli) - Docker Scout CLI
 - [ss18/grep-typos](https://github.com/ss18/grep-typos) - Quickly check your project for typos

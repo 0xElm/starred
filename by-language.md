@@ -939,6 +939,7 @@
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [meshery/meshkit](https://github.com/meshery/meshkit) - Common microservices framework for Meshery components
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [team-telnyx/telnyx-go](https://github.com/team-telnyx/telnyx-go) - Go SDK for the Telnyx API
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -2621,7 +2622,7 @@
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
-- [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
+- [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - hand-made terminal RSS reader supporting many RSS providers, written in rust with love
 - [hako/bbcli](https://github.com/hako/bbcli) - :newspaper: Browse BBC News like a hacker.
 - [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
@@ -3236,7 +3237,6 @@
 - [percona/pmm-qa](https://github.com/percona/pmm-qa) - PMM Quality Assurance
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - WARNING: the repo moved to https://github.com/percona/pmm.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your private data. Local-first privacy proxy for browser chat, AI APIs, and coding agents.
 - [marcj/bitcoin.ts](https://github.com/marcj/bitcoin.ts) - Typescript implementation of a Cryptocurrency inspired by the Bitcoin blockchain.

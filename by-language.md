@@ -1238,7 +1238,7 @@
 - [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [califio/keycloak-recaptcha-password-defense](https://github.com/califio/keycloak-recaptcha-password-defense) - Drop-in provider for Keycloak 22+ that detects password leaks and breached credentials with Google reCAPTCHA Enterprise – Password Defense
 - [neo4j/graph-data-science](https://github.com/neo4j/graph-data-science) - Source code for the Neo4j Graph Data Science library of graph algorithms.
-- [eaftan/safere](https://github.com/eaftan/safere) - A safe linear-time regular expression matching library for Java, based on RE2
+- [safere/safere](https://github.com/safere/safere) - A safe linear-time regular expression matching library for Java, based on RE2
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [gosuda/jailscale](https://github.com/gosuda/jailscale) - Expose a local port to the internet over HTTPS: a hub holding one wildcard certificate, nodes that terminate TLS themselves.
 - [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
@@ -1299,7 +1299,7 @@
 - [earendil-works/website](https://github.com/earendil-works/website) - 
 - [ogulcancelik/agent-skills](https://github.com/ogulcancelik/agent-skills) - Small, opinionated, agent-agnostic skills for coding agents
 - [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
-- [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview) - A standard Crossplane UI dashboard.
+- [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview) - A web-based dashboard for visualizing, monitoring, and troubleshooting Crossplane resources across Kubernetes clusters, with real-time updates, resource relationships, and infrastructure insights.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [andrewrk/groovebasin](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface.
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
@@ -1894,7 +1894,6 @@
 - [tweag/project](https://github.com/tweag/project) - Use this template when creating a new project.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [joeduffy/system-prompts](https://github.com/joeduffy/system-prompts) - A collection of interesting system prompts
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [team-telnyx/openapi](https://github.com/team-telnyx/openapi) - OpenAPI specification for the Telnyx API
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
@@ -2986,6 +2985,7 @@
 - [dovecot/k8s-sysreport](https://github.com/dovecot/k8s-sysreport) - Tool for producing sysreports from Kubernetes environments
 - [tweag/agentic-coding-handbook](https://github.com/tweag/agentic-coding-handbook) - 
 - [tweag/run-nix-shell](https://github.com/tweag/run-nix-shell) - GitHub action for executing scripts via nix-shell.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [chhoumann/claude-hooks](https://github.com/chhoumann/claude-hooks) - 
 - [chhoumann/dotfiles](https://github.com/chhoumann/dotfiles) - Christian's dotfiles.
 - [chhoumann/claude-code-monitoring](https://github.com/chhoumann/claude-code-monitoring) - Local monitoring solution for Claude Code usage metrics with Prometheus and Grafana
@@ -3204,8 +3204,8 @@
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [superdb/zui](https://github.com/superdb/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
+- [neondatabase/electric-pglite](https://github.com/neondatabase/electric-pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.

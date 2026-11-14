@@ -98,6 +98,7 @@
 
 ## C 
 
+- [troglobit/netcalc](https://github.com/troglobit/netcalc) - Simplified clone of sipcalc with ipcalc looks
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [califio/publications](https://github.com/califio/publications) - Publications from Calif
 - [varnish/varnish](https://github.com/varnish/varnish) - Varnish Cache
@@ -252,6 +253,7 @@
 
 ## C++ 
 
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [omacom/signed](https://github.com/omacom/signed) - Sign PDFs and fill them in with text and dates
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -409,6 +411,8 @@
 
 ## Go 
 
+- [Security-Onion-Solutions/securityonion-soc](https://github.com/Security-Onion-Solutions/securityonion-soc) - 
+- [superultrainc/sup](https://github.com/superultrainc/sup) - 
 - [zombocoder/go-freebsd-libzfs](https://github.com/zombocoder/go-freebsd-libzfs) - A production-ready, comprehensive FreeBSD-native Go library for ZFS operations using libzfs via CGO.
 - [sosedoff/gitkit](https://github.com/sosedoff/gitkit) - Git toolkit for Go: Smart HTTP server, SSH server, hook receiver
 - [sosedoff/wg-registry](https://github.com/sosedoff/wg-registry) - User and device self-service portal for WireGuard
@@ -1100,7 +1104,7 @@
 - [DaltonSW/campfire](https://github.com/DaltonSW/campfire) - Cozy up with your logs
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Testing Platform for the agentic SDLC
 - [kubernetes-sigs/e2e-framework](https://github.com/kubernetes-sigs/e2e-framework) - A Go framework for end-to-end testing of components running in Kubernetes clusters.
 - [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
@@ -1738,7 +1742,7 @@
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [pyproject-nix/pyproject.nix](https://github.com/pyproject-nix/pyproject.nix) - A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]
 - [divnix/hive](https://github.com/divnix/hive) - The secretly open NixOS-Society
-- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+- [nix-community/nix-mineral](https://github.com/nix-community/nix-mineral) - Conveniently and reasonably harden NixOS. [maintainer=@cynicsketch]
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [functionalops/nix-cookbook](https://github.com/functionalops/nix-cookbook) - A cookbook of snippets that show you how you can accomplish common tasks using the Nix expression language
 - [the-nix-way/home-manager-config-template](https://github.com/the-nix-way/home-manager-config-template) - A Nix flake template for Home Manager configurations [maintainer=@lucperkins]
@@ -1798,6 +1802,7 @@
 
 ## Others 
 
+- [aleafarrel-id/netcalc-containerized](https://github.com/aleafarrel-id/netcalc-containerized) - Netcalc, the blazing-fast and lightweight. This containerized IP calculator is powered entirely by Vanilla JavaScript.
 - [joone/fosscomics](https://github.com/joone/fosscomics) - fosscomics.com
 - [unclebob/ub-mode](https://github.com/unclebob/ub-mode) - 
 - [sazabi/cve.now](https://github.com/sazabi/cve.now) - A free, public vulnerability feed: CVE, GHSA, OSV, CISA KEV and EPSS merged into one entry per vulnerability. RSS, JSON API and MCP. Docs and issues only.
@@ -1951,6 +1956,7 @@
 
 ## Perl 
 
+- [kjokjo/ipcalc](https://github.com/kjokjo/ipcalc) - 
 - [proxmox/pve-guest-common](https://github.com/proxmox/pve-guest-common) - 
 - [proxmox/pve-common](https://github.com/proxmox/pve-common) - Proxmox Project's Common Perl Code
 - [proxmox/pve-http-server](https://github.com/proxmox/pve-http-server) - 
@@ -1993,6 +1999,7 @@
 
 ## Python 
 
+- [dreibh/subnetcalc](https://github.com/dreibh/subnetcalc) - IP Subnet Address Calculator (SubNetCalc)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed-of-light LLM inference engine.
 - [eureka-cpu/kasane](https://github.com/eureka-cpu/kasane) - Accessibility color palettes designed for calm reading, inspired by the Japanese practice of pairing kimono layers.
@@ -2413,9 +2420,10 @@
 
 ## Rust 
 
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+- [kingzleshe/ipcalc-gui](https://github.com/kingzleshe/ipcalc-gui) - Native Windows IP subnet calculator GUI for IPv4 and IPv6, built with Rust and Slint
 - [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
 - [eureka-cpu/ns](https://github.com/eureka-cpu/ns) - A unified interface for nix shell.
-- [gnukeith/snowpaw](https://github.com/gnukeith/snowpaw) - 
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [Sovereign-Engineering/reqwest](https://github.com/Sovereign-Engineering/reqwest) - An easy and powerful Rust HTTP Client
@@ -2846,7 +2854,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [goldstraw/rust_transformer](https://github.com/goldstraw/rust_transformer) - A transformer built from scratch in Rust.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
+- [pyrefly-org/pyrefly](https://github.com/pyrefly-org/pyrefly) - A fast type checker and language server for Python
 - [memorysafety/river](https://github.com/memorysafety/river) - This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -2994,7 +3002,7 @@
 - [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail) - Promtail for Home Assistant
 - [LionyxML/migrate-github-to-codeberg](https://github.com/LionyxML/migrate-github-to-codeberg) - Effortlessly migrate GitHub repositories to Codeberg! Seamlessly transfer project. Powered by Bash, curl, and jq.
 - [geohot/configuration](https://github.com/geohot/configuration) - Like some files bro
-- [psy0rz/alpinebox](https://github.com/psy0rz/alpinebox) - Alpine linux on ZFS root filesystem with ZFSBootMenu
+- [psy0rz/alpinebox](https://github.com/psy0rz/alpinebox) - Alpine Linux on ZFS with ZFSBootMenu. One-minute install from any rescue system, automatic updates with snapshots and rollback. Climb high, roll back safely.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [tigerbeetle/tigerlings](https://github.com/tigerbeetle/tigerlings) - Learn TigerBeetle by fixing tiny broken scripts!
 - [cbbrowne/ledgersql](https://github.com/cbbrowne/ledgersql) - Integration of Ledger with PostgreSQL
@@ -3063,6 +3071,9 @@
 
 ## TypeScript 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [superultrainc/opencode-superwhisper](https://github.com/superultrainc/opencode-superwhisper) - superwhisper voice integration plugin for OpenCode
+- [superultrainc/pi-superwhisper](https://github.com/superultrainc/pi-superwhisper) - Superwhisper voice integration extension for Pi
 - [gavdevs/mealforge](https://github.com/gavdevs/mealforge) - AI-planned weekly meals, self-hosted. Plan in chat with any MCP-capable agent — get recipe cards, cook mode, and an auto-derived grocery list.
 - [MadeInPierre/cuicuit](https://github.com/MadeInPierre/cuicuit) - Cuicuit 🐥, a meal planning app with almost no planning: Import recipes from anywhere, throw in meal ideas & extra items, and your list builds itself.
 - [rustsec/audit-check](https://github.com/rustsec/audit-check) - 🛡️ GitHub Action for security audits
@@ -3182,7 +3193,7 @@
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager
 - [RocketChat/Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - The Secure CommsOS™ for mission-critical operations
 - [RocketChat/fuselage](https://github.com/RocketChat/fuselage) - React port of Rocket.Chat's design system, Fuselage
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Interoperable by design. Governed by you. Open-source, secure platform for messaging, voice, video and governed AI, built for defense and government.
 - [hahnbeelee/hahnbee.com](https://github.com/hahnbeelee/hahnbee.com) - 
 - [DataRecce/recce](https://github.com/DataRecce/recce) - The data-validation toolkit for enhanced dbt (data build tool) PR review
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -3205,7 +3216,7 @@
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [superdb/zui](https://github.com/superdb/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 - [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
-- [neondatabase/electric-pglite](https://github.com/neondatabase/electric-pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [electric-sql/electric-pglite](https://github.com/electric-sql/electric-pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.

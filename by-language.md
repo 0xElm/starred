@@ -98,6 +98,7 @@
 
 ## C 
 
+- [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 - [troglobit/netcalc](https://github.com/troglobit/netcalc) - Simplified clone of sipcalc with ipcalc looks
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [califio/publications](https://github.com/califio/publications) - Publications from Calif
@@ -411,6 +412,11 @@
 
 ## Go 
 
+- [tigrisdata/objgit](https://github.com/tigrisdata/objgit) - Git backed by object storage
+- [tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs) - High performance FUSE filesystem for AI workloads with S3 compatible backends
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [Security-Onion-Solutions/securityonion-soc](https://github.com/Security-Onion-Solutions/securityonion-soc) - 
 - [superultrainc/sup](https://github.com/superultrainc/sup) - 
 - [zombocoder/go-freebsd-libzfs](https://github.com/zombocoder/go-freebsd-libzfs) - A production-ready, comprehensive FreeBSD-native Go library for ZFS operations using libzfs via CGO.
@@ -1138,6 +1144,7 @@
 
 ## HTML 
 
+- [supertj/zola-readable-resume](https://github.com/supertj/zola-readable-resume) - One-page resume theme for Zola, with the Classic layout from ReadableResume
 - [danderson/davetf](https://github.com/danderson/davetf) - dave.tf's website.
 - [danderson/pqnoise_spec](https://github.com/danderson/pqnoise_spec) - Noise Specification (modified for PQNoise)
 - [shadowsocks/shadowsocks-org](https://github.com/shadowsocks/shadowsocks-org) - www.shadowsocks.org
@@ -1606,6 +1613,7 @@
 
 ## MDX 
 
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [DefinedNet/nebula-docs](https://github.com/DefinedNet/nebula-docs) - Documentation for the Nebula open source project
 - [mintlify/guides](https://github.com/mintlify/guides) - A compilation of best practices for writing technical documentation.
 - [mintlify/starter](https://github.com/mintlify/starter) - The starter kit for your mintlify project
@@ -1932,6 +1940,7 @@
 
 ## PHP 
 
+- [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
 - [strichliste/strichliste-backend](https://github.com/strichliste/strichliste-backend) - Strichliste Backend
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
@@ -1999,6 +2008,7 @@
 
 ## Python 
 
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [dreibh/subnetcalc](https://github.com/dreibh/subnetcalc) - IP Subnet Address Calculator (SubNetCalc)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed-of-light LLM inference engine.
@@ -2558,7 +2568,7 @@
 - [dekobon/big-code-analysis](https://github.com/dekobon/big-code-analysis) - Tool to report source code metrics
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [qt/qtbridge-rust](https://github.com/qt/qtbridge-rust) - Qt Bridge for Rust. Qt Bridges enables developers to provide application logic written in a foreign language to Qt Quick applications by offering a simple API that follows the target language’s style 
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [t4t5/caldir](https://github.com/t4t5/caldir) - your calendar as a directory
 - [ClickHouse/wal-rus](https://github.com/ClickHouse/wal-rus) - rust port derived from wal-g
 - [iximiuz/pq](https://github.com/iximiuz/pq) - Parse and Query log files as time series

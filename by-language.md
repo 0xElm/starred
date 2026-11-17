@@ -379,7 +379,6 @@
 - [dovecot/docker](https://github.com/dovecot/docker) - Docker image sources for Dovecot
 - [Arkaniad/docker-supervisord](https://github.com/Arkaniad/docker-supervisord) - 
 - [lukebakken/docker-rabbitmq-cluster](https://github.com/lukebakken/docker-rabbitmq-cluster) - https://github.com/pardahlman/docker-rabbitmq-cluster
-- [immich-app/base-images](https://github.com/immich-app/base-images) - Base images for Immich containers
 - [mdegat01/promtail-journal](https://github.com/mdegat01/promtail-journal) - Promtail with journal support
 - [olvid-io/GrpcWebProxy-Docker](https://github.com/olvid-io/GrpcWebProxy-Docker) - Build image hosted at https://hub.docker.com/r/olvid/bot-daemon-web-proxy.
 - [swdunlop/nix-dev-container](https://github.com/swdunlop/nix-dev-container) - A skeleton project that configures Nix and Nix Shell in a Visual Code development container
@@ -973,7 +972,7 @@
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [DeterminateSystems/bonk](https://github.com/DeterminateSystems/bonk) - Erase macOS machines over Tailscale.
 - [kommodity-io/oidc-discovery-proxy](https://github.com/kommodity-io/oidc-discovery-proxy) - Expose the OpenID Connect discovery endpoint of a Kubernetes cluster to allow for identity federation.
-- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+- [ipfs/kubo](https://github.com/ipfs/kubo) - [ BEWARE: NO MAINTAINER ] IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -1302,7 +1301,7 @@
 - [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - The Free Software Media System - Official Web Client
 - [ThePrimeagen/vim-fundamentals](https://github.com/ThePrimeagen/vim-fundamentals) - 
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [jkoestinger/omarchy-vpn](https://github.com/jkoestinger/omarchy-vpn) - VPN status and switching in the Omarchy bar, across whichever VPN tools are installed.
 - [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles built around a Ruby Rakefile. Hammerspoon, Fish...
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -1856,7 +1855,6 @@
 - [yetmike/awesome-kubestronaut](https://github.com/yetmike/awesome-kubestronaut) - Awesome Kubestronaut. Resources to prepare for CKA, CKAD, CKS, KCNA, KCSA, PCA, ICA, CNPE, CNPA, CGOA, CAPA, KCA, BCA, OTCA, CCA
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)
 - [unixorn/internet-of-trash](https://github.com/unixorn/internet-of-trash) - A list of IOT devices that are garbage
-- [briar-systems/mach](https://github.com/briar-systems/mach) - A systems programming language with no hidden behavior.
 - [tjdevries/tjdevries](https://github.com/tjdevries/tjdevries) - About Me :)
 - [openconfig/common-ci](https://github.com/openconfig/common-ci) - Common CI workflows for OpenConfig projects.
 - [dastergon/postmortem-templates](https://github.com/dastergon/postmortem-templates) - A collection of postmortem templates
@@ -2124,6 +2122,7 @@
 - [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 - [attio/airbyte](https://github.com/attio/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [kpetremann/mqtt-exporter](https://github.com/kpetremann/mqtt-exporter) - Simple generic MQTT Prometheus exporter for IoT working out of the box
+- [briar-systems/mach](https://github.com/briar-systems/mach) - A systems programming language with no hidden behavior.
 - [ericzakariasson/workstation](https://github.com/ericzakariasson/workstation) - OpenClaw at home
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
@@ -3008,6 +3007,7 @@
 - [chhoumann/dotfiles](https://github.com/chhoumann/dotfiles) - Christian's dotfiles.
 - [chhoumann/claude-code-monitoring](https://github.com/chhoumann/claude-code-monitoring) - Local monitoring solution for Claude Code usage metrics with Prometheus and Grafana
 - [element-hq/tailscale-k8s](https://github.com/element-hq/tailscale-k8s) - 
+- [immich-app/base-images](https://github.com/immich-app/base-images) - Base images for Immich containers
 - [mdegat01/addon-loki](https://github.com/mdegat01/addon-loki) - Loki for Home Assistant
 - [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail) - Promtail for Home Assistant
 - [LionyxML/migrate-github-to-codeberg](https://github.com/LionyxML/migrate-github-to-codeberg) - Effortlessly migrate GitHub repositories to Codeberg! Seamlessly transfer project. Powered by Bash, curl, and jq.

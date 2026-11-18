@@ -414,7 +414,7 @@
 - [tigrisdata/objgit](https://github.com/tigrisdata/objgit) - Git backed by object storage
 - [tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs) - High performance FUSE filesystem for AI workloads with S3 compatible backends
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [Security-Onion-Solutions/securityonion-soc](https://github.com/Security-Onion-Solutions/securityonion-soc) - 
 - [superultrainc/sup](https://github.com/superultrainc/sup) - 
@@ -519,8 +519,8 @@
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
 - [ipfs/go-ipfs-delay](https://github.com/ipfs/go-ipfs-delay) - A module to add (threadsafe) configurable delays to other objects
 - [ipfs/go-datastore](https://github.com/ipfs/go-datastore) - key-value datastore interfaces
-- [ipfs/someguy](https://github.com/ipfs/someguy) - Delegated Routing V1 server that proxies provider, peer, and IPNS lookups to the Amino DHT and other routers
-- [ipfs/rainbow](https://github.com/ipfs/rainbow) - IPFS HTTP Gateway daemon in Go, tuned for public production traffic: retrieval only, no pinning, no providing
+- [ipfs/someguy](https://github.com/ipfs/someguy) - [ BEWARE: NO MAINTAINER ] Delegated Routing V1 server that proxies provider, peer, and IPNS lookups to the Amino DHT and other routers
+- [ipfs/rainbow](https://github.com/ipfs/rainbow) - [ BEWARE: NO MAINTAINER ] IPFS HTTP Gateway daemon in Go, tuned for public production traffic: retrieval only, no pinning, no providing
 - [ipfs/go-ds-crdt](https://github.com/ipfs/go-ds-crdt) - A distributed go-datastore implementation using Merkle-CRDTs.
 - [ipfs/ipfs-docs](https://github.com/ipfs/ipfs-docs) - 📚IPFS documentation website
 - [ooni/probe-cli](https://github.com/ooni/probe-cli) - OONI Probe Engine and CLI
@@ -580,7 +580,7 @@
 - [corticph/gophish-postgres](https://github.com/corticph/gophish-postgres) - GoPhish - Open-Source Phishing Toolkit with Postgres support
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [corticph/kserve](https://github.com/corticph/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+- [asciimoo/nogon](https://github.com/asciimoo/nogon) - Your own search engine
 - [omacom/aether](https://github.com/omacom/aether) - Aether, native Omarchy theming made easy.
 - [google/taxinomia](https://github.com/google/taxinomia) - 
 - [google/agentmesh](https://github.com/google/agentmesh) - Agent Mesh
@@ -2268,7 +2268,7 @@
 - [tweag/pytest-e2e-automation](https://github.com/tweag/pytest-e2e-automation) - 
 - [NixOS/nix-security-tracker](https://github.com/NixOS/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Semantic Layer for Trustworthy Enterprise AI
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [barrust/pyspellchecker](https://github.com/barrust/pyspellchecker) - Pure Python Spell Checking http://pyspellchecker.readthedocs.io/en/latest/

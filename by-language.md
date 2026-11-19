@@ -2468,6 +2468,7 @@
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [proxmox/proxmox-backup](https://github.com/proxmox/proxmox-backup) - Proxmox Backup Server and Client - read only mirror
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
+- [gosuda/oxvim](https://github.com/gosuda/oxvim) - Neovim Rewritten in Rust — a Rust implementation of the Neovim core that preserves the Lua plugin ecosystem
 - [gosuda/zeroproxy](https://github.com/gosuda/zeroproxy) - Web-Based, Zero-Knowledge, Zero-Installation Proxy
 - [danderson/seccomp-sys](https://github.com/danderson/seccomp-sys) - low-level bindings to libseccomp
 - [kpcyrd/syscallz-rs](https://github.com/kpcyrd/syscallz-rs) - Simple seccomp library for rust
@@ -3195,7 +3196,7 @@
 - [TinyAGI/tinyagi](https://github.com/TinyAGI/tinyagi) - TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
+- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to 
 - [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) - Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -3390,7 +3391,6 @@
 
 ## Vim Script 
 
-- [gosuda/oxvim](https://github.com/gosuda/oxvim) - Neovim Rewritten in Rust — a Rust implementation of the Neovim core that preserves the Lua plugin ecosystem
 - [kaarmu/typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM

@@ -365,6 +365,7 @@
 - [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 - [tekartik/sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin
 - [team-telnyx/flutter-voice-sdk](https://github.com/team-telnyx/flutter-voice-sdk) - Telnyx Flutter WebRTC SDK - Enable real-time communication with WebRTC and Telnyx
+- [radarlabs/flutter-radar](https://github.com/radarlabs/flutter-radar) - Flutter package for Radar, the leading geofencing and location tracking platform
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [luis901101/tusc](https://github.com/luis901101/tusc) - A tus client for dart to allow resumable uploads using the tus protocol (https://tus.io/).
@@ -414,7 +415,7 @@
 - [tigrisdata/objgit](https://github.com/tigrisdata/objgit) - Git backed by object storage
 - [tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs) - High performance FUSE filesystem for AI workloads with S3 compatible backends
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [Security-Onion-Solutions/securityonion-soc](https://github.com/Security-Onion-Solutions/securityonion-soc) - 
 - [superultrainc/sup](https://github.com/superultrainc/sup) - 
@@ -802,7 +803,7 @@
 - [buildkite/buildkite-logs](https://github.com/buildkite/buildkite-logs) - A Go library and CLI tool for parsing Buildkite log files that contain OSC (Operating System Command) sequences with timestamps.
 - [buildkite/buildkite-agent-metrics](https://github.com/buildkite/buildkite-agent-metrics) - A command-line tool (and Lambda) for collecting Buildkite agent metrics
 - [buildkite/go-buildkite](https://github.com/buildkite/go-buildkite) - A Go library for the Buildkite API
-- [buildkite/test-engine-client](https://github.com/buildkite/test-engine-client) - Buildkite Test Engine Client (bktec) is an open source tool to orchestrate your test suites. It uses your Buildkite Test Engine suite data to intelligently partition and parallelise your tests.
+- [buildkite/test-engine-client](https://github.com/buildkite/test-engine-client) - CLI development has moved to buildkite/bktest. This repo maintains compatibility for legacy bktec releases and the existing Go module path.
 - [bradfitz/go-sql-test](https://github.com/bradfitz/go-sql-test) - test ALL the databases
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [buildkite/cli](https://github.com/buildkite/cli) - A command line interface for Buildkite.
@@ -972,7 +973,7 @@
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [DeterminateSystems/bonk](https://github.com/DeterminateSystems/bonk) - Erase macOS machines over Tailscale.
 - [kommodity-io/oidc-discovery-proxy](https://github.com/kommodity-io/oidc-discovery-proxy) - Expose the OpenID Connect discovery endpoint of a Kubernetes cluster to allow for identity federation.
-- [ipfs/kubo](https://github.com/ipfs/kubo) - [ BEWARE: NO MAINTAINER ] IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -988,7 +989,6 @@
 - [grafana/github-datasource](https://github.com/grafana/github-datasource) - The GitHub data source lets you visualize GitHub data in Grafana dashboards
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero-trust, programmable network @OpenZiti
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
-- [Financial-Times/kubectl-login](https://github.com/Financial-Times/kubectl-login) - Logs you into multiple clusters which use dex
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [NikolaLohinski/gonja](https://github.com/NikolaLohinski/gonja) - ⛩️ Pure Golang engine for Jinja templates
@@ -1026,6 +1026,7 @@
 - [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [kelseyhightower/twelve](https://github.com/kelseyhightower/twelve) - 
@@ -1045,7 +1046,7 @@
 - [One-com/ozone](https://github.com/One-com/ozone) - Golang HTTP server/proxy daemon engine
 - [One-com/dkimcrypt](https://github.com/One-com/dkimcrypt) - dkimcrypt provides convenient functions for en- or decrypting, as well as signing and verifying data using a combination of local private key files and public keys present in DKIM DNS TXT records
 - [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) - Harbor is a CNCF graduated open-source container registry to manage container images and other OCI artifacts securely with policies, role-based access control, vulnerability scans and signing.
 - [ardanlabs/conf](https://github.com/ardanlabs/conf) - Package conf provides support for using environmental variables and command line arguments for configuration.
 - [ardanlabs/service](https://github.com/ardanlabs/service) - Starter-kit for writing services in Go using Kubernetes.
 - [ardanlabs/kit](https://github.com/ardanlabs/kit) - Set of common packages used by all or most projects at ArdanLabs
@@ -1279,7 +1280,6 @@
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
 - [moxie0/dropwizard](https://github.com/moxie0/dropwizard) - A damn simple library for building production-ready RESTful web services.
-- [radarlabs/flutter-radar](https://github.com/radarlabs/flutter-radar) - Flutter package for Radar, the leading geofencing and location tracking platform
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [ConfigHubPub/Database-Manager](https://github.com/ConfigHubPub/Database-Manager) - Manage ConfigHub database migration to the latest version
 - [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
@@ -1303,7 +1303,6 @@
 - [ThePrimeagen/vim-fundamentals](https://github.com/ThePrimeagen/vim-fundamentals) - 
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [jkoestinger/omarchy-vpn](https://github.com/jkoestinger/omarchy-vpn) - VPN status and switching in the Omarchy bar, across whichever VPN tools are installed.
-- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles built around a Ruby Rakefile. Hammerspoon, Fish...
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [earendil-works/website](https://github.com/earendil-works/website) - 
@@ -1479,6 +1478,7 @@
 - [nvim-mini/mini.files](https://github.com/nvim-mini/mini.files) - Navigate and manipulate file system. Part of 'mini.nvim' library.
 - [nvim-mini/mini.diff](https://github.com/nvim-mini/mini.diff) - Work with diff hunks. Part of 'mini.nvim' library.
 - [omacom/lumon.nvim](https://github.com/omacom/lumon.nvim) - Lumon Industries Neovim Theme
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles built around a Ruby Rakefile. Hammerspoon, Fish...
 - [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
 - [catwell/cw-lua](https://github.com/catwell/cw-lua) - Catwell's Lua playground
@@ -1918,7 +1918,6 @@
 - [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem.
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [olvid-io/Olvid-Bot-Protobuf](https://github.com/olvid-io/Olvid-Bot-Protobuf) - 
-- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [bungle/awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
@@ -3003,7 +3002,7 @@
 - [dovecot/k8s-sysreport](https://github.com/dovecot/k8s-sysreport) - Tool for producing sysreports from Kubernetes environments
 - [tweag/agentic-coding-handbook](https://github.com/tweag/agentic-coding-handbook) - 
 - [tweag/run-nix-shell](https://github.com/tweag/run-nix-shell) - GitHub action for executing scripts via nix-shell.
-- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 - [chhoumann/claude-hooks](https://github.com/chhoumann/claude-hooks) - 
 - [chhoumann/dotfiles](https://github.com/chhoumann/dotfiles) - Christian's dotfiles.
 - [chhoumann/claude-code-monitoring](https://github.com/chhoumann/claude-code-monitoring) - Local monitoring solution for Claude Code usage metrics with Prometheus and Grafana
@@ -3227,7 +3226,7 @@
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [superdb/zui](https://github.com/superdb/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 - [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
-- [electric-sql/electric-pglite](https://github.com/electric-sql/electric-pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.

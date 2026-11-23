@@ -3041,7 +3041,6 @@
 ## Svelte 
 
 - [siduck/quickcv](https://github.com/siduck/quickcv) - Fast cv / resume builder to create beautiful resumes ( PDF ), uses browser's native window.print() to generate PDF at high quality
-- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [immich-app/ui](https://github.com/immich-app/ui) - Svelte components for Immich
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
@@ -3283,6 +3282,7 @@
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [radarlabs/airport-map-demo](https://github.com/radarlabs/airport-map-demo) - Demo for drawing arcs with Radar maps
 - [radarlabs/react-native-radar](https://github.com/radarlabs/react-native-radar) - React Native module for Radar, the leading geofencing and location tracking platform
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [stripe/stripe-node](https://github.com/stripe/stripe-node) - Node.js library for the Stripe API.
 - [pavlealeksic/puppeteer-afp](https://github.com/pavlealeksic/puppeteer-afp) - Solution to stop sites from fingerprinting your puppeteer

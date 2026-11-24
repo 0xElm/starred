@@ -881,7 +881,7 @@
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [fr-ser/grafana-sqlite-datasource](https://github.com/fr-ser/grafana-sqlite-datasource) - Grafana Plugin to enable SQLite as a Datasource
 - [neondatabase/autoscaling](https://github.com/neondatabase/autoscaling) - Postgres vertical autoscaling in k8s
-- [hashicorp/raft-wal](https://github.com/hashicorp/raft-wal) - experimental raft storage
+- [hashicorp/raft-wal](https://github.com/hashicorp/raft-wal) - a smarter way to do raft storage
 - [go-gorm/sqlite](https://github.com/go-gorm/sqlite) - GORM sqlite driver
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 - [block/etre](https://github.com/block/etre) - Entity API for managing primitive entities with labels
@@ -1104,7 +1104,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [kelseyhightower/app](https://github.com/kelseyhightower/app) - Example 12 Facter App
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure.
 - [cloudflare/certmgr](https://github.com/cloudflare/certmgr) - Automated certificate management using a CFSSL CA.
 - [DBCDK/shelob](https://github.com/DBCDK/shelob) - Kubernetes HTTP ingress controller
 - [DaltonSW/campfire](https://github.com/DaltonSW/campfire) - Cozy up with your logs
@@ -1675,7 +1675,7 @@
 - [typst/typst-flake](https://github.com/typst/typst-flake) - Nix flake for Typst
 - [applicative-systems/secure-supply-chain](https://github.com/applicative-systems/secure-supply-chain) - Secure Software Supply Chain Demonstration with Nix
 - [fzakaria/guixpkgs](https://github.com/fzakaria/guixpkgs) - Guix Packages collection built via Nix
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
+- [supabase/postgres](https://github.com/supabase/postgres) - PostgreSQL with extensions and Supabase stuff
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [layus/dotfiles](https://github.com/layus/dotfiles) - 
 - [kleisli-io/nix-effects](https://github.com/kleisli-io/nix-effects) - Pure Nix effects, typed validation, verified boundaries, and description-backed DSLs

@@ -2191,8 +2191,6 @@
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track
-- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [neo4j/graph-data-science](https://github.com/neo4j/graph-data-science) - Source code for the Neo4j Graph Data Science library of graph algorithms.
 - [s1ck/nom-gdl](https://github.com/s1ck/nom-gdl) - Graph Definition Language in Rust
@@ -3661,7 +3659,7 @@
 - [bradfitz/sixmap](https://github.com/bradfitz/sixmap) - tool to visualize the SIX (Seattle Internet Exchange) route server coverage
 - [bradfitz/gitbrute](https://github.com/bradfitz/gitbrute) - brute-force a git commit hash
 - [bradfitz/dhcp](https://github.com/bradfitz/dhcp) - DHCPv6 and DHCPv4 packet library, client and server written in Go
-- [ipld/go-car](https://github.com/ipld/go-car) - A content addressible archive utility
+- [ipld/go-car](https://github.com/ipld/go-car) - A content addressable archive utility
 - [bradfitz/aoc](https://github.com/bradfitz/aoc) - advent of code helpers to reuse between tasks
 - [bradfitz/websentry-mitm-prometheus-exporter](https://github.com/bradfitz/websentry-mitm-prometheus-exporter) - 
 - [bradfitz/netlink](https://github.com/bradfitz/netlink) - Package netlink provides low-level access to Linux netlink sockets (AF_NETLINK). MIT Licensed.
@@ -4897,7 +4895,7 @@
 - [envoyproxy/nighthawk](https://github.com/envoyproxy/nighthawk) - L7 (HTTP/HTTPS/HTTP2/HTTP3) performance characterization tool
 - [envoyproxy/envoy-perf](https://github.com/envoyproxy/envoy-perf) - Envoy performance testing
 - [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
-- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A safety oriented and memory safe implementation of sudo and su
 - [geohot/configuration](https://github.com/geohot/configuration) - Like some files bro
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files

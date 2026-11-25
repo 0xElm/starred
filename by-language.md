@@ -470,7 +470,7 @@
 - [insomniacslk/dhcp](https://github.com/insomniacslk/dhcp) - DHCPv6 and DHCPv4 packet library, client and server written in Go
 - [bradfitz/dhcp](https://github.com/bradfitz/dhcp) - DHCPv6 and DHCPv4 packet library, client and server written in Go
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
-- [ipld/go-car](https://github.com/ipld/go-car) - A content addressible archive utility
+- [ipld/go-car](https://github.com/ipld/go-car) - A content addressable archive utility
 - [bradfitz/aoc](https://github.com/bradfitz/aoc) - advent of code helpers to reuse between tasks
 - [bradfitz/websentry-mitm-prometheus-exporter](https://github.com/bradfitz/websentry-mitm-prometheus-exporter) - 
 - [bradfitz/netlink](https://github.com/bradfitz/netlink) - Package netlink provides low-level access to Linux netlink sockets (AF_NETLINK). MIT Licensed.
@@ -1087,6 +1087,7 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -3338,7 +3339,6 @@
 - [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - Wire for Web
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify) - 🔏 Keycloak theming for the modern web
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀

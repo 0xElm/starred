@@ -3881,7 +3881,7 @@
 - [omacom/omarchy-pkgs](https://github.com/omacom/omarchy-pkgs) - 
 - [jkoestinger/omarchy-vpn](https://github.com/jkoestinger/omarchy-vpn) - VPN status and switching in the Omarchy bar, across whichever VPN tools are installed.
 - [akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar) - Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans/credits - inspired by claudebar/codexbar
-- [omacom/omarchy-iso](https://github.com/omacom/omarchy-iso) - 
+- [omacom/omarchy-iso](https://github.com/omacom/omarchy-iso) - Omarchy installer
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX

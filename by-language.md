@@ -1087,6 +1087,7 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1396,7 +1397,6 @@
 
 ## Jinja 
 
-- [OpenNebula/one-deploy-validation](https://github.com/OpenNebula/one-deploy-validation) - 
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [jsuereth/o11y-by-design](https://github.com/jsuereth/o11y-by-design) - Example code for KubeCon Observability by Design talk.
@@ -1457,6 +1457,7 @@
 
 ## Lean 
 
+- [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - [leanprover/SampCert](https://github.com/leanprover/SampCert) - SampCert : Verified Differential Privacy
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 
@@ -2041,6 +2042,7 @@
 - [SELinuxProject/selinux-notebook](https://github.com/SELinuxProject/selinux-notebook) - The SELinux Notebook
 - [storytold/cloud-worker](https://github.com/storytold/cloud-worker) - 
 - [OpenNebula/one-training-files](https://github.com/OpenNebula/one-training-files) - 
+- [OpenNebula/one-deploy-validation](https://github.com/OpenNebula/one-deploy-validation) - 
 - [OpenNebula/one-deploy](https://github.com/OpenNebula/one-deploy) - 
 - [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
 - [NousResearch/hermes-homeassistant](https://github.com/NousResearch/hermes-homeassistant) - Moved to NousResearch/hermes-official-plugins/homeassistant, the home of Nous Research's official Hermes Agent plugins.
@@ -2508,7 +2510,6 @@
 - [FrameworkComputer/framework-tool-tui](https://github.com/FrameworkComputer/framework-tool-tui) - TUI for controlling and monitoring Framework Computers hardware built in Rust
 - [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [ThePrimeagen/skills](https://github.com/ThePrimeagen/skills) - 
-- [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -2947,7 +2948,7 @@
 - [paulbkim-dev/vim-herdr-navigation](https://github.com/paulbkim-dev/vim-herdr-navigation) - Seamless Ctrl+h/j/k/l navigation across herdr panes and Vim/Neovim splits — vim-tmux-navigator ported to herdr
 - [omacom/omarchy-pkgs](https://github.com/omacom/omarchy-pkgs) - 
 - [mryll/claudebar](https://github.com/mryll/claudebar) - Claude Code usage limits for Waybar and the Omarchy shell. Session, weekly, per-model, and extra-usage costs. Bash, AUR.
-- [omacom/omarchy-iso](https://github.com/omacom/omarchy-iso) - 
+- [omacom/omarchy-iso](https://github.com/omacom/omarchy-iso) - Omarchy installer
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
 - [cristinaponcela/cristinaponcela.github.io](https://github.com/cristinaponcela/cristinaponcela.github.io) - My Personal Website
@@ -3338,7 +3339,6 @@
 - [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - Wire for Web
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify) - 🔏 Keycloak theming for the modern web
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
